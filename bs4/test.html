@@ -1,0 +1,572 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<style>
+#head{
+	background-color:#0BB5D9;
+	height:50px;
+	padding:0;
+	width:100%;
+	box-shadow:-2px 10px 10px #888888;
+	color:#FFFFFF;
+	margin:0 auto;
+}
+.black_overlay{
+	display: none;
+	position: absolute;
+	top: 0%;
+	left: 0%;
+	width: 100%;
+	height: 300%;
+	background-color: black;
+	z-index:1001;
+	-moz-opacity: 0.8;
+	opacity:.80;
+	filter: alpha(opacity=80);
+}
+.white_content {
+	display: none;
+	position:fixed;
+	top: 10%;
+	left: 7%;
+	width: 85%;
+	height: 85%;
+	border: 16px solid lightblue;
+	background-color: white;
+	z-index:1001;
+	overflow: auto;
+}
+.white_content_small {
+	display: none;
+	position: absolute;
+	top: 20%;
+	left: 30%;
+	width: 40%;
+	height: 50%;
+	border: 16px solid lightblue;
+	background-color: white;
+	z-index:1002;
+	overflow: auto;
+}
+.my_white_content {
+	display: none;
+	position:fixed;
+	top: 28%;
+	left: 39%;
+	width: 20%;
+	height: 20%;
+	border: 16px solid lightblue;
+	background-color: white;
+	z-index:1002;
+	overflow: auto;
+}
+.my_white_content_small {
+	display: none;
+	position: absolute;
+	top: 20%;
+	left: 30%;
+	width: 40%;
+	height: 50%;
+	border: 16px solid lightblue;
+	background-color: white;
+	z-index:1002;
+	overflow: auto;
+}
+</style>
+<script src="/thinkphp/Public/jquery/jquery-1.11.1.min.js"></script>
+<script src="/thinkphp/Public/js/putout1.js"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body>
+<div id='head'>
+	<div style="padding-left:10%">
+		Dev Nums:<b>36</b>
+		<td><input type="radio"  name='chose'              onClick="allSelect()">全选</td>
+		<td><input type="radio"  name='chose'              onClick="reverseSelect()">反选</td>
+		<td><input type="radio"  name ="showRunTime"       onClick="modelController('showTime')">显示运行时间</td>
+		<td><input type="radio"  name ="openTelnetPort"    onClick="modelController('telnet')">开启telnet端口</td>
+		<td><input type="radio"  name ="reboot"        	   onClick="modelController('reboot')">重启设备</td>
+		<td><input type="radio"  name ="setDefault"    	   onClick="modelController('setDefault')">恢复出厂</td>
+		<td><input type="radio"  name='修改IP'              onClick="ShowMyDiv('fade','MyMyDiv')">修改IP</td>
+		<!--<td><input type="radio"  name ="setoutisp" onClick="modelController('openoutisp')">开启调试模式</td>-->
+		<!--<td><input type="radio"  name ="setoutisp" onClick="modelController('closeoutisp')">关闭调试模式</td>-->
+		<!--<td><input type="radio"  name ="lowheight" onClick="modelController('openlowheight')">开启低照</td>-->
+		<!--<td><input type="radio"  name ="lowheight" onClick="modelController('closelowheight')">关闭低照</td>-->
+		<td><input type="radio"  name ="lowheight"         onClick="modelController('lock_in_time')">同步服务器时间</td>
+		<td><input type="radio"  name ="enable_passwd"     onClick="modelController('enable_passwd')">开启密码验证</td>
+		<td><input type="radio"  name ="un_enable_passwd"  onClick="modelController('un_enable_passwd')">关闭密码验证</td>
+		<td><input type="radio"  name ="Refresh_Status"    onClick="modelController('refresh_status')">刷新设备状态</td>
+	</div>
+	<div style="padding-left:85%;">
+		<span id="server_time" style="font-size:12px; color:#FFFF00"></span>
+	</div>
+</div>
+
+<div align="center" style="padding-top:20px; width:1676px; margin:0 auto">
+	<table border="1px" cellspacing="0px" style="border-collapse:collapse">
+		<tr>
+			<th colspan="3">红外设置(普通)</th>
+			<th colspan="3">红外设置(智能)</th>
+			<!--<th>修改IP</th>-->
+			<th colspan="2" width='275px'>升级</th>
+			<th colspan="2">DHCP</th>
+			<th colspan="2">IP自适应</th>
+			<th colspan="4">邮箱设置</th>
+			<!--<th colspan="3">编码设置</th>-->
+			<th colspan="2">音频设置</th>
+			<th colspan="2">低照设置</th>
+			<th colspan="2">压缩格式</th>
+			<th colspan="2">调试模式</th>
+		</tr>
+		<tr>
+			<!--红外模式设置按钮-->
+			<td><input type="submit" value='强黑' onClick="modelController('b&w')"></td>
+			<td><input type="submit" value='强彩' onClick="modelController('color')"></td>
+			<td><input type="submit" value='光敏' onClick="modelController('auto')"></td>
+			<!--红外模式设置按钮-->
+			<td><input type="submit" value='强黑' onClick="modelController('b&w_for_smart')"></td>
+			<td><input type="submit" value='强彩' onClick="modelController('color_for_smart')"></td>
+			<td><input type="submit" value='自动' onClick="modelController('auto_for_smart')"></td>
+			
+			<!--修改IP按钮-->
+			<!--<td><input type="submit" value='修改IP' onClick="ShowMyDiv('fade','MyMyDiv')"></td>-->
+			<!--升级-->
+			<td><input type="file" name="filepath" id="filepath" /></td>
+			<td><button onClick="fileCheck()">升级</button></td>
+			<!--DHCP按钮-->
+			<td><input type="radio"  name ="dhcp"     value="open"   onclick="modelController('dhcp')">开启</td>
+			<td><input type="radio"  name ="dhcp"     value="close"  onClick="modelController('dhcp')">关闭</td>
+			<!--IP自适应按钮-->
+			<td><input type="radio"  name ="ipadaen"  value="open"   onclick="modelController('ipadaen')">开启</td>
+			<td><input type="radio"  name ="ipadaen"  value="close"  onclick="modelController('ipadaen')">关闭</td>
+			<!--邮箱设置按钮-->
+			<td><input type="radio"  name ="setEmail"   onclick="modelController('neteasy')">网易</td>
+			<td><input type="radio"  name ="setEmail"   onclick="modelController('gmail')">GMAIL</td>
+			<td><input type="radio"  name ="setEmail"   onclick="modelController('qq')">QQ</td>
+			<td><input type="radio"  name ="setEmail"   onclick="modelController('clean')">清除</td>
+			<!--码率设置-->
+			<!--<td><input type="radio"   name="BPSControl" onClick="modelController('BPSControl_default')">默认码率(1080P+VGA)</td>
+			<td><input type="radio"   name="BPSControl" onClick="modelController('BPSControl_no_smart')">非smart(3072KB以上)</td>
+			<td><input type="radio"   name="BPSControl" onClick="modelController('BPSControl_smart')">smart(3072KB)</td>-->
+			<!--音频设置-->
+			<td><input type="radio"  name ="audio"  value="open"  onclick="modelController('audio')">开启</td>
+			<td><input type="radio"  name ="audio"  value="close" onClick="modelController('audio')">关闭</td>
+			<!--低照设置-->
+			<td><input type="radio"  name ="lowheight" onClick="modelController('openlowheight')">开启</td>
+			<td><input type="radio"  name ="lowheight" onClick="modelController('closelowheight')">关闭</td>
+			<!--压缩格式-->
+			<td><input type="radio"  name ="Compress" onClick="modelController('set264')">H.264</td>
+			<td><input type="radio"  name ="Compress" onClick="modelController('set265')">H.265</td>
+			<!--调试模式-->
+			<td><input type="radio"  name ="setoutisp" onClick="modelController('openoutisp')">开启</td>
+			<td><input type="radio"  name ="setoutisp" onClick="modelController('closeoutisp')">关闭</td>
+		</tr>
+	</table>
+</div>
+
+
+
+<div id="body" align="center" style="padding-top:10px;  margin:0 auto; width:1636px">
+	<table border="1" bordercolor="#a0c6e5" style="border-collapse:collapse;">
+		<tr>
+			<th></th>
+			<th></th>
+			<th>IP</th>
+			<th>name</th>
+			<th>platform</th>
+			<th>Mac</th>
+			<th>ID</th>
+			<th>WIFI-IP</th>
+			<th>Dev Status</th>	
+		</tr>
+		<tr>
+			<td align="center" width="22"><input type='checkbox' value='192.168.0.66:80' name='IP[]'></td>
+			<td align="center" width="34" id='192.168.0.66:80.priview'><a href="javascript:startPriview('MyDiv','fade','192.168.0.66','554')"><img src='/thinkphp/Public/Image/public/playing111.png' height='25' width='25'></a></td>
+			<td class='runtime' width="170" onClick="openWeb(this.innerHTML)" id='192.168.0.66:80.addr'>192.168.0.66:80</td>
+			<td width="200">MSC316DM-V02</td>
+			<td width="350" id='192.168.0.66:80.platform'>V2.43.1501-20180818-HDXGP2P-GEN</td>
+			<td align="center" width="150">00:88:01:3a:86:42</td>
+			<td align="center" width="150" id='192.168.0.66:80.id'>30103835458</td>
+			<td align="center" width="120"></td>
+			<td align="center" id='192.168.0.66:80' width="410"></td>
+		</tr><tr>
+			<td align="center" width="22"><input type='checkbox' value='192.168.1.161:80' name='IP[]'></td>
+			<td align="center" width="34" id='192.168.1.161:80.priview'><a href="javascript:startPriview('MyDiv','fade','192.168.1.161','554')"><img src='/thinkphp/Public/Image/public/playing111.png' height='25' width='25'></a></td>
+			<td class='runtime' width="170" onClick="openWeb(this.innerHTML)" id='192.168.1.161:80.addr'>192.168.1.161:80</td>
+			<td width="200">ANYKA-V01</td>
+			<td width="350" id='192.168.1.161:80.platform'>W1.0.1121-20180920-NORMAL-GEN</td>
+			<td align="center" width="150">00:66:70:07:C5:05</td>
+			<td align="center" width="150" id='192.168.1.161:80.id'>21001509189</td>
+			<td align="center" width="120"></td>
+			<td align="center" id='192.168.1.161:80' width="410"></td>
+		</tr><tr>
+			<td align="center" width="22"><input type='checkbox' value='192.168.1.222:80' name='IP[]'></td>
+			<td align="center" width="34" id='192.168.1.222:80.priview'><a href="javascript:startPriview('MyDiv','fade','192.168.1.222','554')"><img src='/thinkphp/Public/Image/public/playing111.png' height='25' width='25'></a></td>
+			<td class='runtime' width="170" onClick="openWeb(this.innerHTML)" id='192.168.1.222:80.addr'>192.168.1.222:80</td>
+			<td width="200">MSC313E-V02</td>
+			<td width="350" id='192.168.1.222:80.platform'>T2.29.1911-20180918-HDXP2P-GEN</td>
+			<td align="center" width="150">00:69:3c:2a:02:44</td>
+			<td align="center" width="150" id='192.168.1.222:80.id'>36042919940</td>
+			<td align="center" width="120"></td>
+			<td align="center" id='192.168.1.222:80' width="410"></td>
+		</tr><tr>
+			<td align="center" width="22"><input type='checkbox' value='192.168.1.43:80' name='IP[]'></td>
+			<td align="center" width="34" id='192.168.1.43:80.priview'><a href="javascript:startPriview('MyDiv','fade','192.168.1.43','554')"><img src='/thinkphp/Public/Image/public/playing111.png' height='25' width='25'></a></td>
+			<td class='runtime' width="170" onClick="openWeb(this.innerHTML)" id='192.168.1.43:80.addr'>192.168.1.43:80</td>
+			<td width="200">MSC316DM-V02</td>
+			<td width="350" id='192.168.1.43:80.platform'>V2.43.1927-20180524-HDXGP2P-GEN</td>
+			<td align="center" width="150">00:66:70:13:4c:0e</td>
+			<td align="center" width="150" id='192.168.1.43:80.id'>21002264654</td>
+			<td align="center" width="120"></td>
+			<td align="center" id='192.168.1.43:80' width="410"></td>
+		</tr><tr>
+			<td align="center" width="22"><input type='checkbox' value='192.168.1.6:80' name='IP[]'></td>
+			<td align="center" width="34" id='192.168.1.6:80.priview'><a href="javascript:startPriview('MyDiv','fade','192.168.1.6','554')"><img src='/thinkphp/Public/Image/public/playing111.png' height='25' width='25'></a></td>
+			<td class='runtime' width="170" onClick="openWeb(this.innerHTML)" id='192.168.1.6:80.addr'>192.168.1.6:80</td>
+			<td width="200">MSC313E-V02</td>
+			<td width="350" id='192.168.1.6:80.platform'>V2.22.1048-20180123-HDXP2P-GEN</td>
+			<td align="center" width="150">00:88:01:15:39:7e</td>
+			<td align="center" width="150" id='192.168.1.6:80.id'>30101390974</td>
+			<td align="center" width="120"></td>
+			<td align="center" id='192.168.1.6:80' width="410"></td>
+		</tr><tr>
+			<td align="center" width="22"><input type='checkbox' value='192.168.10.138:80' name='IP[]'></td>
+			<td align="center" width="34" id='192.168.10.138:80.priview'><a href="javascript:startPriview('MyDiv','fade','192.168.10.138','554')"><img src='/thinkphp/Public/Image/public/playing111.png' height='25' width='25'></a></td>
+			<td class='runtime' width="170" onClick="openWeb(this.innerHTML)" id='192.168.10.138:80.addr'>192.168.10.138:80</td>
+			<td width="200">MSC316DM-V02</td>
+			<td width="350" id='192.168.10.138:80.platform'>V2.43.1501-20180818-HDXGP2P-GEN</td>
+			<td align="center" width="150">00:66:70:13:4c:00</td>
+			<td align="center" width="150" id='192.168.10.138:80.id'>21002264640</td>
+			<td align="center" width="120"></td>
+			<td align="center" id='192.168.10.138:80' width="410"></td>
+		</tr><tr>
+			<td align="center" width="22"><input type='checkbox' value='192.168.110.132:80' name='IP[]'></td>
+			<td align="center" width="34" id='192.168.110.132:80.priview'><a href="javascript:startPriview('MyDiv','fade','192.168.110.132','554')"><img src='/thinkphp/Public/Image/public/playing111.png' height='25' width='25'></a></td>
+			<td class='runtime' width="170" onClick="openWeb(this.innerHTML)" id='192.168.110.132:80.addr'>192.168.110.132:80</td>
+			<td width="200">NXP-20b</td>
+			<td width="350" id='192.168.110.132:80.platform'>V3.0.0000-20161026-HB</td>
+			<td align="center" width="150">00:66:6E:86:3A:B4</td>
+			<td align="center" width="150" id='192.168.110.132:80.id'>20000153533</td>
+			<td align="center" width="120"></td>
+			<td align="center" id='192.168.110.132:80' width="410"></td>
+		</tr><tr>
+			<td align="center" width="22"><input type='checkbox' value='192.168.110.134:80' name='IP[]'></td>
+			<td align="center" width="34" id='192.168.110.134:80.priview'><a href="javascript:startPriview('MyDiv','fade','192.168.110.134','554')"><img src='/thinkphp/Public/Image/public/playing111.png' height='25' width='25'></a></td>
+			<td class='runtime' width="170" onClick="openWeb(this.innerHTML)" id='192.168.110.134:80.addr'>192.168.110.134:80</td>
+			<td width="200">265-313-k</td>
+			<td width="350" id='192.168.110.134:80.platform'>V2.22.1145-20180817-HDXGP2P-GEN</td>
+			<td align="center" width="150">00:66:70:0c:63:b5</td>
+			<td align="center" width="150" id='192.168.110.134:80.id'>21001811957</td>
+			<td align="center" width="120"></td>
+			<td align="center" id='192.168.110.134:80' width="410"></td>
+		</tr><tr>
+			<td align="center" width="22"><input type='checkbox' value='192.168.110.135:80' name='IP[]'></td>
+			<td align="center" width="34" id='192.168.110.135:80.priview'><a href="javascript:startPriview('MyDiv','fade','192.168.110.135','554')"><img src='/thinkphp/Public/Image/public/playing111.png' height='25' width='25'></a></td>
+			<td class='runtime' width="170" onClick="openWeb(this.innerHTML)" id='192.168.110.135:80.addr'>192.168.110.135:80</td>
+			<td width="200">INGENIC-V01</td>
+			<td width="350" id='192.168.110.135:80.platform'>V1.2.1153-20180808-HDXP2P-GEN</td>
+			<td align="center" width="150">00:66:70:08:ee:60</td>
+			<td align="center" width="150" id='192.168.110.135:80.id'>21001585312</td>
+			<td align="center" width="120"></td>
+			<td align="center" id='192.168.110.135:80' width="410"></td>
+		</tr><tr>
+			<td align="center" width="22"><input type='checkbox' value='192.168.120.11:80' name='IP[]'></td>
+			<td align="center" width="34" id='192.168.120.11:80.priview'><a href="javascript:startPriview('MyDiv','fade','192.168.120.11','554')"><img src='/thinkphp/Public/Image/public/playing111.png' height='25' width='25'></a></td>
+			<td class='runtime' width="170" onClick="openWeb(this.innerHTML)" id='192.168.120.11:80.addr'>192.168.120.11:80</td>
+			<td width="200">MSC313E-黑光设备-307</td>
+			<td width="350" id='192.168.120.11:80.platform'>VB2.28.1118-20180907-HDXGP2P-GEN</td>
+			<td align="center" width="150">00:88:01:25:3b:84</td>
+			<td align="center" width="150" id='192.168.120.11:80.id'>30102440068</td>
+			<td align="center" width="120"></td>
+			<td align="center" id='192.168.120.11:80' width="410"></td>
+		</tr><tr>
+			<td align="center" width="22"><input type='checkbox' value='192.168.120.113:80' name='IP[]'></td>
+			<td align="center" width="34" id='192.168.120.113:80.priview'><a href="javascript:startPriview('MyDiv','fade','192.168.120.113','554')"><img src='/thinkphp/Public/Image/public/playing111.png' height='25' width='25'></a></td>
+			<td class='runtime' width="170" onClick="openWeb(this.innerHTML)" id='192.168.120.113:80.addr'>192.168.120.113:80</td>
+			<td width="200">PartiZancam1</td>
+			<td width="350" id='192.168.120.113:80.platform'>T2.221.2045-20180920-HDXP2P-GENDL</td>
+			<td align="center" width="150">00:88:01:05:c6:7d</td>
+			<td align="center" width="150" id='192.168.120.113:80.id'>30100378493</td>
+			<td align="center" width="120"></td>
+			<td align="center" id='192.168.120.113:80' width="410"></td>
+		</tr><tr>
+			<td align="center" width="22"><input type='checkbox' value='192.168.120.115:80' name='IP[]'></td>
+			<td align="center" width="34" id='192.168.120.115:80.priview'><a href="javascript:startPriview('MyDiv','fade','192.168.120.115','554')"><img src='/thinkphp/Public/Image/public/playing111.png' height='25' width='25'></a></td>
+			<td class='runtime' width="170" onClick="openWeb(this.innerHTML)" id='192.168.120.115:80.addr'>192.168.120.115:80</td>
+			<td width="200">INGENIC-V01</td>
+			<td width="350" id='192.168.120.115:80.platform'>V1.2.0940-20180906-HDXP2P-GEN</td>
+			<td align="center" width="150">00:88:01:3c:9b:c8</td>
+			<td align="center" width="150" id='192.168.120.115:80.id'>30103972040</td>
+			<td align="center" width="120"></td>
+			<td align="center" id='192.168.120.115:80' width="410"></td>
+		</tr><tr>
+			<td align="center" width="22"><input type='checkbox' value='192.168.120.137:80' name='IP[]'></td>
+			<td align="center" width="34" id='192.168.120.137:80.priview'><a href="javascript:startPriview('MyDiv','fade','192.168.120.137','554')"><img src='/thinkphp/Public/Image/public/playing111.png' height='25' width='25'></a></td>
+			<td class='runtime' width="170" onClick="openWeb(this.innerHTML)" id='192.168.120.137:80.addr'>192.168.120.137:80</td>
+			<td width="200">300W-3-IPC</td>
+			<td width="350" id='192.168.120.137:80.platform'>V1.32.1143-20180702-HDXP2P-GEN</td>
+			<td align="center" width="150">00:66:70:10:1b:44</td>
+			<td align="center" width="150" id='192.168.120.137:80.id'>21002055556</td>
+			<td align="center" width="120"></td>
+			<td align="center" id='192.168.120.137:80' width="410"></td>
+		</tr><tr>
+			<td align="center" width="22"><input type='checkbox' value='192.168.120.139:80' name='IP[]'></td>
+			<td align="center" width="34" id='192.168.120.139:80.priview'><a href="javascript:startPriview('MyDiv','fade','192.168.120.139','554')"><img src='/thinkphp/Public/Image/public/playing111.png' height='25' width='25'></a></td>
+			<td class='runtime' width="170" onClick="openWeb(this.innerHTML)" id='192.168.120.139:80.addr'>192.168.120.139:80</td>
+			<td width="200">MSC316DM-V01</td>
+			<td width="350" id='192.168.120.139:80.platform'>V1.52.1143-20180702-HDXP2P-GEN</td>
+			<td align="center" width="150">00:88:01:1b:af:8a</td>
+			<td align="center" width="150" id='192.168.120.139:80.id'>30101814410</td>
+			<td align="center" width="120"></td>
+			<td align="center" id='192.168.120.139:80' width="410"></td>
+		</tr><tr>
+			<td align="center" width="22"><input type='checkbox' value='192.168.120.149:80' name='IP[]'></td>
+			<td align="center" width="34" id='192.168.120.149:80.priview'><a href="javascript:startPriview('MyDiv','fade','192.168.120.149','554')"><img src='/thinkphp/Public/Image/public/playing111.png' height='25' width='25'></a></td>
+			<td class='runtime' width="170" onClick="openWeb(this.innerHTML)" id='192.168.120.149:80.addr'>192.168.120.149:80</td>
+			<td width="200">SF个少打个</td>
+			<td width="350" id='192.168.120.149:80.platform'>T2.25.1550-20180913-HDXP2P-GEN</td>
+			<td align="center" width="150">00:66:70:12:d1:13</td>
+			<td align="center" width="150" id='192.168.120.149:80.id'>21002233171</td>
+			<td align="center" width="120"></td>
+			<td align="center" id='192.168.120.149:80' width="410"></td>
+		</tr><tr>
+			<td align="center" width="22"><input type='checkbox' value='192.168.120.165:80' name='IP[]'></td>
+			<td align="center" width="34" id='192.168.120.165:80.priview'><a href="javascript:startPriview('MyDiv','fade','192.168.120.165','5540')"><img src='/thinkphp/Public/Image/public/playing111.png' height='25' width='25'></a></td>
+			<td class='runtime' width="170" onClick="openWeb(this.innerHTML)" id='192.168.120.165:80.addr'>192.168.120.165:80</td>
+			<td width="200">FG 啊</td>
+			<td width="350" id='192.168.120.165:80.platform'>V2.33.1647-20180910-HDXGP2P-GEN</td>
+			<td align="center" width="150">00:88:01:16:ea:44</td>
+			<td align="center" width="150" id='192.168.120.165:80.id'>30101501764</td>
+			<td align="center" width="120"></td>
+			<td align="center" id='192.168.120.165:80' width="410"></td>
+		</tr><tr>
+			<td align="center" width="22"><input type='checkbox' value='192.168.120.208:80' name='IP[]'></td>
+			<td align="center" width="34" id='192.168.120.208:80.priview'><a href="javascript:startPriview('MyDiv','fade','192.168.120.208','554')"><img src='/thinkphp/Public/Image/public/playing111.png' height='25' width='25'></a></td>
+			<td class='runtime' width="170" onClick="openWeb(this.innerHTML)" id='192.168.120.208:80.addr'>192.168.120.208:80</td>
+			<td width="200">WLX-IPC</td>
+			<td width="350" id='192.168.120.208:80.platform'>TD2.221.1652-20180919-HDXP2P-GEN</td>
+			<td align="center" width="150">00:88:01:33:aa:e9</td>
+			<td align="center" width="150" id='192.168.120.208:80.id'>30103386089</td>
+			<td align="center" width="120"></td>
+			<td align="center" id='192.168.120.208:80' width="410"></td>
+		</tr><tr>
+			<td align="center" width="22"><input type='checkbox' value='192.168.120.215:80' name='IP[]'></td>
+			<td align="center" width="34" id='192.168.120.215:80.priview'><a href="javascript:startPriview('MyDiv','fade','192.168.120.215','554')"><img src='/thinkphp/Public/Image/public/playing111.png' height='25' width='25'></a></td>
+			<td class='runtime' width="170" onClick="openWeb(this.innerHTML)" id='192.168.120.215:80.addr'>192.168.120.215:80</td>
+			<td width="200">MSC313E-32 F2322测试设备勿动</td>
+			<td width="350" id='192.168.120.215:80.platform'>V2.221.1647-20180910-HDXGP2P-GEN</td>
+			<td align="center" width="150">00:88:01:16:8c:f8</td>
+			<td align="center" width="150" id='192.168.120.215:80.id'>30101477880</td>
+			<td align="center" width="120"></td>
+			<td align="center" id='192.168.120.215:80' width="410"></td>
+		</tr><tr>
+			<td align="center" width="22"><input type='checkbox' value='192.168.120.227:80' name='IP[]'></td>
+			<td align="center" width="34" id='192.168.120.227:80.priview'><a href="javascript:startPriview('MyDiv','fade','192.168.120.227','554')"><img src='/thinkphp/Public/Image/public/playing111.png' height='25' width='25'></a></td>
+			<td class='runtime' width="170" onClick="openWeb(this.innerHTML)" id='192.168.120.227:80.addr'>192.168.120.227:80</td>
+			<td width="200">dsg帅哥-IPC</td>
+			<td width="350" id='192.168.120.227:80.platform'>VB2.26.1615-20180919-HDXGP2P-GEN</td>
+			<td align="center" width="150">00:88:01:1e:0f:ba</td>
+			<td align="center" width="150" id='192.168.120.227:80.id'>30101970106</td>
+			<td align="center" width="120"></td>
+			<td align="center" id='192.168.120.227:80' width="410"></td>
+		</tr><tr>
+			<td align="center" width="22"><input type='checkbox' value='192.168.120.233:80' name='IP[]'></td>
+			<td align="center" width="34" id='192.168.120.233:80.priview'><a href="javascript:startPriview('MyDiv','fade','192.168.120.233','554')"><img src='/thinkphp/Public/Image/public/playing111.png' height='25' width='25'></a></td>
+			<td class='runtime' width="170" onClick="openWeb(this.innerHTML)" id='192.168.120.233:80.addr'>192.168.120.233:80</td>
+			<td width="200">H265-IPCF22测试-版本</td>
+			<td width="350" id='192.168.120.233:80.platform'>V2.22.1647-20180910-HDXGP2P-GEN</td>
+			<td align="center" width="150">00:66:70:0c:62:28</td>
+			<td align="center" width="150" id='192.168.120.233:80.id'>21001811560</td>
+			<td align="center" width="120"></td>
+			<td align="center" id='192.168.120.233:80' width="410"></td>
+		</tr><tr>
+			<td align="center" width="22"><input type='checkbox' value='192.168.120.239:80' name='IP[]'></td>
+			<td align="center" width="34" id='192.168.120.239:80.priview'><a href="javascript:startPriview('MyDiv','fade','192.168.120.239','554')"><img src='/thinkphp/Public/Image/public/playing111.png' height='25' width='25'></a></td>
+			<td class='runtime' width="170" onClick="openWeb(this.innerHTML)" id='192.168.120.239:80.addr'>192.168.120.239:80</td>
+			<td width="200">WLX-IPC</td>
+			<td width="350" id='192.168.120.239:80.platform'>T2.221.1922-20180920-HDXP2P-GEN</td>
+			<td align="center" width="150">00:88:01:33:aa:ef</td>
+			<td align="center" width="150" id='192.168.120.239:80.id'>30103386095</td>
+			<td align="center" width="120"></td>
+			<td align="center" id='192.168.120.239:80' width="410"></td>
+		</tr><tr>
+			<td align="center" width="22"><input type='checkbox' value='192.168.120.40:80' name='IP[]'></td>
+			<td align="center" width="34" id='192.168.120.40:80.priview'><a href="javascript:startPriview('MyDiv','fade','192.168.120.40','554')"><img src='/thinkphp/Public/Image/public/playing111.png' height='25' width='25'></a></td>
+			<td class='runtime' width="170" onClick="openWeb(this.innerHTML)" id='192.168.120.40:80.addr'>192.168.120.40:80</td>
+			<td width="200">wip239--lh</td>
+			<td width="350" id='192.168.120.40:80.platform'>TD2.221.1652-20180919-HDXP2P-GEN</td>
+			<td align="center" width="150">00:88:01:16:8d:28</td>
+			<td align="center" width="150" id='192.168.120.40:80.id'>30101477928</td>
+			<td align="center" width="120"></td>
+			<td align="center" id='192.168.120.40:80' width="410"></td>
+		</tr><tr>
+			<td align="center" width="22"><input type='checkbox' value='192.168.120.55:80' name='IP[]'></td>
+			<td align="center" width="34" id='192.168.120.55:80.priview'><a href="javascript:startPriview('MyDiv','fade','192.168.120.55','554')"><img src='/thinkphp/Public/Image/public/playing111.png' height='25' width='25'></a></td>
+			<td class='runtime' width="170" onClick="openWeb(this.innerHTML)" id='192.168.120.55:80.addr'>192.168.120.55:80</td>
+			<td width="200">INGENIC-君正264</td>
+			<td width="350" id='192.168.120.55:80.platform'>V1.2.0940-20180906-HDXP2P-GEN</td>
+			<td align="center" width="150">00:66:70:13:4b:fb</td>
+			<td align="center" width="150" id='192.168.120.55:80.id'>21002264635</td>
+			<td align="center" width="120"></td>
+			<td align="center" id='192.168.120.55:80' width="410"></td>
+		</tr><tr>
+			<td align="center" width="22"><input type='checkbox' value='192.168.120.97:80' name='IP[]'></td>
+			<td align="center" width="34" id='192.168.120.97:80.priview'><a href="javascript:startPriview('MyDiv','fade','192.168.120.97','554')"><img src='/thinkphp/Public/Image/public/playing111.png' height='25' width='25'></a></td>
+			<td class='runtime' width="170" onClick="openWeb(this.innerHTML)" id='192.168.120.97:80.addr'>192.168.120.97:80</td>
+			<td width="200">WIP239</td>
+			<td width="350" id='192.168.120.97:80.platform'>V2.221.1647-20180910-HDXGP2P-GEN</td>
+			<td align="center" width="150">00:88:01:33:aa:e3</td>
+			<td align="center" width="150" id='192.168.120.97:80.id'>30103386083</td>
+			<td align="center" width="120"></td>
+			<td align="center" id='192.168.120.97:80' width="410"></td>
+		</tr><tr>
+			<td align="center" width="22"><input type='checkbox' value='192.168.120.98:80' name='IP[]'></td>
+			<td align="center" width="34" id='192.168.120.98:80.priview'><a href="javascript:startPriview('MyDiv','fade','192.168.120.98','554')"><img src='/thinkphp/Public/Image/public/playing111.png' height='25' width='25'></a></td>
+			<td class='runtime' width="170" onClick="openWeb(this.innerHTML)" id='192.168.120.98:80.addr'>192.168.120.98:80</td>
+			<td width="200">WLX-IPC</td>
+			<td width="350" id='192.168.120.98:80.platform'>V2.25.2011-20180920-HDXGP2P-3M-WLX</td>
+			<td align="center" width="150">00:88:01:05:c6:69</td>
+			<td align="center" width="150" id='192.168.120.98:80.id'>30100378473</td>
+			<td align="center" width="120"></td>
+			<td align="center" id='192.168.120.98:80' width="410"></td>
+		</tr><tr>
+			<td align="center" width="22"><input type='checkbox' value='192.168.2.132:80' name='IP[]'></td>
+			<td align="center" width="34" id='192.168.2.132:80.priview'><a href="javascript:startPriview('MyDiv','fade','192.168.2.132','554')"><img src='/thinkphp/Public/Image/public/playing111.png' height='25' width='25'></a></td>
+			<td class='runtime' width="170" onClick="openWeb(this.innerHTML)" id='192.168.2.132:80.addr'>192.168.2.132:80</td>
+			<td width="200">zengy</td>
+			<td width="350" id='192.168.2.132:80.platform'>V2.22.1741-20180730-HDXGP2P-GEN</td>
+			<td align="center" width="150">00:81:8f:6a:6c:6c</td>
+			<td align="center" width="150" id='192.168.2.132:80.id'>22000059552</td>
+			<td align="center" width="120"></td>
+			<td align="center" id='192.168.2.132:80' width="410"></td>
+		</tr><tr>
+			<td align="center" width="22"><input type='checkbox' value='192.168.1.160:80' name='IP[]'></td>
+			<td align="center" width="34" id='192.168.1.160:80.priview'><a href="javascript:startPriview('MyDiv','fade','192.168.1.160','554')"><img src='/thinkphp/Public/Image/public/playing111.png' height='25' width='25'></a></td>
+			<td class='runtime' width="170" onClick="openWeb(this.innerHTML)" id='192.168.1.160:80.addr'>192.168.1.160:80</td>
+			<td width="200">INGENIC-V01</td>
+			<td width="350" id='192.168.1.160:80.platform'>T1.2.1917-20180920-HDXGP2P-GEN</td>
+			<td align="center" width="150">00:10:1c:1f:1c:4f</td>
+			<td align="center" width="150" id='192.168.1.160:80.id'>03329832176</td>
+			<td align="center" width="120"></td>
+			<td align="center" id='192.168.1.160:80' width="410"></td>
+		</tr><tr>
+			<td align="center" width="22"><input type='checkbox' value='192.168.2.244:80' name='IP[]'></td>
+			<td align="center" width="34" id='192.168.2.244:80.priview'><a href="javascript:startPriview('MyDiv','fade','192.168.2.244','554')"><img src='/thinkphp/Public/Image/public/playing111.png' height='25' width='25'></a></td>
+			<td class='runtime' width="170" onClick="openWeb(this.innerHTML)" id='192.168.2.244:80.addr'>192.168.2.244:80</td>
+			<td width="200">MSC313E-V02</td>
+			<td width="350" id='192.168.2.244:80.platform'>T2.221.1737-20180919-HDXP2P-GEN</td>
+			<td align="center" width="150">00:88:01:29:2c:f4</td>
+			<td align="center" width="150" id='192.168.2.244:80.id'>30102698484</td>
+			<td align="center" width="120"></td>
+			<td align="center" id='192.168.2.244:80' width="410"></td>
+		</tr><tr>
+			<td align="center" width="22"><input type='checkbox' value='192.168.2.39:80' name='IP[]'></td>
+			<td align="center" width="34" id='192.168.2.39:80.priview'><a href="javascript:startPriview('MyDiv','fade','192.168.2.39','554')"><img src='/thinkphp/Public/Image/public/playing111.png' height='25' width='25'></a></td>
+			<td class='runtime' width="170" onClick="openWeb(this.innerHTML)" id='192.168.2.39:80.addr'>192.168.2.39:80</td>
+			<td width="200">INGENIC-V01</td>
+			<td width="350" id='192.168.2.39:80.platform'>T1.0.1055-20170717-XMP2P-GEN</td>
+			<td align="center" width="150">00:00:A2:B2:A6:4D</td>
+			<td align="center" width="150" id='192.168.2.39:80.id'>124456789BD</td>
+			<td align="center" width="120"></td>
+			<td align="center" id='192.168.2.39:80' width="410"></td>
+		</tr><tr>
+			<td align="center" width="22"><input type='checkbox' value='192.168.2.41:80' name='IP[]'></td>
+			<td align="center" width="34" id='192.168.2.41:80.priview'><a href="javascript:startPriview('MyDiv','fade','192.168.2.41','554')"><img src='/thinkphp/Public/Image/public/playing111.png' height='25' width='25'></a></td>
+			<td class='runtime' width="170" onClick="openWeb(this.innerHTML)" id='192.168.2.41:80.addr'>192.168.2.41:80</td>
+			<td width="200">MSC313E-V02</td>
+			<td width="350" id='192.168.2.41:80.platform'>W1.0.1756-20180918-NORMAL-GEN</td>
+			<td align="center" width="150">00:88:02:01:E4:DC</td>
+			<td align="center" width="150" id='192.168.2.41:80.id'>30200124124</td>
+			<td align="center" width="120">172.25.123.2</td>
+			<td align="center" id='192.168.2.41:80' width="410"></td>
+		</tr><tr>
+			<td align="center" width="22"><input type='checkbox' value='192.168.202.71:80' name='IP[]'></td>
+			<td align="center" width="34" id='192.168.202.71:80.priview'><a href="javascript:startPriview('MyDiv','fade','192.168.202.71','554')"><img src='/thinkphp/Public/Image/public/playing111.png' height='25' width='25'></a></td>
+			<td class='runtime' width="170" onClick="openWeb(this.innerHTML)" id='192.168.202.71:80.addr'>192.168.202.71:80</td>
+			<td width="200">WLX-IPC</td>
+			<td width="350" id='192.168.202.71:80.platform'>T2.25.1550-20180913-HDXP2P-GEN</td>
+			<td align="center" width="150">00:88:01:05:c6:74</td>
+			<td align="center" width="150" id='192.168.202.71:80.id'>30100378484</td>
+			<td align="center" width="120"></td>
+			<td align="center" id='192.168.202.71:80' width="410"></td>
+		</tr><tr>
+			<td align="center" width="22"><input type='checkbox' value='192.168.37.15:80' name='IP[]'></td>
+			<td align="center" width="34" id='192.168.37.15:80.priview'><a href="javascript:startPriview('MyDiv','fade','192.168.37.15','554')"><img src='/thinkphp/Public/Image/public/playing111.png' height='25' width='25'></a></td>
+			<td class='runtime' width="170" onClick="openWeb(this.innerHTML)" id='192.168.37.15:80.addr'>192.168.37.15:80</td>
+			<td width="200">MSC313E-V02</td>
+			<td width="350" id='192.168.37.15:80.platform'>T2.221.1825-20180919-NORMAL-GEN</td>
+			<td align="center" width="150">00:88:01:3b:4c:4c</td>
+			<td align="center" width="150" id='192.168.37.15:80.id'>30103886156</td>
+			<td align="center" width="120"></td>
+			<td align="center" id='192.168.37.15:80' width="410"></td>
+		</tr><tr>
+			<td align="center" width="22"><input type='checkbox' value='192.168.7.110:80' name='IP[]'></td>
+			<td align="center" width="34" id='192.168.7.110:80.priview'><a href="javascript:startPriview('MyDiv','fade','192.168.7.110','554')"><img src='/thinkphp/Public/Image/public/playing111.png' height='25' width='25'></a></td>
+			<td class='runtime' width="170" onClick="openWeb(this.innerHTML)" id='192.168.7.110:80.addr'>192.168.7.110:80</td>
+			<td width="200">MSC313E-V02</td>
+			<td width="350" id='192.168.7.110:80.platform'>T2.29.1911-20180918-HDXP2P-GEN</td>
+			<td align="center" width="150">00:30:1b:ba:02:db</td>
+			<td align="center" width="150" id='192.168.7.110:80.id'>53458359898</td>
+			<td align="center" width="120"></td>
+			<td align="center" id='192.168.7.110:80' width="410"></td>
+		</tr><tr>
+			<td align="center" width="22"><input type='checkbox' value='192.168.7.123:80' name='IP[]'></td>
+			<td align="center" width="34" id='192.168.7.123:80.priview'><a href="javascript:startPriview('MyDiv','fade','192.168.7.123','554')"><img src='/thinkphp/Public/Image/public/playing111.png' height='25' width='25'></a></td>
+			<td class='runtime' width="170" onClick="openWeb(this.innerHTML)" id='192.168.7.123:80.addr'>192.168.7.123:80</td>
+			<td width="200">MSC313E-V02</td>
+			<td width="350" id='192.168.7.123:80.platform'>VB2.29.1615-20180919-HDXGP2P-GEN</td>
+			<td align="center" width="150">00:88:01:35:d4:74</td>
+			<td align="center" width="150" id='192.168.7.123:80.id'>30103527796</td>
+			<td align="center" width="120"></td>
+			<td align="center" id='192.168.7.123:80' width="410"></td>
+		</tr><tr>
+			<td align="center" width="22"><input type='checkbox' value='192.168.70.160:80' name='IP[]'></td>
+			<td align="center" width="34" id='192.168.70.160:80.priview'><a href="javascript:startPriview('MyDiv','fade','192.168.70.160','554')"><img src='/thinkphp/Public/Image/public/playing111.png' height='25' width='25'></a></td>
+			<td class='runtime' width="170" onClick="openWeb(this.innerHTML)" id='192.168.70.160:80.addr'>192.168.70.160:80</td>
+			<td width="200">ANYKA-V01</td>
+			<td width="350" id='192.168.70.160:80.platform'>W1.0.1121-20180920-NORMAL-GEN</td>
+			<td align="center" width="150">00:00:05:06:A1:C7</td>
+			<td align="center" width="150" id='192.168.70.160:80.id'>64528695241</td>
+			<td align="center" width="120"></td>
+			<td align="center" id='192.168.70.160:80' width="410"></td>
+		</tr><tr>
+			<td align="center" width="22"><input type='checkbox' value='192.168.90.155:80' name='IP[]'></td>
+			<td align="center" width="34" id='192.168.90.155:80.priview'><a href="javascript:startPriview('MyDiv','fade','192.168.90.155','554')"><img src='/thinkphp/Public/Image/public/playing111.png' height='25' width='25'></a></td>
+			<td class='runtime' width="170" onClick="openWeb(this.innerHTML)" id='192.168.90.155:80.addr'>192.168.90.155:80</td>
+			<td width="200">ANYKA-V01</td>
+			<td width="350" id='192.168.90.155:80.platform'>W1.0.1121-20180920-NORMAL-GEN</td>
+			<td align="center" width="150">00:66:70:07:C5:46</td>
+			<td align="center" width="150" id='192.168.90.155:80.id'>21001509254</td>
+			<td align="center" width="120">172.25.123.2</td>
+			<td align="center" id='192.168.90.155:80' width="410"></td>
+		</tr>	</table>
+</div>
+<!--弹出层时背景层DIV-->
+<div id="fade" class="black_overlay">
+</div>
+<!--预览框-->
+<div id="MyDiv" class="white_content">
+	<div style="text-align: right; cursor: default; height: 40px;">
+		<div id = 'showip' style="float:left; padding-left:47%;font-weight:bold; padding-top:5px;"></div>
+		<span style="font-size: 16px;" onClick="stopPriview('MyDiv','fade')"><img src='/thinkphp/Public/Image/public/close.png' /></span>
+	</div>
+	<div id='object' align="center"></div>
+</div>
+<!--修改IP的表格--> 
+<div id="MyMyDiv" class="my_white_content">
+	<div style="text-align: right; cursor: default; height: 40px;">
+		<span style="font-size: 16px;" onClick="CloseMyDiv('MyMyDiv','fade')"><img src='/thinkphp/Public/Image/public/close1.png' /></span>
+	</div>
+	<div align="center">
+		<table>
+			<tr>
+				<td><input type='text' id='ipaddr' style="width:230px;height: 25px;" /></td>
+			</tr>
+			<tr>
+				<td><input type="submit" value='修改' onClick="editIp()" style="width:230px; background-color:#33CCFF; border:none; height: 25px; color:#FFFFFF;" /></td>
+			</tr>
+		</table>
+	</div>
+</div>
+</body>
+</html>
