@@ -1,7 +1,0 @@
-[2019-11-16 20:01:16]|***********************START************************|
-[2019-11-16 20:01:16]SLEEPTIME IS 8000000
-[2019-11-16 20:01:16]SEND IP ADDRESS:192.168.201.199
-[2019-11-16 20:01:16]MODEL IS [i]
-[2019-11-16 20:01:16]|********************Testing Now!********************|
-[2019-11-16 20:01:16][send_curl]http://192.168.201.199/?jcpcmd=ircfg%20-act%20set%20-irswitchmode%201%20-turnonlux%200%20-webturnonlux%20100
-[2019-11-16 20:01:24][send_curl]http://192.168.201.199/?jcpcmd=ircfg%20-act%20set%20-irswitchmode%201%20-turnonlux%200%20-webturnonlux%201

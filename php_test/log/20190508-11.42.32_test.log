@@ -1,8 +1,0 @@
-[2019-05-08 11:42:32]|***********************START************************|
-[2019-05-08 11:42:32]SLEEPTIME IS 2000000
-[2019-05-08 11:42:32]SEND IP ADDRESS:192.168.13.114
-[2019-05-08 11:42:32]MODEL IS [y]
-[2019-05-08 11:42:32]|********************Testing Now!********************|
-[2019-05-08 11:42:32][send_curl]http://192.168.13.114/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
-[2019-05-08 11:42:34][send_curl]http://192.168.13.114/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
-[2019-05-08 11:42:36][send_curl]http://192.168.13.114/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
