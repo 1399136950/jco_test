@@ -1,0 +1,52 @@
+[2020-03-18 11:40:49]|***********************START************************|
+[2020-03-18 11:40:49]SLEEPTIME IS 2000000
+[2020-03-18 11:40:49]SEND IP ADDRESS:192.168.222.61:554
+[2020-03-18 11:40:49]MODEL IS [a]
+[2020-03-18 11:40:49]|********************Testing Now!********************|
+[2020-03-18 11:40:49][send_curl]http://192.168.222.61:554/?jcpcmd=audiocfg%20-act%20set%20%20-inenable%200%20-involume%2055%20-outvolume%2066%20-codetype%202%20-inputtype%200
+[2020-03-18 11:40:51][send_curl]http://192.168.222.61:554/?jcpcmd=audiocfg%20-act%20set%20%20-inenable%200%20-involume%2029%20-outvolume%2023%20-codetype%201%20-inputtype%201
+[2020-03-18 11:40:53][send_curl]http://192.168.222.61:554/?jcpcmd=audiocfg%20-act%20set%20%20-inenable%200%20-involume%2031%20-outvolume%2026%20-codetype%202%20-inputtype%200
+[2020-03-18 11:40:55][send_curl]http://192.168.222.61:554/?jcpcmd=audiocfg%20-act%20set%20%20-inenable%200%20-involume%2065%20-outvolume%2052%20-codetype%201%20-inputtype%200
+[2020-03-18 11:40:57][send_curl]http://192.168.222.61:554/?jcpcmd=audiocfg%20-act%20set%20%20-inenable%201%20-involume%201%20-outvolume%2083%20-codetype%201%20-inputtype%201
+[2020-03-18 11:40:59][send_curl]http://192.168.222.61:554/?jcpcmd=audiocfg%20-act%20set%20%20-inenable%201%20-involume%2094%20-outvolume%2028%20-codetype%201%20-inputtype%201
+[2020-03-18 11:41:01][send_curl]http://192.168.222.61:554/?jcpcmd=audiocfg%20-act%20set%20%20-inenable%200%20-involume%2079%20-outvolume%2095%20-codetype%202%20-inputtype%201
+[2020-03-18 11:41:03][send_curl]http://192.168.222.61:554/?jcpcmd=audiocfg%20-act%20set%20%20-inenable%200%20-involume%2043%20-outvolume%2044%20-codetype%202%20-inputtype%200
+[2020-03-18 11:41:05][send_curl]http://192.168.222.61:554/?jcpcmd=audiocfg%20-act%20set%20%20-inenable%201%20-involume%2052%20-outvolume%2059%20-codetype%201%20-inputtype%200
+[2020-03-18 11:41:07][send_curl]http://192.168.222.61:554/?jcpcmd=audiocfg%20-act%20set%20%20-inenable%200%20-involume%2028%20-outvolume%2091%20-codetype%201%20-inputtype%200
+[2020-03-18 11:41:09][send_curl]http://192.168.222.61:554/?jcpcmd=audiocfg%20-act%20set%20%20-inenable%200%20-involume%2056%20-outvolume%2079%20-codetype%202%20-inputtype%201
+[2020-03-18 11:41:11][send_curl]http://192.168.222.61:554/?jcpcmd=audiocfg%20-act%20set%20%20-inenable%200%20-involume%2021%20-outvolume%2030%20-codetype%201%20-inputtype%200
+[2020-03-18 11:41:13][send_curl]http://192.168.222.61:554/?jcpcmd=audiocfg%20-act%20set%20%20-inenable%201%20-involume%2045%20-outvolume%2043%20-codetype%201%20-inputtype%201
+[2020-03-18 11:41:15][send_curl]http://192.168.222.61:554/?jcpcmd=audiocfg%20-act%20set%20%20-inenable%201%20-involume%2029%20-outvolume%2070%20-codetype%202%20-inputtype%200
+[2020-03-18 11:41:17][send_curl]http://192.168.222.61:554/?jcpcmd=audiocfg%20-act%20set%20%20-inenable%201%20-involume%2072%20-outvolume%2099%20-codetype%201%20-inputtype%200
+[2020-03-18 11:41:19][send_curl]http://192.168.222.61:554/?jcpcmd=audiocfg%20-act%20set%20%20-inenable%200%20-involume%2069%20-outvolume%2043%20-codetype%202%20-inputtype%201
+[2020-03-18 11:41:21][send_curl]http://192.168.222.61:554/?jcpcmd=audiocfg%20-act%20set%20%20-inenable%200%20-involume%2062%20-outvolume%2031%20-codetype%202%20-inputtype%200
+[2020-03-18 11:41:23][send_curl]http://192.168.222.61:554/?jcpcmd=audiocfg%20-act%20set%20%20-inenable%200%20-involume%2043%20-outvolume%2076%20-codetype%202%20-inputtype%200
+[2020-03-18 11:41:25][send_curl]http://192.168.222.61:554/?jcpcmd=audiocfg%20-act%20set%20%20-inenable%201%20-involume%2086%20-outvolume%2028%20-codetype%201%20-inputtype%201
+[2020-03-18 11:41:27][send_curl]http://192.168.222.61:554/?jcpcmd=audiocfg%20-act%20set%20%20-inenable%200%20-involume%2010%20-outvolume%2069%20-codetype%201%20-inputtype%201
+[2020-03-18 11:41:29][send_curl]http://192.168.222.61:554/?jcpcmd=audiocfg%20-act%20set%20%20-inenable%200%20-involume%2038%20-outvolume%2069%20-codetype%201%20-inputtype%201
+[2020-03-18 11:41:31][send_curl]http://192.168.222.61:554/?jcpcmd=audiocfg%20-act%20set%20%20-inenable%201%20-involume%2066%20-outvolume%2068%20-codetype%201%20-inputtype%201
+[2020-03-18 11:41:33][send_curl]http://192.168.222.61:554/?jcpcmd=audiocfg%20-act%20set%20%20-inenable%201%20-involume%208%20-outvolume%2087%20-codetype%202%20-inputtype%201
+[2020-03-18 11:41:35][send_curl]http://192.168.222.61:554/?jcpcmd=audiocfg%20-act%20set%20%20-inenable%201%20-involume%2016%20-outvolume%2041%20-codetype%201%20-inputtype%200
+[2020-03-18 11:41:37][send_curl]http://192.168.222.61:554/?jcpcmd=audiocfg%20-act%20set%20%20-inenable%201%20-involume%2058%20-outvolume%2054%20-codetype%201%20-inputtype%200
+[2020-03-18 11:41:39][send_curl]http://192.168.222.61:554/?jcpcmd=audiocfg%20-act%20set%20%20-inenable%201%20-involume%2047%20-outvolume%2054%20-codetype%202%20-inputtype%200
+[2020-03-18 11:41:41][send_curl]http://192.168.222.61:554/?jcpcmd=audiocfg%20-act%20set%20%20-inenable%200%20-involume%2097%20-outvolume%2048%20-codetype%201%20-inputtype%200
+[2020-03-18 11:41:43][send_curl]http://192.168.222.61:554/?jcpcmd=audiocfg%20-act%20set%20%20-inenable%201%20-involume%208%20-outvolume%2044%20-codetype%201%20-inputtype%200
+[2020-03-18 11:41:45][send_curl]http://192.168.222.61:554/?jcpcmd=audiocfg%20-act%20set%20%20-inenable%201%20-involume%2055%20-outvolume%2034%20-codetype%201%20-inputtype%201
+[2020-03-18 11:41:47][send_curl]http://192.168.222.61:554/?jcpcmd=audiocfg%20-act%20set%20%20-inenable%200%20-involume%2081%20-outvolume%2095%20-codetype%201%20-inputtype%201
+[2020-03-18 11:41:49][send_curl]http://192.168.222.61:554/?jcpcmd=audiocfg%20-act%20set%20%20-inenable%201%20-involume%2062%20-outvolume%2033%20-codetype%202%20-inputtype%201
+[2020-03-18 11:41:51][send_curl]http://192.168.222.61:554/?jcpcmd=audiocfg%20-act%20set%20%20-inenable%201%20-involume%2058%20-outvolume%2013%20-codetype%202%20-inputtype%201
+[2020-03-18 11:41:53][send_curl]http://192.168.222.61:554/?jcpcmd=audiocfg%20-act%20set%20%20-inenable%201%20-involume%2015%20-outvolume%205%20-codetype%202%20-inputtype%201
+[2020-03-18 11:41:55][send_curl]http://192.168.222.61:554/?jcpcmd=audiocfg%20-act%20set%20%20-inenable%201%20-involume%2016%20-outvolume%20100%20-codetype%202%20-inputtype%201
+[2020-03-18 11:41:57][send_curl]http://192.168.222.61:554/?jcpcmd=audiocfg%20-act%20set%20%20-inenable%200%20-involume%2063%20-outvolume%2014%20-codetype%201%20-inputtype%200
+[2020-03-18 11:41:59][send_curl]http://192.168.222.61:554/?jcpcmd=audiocfg%20-act%20set%20%20-inenable%201%20-involume%2089%20-outvolume%2032%20-codetype%201%20-inputtype%201
+[2020-03-18 11:42:01][send_curl]http://192.168.222.61:554/?jcpcmd=audiocfg%20-act%20set%20%20-inenable%200%20-involume%2072%20-outvolume%2014%20-codetype%202%20-inputtype%200
+[2020-03-18 11:42:03][send_curl]http://192.168.222.61:554/?jcpcmd=audiocfg%20-act%20set%20%20-inenable%200%20-involume%2048%20-outvolume%2029%20-codetype%201%20-inputtype%200
+[2020-03-18 11:42:05][send_curl]http://192.168.222.61:554/?jcpcmd=audiocfg%20-act%20set%20%20-inenable%200%20-involume%209%20-outvolume%2013%20-codetype%202%20-inputtype%200
+[2020-03-18 11:42:07][send_curl]http://192.168.222.61:554/?jcpcmd=audiocfg%20-act%20set%20%20-inenable%201%20-involume%2072%20-outvolume%2034%20-codetype%201%20-inputtype%200
+[2020-03-18 11:42:09][send_curl]http://192.168.222.61:554/?jcpcmd=audiocfg%20-act%20set%20%20-inenable%201%20-involume%2010%20-outvolume%2058%20-codetype%202%20-inputtype%200
+[2020-03-18 11:42:11][send_curl]http://192.168.222.61:554/?jcpcmd=audiocfg%20-act%20set%20%20-inenable%200%20-involume%2025%20-outvolume%2089%20-codetype%201%20-inputtype%200
+[2020-03-18 11:42:13][send_curl]http://192.168.222.61:554/?jcpcmd=audiocfg%20-act%20set%20%20-inenable%201%20-involume%2059%20-outvolume%202%20-codetype%202%20-inputtype%200
+[2020-03-18 11:42:15][send_curl]http://192.168.222.61:554/?jcpcmd=audiocfg%20-act%20set%20%20-inenable%201%20-involume%2029%20-outvolume%206%20-codetype%202%20-inputtype%201
+[2020-03-18 11:42:17][send_curl]http://192.168.222.61:554/?jcpcmd=audiocfg%20-act%20set%20%20-inenable%200%20-involume%2063%20-outvolume%2084%20-codetype%201%20-inputtype%201
+[2020-03-18 11:42:19][send_curl]http://192.168.222.61:554/?jcpcmd=audiocfg%20-act%20set%20%20-inenable%200%20-involume%2043%20-outvolume%2042%20-codetype%202%20-inputtype%201
+[2020-03-18 11:42:21][send_curl]http://192.168.222.61:554/?jcpcmd=audiocfg%20-act%20set%20%20-inenable%200%20-involume%2024%20-outvolume%202%20-codetype%201%20-inputtype%200

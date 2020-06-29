@@ -1,0 +1,32 @@
+[2019-02-25 20:56:08]|***********************START************************|
+[2019-02-25 20:56:08]SLEEPTIME IS 200000
+[2019-02-25 20:56:08]SEND IP ADDRESS:192.168.5.133
+[2019-02-25 20:56:08]MODEL IS [ircut]
+[2019-02-25 20:56:08]|********************Testing Now!********************|
+[2019-02-25 20:56:08][send_curl]http://192.168.5.133/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-02-25 20:56:08][send_curl]NO.1---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-25 20:56:08][send_curl]http://192.168.5.133/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-02-25 20:56:08][send_curl]NO.2---szJcpResult="[Success];";
+
+[2019-02-25 20:56:09][send_curl]http://192.168.5.133/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-02-25 20:56:09][send_curl]NO.3---szJcpResult="[Success];";
+
+[2019-02-25 20:56:09][send_curl]http://192.168.5.133/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-02-25 20:56:09][send_curl]NO.4---szJcpResult="[Success];";
+
+[2019-02-25 20:56:09][send_curl]http://192.168.5.133/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-02-25 20:56:09][send_curl]NO.5---szJcpResult="[Success];";
+
+[2019-02-25 20:56:09][send_curl]http://192.168.5.133/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-02-25 20:56:09][send_curl]NO.6---szJcpResult="[Success];";
+
+[2019-02-25 20:56:09][send_curl]http://192.168.5.133/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-02-25 20:56:09][send_curl]NO.7---szJcpResult="[Success];";
+
+[2019-02-25 20:56:10][send_curl]http://192.168.5.133/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-02-25 20:56:10][send_curl]NO.8---szJcpResult="[Success];";
+
+[2019-02-25 20:56:10][send_curl]http://192.168.5.133/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-02-25 20:56:10][send_curl]NO.9---szJcpResult="[Success];";
+

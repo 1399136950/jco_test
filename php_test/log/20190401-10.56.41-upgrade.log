@@ -1,0 +1,11 @@
+[2019-04-01 10:56:41][get_upload_file]Upgrade Pack Is--1.tgz
+[2019-04-01 10:56:41][get_upload_file]Upgrade Pack Is--3.30-2158-T-SSC325.starlight.HDXP2P.gen.zh.201903301.IPC2.H(F)39.tgz
+[2019-04-01 10:56:41][before_execute_script]Execute Script After 10 seconds!
+[2019-04-01 10:56:41][before_execute_script]Sleep(10)
+[2019-04-01 10:56:51][before_execute_script]Start!
+[2019-04-01 10:56:51][start_upgrade_by_tgzs]Begin Collecting Test Data......
+[2019-04-01 10:56:51][new_before_upgrade_test]Upload File Now
+[2019-04-01 10:56:51][new_before_upgrade_test]NO.1,FILE IS 1.tgz
+[2019-04-01 10:56:54][upload_file][192.168.99.229]IS NOT ONLINE!
+[2019-04-01 10:57:37][upload_file][192.168.99.229]IS NOT ONLINE!
+[2019-04-01 10:57:43][new_before_upgrade_test]progressbar error

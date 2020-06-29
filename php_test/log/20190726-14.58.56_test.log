@@ -1,0 +1,23 @@
+[2019-07-26 14:58:56]|***********************START************************|
+[2019-07-26 14:58:56]SLEEPTIME IS 1000000
+[2019-07-26 14:58:56]SEND IP ADDRESS:192.168.13.158:554
+[2019-07-26 14:58:56]MODEL IS [osize]
+[2019-07-26 14:58:56]|********************Testing Now!********************|
+[2019-07-26 14:58:56][send_curl]http://192.168.13.158:554/?jcpcmd=osdstrcfg%20-act%20set%20-size%202
+[2019-07-26 14:58:57][send_curl]http://192.168.13.158:554/?jcpcmd=osdstrcfg%20-act%20set%20-size%200
+[2019-07-26 14:58:58][send_curl]http://192.168.13.158:554/?jcpcmd=osdstrcfg%20-act%20set%20-size%202
+[2019-07-26 14:58:59][send_curl]http://192.168.13.158:554/?jcpcmd=osdstrcfg%20-act%20set%20-size%200
+[2019-07-26 14:59:01][send_curl]http://192.168.13.158:554/?jcpcmd=osdstrcfg%20-act%20set%20-size%201
+[2019-07-26 14:59:02][send_curl]http://192.168.13.158:554/?jcpcmd=osdstrcfg%20-act%20set%20-size%201
+[2019-07-26 14:59:03][send_curl]http://192.168.13.158:554/?jcpcmd=osdstrcfg%20-act%20set%20-size%201
+[2019-07-26 14:59:04][send_curl]http://192.168.13.158:554/?jcpcmd=osdstrcfg%20-act%20set%20-size%202
+[2019-07-26 14:59:05][send_curl]http://192.168.13.158:554/?jcpcmd=osdstrcfg%20-act%20set%20-size%200
+[2019-07-26 14:59:06][send_curl]http://192.168.13.158:554/?jcpcmd=osdstrcfg%20-act%20set%20-size%200
+[2019-07-26 14:59:07][send_curl]http://192.168.13.158:554/?jcpcmd=osdstrcfg%20-act%20set%20-size%201
+[2019-07-26 14:59:08][send_curl]http://192.168.13.158:554/?jcpcmd=osdstrcfg%20-act%20set%20-size%202
+[2019-07-26 14:59:09][send_curl]http://192.168.13.158:554/?jcpcmd=osdstrcfg%20-act%20set%20-size%200
+[2019-07-26 14:59:10][send_curl]http://192.168.13.158:554/?jcpcmd=osdstrcfg%20-act%20set%20-size%200
+[2019-07-26 14:59:11][send_curl]http://192.168.13.158:554/?jcpcmd=osdstrcfg%20-act%20set%20-size%200
+[2019-07-26 14:59:12][send_curl]http://192.168.13.158:554/?jcpcmd=osdstrcfg%20-act%20set%20-size%202
+[2019-07-26 14:59:13][send_curl]http://192.168.13.158:554/?jcpcmd=osdstrcfg%20-act%20set%20-size%200
+[2019-07-26 14:59:14][send_curl]http://192.168.13.158:554/?jcpcmd=osdstrcfg%20-act%20set%20-size%201

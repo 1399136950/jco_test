@@ -1,0 +1,12 @@
+[2019-06-27 11:01:41]|***********************START************************|
+[2019-06-27 11:01:41]SLEEPTIME IS 3000000
+[2019-06-27 11:01:41]SEND IP ADDRESS:192.168.110.25
+[2019-06-27 11:01:41]MODEL IS [p]
+[2019-06-27 11:01:41]|********************Testing Now!********************|
+[2019-06-27 11:01:41][send_curl]http://192.168.110.25/?jcpcmd=vicfg%20-act%20set%20-nightluma%2018%20-bright%20189%20-contrast%20161%20-saturation%20227%20-sharpness%2074%20-gain%203%20-suppress%2059%20%20-lampfrequency%200%20-brightlevel%202
+[2019-06-27 11:01:44][send_curl]http://192.168.110.25/?jcpcmd=vicfg%20-act%20set%20-nightluma%207%20-bright%20117%20-contrast%2019%20-saturation%20180%20-sharpness%20151%20-gain%2074%20-suppress%2092%20%20-lampfrequency%201%20-brightlevel%202
+[2019-06-27 11:01:47][send_curl]http://192.168.110.25/?jcpcmd=vicfg%20-act%20set%20-nightluma%2047%20-bright%2059%20-contrast%20122%20-saturation%2068%20-sharpness%20201%20-gain%20127%20-suppress%2059%20%20-lampfrequency%201%20-brightlevel%202
+[2019-06-27 11:01:59][send_curl]http://192.168.110.25/?jcpcmd=vicfg%20-act%20set%20-nightluma%2015%20-bright%20206%20-contrast%20151%20-saturation%2081%20-sharpness%20162%20-gain%2098%20-suppress%2033%20%20-lampfrequency%200%20-brightlevel%202
+[2019-06-27 11:01:59][send_curl]STOP RUNNING
+[2019-06-27 11:01:59][send_curl]RUNS      :3
+[2019-06-27 11:01:59][send_curl]MODEL IS  :[p]

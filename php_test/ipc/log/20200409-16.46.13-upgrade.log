@@ -1,0 +1,117 @@
+[2020-04-09 16:46:13][get_upload_file]Upgrade Pack Is--11.tgz
+[2020-04-09 16:46:13][get_upload_file]Upgrade Pack Is--4.7-V-MSC313E.base.HDXGPtP.gen.zh.202004071.IPC2.F351_F381.tgz
+[2020-04-09 16:46:13][before_execute_script]Execute Script After 10 seconds!
+[2020-04-09 16:46:13][before_execute_script]Sleep(10)
+[2020-04-09 16:46:23][before_execute_script]Start!
+[2020-04-09 16:46:23][start_upgrade_by_tgzs]Begin Collecting Test Data......
+[2020-04-09 16:46:23][new_before_upgrade_test]Upload File Now
+[2020-04-09 16:46:23][new_before_upgrade_test]NO.1,FILE IS 11.tgz
+[2020-04-09 16:46:23][upload_file][192.168.222.226]IS ON-LINE!
+[2020-04-09 16:46:23][upload_file][192.168.222.226]send file now
+[2020-04-09 16:46:23][upload_file][192.168.222.226]send file finished
+[2020-04-09 16:46:23][get_update_progressbar] 0
+[2020-04-09 16:46:25][get_update_progressbar] 0
+[2020-04-09 16:46:27][get_update_progressbar] 3
+[2020-04-09 16:46:29][get_update_progressbar] 13
+[2020-04-09 16:46:31][get_update_progressbar] 13
+[2020-04-09 16:46:33][get_update_progressbar] 28
+[2020-04-09 16:46:35][get_update_progressbar] 100
+[2020-04-09 16:46:35][new_before_upgrade_test]Upload Finished,Sleep(80)
+[2020-04-09 16:47:57][new_before_upgrade_test]Result Is VA3.351.1735-20200407-HDXGPtP-GEN
+[2020-04-09 16:47:57][new_before_upgrade_test]Get Test Data......It takes 94 secends
+[2020-04-09 16:47:57][new_before_upgrade_test]Sleep(30)
+[2020-04-09 16:48:27][new_before_upgrade_test]Upload File Now
+[2020-04-09 16:48:27][new_before_upgrade_test]NO.2,FILE IS 11.tgz
+[2020-04-09 16:48:27][upload_file][192.168.222.226]IS ON-LINE!
+[2020-04-09 16:48:27][upload_file][192.168.222.226]send file now
+[2020-04-09 16:48:27][upload_file][192.168.222.226]send file finished
+[2020-04-09 16:48:27][get_update_progressbar] 0
+[2020-04-09 16:48:29][get_update_progressbar] 0
+[2020-04-09 16:48:31][get_update_progressbar] 3
+[2020-04-09 16:48:33][get_update_progressbar] 3
+[2020-04-09 16:48:35][get_update_progressbar] 13
+[2020-04-09 16:48:37][get_update_progressbar] 13
+[2020-04-09 16:48:39][get_update_progressbar] 28
+[2020-04-09 16:48:41][get_update_progressbar] 100
+[2020-04-09 16:48:41][new_before_upgrade_test]Upload Finished,Sleep(80)
+[2020-04-09 16:50:03][new_before_upgrade_test]Result Is VA3.351.1735-20200407-HDXGPtP-GEN
+[2020-04-09 16:50:03][new_before_upgrade_test]Get Test Data......It takes 96 secends
+[2020-04-09 16:50:03][new_before_upgrade_test]Sleep(30)
+[2020-04-09 16:50:33][new_before_upgrade_test]Upload File Now
+[2020-04-09 16:50:33][new_before_upgrade_test]NO.1,FILE IS 4.7-V-MSC313E.base.HDXGPtP.gen.zh.202004071.IPC2.F351_F381.tgz
+[2020-04-09 16:50:33][upload_file][192.168.222.226]IS ON-LINE!
+[2020-04-09 16:50:33][upload_file][192.168.222.226]send file now
+[2020-04-09 16:50:33][upload_file][192.168.222.226]send file finished
+[2020-04-09 16:50:33][get_update_progressbar] 0
+[2020-04-09 16:50:35][get_update_progressbar] 0
+[2020-04-09 16:50:37][get_update_progressbar] 3
+[2020-04-09 16:50:39][get_update_progressbar] 13
+[2020-04-09 16:50:41][get_update_progressbar] 13
+[2020-04-09 16:50:43][get_update_progressbar] 13
+[2020-04-09 16:50:45][get_update_progressbar] 28
+[2020-04-09 16:50:47][get_update_progressbar] 28
+[2020-04-09 16:50:49][get_update_progressbar] 100
+[2020-04-09 16:50:49][new_before_upgrade_test]Upload Finished,Sleep(80)
+[2020-04-09 16:52:19][new_before_upgrade_test]No Answer,Sleep(10)
+[2020-04-09 16:52:29][new_before_upgrade_test]Result Is VA3.351.1735-20200407-HDXGPtP-GEN
+[2020-04-09 16:52:29][new_before_upgrade_test]Get Test Data......It takes 116 secends
+[2020-04-09 16:52:29][new_before_upgrade_test]Sleep(30)
+[2020-04-09 16:52:59][new_before_upgrade_test]Upload File Now
+[2020-04-09 16:52:59][new_before_upgrade_test]NO.2,FILE IS 4.7-V-MSC313E.base.HDXGPtP.gen.zh.202004071.IPC2.F351_F381.tgz
+[2020-04-09 16:52:59][upload_file][192.168.222.226]IS ON-LINE!
+[2020-04-09 16:52:59][upload_file][192.168.222.226]send file now
+[2020-04-09 16:52:59][upload_file][192.168.222.226]send file finished
+[2020-04-09 16:52:59][get_update_progressbar] 0
+[2020-04-09 16:53:01][get_update_progressbar] 0
+[2020-04-09 16:53:03][get_update_progressbar] 3
+[2020-04-09 16:53:05][get_update_progressbar] 13
+[2020-04-09 16:53:07][get_update_progressbar] 13
+[2020-04-09 16:53:09][get_update_progressbar] 28
+[2020-04-09 16:53:11][get_update_progressbar] 100
+[2020-04-09 16:53:11][new_before_upgrade_test]Upload Finished,Sleep(80)
+[2020-04-09 16:54:31][new_before_upgrade_test]Result Is VA3.351.1735-20200407-HDXGPtP-GEN
+[2020-04-09 16:54:31][new_before_upgrade_test]Get Test Data......It takes 93 secends
+[2020-04-09 16:54:31][new_before_upgrade_test]Sleep(30)
+[2020-04-09 16:55:01][new_before_upgrade_test]Corresponding Software Version Is:
+[2020-04-09 16:55:01][new_before_upgrade_test]11.tgz--VA3.351.1735-20200407-HDXGPtP-GEN
+[2020-04-09 16:55:01][new_before_upgrade_test]4.7-V-MSC313E.base.HDXGPtP.gen.zh.202004071.IPC2.F351_F381.tgz--VA3.351.1735-20200407-HDXGPtP-GEN
+[2020-04-09 16:55:01][start_upgrade_by_tgzs]Data Collection Complete!Start Upgrading Now!
+[2020-04-09 16:55:01][start_upgrade_by_tgzs:79]NO.1--11.tgz
+[2020-04-09 16:55:01][upload_file][192.168.222.226]IS ON-LINE!
+[2020-04-09 16:55:01][upload_file][http://192.168.222.226/webs/updateCfg]Start Send Curl!
+[2020-04-09 16:55:12][upload_file][http://192.168.222.226/webs/updateCfg]Close Curl!
+[2020-04-09 16:55:12][get_update_progressbar] 3
+[2020-04-09 16:55:14][get_update_progressbar] 13
+[2020-04-09 16:55:16][get_update_progressbar] 13
+[2020-04-09 16:55:18][get_update_progressbar] 28
+[2020-04-09 16:55:20][get_update_progressbar] 100
+[2020-04-09 16:55:20][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-04-09 16:56:40][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-04-09 16:56:40][start_upgrade_by_tgzs]The Version Is VA3.351.1735-20200407-HDXGPtP-GEN
+[2020-04-09 16:56:40][start_upgrade_by_tgzs]sleep(30)
+[2020-04-09 16:57:10][start_upgrade_by_tgzs:79]NO.2--4.7-V-MSC313E.base.HDXGPtP.gen.zh.202004071.IPC2.F351_F381.tgz
+[2020-04-09 16:57:10][upload_file][192.168.222.226]IS ON-LINE!
+[2020-04-09 16:57:10][upload_file][192.168.222.226]send file now
+[2020-04-09 16:57:10][upload_file][192.168.222.226]send file finished
+[2020-04-09 16:57:10][get_update_progressbar] 0
+[2020-04-09 16:57:12][get_update_progressbar] 0
+[2020-04-09 16:57:14][get_update_progressbar] 3
+[2020-04-09 16:57:16][get_update_progressbar] 3
+[2020-04-09 16:57:18][get_update_progressbar] 13
+[2020-04-09 16:57:20][get_update_progressbar] 13
+[2020-04-09 16:57:22][get_update_progressbar] 32
+[2020-04-09 16:57:24][get_update_progressbar] 100
+[2020-04-09 16:57:24][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-04-09 16:58:45][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-04-09 16:58:45][start_upgrade_by_tgzs]The Version Is VA3.351.1735-20200407-HDXGPtP-GEN
+[2020-04-09 16:58:45][start_upgrade_by_tgzs]sleep(30)
+[2020-04-09 16:59:15][start_upgrade_by_tgzs:79]NO.3--11.tgz
+[2020-04-09 16:59:18][upload_file][192.168.222.226]IS ON-LINE!
+[2020-04-09 16:59:18][upload_file][http://192.168.222.226/webs/updateCfg]Start Send Curl!
+[2020-04-09 16:59:58][upload_file][http://192.168.222.226/webs/updateCfg]Close Curl!
+[2020-04-09 17:00:00][get_update_progressbar] Err,Try Again
+[2020-04-09 17:00:02][get_update_progressbar] Err,Try Again
+[2020-04-09 17:00:04][get_update_progressbar] Err,Try Again
+[2020-04-09 17:00:06][get_update_progressbar] Err,Try Again
+[2020-04-09 17:00:08][get_update_progressbar] Err,Try Again
+[2020-04-09 17:00:08][start_upgrade_by_tgzs]progressbar error

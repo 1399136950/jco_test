@@ -1,0 +1,29 @@
+[2019-03-13 14:59:19][get_upload_file]Upgrade Pack Is--1.12-V3-MSC313E.base.HDXGP2P.gen.zh.201901121.IPC2.tgz
+[2019-03-13 14:59:19][get_upload_file]Upgrade Pack Is--1.tgz
+[2019-03-13 14:59:19][before_execute_script]Execute Script After 10 seconds!
+[2019-03-13 14:59:19][before_execute_script]Sleep(10)
+[2019-03-13 14:59:29][before_execute_script]Start!
+[2019-03-13 14:59:29][start_upgrade_by_tgzs]Begin Collecting Test Data......
+[2019-03-13 14:59:29][new_before_upgrade_test]Upload File Now
+[2019-03-13 14:59:29][new_before_upgrade_test]NO.1,FILE IS 1.12-V3-MSC313E.base.HDXGP2P.gen.zh.201901121.IPC2.tgz
+[2019-03-13 14:59:29][upload_file][192.168.200.189]IS ON-LINE!
+[2019-03-13 14:59:29][upload_file][192.168.200.189]send file now
+[2019-03-13 14:59:29][upload_file][192.168.200.189]send file finished
+[2019-03-13 14:59:29][get_update_progressbar] 0
+[2019-03-13 14:59:31][get_update_progressbar] 0
+[2019-03-13 14:59:33][get_update_progressbar] 3
+[2019-03-13 14:59:35][get_update_progressbar] 3
+[2019-03-13 14:59:37][get_update_progressbar] 3
+[2019-03-13 14:59:39][get_update_progressbar] 3
+[2019-03-13 14:59:41][get_update_progressbar] 3
+[2019-03-13 14:59:43][get_update_progressbar] 3
+[2019-03-13 14:59:45][get_update_progressbar] 3
+[2019-03-13 14:59:47][get_update_progressbar] 3
+[2019-03-13 14:59:49][get_update_progressbar] 3
+[2019-03-13 14:59:51][get_update_progressbar] 3
+[2019-03-13 14:59:53][get_update_progressbar] 3
+[2019-03-13 14:59:55][get_update_progressbar] 3
+[2019-03-13 14:59:57][get_update_progressbar] 3
+[2019-03-13 14:59:59][get_update_progressbar] 3
+[2019-03-13 15:00:01][get_update_progressbar] 3
+[2019-03-13 15:00:03][get_update_progressbar] 3

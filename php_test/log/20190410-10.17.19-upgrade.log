@@ -1,0 +1,984 @@
+[2019-04-10 10:17:19][get_upload_file]Upgrade Pack Is--1.tgz
+[2019-04-10 10:17:19][get_upload_file]Upgrade Pack Is--4.10-VB-SSC325.starlight.HDXP2P.gen.zh.201904101.IPC2.H(F)38.tgz
+[2019-04-10 10:17:19][before_execute_script]Execute Script After 10 seconds!
+[2019-04-10 10:17:19][before_execute_script]Sleep(10)
+[2019-04-10 10:17:29][before_execute_script]Start!
+[2019-04-10 10:17:29][start_upgrade_by_tgzs]Begin Collecting Test Data......
+[2019-04-10 10:17:29][new_before_upgrade_test]Upload File Now
+[2019-04-10 10:17:29][new_before_upgrade_test]NO.1,FILE IS 1.tgz
+[2019-04-10 10:17:29][upload_file][192.168.15.220]IS ON-LINE!
+[2019-04-10 10:17:29][upload_file][192.168.15.220]send file now
+[2019-04-10 10:17:29][upload_file][192.168.15.220]send file finished
+[2019-04-10 10:17:29][get_update_progressbar] 0
+[2019-04-10 10:17:31][get_update_progressbar] 3
+[2019-04-10 10:17:33][get_update_progressbar] 13
+[2019-04-10 10:17:35][get_update_progressbar] 15
+[2019-04-10 10:17:37][get_update_progressbar] 32
+[2019-04-10 10:17:39][get_update_progressbar] 44
+[2019-04-10 10:17:41][get_update_progressbar] 100
+[2019-04-10 10:17:41][new_before_upgrade_test]Upload Finished,Sleep(80)
+[2019-04-10 10:19:01][new_before_upgrade_test]Result Is VB1.38.0840-20190410-HDXP2P-GEN
+[2019-04-10 10:19:01][new_before_upgrade_test]Get Test Data......It takes 93 secends
+[2019-04-10 10:19:01][new_before_upgrade_test]Sleep(30)
+[2019-04-10 10:19:31][new_before_upgrade_test]Upload File Now
+[2019-04-10 10:19:31][new_before_upgrade_test]NO.2,FILE IS 1.tgz
+[2019-04-10 10:19:31][upload_file][192.168.15.220]IS ON-LINE!
+[2019-04-10 10:19:31][upload_file][192.168.15.220]send file now
+[2019-04-10 10:19:31][upload_file][192.168.15.220]send file finished
+[2019-04-10 10:19:31][get_update_progressbar] 0
+[2019-04-10 10:19:33][get_update_progressbar] 3
+[2019-04-10 10:19:35][get_update_progressbar] 13
+[2019-04-10 10:19:37][get_update_progressbar] 13
+[2019-04-10 10:19:39][get_update_progressbar] 32
+[2019-04-10 10:19:41][get_update_progressbar] 100
+[2019-04-10 10:19:41][new_before_upgrade_test]Upload Finished,Sleep(80)
+[2019-04-10 10:21:01][new_before_upgrade_test]Result Is VB1.38.0840-20190410-HDXP2P-GEN
+[2019-04-10 10:21:01][new_before_upgrade_test]Get Test Data......It takes 91 secends
+[2019-04-10 10:21:01][new_before_upgrade_test]Sleep(30)
+[2019-04-10 10:21:31][new_before_upgrade_test]Upload File Now
+[2019-04-10 10:21:31][new_before_upgrade_test]NO.1,FILE IS 4.10-VB-SSC325.starlight.HDXP2P.gen.zh.201904101.IPC2.H(F)38.tgz
+[2019-04-10 10:21:31][upload_file][192.168.15.220]IS ON-LINE!
+[2019-04-10 10:21:31][upload_file][192.168.15.220]send file now
+[2019-04-10 10:21:31][upload_file][192.168.15.220]send file finished
+[2019-04-10 10:21:31][get_update_progressbar] 0
+[2019-04-10 10:21:33][get_update_progressbar] 13
+[2019-04-10 10:21:35][get_update_progressbar] 13
+[2019-04-10 10:21:37][get_update_progressbar] 15
+[2019-04-10 10:21:39][get_update_progressbar] 32
+[2019-04-10 10:21:41][get_update_progressbar] 100
+[2019-04-10 10:21:41][new_before_upgrade_test]Upload Finished,Sleep(80)
+[2019-04-10 10:23:02][new_before_upgrade_test]Result Is VB1.38.0840-20190410-HDXP2P-GEN
+[2019-04-10 10:23:02][new_before_upgrade_test]Get Test Data......It takes 91 secends
+[2019-04-10 10:23:02][new_before_upgrade_test]Sleep(30)
+[2019-04-10 10:23:32][new_before_upgrade_test]Upload File Now
+[2019-04-10 10:23:32][new_before_upgrade_test]NO.2,FILE IS 4.10-VB-SSC325.starlight.HDXP2P.gen.zh.201904101.IPC2.H(F)38.tgz
+[2019-04-10 10:23:32][upload_file][192.168.15.220]IS ON-LINE!
+[2019-04-10 10:23:32][upload_file][192.168.15.220]send file now
+[2019-04-10 10:23:32][upload_file][192.168.15.220]send file finished
+[2019-04-10 10:23:32][get_update_progressbar] 0
+[2019-04-10 10:23:34][get_update_progressbar] 3
+[2019-04-10 10:23:36][get_update_progressbar] 13
+[2019-04-10 10:23:38][get_update_progressbar] 15
+[2019-04-10 10:23:40][get_update_progressbar] 32
+[2019-04-10 10:23:42][get_update_progressbar] 100
+[2019-04-10 10:23:42][new_before_upgrade_test]Upload Finished,Sleep(80)
+[2019-04-10 10:25:02][new_before_upgrade_test]Result Is VB1.38.0840-20190410-HDXP2P-GEN
+[2019-04-10 10:25:02][new_before_upgrade_test]Get Test Data......It takes 91 secends
+[2019-04-10 10:25:02][new_before_upgrade_test]Sleep(30)
+[2019-04-10 10:25:32][new_before_upgrade_test]Corresponding Software Version Is:
+[2019-04-10 10:25:32][new_before_upgrade_test]1.tgz--VB1.38.0840-20190410-HDXP2P-GEN
+[2019-04-10 10:25:32][new_before_upgrade_test]4.10-VB-SSC325.starlight.HDXP2P.gen.zh.201904101.IPC2.H(F)38.tgz--VB1.38.0840-20190410-HDXP2P-GEN
+[2019-04-10 10:25:32][start_upgrade_by_tgzs]Data Collection Complete!Start Upgrading Now!
+[2019-04-10 10:25:32][start_upgrade_by_tgzs:79]NO.1--1.tgz
+[2019-04-10 10:25:32][upload_file][192.168.15.220]IS ON-LINE!
+[2019-04-10 10:25:32][upload_file][192.168.15.220]send file now
+[2019-04-10 10:25:32][upload_file][192.168.15.220]send file finished
+[2019-04-10 10:25:32][get_update_progressbar] 0
+[2019-04-10 10:25:34][get_update_progressbar] 13
+[2019-04-10 10:25:36][get_update_progressbar] 32
+[2019-04-10 10:25:38][get_update_progressbar] 32
+[2019-04-10 10:25:40][get_update_progressbar] 100
+[2019-04-10 10:25:40][start_upgrade_by_tgzs:225]Upload Finshed,Sleep(80)
+[2019-04-10 10:27:00][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2019-04-10 10:27:00][start_upgrade_by_tgzs]The Version Is VB1.38.0840-20190410-HDXP2P-GEN
+[2019-04-10 10:27:00][start_upgrade_by_tgzs]sleep(30)
+[2019-04-10 10:27:30][start_upgrade_by_tgzs:79]NO.2--4.10-VB-SSC325.starlight.HDXP2P.gen.zh.201904101.IPC2.H(F)38.tgz
+[2019-04-10 10:27:30][upload_file][192.168.15.220]IS ON-LINE!
+[2019-04-10 10:27:30][upload_file][192.168.15.220]send file now
+[2019-04-10 10:27:30][upload_file][192.168.15.220]send file finished
+[2019-04-10 10:27:30][get_update_progressbar] 0
+[2019-04-10 10:27:32][get_update_progressbar] 3
+[2019-04-10 10:27:34][get_update_progressbar] 13
+[2019-04-10 10:27:36][get_update_progressbar] 15
+[2019-04-10 10:27:38][get_update_progressbar] 32
+[2019-04-10 10:27:40][get_update_progressbar] 100
+[2019-04-10 10:27:40][start_upgrade_by_tgzs:225]Upload Finshed,Sleep(80)
+[2019-04-10 10:29:00][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2019-04-10 10:29:00][start_upgrade_by_tgzs]The Version Is VB1.38.0840-20190410-HDXP2P-GEN
+[2019-04-10 10:29:00][start_upgrade_by_tgzs]sleep(30)
+[2019-04-10 10:29:30][start_upgrade_by_tgzs:79]NO.3--1.tgz
+[2019-04-10 10:29:30][upload_file][192.168.15.220]IS ON-LINE!
+[2019-04-10 10:29:30][upload_file][192.168.15.220]send file now
+[2019-04-10 10:29:30][upload_file][192.168.15.220]send file finished
+[2019-04-10 10:29:30][get_update_progressbar] 0
+[2019-04-10 10:29:32][get_update_progressbar] 13
+[2019-04-10 10:29:34][get_update_progressbar] 13
+[2019-04-10 10:29:36][get_update_progressbar] 28
+[2019-04-10 10:29:38][get_update_progressbar] 32
+[2019-04-10 10:29:40][get_update_progressbar] 100
+[2019-04-10 10:29:40][start_upgrade_by_tgzs:225]Upload Finshed,Sleep(80)
+[2019-04-10 10:31:00][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2019-04-10 10:31:00][start_upgrade_by_tgzs]The Version Is VB1.38.0840-20190410-HDXP2P-GEN
+[2019-04-10 10:31:00][start_upgrade_by_tgzs]sleep(30)
+[2019-04-10 10:31:30][start_upgrade_by_tgzs:79]NO.4--4.10-VB-SSC325.starlight.HDXP2P.gen.zh.201904101.IPC2.H(F)38.tgz
+[2019-04-10 10:31:30][upload_file][192.168.15.220]IS ON-LINE!
+[2019-04-10 10:31:30][upload_file][192.168.15.220]send file now
+[2019-04-10 10:31:30][upload_file][192.168.15.220]send file finished
+[2019-04-10 10:31:30][get_update_progressbar] 0
+[2019-04-10 10:31:32][get_update_progressbar] 13
+[2019-04-10 10:31:34][get_update_progressbar] 15
+[2019-04-10 10:31:36][get_update_progressbar] 32
+[2019-04-10 10:31:38][get_update_progressbar] 100
+[2019-04-10 10:31:38][start_upgrade_by_tgzs:225]Upload Finshed,Sleep(80)
+[2019-04-10 10:32:58][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2019-04-10 10:32:58][start_upgrade_by_tgzs]The Version Is VB1.38.0840-20190410-HDXP2P-GEN
+[2019-04-10 10:32:58][start_upgrade_by_tgzs]sleep(30)
+[2019-04-10 10:33:28][start_upgrade_by_tgzs:79]NO.5--1.tgz
+[2019-04-10 10:33:28][upload_file][192.168.15.220]IS ON-LINE!
+[2019-04-10 10:33:28][upload_file][192.168.15.220]send file now
+[2019-04-10 10:33:28][upload_file][192.168.15.220]send file finished
+[2019-04-10 10:33:28][get_update_progressbar] 0
+[2019-04-10 10:33:30][get_update_progressbar] 3
+[2019-04-10 10:33:32][get_update_progressbar] 13
+[2019-04-10 10:33:34][get_update_progressbar] 15
+[2019-04-10 10:33:36][get_update_progressbar] 28
+[2019-04-10 10:33:38][get_update_progressbar] 100
+[2019-04-10 10:33:38][start_upgrade_by_tgzs:225]Upload Finshed,Sleep(80)
+[2019-04-10 10:34:59][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2019-04-10 10:34:59][start_upgrade_by_tgzs]The Version Is VB1.38.0840-20190410-HDXP2P-GEN
+[2019-04-10 10:34:59][start_upgrade_by_tgzs]sleep(30)
+[2019-04-10 10:35:29][start_upgrade_by_tgzs:79]NO.6--4.10-VB-SSC325.starlight.HDXP2P.gen.zh.201904101.IPC2.H(F)38.tgz
+[2019-04-10 10:35:29][upload_file][192.168.15.220]IS ON-LINE!
+[2019-04-10 10:35:29][upload_file][192.168.15.220]send file now
+[2019-04-10 10:35:29][upload_file][192.168.15.220]send file finished
+[2019-04-10 10:35:29][get_update_progressbar] 0
+[2019-04-10 10:35:31][get_update_progressbar] 3
+[2019-04-10 10:35:33][get_update_progressbar] 13
+[2019-04-10 10:35:35][get_update_progressbar] 15
+[2019-04-10 10:35:37][get_update_progressbar] 32
+[2019-04-10 10:35:39][get_update_progressbar] 100
+[2019-04-10 10:35:39][start_upgrade_by_tgzs:225]Upload Finshed,Sleep(80)
+[2019-04-10 10:36:59][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2019-04-10 10:36:59][start_upgrade_by_tgzs]The Version Is VB1.38.0840-20190410-HDXP2P-GEN
+[2019-04-10 10:36:59][start_upgrade_by_tgzs]sleep(30)
+[2019-04-10 10:37:29][start_upgrade_by_tgzs:79]NO.7--1.tgz
+[2019-04-10 10:37:29][upload_file][192.168.15.220]IS ON-LINE!
+[2019-04-10 10:37:29][upload_file][192.168.15.220]send file now
+[2019-04-10 10:37:29][upload_file][192.168.15.220]send file finished
+[2019-04-10 10:37:29][get_update_progressbar] 0
+[2019-04-10 10:37:31][get_update_progressbar] 3
+[2019-04-10 10:37:33][get_update_progressbar] 13
+[2019-04-10 10:37:35][get_update_progressbar] 13
+[2019-04-10 10:37:37][get_update_progressbar] 28
+[2019-04-10 10:37:39][get_update_progressbar] 32
+[2019-04-10 10:37:41][get_update_progressbar] 100
+[2019-04-10 10:37:41][start_upgrade_by_tgzs:225]Upload Finshed,Sleep(80)
+[2019-04-10 10:39:01][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2019-04-10 10:39:01][start_upgrade_by_tgzs]The Version Is VB1.38.0840-20190410-HDXP2P-GEN
+[2019-04-10 10:39:01][start_upgrade_by_tgzs]sleep(30)
+[2019-04-10 10:39:31][start_upgrade_by_tgzs:79]NO.8--4.10-VB-SSC325.starlight.HDXP2P.gen.zh.201904101.IPC2.H(F)38.tgz
+[2019-04-10 10:39:31][upload_file][192.168.15.220]IS ON-LINE!
+[2019-04-10 10:39:31][upload_file][192.168.15.220]send file now
+[2019-04-10 10:39:31][upload_file][192.168.15.220]send file finished
+[2019-04-10 10:39:31][get_update_progressbar] 0
+[2019-04-10 10:39:33][get_update_progressbar] 3
+[2019-04-10 10:39:35][get_update_progressbar] 13
+[2019-04-10 10:39:37][get_update_progressbar] 15
+[2019-04-10 10:39:39][get_update_progressbar] 32
+[2019-04-10 10:39:41][get_update_progressbar] 100
+[2019-04-10 10:39:41][start_upgrade_by_tgzs:225]Upload Finshed,Sleep(80)
+[2019-04-10 10:41:01][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2019-04-10 10:41:01][start_upgrade_by_tgzs]The Version Is VB1.38.0840-20190410-HDXP2P-GEN
+[2019-04-10 10:41:01][start_upgrade_by_tgzs]sleep(30)
+[2019-04-10 10:41:31][start_upgrade_by_tgzs:79]NO.9--1.tgz
+[2019-04-10 10:41:31][upload_file][192.168.15.220]IS ON-LINE!
+[2019-04-10 10:41:31][upload_file][192.168.15.220]send file now
+[2019-04-10 10:41:31][upload_file][192.168.15.220]send file finished
+[2019-04-10 10:41:31][get_update_progressbar] 0
+[2019-04-10 10:41:33][get_update_progressbar] 3
+[2019-04-10 10:41:35][get_update_progressbar] 13
+[2019-04-10 10:41:37][get_update_progressbar] 13
+[2019-04-10 10:41:39][get_update_progressbar] 28
+[2019-04-10 10:41:41][get_update_progressbar] 32
+[2019-04-10 10:41:43][get_update_progressbar] 100
+[2019-04-10 10:41:43][start_upgrade_by_tgzs:225]Upload Finshed,Sleep(80)
+[2019-04-10 10:43:03][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2019-04-10 10:43:03][start_upgrade_by_tgzs]The Version Is VB1.38.0840-20190410-HDXP2P-GEN
+[2019-04-10 10:43:03][start_upgrade_by_tgzs]sleep(30)
+[2019-04-10 10:43:33][start_upgrade_by_tgzs:79]NO.10--4.10-VB-SSC325.starlight.HDXP2P.gen.zh.201904101.IPC2.H(F)38.tgz
+[2019-04-10 10:43:33][upload_file][192.168.15.220]IS ON-LINE!
+[2019-04-10 10:43:33][upload_file][192.168.15.220]send file now
+[2019-04-10 10:43:33][upload_file][192.168.15.220]send file finished
+[2019-04-10 10:43:33][get_update_progressbar] 0
+[2019-04-10 10:43:35][get_update_progressbar] 3
+[2019-04-10 10:43:37][get_update_progressbar] 13
+[2019-04-10 10:43:39][get_update_progressbar] 28
+[2019-04-10 10:43:41][get_update_progressbar] 32
+[2019-04-10 10:43:43][get_update_progressbar] 100
+[2019-04-10 10:43:43][start_upgrade_by_tgzs:225]Upload Finshed,Sleep(80)
+[2019-04-10 10:45:03][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2019-04-10 10:45:03][start_upgrade_by_tgzs]The Version Is VB1.38.0840-20190410-HDXP2P-GEN
+[2019-04-10 10:45:03][start_upgrade_by_tgzs]sleep(30)
+[2019-04-10 10:45:33][start_upgrade_by_tgzs:79]NO.11--1.tgz
+[2019-04-10 10:45:33][upload_file][192.168.15.220]IS ON-LINE!
+[2019-04-10 10:45:33][upload_file][192.168.15.220]send file now
+[2019-04-10 10:45:33][upload_file][192.168.15.220]send file finished
+[2019-04-10 10:45:33][get_update_progressbar] 0
+[2019-04-10 10:45:35][get_update_progressbar] 13
+[2019-04-10 10:45:38][get_update_progressbar] 13
+[2019-04-10 10:45:40][get_update_progressbar] 28
+[2019-04-10 10:45:42][get_update_progressbar] 32
+[2019-04-10 10:45:44][get_update_progressbar] 100
+[2019-04-10 10:45:44][start_upgrade_by_tgzs:225]Upload Finshed,Sleep(80)
+[2019-04-10 10:47:04][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2019-04-10 10:47:04][start_upgrade_by_tgzs]The Version Is VB1.38.0840-20190410-HDXP2P-GEN
+[2019-04-10 10:47:04][start_upgrade_by_tgzs]sleep(30)
+[2019-04-10 10:47:34][start_upgrade_by_tgzs:79]NO.12--4.10-VB-SSC325.starlight.HDXP2P.gen.zh.201904101.IPC2.H(F)38.tgz
+[2019-04-10 10:47:34][upload_file][192.168.15.220]IS ON-LINE!
+[2019-04-10 10:47:34][upload_file][192.168.15.220]send file now
+[2019-04-10 10:47:34][upload_file][192.168.15.220]send file finished
+[2019-04-10 10:47:34][get_update_progressbar] 0
+[2019-04-10 10:47:36][get_update_progressbar] 3
+[2019-04-10 10:47:38][get_update_progressbar] 13
+[2019-04-10 10:47:40][get_update_progressbar] 28
+[2019-04-10 10:47:42][get_update_progressbar] 32
+[2019-04-10 10:47:44][get_update_progressbar] 100
+[2019-04-10 10:47:44][start_upgrade_by_tgzs:225]Upload Finshed,Sleep(80)
+[2019-04-10 10:49:04][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2019-04-10 10:49:04][start_upgrade_by_tgzs]The Version Is VB1.38.0840-20190410-HDXP2P-GEN
+[2019-04-10 10:49:04][start_upgrade_by_tgzs]sleep(30)
+[2019-04-10 10:49:34][start_upgrade_by_tgzs:79]NO.13--1.tgz
+[2019-04-10 10:49:34][upload_file][192.168.15.220]IS ON-LINE!
+[2019-04-10 10:49:34][upload_file][192.168.15.220]send file now
+[2019-04-10 10:49:34][upload_file][192.168.15.220]send file finished
+[2019-04-10 10:49:34][get_update_progressbar] 0
+[2019-04-10 10:49:36][get_update_progressbar] 3
+[2019-04-10 10:49:38][get_update_progressbar] 13
+[2019-04-10 10:49:40][get_update_progressbar] 13
+[2019-04-10 10:49:42][get_update_progressbar] 28
+[2019-04-10 10:49:44][get_update_progressbar] 32
+[2019-04-10 10:49:46][get_update_progressbar] 100
+[2019-04-10 10:49:46][start_upgrade_by_tgzs:225]Upload Finshed,Sleep(80)
+[2019-04-10 10:51:06][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2019-04-10 10:51:06][start_upgrade_by_tgzs]The Version Is VB1.38.0840-20190410-HDXP2P-GEN
+[2019-04-10 10:51:06][start_upgrade_by_tgzs]sleep(30)
+[2019-04-10 10:51:36][start_upgrade_by_tgzs:79]NO.14--4.10-VB-SSC325.starlight.HDXP2P.gen.zh.201904101.IPC2.H(F)38.tgz
+[2019-04-10 10:51:36][upload_file][192.168.15.220]IS ON-LINE!
+[2019-04-10 10:51:36][upload_file][192.168.15.220]send file now
+[2019-04-10 10:51:36][upload_file][192.168.15.220]send file finished
+[2019-04-10 10:51:36][get_update_progressbar] 0
+[2019-04-10 10:51:38][get_update_progressbar] 3
+[2019-04-10 10:51:40][get_update_progressbar] 13
+[2019-04-10 10:51:42][get_update_progressbar] 15
+[2019-04-10 10:51:44][get_update_progressbar] 32
+[2019-04-10 10:51:46][get_update_progressbar] 100
+[2019-04-10 10:51:46][start_upgrade_by_tgzs:225]Upload Finshed,Sleep(80)
+[2019-04-10 10:53:06][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2019-04-10 10:53:06][start_upgrade_by_tgzs]The Version Is VB1.38.0840-20190410-HDXP2P-GEN
+[2019-04-10 10:53:06][start_upgrade_by_tgzs]sleep(30)
+[2019-04-10 10:53:36][start_upgrade_by_tgzs:79]NO.15--1.tgz
+[2019-04-10 10:53:36][upload_file][192.168.15.220]IS ON-LINE!
+[2019-04-10 10:53:36][upload_file][192.168.15.220]send file now
+[2019-04-10 10:53:36][upload_file][192.168.15.220]send file finished
+[2019-04-10 10:53:36][get_update_progressbar] 0
+[2019-04-10 10:53:38][get_update_progressbar] 13
+[2019-04-10 10:53:40][get_update_progressbar] 13
+[2019-04-10 10:53:42][get_update_progressbar] 15
+[2019-04-10 10:53:44][get_update_progressbar] 32
+[2019-04-10 10:53:46][get_update_progressbar] 100
+[2019-04-10 10:53:46][start_upgrade_by_tgzs:225]Upload Finshed,Sleep(80)
+[2019-04-10 10:55:06][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2019-04-10 10:55:06][start_upgrade_by_tgzs]The Version Is VB1.38.0840-20190410-HDXP2P-GEN
+[2019-04-10 10:55:06][start_upgrade_by_tgzs]sleep(30)
+[2019-04-10 10:55:36][start_upgrade_by_tgzs:79]NO.16--4.10-VB-SSC325.starlight.HDXP2P.gen.zh.201904101.IPC2.H(F)38.tgz
+[2019-04-10 10:55:36][upload_file][192.168.15.220]IS ON-LINE!
+[2019-04-10 10:55:36][upload_file][192.168.15.220]send file now
+[2019-04-10 10:55:36][upload_file][192.168.15.220]send file finished
+[2019-04-10 10:55:36][get_update_progressbar] 0
+[2019-04-10 10:55:38][get_update_progressbar] 3
+[2019-04-10 10:55:40][get_update_progressbar] 13
+[2019-04-10 10:55:42][get_update_progressbar] 13
+[2019-04-10 10:55:44][get_update_progressbar] 32
+[2019-04-10 10:55:46][get_update_progressbar] 40
+[2019-04-10 10:55:48][get_update_progressbar] 100
+[2019-04-10 10:55:48][start_upgrade_by_tgzs:225]Upload Finshed,Sleep(80)
+[2019-04-10 10:57:08][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2019-04-10 10:57:08][start_upgrade_by_tgzs]The Version Is VB1.38.0840-20190410-HDXP2P-GEN
+[2019-04-10 10:57:08][start_upgrade_by_tgzs]sleep(30)
+[2019-04-10 10:57:38][start_upgrade_by_tgzs:79]NO.17--1.tgz
+[2019-04-10 10:57:38][upload_file][192.168.15.220]IS ON-LINE!
+[2019-04-10 10:57:38][upload_file][192.168.15.220]send file now
+[2019-04-10 10:57:38][upload_file][192.168.15.220]send file finished
+[2019-04-10 10:57:38][get_update_progressbar] 0
+[2019-04-10 10:57:40][get_update_progressbar] 13
+[2019-04-10 10:57:42][get_update_progressbar] 13
+[2019-04-10 10:57:44][get_update_progressbar] 15
+[2019-04-10 10:57:46][get_update_progressbar] 32
+[2019-04-10 10:57:48][get_update_progressbar] 100
+[2019-04-10 10:57:48][start_upgrade_by_tgzs:225]Upload Finshed,Sleep(80)
+[2019-04-10 10:59:08][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2019-04-10 10:59:08][start_upgrade_by_tgzs]The Version Is VB1.38.0840-20190410-HDXP2P-GEN
+[2019-04-10 10:59:08][start_upgrade_by_tgzs]sleep(30)
+[2019-04-10 10:59:38][start_upgrade_by_tgzs:79]NO.18--4.10-VB-SSC325.starlight.HDXP2P.gen.zh.201904101.IPC2.H(F)38.tgz
+[2019-04-10 10:59:38][upload_file][192.168.15.220]IS ON-LINE!
+[2019-04-10 10:59:38][upload_file][192.168.15.220]send file now
+[2019-04-10 10:59:38][upload_file][192.168.15.220]send file finished
+[2019-04-10 10:59:38][get_update_progressbar] 0
+[2019-04-10 10:59:40][get_update_progressbar] 13
+[2019-04-10 10:59:42][get_update_progressbar] 13
+[2019-04-10 10:59:44][get_update_progressbar] 32
+[2019-04-10 10:59:46][get_update_progressbar] 100
+[2019-04-10 10:59:46][start_upgrade_by_tgzs:225]Upload Finshed,Sleep(80)
+[2019-04-10 11:01:06][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2019-04-10 11:01:06][start_upgrade_by_tgzs]The Version Is VB1.38.0840-20190410-HDXP2P-GEN
+[2019-04-10 11:01:06][start_upgrade_by_tgzs]sleep(30)
+[2019-04-10 11:01:36][start_upgrade_by_tgzs:79]NO.19--1.tgz
+[2019-04-10 11:01:36][upload_file][192.168.15.220]IS ON-LINE!
+[2019-04-10 11:01:36][upload_file][192.168.15.220]send file now
+[2019-04-10 11:01:36][upload_file][192.168.15.220]send file finished
+[2019-04-10 11:01:36][get_update_progressbar] 0
+[2019-04-10 11:01:38][get_update_progressbar] 13
+[2019-04-10 11:01:40][get_update_progressbar] 13
+[2019-04-10 11:01:42][get_update_progressbar] 15
+[2019-04-10 11:01:44][get_update_progressbar] 32
+[2019-04-10 11:01:46][get_update_progressbar] 100
+[2019-04-10 11:01:46][start_upgrade_by_tgzs:225]Upload Finshed,Sleep(80)
+[2019-04-10 11:03:07][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2019-04-10 11:03:07][start_upgrade_by_tgzs]The Version Is VB1.38.0840-20190410-HDXP2P-GEN
+[2019-04-10 11:03:07][start_upgrade_by_tgzs]sleep(30)
+[2019-04-10 11:03:37][start_upgrade_by_tgzs:79]NO.20--4.10-VB-SSC325.starlight.HDXP2P.gen.zh.201904101.IPC2.H(F)38.tgz
+[2019-04-10 11:03:37][upload_file][192.168.15.220]IS ON-LINE!
+[2019-04-10 11:03:37][upload_file][192.168.15.220]send file now
+[2019-04-10 11:03:37][upload_file][192.168.15.220]send file finished
+[2019-04-10 11:03:37][get_update_progressbar] 0
+[2019-04-10 11:03:39][get_update_progressbar] 13
+[2019-04-10 11:03:41][get_update_progressbar] 13
+[2019-04-10 11:03:43][get_update_progressbar] 28
+[2019-04-10 11:03:45][get_update_progressbar] 32
+[2019-04-10 11:03:47][get_update_progressbar] 100
+[2019-04-10 11:03:47][start_upgrade_by_tgzs:225]Upload Finshed,Sleep(80)
+[2019-04-10 11:05:07][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2019-04-10 11:05:07][start_upgrade_by_tgzs]The Version Is VB1.38.0840-20190410-HDXP2P-GEN
+[2019-04-10 11:05:07][start_upgrade_by_tgzs]sleep(30)
+[2019-04-10 11:05:37][start_upgrade_by_tgzs:79]NO.21--1.tgz
+[2019-04-10 11:05:37][upload_file][192.168.15.220]IS ON-LINE!
+[2019-04-10 11:05:37][upload_file][192.168.15.220]send file now
+[2019-04-10 11:05:37][upload_file][192.168.15.220]send file finished
+[2019-04-10 11:05:37][get_update_progressbar] 0
+[2019-04-10 11:05:39][get_update_progressbar] 3
+[2019-04-10 11:05:41][get_update_progressbar] 13
+[2019-04-10 11:05:43][get_update_progressbar] 13
+[2019-04-10 11:05:45][get_update_progressbar] 32
+[2019-04-10 11:05:47][get_update_progressbar] 100
+[2019-04-10 11:05:47][start_upgrade_by_tgzs:225]Upload Finshed,Sleep(80)
+[2019-04-10 11:07:07][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2019-04-10 11:07:07][start_upgrade_by_tgzs]The Version Is VB1.38.0840-20190410-HDXP2P-GEN
+[2019-04-10 11:07:07][start_upgrade_by_tgzs]sleep(30)
+[2019-04-10 11:07:37][start_upgrade_by_tgzs:79]NO.22--4.10-VB-SSC325.starlight.HDXP2P.gen.zh.201904101.IPC2.H(F)38.tgz
+[2019-04-10 11:07:37][upload_file][192.168.15.220]IS ON-LINE!
+[2019-04-10 11:07:37][upload_file][192.168.15.220]send file now
+[2019-04-10 11:07:37][upload_file][192.168.15.220]send file finished
+[2019-04-10 11:07:37][get_update_progressbar] 0
+[2019-04-10 11:07:39][get_update_progressbar] 13
+[2019-04-10 11:07:41][get_update_progressbar] 13
+[2019-04-10 11:07:43][get_update_progressbar] 15
+[2019-04-10 11:07:45][get_update_progressbar] 32
+[2019-04-10 11:07:47][get_update_progressbar] 100
+[2019-04-10 11:07:47][start_upgrade_by_tgzs:225]Upload Finshed,Sleep(80)
+[2019-04-10 11:09:07][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2019-04-10 11:09:07][start_upgrade_by_tgzs]The Version Is VB1.38.0840-20190410-HDXP2P-GEN
+[2019-04-10 11:09:07][start_upgrade_by_tgzs]sleep(30)
+[2019-04-10 11:09:37][start_upgrade_by_tgzs:79]NO.23--1.tgz
+[2019-04-10 11:09:37][upload_file][192.168.15.220]IS ON-LINE!
+[2019-04-10 11:09:37][upload_file][192.168.15.220]send file now
+[2019-04-10 11:09:37][upload_file][192.168.15.220]send file finished
+[2019-04-10 11:09:37][get_update_progressbar] 0
+[2019-04-10 11:09:39][get_update_progressbar] 3
+[2019-04-10 11:09:41][get_update_progressbar] 13
+[2019-04-10 11:09:43][get_update_progressbar] 13
+[2019-04-10 11:09:45][get_update_progressbar] 28
+[2019-04-10 11:09:47][get_update_progressbar] 32
+[2019-04-10 11:09:49][get_update_progressbar] 100
+[2019-04-10 11:09:49][start_upgrade_by_tgzs:225]Upload Finshed,Sleep(80)
+[2019-04-10 11:11:09][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2019-04-10 11:11:09][start_upgrade_by_tgzs]The Version Is VB1.38.0840-20190410-HDXP2P-GEN
+[2019-04-10 11:11:09][start_upgrade_by_tgzs]sleep(30)
+[2019-04-10 11:11:39][start_upgrade_by_tgzs:79]NO.24--4.10-VB-SSC325.starlight.HDXP2P.gen.zh.201904101.IPC2.H(F)38.tgz
+[2019-04-10 11:11:39][upload_file][192.168.15.220]IS ON-LINE!
+[2019-04-10 11:11:39][upload_file][192.168.15.220]send file now
+[2019-04-10 11:11:39][upload_file][192.168.15.220]send file finished
+[2019-04-10 11:11:39][get_update_progressbar] 0
+[2019-04-10 11:11:41][get_update_progressbar] 3
+[2019-04-10 11:11:43][get_update_progressbar] 13
+[2019-04-10 11:11:45][get_update_progressbar] 15
+[2019-04-10 11:11:47][get_update_progressbar] 36
+[2019-04-10 11:11:49][get_update_progressbar] 100
+[2019-04-10 11:11:49][start_upgrade_by_tgzs:225]Upload Finshed,Sleep(80)
+[2019-04-10 11:13:09][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2019-04-10 11:13:09][start_upgrade_by_tgzs]The Version Is VB1.38.0840-20190410-HDXP2P-GEN
+[2019-04-10 11:13:09][start_upgrade_by_tgzs]sleep(30)
+[2019-04-10 11:13:39][start_upgrade_by_tgzs:79]NO.25--1.tgz
+[2019-04-10 11:13:39][upload_file][192.168.15.220]IS ON-LINE!
+[2019-04-10 11:13:39][upload_file][192.168.15.220]send file now
+[2019-04-10 11:13:39][upload_file][192.168.15.220]send file finished
+[2019-04-10 11:13:39][get_update_progressbar] 0
+[2019-04-10 11:13:41][get_update_progressbar] 13
+[2019-04-10 11:13:43][get_update_progressbar] 13
+[2019-04-10 11:13:45][get_update_progressbar] 32
+[2019-04-10 11:13:47][get_update_progressbar] 36
+[2019-04-10 11:13:49][get_update_progressbar] 100
+[2019-04-10 11:13:49][start_upgrade_by_tgzs:225]Upload Finshed,Sleep(80)
+[2019-04-10 11:15:09][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2019-04-10 11:15:09][start_upgrade_by_tgzs]The Version Is VB1.38.0840-20190410-HDXP2P-GEN
+[2019-04-10 11:15:09][start_upgrade_by_tgzs]sleep(30)
+[2019-04-10 11:15:40][start_upgrade_by_tgzs:79]NO.26--4.10-VB-SSC325.starlight.HDXP2P.gen.zh.201904101.IPC2.H(F)38.tgz
+[2019-04-10 11:15:40][upload_file][192.168.15.220]IS ON-LINE!
+[2019-04-10 11:15:40][upload_file][192.168.15.220]send file now
+[2019-04-10 11:15:40][upload_file][192.168.15.220]send file finished
+[2019-04-10 11:15:40][get_update_progressbar] 0
+[2019-04-10 11:15:42][get_update_progressbar] 3
+[2019-04-10 11:15:44][get_update_progressbar] 13
+[2019-04-10 11:15:46][get_update_progressbar] 28
+[2019-04-10 11:15:48][get_update_progressbar] 32
+[2019-04-10 11:15:50][get_update_progressbar] 100
+[2019-04-10 11:15:50][start_upgrade_by_tgzs:225]Upload Finshed,Sleep(80)
+[2019-04-10 11:17:10][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2019-04-10 11:17:10][start_upgrade_by_tgzs]The Version Is VB1.38.0840-20190410-HDXP2P-GEN
+[2019-04-10 11:17:10][start_upgrade_by_tgzs]sleep(30)
+[2019-04-10 11:17:40][start_upgrade_by_tgzs:79]NO.27--1.tgz
+[2019-04-10 11:17:40][upload_file][192.168.15.220]IS ON-LINE!
+[2019-04-10 11:17:40][upload_file][192.168.15.220]send file now
+[2019-04-10 11:17:40][upload_file][192.168.15.220]send file finished
+[2019-04-10 11:17:40][get_update_progressbar] 0
+[2019-04-10 11:17:42][get_update_progressbar] 3
+[2019-04-10 11:17:44][get_update_progressbar] 3
+[2019-04-10 11:17:46][get_update_progressbar] 3
+[2019-04-10 11:17:48][get_update_progressbar] 13
+[2019-04-10 11:17:50][get_update_progressbar] 28
+[2019-04-10 11:17:52][get_update_progressbar] 36
+[2019-04-10 11:17:54][get_update_progressbar] 100
+[2019-04-10 11:17:54][start_upgrade_by_tgzs:225]Upload Finshed,Sleep(80)
+[2019-04-10 11:19:14][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2019-04-10 11:19:14][start_upgrade_by_tgzs]The Version Is VB1.38.0840-20190410-HDXP2P-GEN
+[2019-04-10 11:19:14][start_upgrade_by_tgzs]sleep(30)
+[2019-04-10 11:19:44][start_upgrade_by_tgzs:79]NO.28--4.10-VB-SSC325.starlight.HDXP2P.gen.zh.201904101.IPC2.H(F)38.tgz
+[2019-04-10 11:19:44][upload_file][192.168.15.220]IS ON-LINE!
+[2019-04-10 11:19:44][upload_file][192.168.15.220]send file now
+[2019-04-10 11:19:44][upload_file][192.168.15.220]send file finished
+[2019-04-10 11:19:44][get_update_progressbar] 0
+[2019-04-10 11:19:46][get_update_progressbar] 3
+[2019-04-10 11:19:48][get_update_progressbar] 13
+[2019-04-10 11:19:50][get_update_progressbar] 32
+[2019-04-10 11:19:52][get_update_progressbar] 36
+[2019-04-10 11:19:54][get_update_progressbar] 100
+[2019-04-10 11:19:54][start_upgrade_by_tgzs:225]Upload Finshed,Sleep(80)
+[2019-04-10 11:21:14][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2019-04-10 11:21:14][start_upgrade_by_tgzs]The Version Is VB1.38.0840-20190410-HDXP2P-GEN
+[2019-04-10 11:21:14][start_upgrade_by_tgzs]sleep(30)
+[2019-04-10 11:21:44][start_upgrade_by_tgzs:79]NO.29--1.tgz
+[2019-04-10 11:21:44][upload_file][192.168.15.220]IS ON-LINE!
+[2019-04-10 11:21:44][upload_file][192.168.15.220]send file now
+[2019-04-10 11:21:44][upload_file][192.168.15.220]send file finished
+[2019-04-10 11:21:44][get_update_progressbar] 0
+[2019-04-10 11:21:46][get_update_progressbar] 3
+[2019-04-10 11:21:48][get_update_progressbar] 13
+[2019-04-10 11:21:50][get_update_progressbar] 13
+[2019-04-10 11:21:52][get_update_progressbar] 28
+[2019-04-10 11:21:54][get_update_progressbar] 32
+[2019-04-10 11:21:56][get_update_progressbar] 100
+[2019-04-10 11:21:56][start_upgrade_by_tgzs:225]Upload Finshed,Sleep(80)
+[2019-04-10 11:23:16][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2019-04-10 11:23:16][start_upgrade_by_tgzs]The Version Is VB1.38.0840-20190410-HDXP2P-GEN
+[2019-04-10 11:23:16][start_upgrade_by_tgzs]sleep(30)
+[2019-04-10 11:23:46][start_upgrade_by_tgzs:79]NO.30--4.10-VB-SSC325.starlight.HDXP2P.gen.zh.201904101.IPC2.H(F)38.tgz
+[2019-04-10 11:23:46][upload_file][192.168.15.220]IS ON-LINE!
+[2019-04-10 11:23:46][upload_file][192.168.15.220]send file now
+[2019-04-10 11:23:46][upload_file][192.168.15.220]send file finished
+[2019-04-10 11:23:46][get_update_progressbar] 0
+[2019-04-10 11:23:48][get_update_progressbar] 3
+[2019-04-10 11:23:50][get_update_progressbar] 13
+[2019-04-10 11:23:52][get_update_progressbar] 13
+[2019-04-10 11:23:54][get_update_progressbar] 32
+[2019-04-10 11:23:56][get_update_progressbar] 40
+[2019-04-10 11:23:58][get_update_progressbar] 100
+[2019-04-10 11:23:58][start_upgrade_by_tgzs:225]Upload Finshed,Sleep(80)
+[2019-04-10 11:25:18][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2019-04-10 11:25:18][start_upgrade_by_tgzs]The Version Is VB1.38.0840-20190410-HDXP2P-GEN
+[2019-04-10 11:25:18][start_upgrade_by_tgzs]sleep(30)
+[2019-04-10 11:25:48][start_upgrade_by_tgzs:79]NO.31--1.tgz
+[2019-04-10 11:25:48][upload_file][192.168.15.220]IS ON-LINE!
+[2019-04-10 11:25:48][upload_file][192.168.15.220]send file now
+[2019-04-10 11:25:48][upload_file][192.168.15.220]send file finished
+[2019-04-10 11:25:48][get_update_progressbar] 0
+[2019-04-10 11:25:50][get_update_progressbar] 13
+[2019-04-10 11:25:52][get_update_progressbar] 13
+[2019-04-10 11:25:54][get_update_progressbar] 13
+[2019-04-10 11:25:56][get_update_progressbar] 28
+[2019-04-10 11:25:58][get_update_progressbar] 32
+[2019-04-10 11:26:00][get_update_progressbar] 100
+[2019-04-10 11:26:00][start_upgrade_by_tgzs:225]Upload Finshed,Sleep(80)
+[2019-04-10 11:27:20][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2019-04-10 11:27:20][start_upgrade_by_tgzs]The Version Is VB1.38.0840-20190410-HDXP2P-GEN
+[2019-04-10 11:27:20][start_upgrade_by_tgzs]sleep(30)
+[2019-04-10 11:27:50][start_upgrade_by_tgzs:79]NO.32--4.10-VB-SSC325.starlight.HDXP2P.gen.zh.201904101.IPC2.H(F)38.tgz
+[2019-04-10 11:27:50][upload_file][192.168.15.220]IS ON-LINE!
+[2019-04-10 11:27:50][upload_file][192.168.15.220]send file now
+[2019-04-10 11:27:50][upload_file][192.168.15.220]send file finished
+[2019-04-10 11:27:50][get_update_progressbar] 0
+[2019-04-10 11:27:52][get_update_progressbar] 3
+[2019-04-10 11:27:54][get_update_progressbar] 13
+[2019-04-10 11:27:56][get_update_progressbar] 15
+[2019-04-10 11:27:58][get_update_progressbar] 32
+[2019-04-10 11:28:00][get_update_progressbar] 100
+[2019-04-10 11:28:00][start_upgrade_by_tgzs:225]Upload Finshed,Sleep(80)
+[2019-04-10 11:29:20][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2019-04-10 11:29:20][start_upgrade_by_tgzs]The Version Is VB1.38.0840-20190410-HDXP2P-GEN
+[2019-04-10 11:29:20][start_upgrade_by_tgzs]sleep(30)
+[2019-04-10 11:29:50][start_upgrade_by_tgzs:79]NO.33--1.tgz
+[2019-04-10 11:29:50][upload_file][192.168.15.220]IS ON-LINE!
+[2019-04-10 11:29:50][upload_file][192.168.15.220]send file now
+[2019-04-10 11:29:50][upload_file][192.168.15.220]send file finished
+[2019-04-10 11:29:50][get_update_progressbar] 0
+[2019-04-10 11:29:52][get_update_progressbar] 3
+[2019-04-10 11:29:54][get_update_progressbar] 13
+[2019-04-10 11:29:56][get_update_progressbar] 13
+[2019-04-10 11:29:59][get_update_progressbar] 15
+[2019-04-10 11:30:01][get_update_progressbar] 32
+[2019-04-10 11:30:03][get_update_progressbar] 100
+[2019-04-10 11:30:03][start_upgrade_by_tgzs:225]Upload Finshed,Sleep(80)
+[2019-04-10 11:31:23][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2019-04-10 11:31:23][start_upgrade_by_tgzs]The Version Is VB1.38.0840-20190410-HDXP2P-GEN
+[2019-04-10 11:31:23][start_upgrade_by_tgzs]sleep(30)
+[2019-04-10 11:31:53][start_upgrade_by_tgzs:79]NO.34--4.10-VB-SSC325.starlight.HDXP2P.gen.zh.201904101.IPC2.H(F)38.tgz
+[2019-04-10 11:31:53][upload_file][192.168.15.220]IS ON-LINE!
+[2019-04-10 11:31:53][upload_file][192.168.15.220]send file now
+[2019-04-10 11:31:53][upload_file][192.168.15.220]send file finished
+[2019-04-10 11:31:53][get_update_progressbar] 0
+[2019-04-10 11:31:55][get_update_progressbar] 13
+[2019-04-10 11:31:57][get_update_progressbar] 13
+[2019-04-10 11:31:59][get_update_progressbar] 28
+[2019-04-10 11:32:01][get_update_progressbar] 32
+[2019-04-10 11:32:03][get_update_progressbar] 100
+[2019-04-10 11:32:03][start_upgrade_by_tgzs:225]Upload Finshed,Sleep(80)
+[2019-04-10 11:33:23][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2019-04-10 11:33:23][start_upgrade_by_tgzs]The Version Is VB1.38.0840-20190410-HDXP2P-GEN
+[2019-04-10 11:33:23][start_upgrade_by_tgzs]sleep(30)
+[2019-04-10 11:33:53][start_upgrade_by_tgzs:79]NO.35--1.tgz
+[2019-04-10 11:33:53][upload_file][192.168.15.220]IS ON-LINE!
+[2019-04-10 11:33:53][upload_file][192.168.15.220]send file now
+[2019-04-10 11:33:53][upload_file][192.168.15.220]send file finished
+[2019-04-10 11:33:53][get_update_progressbar] 0
+[2019-04-10 11:33:55][get_update_progressbar] 3
+[2019-04-10 11:33:57][get_update_progressbar] 13
+[2019-04-10 11:33:59][get_update_progressbar] 13
+[2019-04-10 11:34:01][get_update_progressbar] 32
+[2019-04-10 11:34:03][get_update_progressbar] 32
+[2019-04-10 11:34:05][get_update_progressbar] 100
+[2019-04-10 11:34:05][start_upgrade_by_tgzs:225]Upload Finshed,Sleep(80)
+[2019-04-10 11:35:25][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2019-04-10 11:35:25][start_upgrade_by_tgzs]The Version Is VB1.38.0840-20190410-HDXP2P-GEN
+[2019-04-10 11:35:25][start_upgrade_by_tgzs]sleep(30)
+[2019-04-10 11:35:55][start_upgrade_by_tgzs:79]NO.36--4.10-VB-SSC325.starlight.HDXP2P.gen.zh.201904101.IPC2.H(F)38.tgz
+[2019-04-10 11:35:55][upload_file][192.168.15.220]IS ON-LINE!
+[2019-04-10 11:35:55][upload_file][192.168.15.220]send file now
+[2019-04-10 11:35:55][upload_file][192.168.15.220]send file finished
+[2019-04-10 11:35:55][get_update_progressbar] 0
+[2019-04-10 11:35:57][get_update_progressbar] 13
+[2019-04-10 11:35:59][get_update_progressbar] 13
+[2019-04-10 11:36:01][get_update_progressbar] 15
+[2019-04-10 11:36:03][get_update_progressbar] 32
+[2019-04-10 11:36:05][get_update_progressbar] 100
+[2019-04-10 11:36:05][start_upgrade_by_tgzs:225]Upload Finshed,Sleep(80)
+[2019-04-10 11:37:25][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2019-04-10 11:37:25][start_upgrade_by_tgzs]The Version Is VB1.38.0840-20190410-HDXP2P-GEN
+[2019-04-10 11:37:25][start_upgrade_by_tgzs]sleep(30)
+[2019-04-10 11:37:55][start_upgrade_by_tgzs:79]NO.37--1.tgz
+[2019-04-10 11:37:55][upload_file][192.168.15.220]IS ON-LINE!
+[2019-04-10 11:37:55][upload_file][192.168.15.220]send file now
+[2019-04-10 11:37:55][upload_file][192.168.15.220]send file finished
+[2019-04-10 11:37:55][get_update_progressbar] 0
+[2019-04-10 11:37:57][get_update_progressbar] 13
+[2019-04-10 11:37:59][get_update_progressbar] 13
+[2019-04-10 11:38:01][get_update_progressbar] 28
+[2019-04-10 11:38:03][get_update_progressbar] 32
+[2019-04-10 11:38:05][get_update_progressbar] 100
+[2019-04-10 11:38:05][start_upgrade_by_tgzs:225]Upload Finshed,Sleep(80)
+[2019-04-10 11:39:25][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2019-04-10 11:39:25][start_upgrade_by_tgzs]The Version Is VB1.38.0840-20190410-HDXP2P-GEN
+[2019-04-10 11:39:25][start_upgrade_by_tgzs]sleep(30)
+[2019-04-10 11:39:55][start_upgrade_by_tgzs:79]NO.38--4.10-VB-SSC325.starlight.HDXP2P.gen.zh.201904101.IPC2.H(F)38.tgz
+[2019-04-10 11:39:55][upload_file][192.168.15.220]IS ON-LINE!
+[2019-04-10 11:39:55][upload_file][192.168.15.220]send file now
+[2019-04-10 11:39:55][upload_file][192.168.15.220]send file finished
+[2019-04-10 11:39:55][get_update_progressbar] 0
+[2019-04-10 11:39:57][get_update_progressbar] 3
+[2019-04-10 11:39:59][get_update_progressbar] 13
+[2019-04-10 11:40:01][get_update_progressbar] 15
+[2019-04-10 11:40:03][get_update_progressbar] 36
+[2019-04-10 11:40:05][get_update_progressbar] 100
+[2019-04-10 11:40:05][start_upgrade_by_tgzs:225]Upload Finshed,Sleep(80)
+[2019-04-10 11:41:25][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2019-04-10 11:41:25][start_upgrade_by_tgzs]The Version Is VB1.38.0840-20190410-HDXP2P-GEN
+[2019-04-10 11:41:25][start_upgrade_by_tgzs]sleep(30)
+[2019-04-10 11:41:55][start_upgrade_by_tgzs:79]NO.39--1.tgz
+[2019-04-10 11:41:55][upload_file][192.168.15.220]IS ON-LINE!
+[2019-04-10 11:41:55][upload_file][192.168.15.220]send file now
+[2019-04-10 11:41:55][upload_file][192.168.15.220]send file finished
+[2019-04-10 11:41:55][get_update_progressbar] 0
+[2019-04-10 11:41:57][get_update_progressbar] 13
+[2019-04-10 11:41:59][get_update_progressbar] 13
+[2019-04-10 11:42:01][get_update_progressbar] 15
+[2019-04-10 11:42:03][get_update_progressbar] 32
+[2019-04-10 11:42:05][get_update_progressbar] 100
+[2019-04-10 11:42:05][start_upgrade_by_tgzs:225]Upload Finshed,Sleep(80)
+[2019-04-10 11:43:25][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2019-04-10 11:43:25][start_upgrade_by_tgzs]The Version Is VB1.38.0840-20190410-HDXP2P-GEN
+[2019-04-10 11:43:25][start_upgrade_by_tgzs]sleep(30)
+[2019-04-10 11:43:55][start_upgrade_by_tgzs:79]NO.40--4.10-VB-SSC325.starlight.HDXP2P.gen.zh.201904101.IPC2.H(F)38.tgz
+[2019-04-10 11:43:55][upload_file][192.168.15.220]IS ON-LINE!
+[2019-04-10 11:43:55][upload_file][192.168.15.220]send file now
+[2019-04-10 11:43:55][upload_file][192.168.15.220]send file finished
+[2019-04-10 11:43:55][get_update_progressbar] 0
+[2019-04-10 11:43:57][get_update_progressbar] 13
+[2019-04-10 11:43:59][get_update_progressbar] 15
+[2019-04-10 11:44:01][get_update_progressbar] 32
+[2019-04-10 11:44:03][get_update_progressbar] 100
+[2019-04-10 11:44:03][start_upgrade_by_tgzs:225]Upload Finshed,Sleep(80)
+[2019-04-10 11:45:23][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2019-04-10 11:45:23][start_upgrade_by_tgzs]The Version Is VB1.38.0840-20190410-HDXP2P-GEN
+[2019-04-10 11:45:23][start_upgrade_by_tgzs]sleep(30)
+[2019-04-10 11:45:53][start_upgrade_by_tgzs:79]NO.41--1.tgz
+[2019-04-10 11:45:53][upload_file][192.168.15.220]IS ON-LINE!
+[2019-04-10 11:45:53][upload_file][192.168.15.220]send file now
+[2019-04-10 11:45:53][upload_file][192.168.15.220]send file finished
+[2019-04-10 11:45:53][get_update_progressbar] 0
+[2019-04-10 11:45:55][get_update_progressbar] 3
+[2019-04-10 11:45:57][get_update_progressbar] 13
+[2019-04-10 11:45:59][get_update_progressbar] 15
+[2019-04-10 11:46:01][get_update_progressbar] 32
+[2019-04-10 11:46:03][get_update_progressbar] 32
+[2019-04-10 11:46:05][get_update_progressbar] 100
+[2019-04-10 11:46:05][start_upgrade_by_tgzs:225]Upload Finshed,Sleep(80)
+[2019-04-10 11:47:25][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2019-04-10 11:47:25][start_upgrade_by_tgzs]The Version Is VB1.38.0840-20190410-HDXP2P-GEN
+[2019-04-10 11:47:25][start_upgrade_by_tgzs]sleep(30)
+[2019-04-10 11:47:55][start_upgrade_by_tgzs:79]NO.42--4.10-VB-SSC325.starlight.HDXP2P.gen.zh.201904101.IPC2.H(F)38.tgz
+[2019-04-10 11:47:55][upload_file][192.168.15.220]IS ON-LINE!
+[2019-04-10 11:47:55][upload_file][192.168.15.220]send file now
+[2019-04-10 11:47:55][upload_file][192.168.15.220]send file finished
+[2019-04-10 11:47:56][get_update_progressbar] 0
+[2019-04-10 11:47:58][get_update_progressbar] 3
+[2019-04-10 11:48:00][get_update_progressbar] 3
+[2019-04-10 11:48:02][get_update_progressbar] 3
+[2019-04-10 11:48:04][get_update_progressbar] 3
+[2019-04-10 11:48:06][get_update_progressbar] 3
+[2019-04-10 11:48:08][get_update_progressbar] 3
+[2019-04-10 11:48:10][get_update_progressbar] 3
+[2019-04-10 11:48:12][get_update_progressbar] 3
+[2019-04-10 11:48:14][get_update_progressbar] 3
+[2019-04-10 11:48:16][get_update_progressbar] 3
+[2019-04-10 11:48:18][get_update_progressbar] 3
+[2019-04-10 11:48:20][get_update_progressbar] 3
+[2019-04-10 11:48:22][get_update_progressbar] 3
+[2019-04-10 11:48:24][get_update_progressbar] 3
+[2019-04-10 11:48:26][get_update_progressbar] 3
+[2019-04-10 11:48:28][get_update_progressbar] 3
+[2019-04-10 11:48:30][get_update_progressbar] 3
+[2019-04-10 11:48:32][get_update_progressbar] 3
+[2019-04-10 11:48:34][get_update_progressbar] 3
+[2019-04-10 11:48:36][get_update_progressbar] 3
+[2019-04-10 11:48:38][get_update_progressbar] 3
+[2019-04-10 11:48:40][get_update_progressbar] 3
+[2019-04-10 11:48:42][get_update_progressbar] 3
+[2019-04-10 11:48:44][get_update_progressbar] 3
+[2019-04-10 11:48:46][get_update_progressbar] 3
+[2019-04-10 11:48:48][get_update_progressbar] 3
+[2019-04-10 11:48:50][get_update_progressbar] 3
+[2019-04-10 11:48:52][get_update_progressbar] 3
+[2019-04-10 11:48:54][get_update_progressbar] 3
+[2019-04-10 11:48:56][get_update_progressbar] 3
+[2019-04-10 11:48:58][get_update_progressbar] 3
+[2019-04-10 11:49:00][get_update_progressbar] 3
+[2019-04-10 11:49:02][get_update_progressbar] 3
+[2019-04-10 11:49:04][get_update_progressbar] 3
+[2019-04-10 11:49:06][get_update_progressbar] 3
+[2019-04-10 11:49:08][get_update_progressbar] 3
+[2019-04-10 11:49:10][get_update_progressbar] 3
+[2019-04-10 11:49:12][get_update_progressbar] 3
+[2019-04-10 11:49:14][get_update_progressbar] 3
+[2019-04-10 11:49:16][get_update_progressbar] 3
+[2019-04-10 11:49:18][get_update_progressbar] 3
+[2019-04-10 11:49:20][get_update_progressbar] 3
+[2019-04-10 11:49:22][get_update_progressbar] 3
+[2019-04-10 11:49:24][get_update_progressbar] 3
+[2019-04-10 11:49:26][get_update_progressbar] 3
+[2019-04-10 11:49:28][get_update_progressbar] 3
+[2019-04-10 11:49:30][get_update_progressbar] 3
+[2019-04-10 11:49:32][get_update_progressbar] 3
+[2019-04-10 11:49:34][get_update_progressbar] 3
+[2019-04-10 11:49:36][get_update_progressbar] 3
+[2019-04-10 11:49:38][get_update_progressbar] 3
+[2019-04-10 11:49:40][get_update_progressbar] 3
+[2019-04-10 11:49:42][get_update_progressbar] 3
+[2019-04-10 11:49:44][get_update_progressbar] 3
+[2019-04-10 11:49:46][get_update_progressbar] 3
+[2019-04-10 11:49:48][get_update_progressbar] 3
+[2019-04-10 11:49:50][get_update_progressbar] 3
+[2019-04-10 11:49:52][get_update_progressbar] 3
+[2019-04-10 11:49:54][get_update_progressbar] 3
+[2019-04-10 11:49:56][get_update_progressbar] 3
+[2019-04-10 11:49:58][get_update_progressbar] 3
+[2019-04-10 11:50:00][get_update_progressbar] 3
+[2019-04-10 11:50:02][get_update_progressbar] 3
+[2019-04-10 11:50:04][get_update_progressbar] 3
+[2019-04-10 11:50:06][get_update_progressbar] 3
+[2019-04-10 11:50:08][get_update_progressbar] 3
+[2019-04-10 11:50:10][get_update_progressbar] 3
+[2019-04-10 11:50:12][get_update_progressbar] 3
+[2019-04-10 11:50:14][get_update_progressbar] 3
+[2019-04-10 11:50:16][get_update_progressbar] 3
+[2019-04-10 11:50:18][get_update_progressbar] 3
+[2019-04-10 11:50:20][get_update_progressbar] 3
+[2019-04-10 11:50:22][get_update_progressbar] 3
+[2019-04-10 11:50:24][get_update_progressbar] 3
+[2019-04-10 11:50:26][get_update_progressbar] 3
+[2019-04-10 11:50:28][get_update_progressbar] 3
+[2019-04-10 11:50:30][get_update_progressbar] 3
+[2019-04-10 11:50:32][get_update_progressbar] 3
+[2019-04-10 11:50:34][get_update_progressbar] 3
+[2019-04-10 11:50:36][get_update_progressbar] 3
+[2019-04-10 11:50:38][get_update_progressbar] 3
+[2019-04-10 11:50:40][get_update_progressbar] 3
+[2019-04-10 11:50:42][get_update_progressbar] 3
+[2019-04-10 11:50:44][get_update_progressbar] 3
+[2019-04-10 11:50:46][get_update_progressbar] 3
+[2019-04-10 11:50:48][get_update_progressbar] 3
+[2019-04-10 11:50:50][get_update_progressbar] 3
+[2019-04-10 11:50:52][get_update_progressbar] 3
+[2019-04-10 11:50:54][get_update_progressbar] 3
+[2019-04-10 11:50:56][get_update_progressbar] 3
+[2019-04-10 11:50:58][get_update_progressbar] 3
+[2019-04-10 11:51:00][get_update_progressbar] 3
+[2019-04-10 11:51:02][get_update_progressbar] 3
+[2019-04-10 11:51:04][get_update_progressbar] 3
+[2019-04-10 11:51:06][get_update_progressbar] 3
+[2019-04-10 11:51:08][get_update_progressbar] 3
+[2019-04-10 11:51:10][get_update_progressbar] 3
+[2019-04-10 11:51:12][get_update_progressbar] 3
+[2019-04-10 11:51:14][get_update_progressbar] 3
+[2019-04-10 11:51:16][get_update_progressbar] 3
+[2019-04-10 11:51:19][get_update_progressbar] 3
+[2019-04-10 11:51:21][get_update_progressbar] 3
+[2019-04-10 11:51:23][get_update_progressbar] 3
+[2019-04-10 11:51:25][get_update_progressbar] 3
+[2019-04-10 11:51:27][get_update_progressbar] 3
+[2019-04-10 11:51:29][get_update_progressbar] 3
+[2019-04-10 11:51:31][get_update_progressbar] 3
+[2019-04-10 11:51:33][get_update_progressbar] 3
+[2019-04-10 11:51:35][get_update_progressbar] 3
+[2019-04-10 11:51:37][get_update_progressbar] 3
+[2019-04-10 11:51:39][get_update_progressbar] 3
+[2019-04-10 11:51:41][get_update_progressbar] 3
+[2019-04-10 11:51:43][get_update_progressbar] 3
+[2019-04-10 11:51:45][get_update_progressbar] 3
+[2019-04-10 11:51:47][get_update_progressbar] 3
+[2019-04-10 11:51:49][get_update_progressbar] 3
+[2019-04-10 11:51:51][get_update_progressbar] 3
+[2019-04-10 11:51:53][get_update_progressbar] 3
+[2019-04-10 11:51:55][get_update_progressbar] 3
+[2019-04-10 11:51:57][get_update_progressbar] 3
+[2019-04-10 11:51:59][get_update_progressbar] 3
+[2019-04-10 11:52:01][get_update_progressbar] 3
+[2019-04-10 11:52:03][get_update_progressbar] 3
+[2019-04-10 11:52:05][get_update_progressbar] 3
+[2019-04-10 11:52:07][get_update_progressbar] 3
+[2019-04-10 11:52:09][get_update_progressbar] 3
+[2019-04-10 11:52:11][get_update_progressbar] 3
+[2019-04-10 11:52:13][get_update_progressbar] 3
+[2019-04-10 11:52:15][get_update_progressbar] 3
+[2019-04-10 11:52:17][get_update_progressbar] 3
+[2019-04-10 11:52:19][get_update_progressbar] 3
+[2019-04-10 11:52:21][get_update_progressbar] 3
+[2019-04-10 11:52:23][get_update_progressbar] 3
+[2019-04-10 11:52:25][get_update_progressbar] 3
+[2019-04-10 11:52:27][get_update_progressbar] 3
+[2019-04-10 11:52:29][get_update_progressbar] 3
+[2019-04-10 11:52:31][get_update_progressbar] 3
+[2019-04-10 11:52:33][get_update_progressbar] 3
+[2019-04-10 11:52:35][get_update_progressbar] 3
+[2019-04-10 11:52:37][get_update_progressbar] 3
+[2019-04-10 11:52:39][get_update_progressbar] 3
+[2019-04-10 11:52:41][get_update_progressbar] 3
+[2019-04-10 11:52:43][get_update_progressbar] 3
+[2019-04-10 11:52:45][get_update_progressbar] 3
+[2019-04-10 11:52:47][get_update_progressbar] 3
+[2019-04-10 11:52:49][get_update_progressbar] 3
+[2019-04-10 11:52:51][get_update_progressbar] 3
+[2019-04-10 11:52:53][get_update_progressbar] 3
+[2019-04-10 11:52:55][get_update_progressbar] 3
+[2019-04-10 11:52:57][get_update_progressbar] 3
+[2019-04-10 11:52:59][get_update_progressbar] 3
+[2019-04-10 11:53:01][get_update_progressbar] 3
+[2019-04-10 11:53:03][get_update_progressbar] 3
+[2019-04-10 11:53:05][get_update_progressbar] 3
+[2019-04-10 11:53:07][get_update_progressbar] 3
+[2019-04-10 11:53:09][get_update_progressbar] 3
+[2019-04-10 11:53:11][get_update_progressbar] 3
+[2019-04-10 11:53:13][get_update_progressbar] 3
+[2019-04-10 11:53:15][get_update_progressbar] 3
+[2019-04-10 11:53:17][get_update_progressbar] 3
+[2019-04-10 11:53:19][get_update_progressbar] 3
+[2019-04-10 11:53:21][get_update_progressbar] 3
+[2019-04-10 11:53:23][get_update_progressbar] 3
+[2019-04-10 11:53:25][get_update_progressbar] 3
+[2019-04-10 11:53:27][get_update_progressbar] 3
+[2019-04-10 11:53:29][get_update_progressbar] 3
+[2019-04-10 11:53:31][get_update_progressbar] 3
+[2019-04-10 11:53:33][get_update_progressbar] 3
+[2019-04-10 11:53:35][get_update_progressbar] 3
+[2019-04-10 11:53:37][get_update_progressbar] 3
+[2019-04-10 11:53:39][get_update_progressbar] 3
+[2019-04-10 11:53:41][get_update_progressbar] 3
+[2019-04-10 11:53:43][get_update_progressbar] 3
+[2019-04-10 11:53:45][get_update_progressbar] 3
+[2019-04-10 11:53:47][get_update_progressbar] 3
+[2019-04-10 11:53:49][get_update_progressbar] 3
+[2019-04-10 11:53:51][get_update_progressbar] 3
+[2019-04-10 11:53:53][get_update_progressbar] 3
+[2019-04-10 11:53:55][get_update_progressbar] 3
+[2019-04-10 11:53:57][get_update_progressbar] 3
+[2019-04-10 11:53:59][get_update_progressbar] 3
+[2019-04-10 11:54:01][get_update_progressbar] 3
+[2019-04-10 11:54:03][get_update_progressbar] 3
+[2019-04-10 11:54:05][get_update_progressbar] 3
+[2019-04-10 11:54:07][get_update_progressbar] 3
+[2019-04-10 11:54:09][get_update_progressbar] 3
+[2019-04-10 11:54:11][get_update_progressbar] 3
+[2019-04-10 11:54:13][get_update_progressbar] 3
+[2019-04-10 11:54:15][get_update_progressbar] 3
+[2019-04-10 11:54:17][get_update_progressbar] 3
+[2019-04-10 11:54:19][get_update_progressbar] 3
+[2019-04-10 11:54:21][get_update_progressbar] 3
+[2019-04-10 11:54:23][get_update_progressbar] 3
+[2019-04-10 11:54:25][get_update_progressbar] 3
+[2019-04-10 11:54:27][get_update_progressbar] 3
+[2019-04-10 11:54:29][get_update_progressbar] 3
+[2019-04-10 11:54:31][get_update_progressbar] 3
+[2019-04-10 11:54:33][get_update_progressbar] 3
+[2019-04-10 11:54:35][get_update_progressbar] 3
+[2019-04-10 11:54:37][get_update_progressbar] 3
+[2019-04-10 11:54:39][get_update_progressbar] 3
+[2019-04-10 11:54:41][get_update_progressbar] 3
+[2019-04-10 11:54:43][get_update_progressbar] 3
+[2019-04-10 11:54:45][get_update_progressbar] 3
+[2019-04-10 11:54:47][get_update_progressbar] 3
+[2019-04-10 11:54:49][get_update_progressbar] 3
+[2019-04-10 11:54:51][get_update_progressbar] 3
+[2019-04-10 11:54:53][get_update_progressbar] 3
+[2019-04-10 11:54:56][get_update_progressbar] 3
+[2019-04-10 11:54:58][get_update_progressbar] 3
+[2019-04-10 11:55:00][get_update_progressbar] 3
+[2019-04-10 11:55:02][get_update_progressbar] 3
+[2019-04-10 11:55:04][get_update_progressbar] 3
+[2019-04-10 11:55:06][get_update_progressbar] 3
+[2019-04-10 11:55:08][get_update_progressbar] 3
+[2019-04-10 11:55:10][get_update_progressbar] 3
+[2019-04-10 11:55:12][get_update_progressbar] 3
+[2019-04-10 11:55:14][get_update_progressbar] 3
+[2019-04-10 11:55:16][get_update_progressbar] 3
+[2019-04-10 11:55:18][get_update_progressbar] 3
+[2019-04-10 11:55:20][get_update_progressbar] 3
+[2019-04-10 11:55:22][get_update_progressbar] 3
+[2019-04-10 11:55:24][get_update_progressbar] 3
+[2019-04-10 11:55:26][get_update_progressbar] 3
+[2019-04-10 11:55:28][get_update_progressbar] 3
+[2019-04-10 11:55:30][get_update_progressbar] 3
+[2019-04-10 11:55:32][get_update_progressbar] 3
+[2019-04-10 11:55:34][get_update_progressbar] 3
+[2019-04-10 11:55:36][get_update_progressbar] 3
+[2019-04-10 11:55:38][get_update_progressbar] 3
+[2019-04-10 11:55:40][get_update_progressbar] 3
+[2019-04-10 11:55:42][get_update_progressbar] 3
+[2019-04-10 11:55:44][get_update_progressbar] 3
+[2019-04-10 11:55:46][get_update_progressbar] 3
+[2019-04-10 11:55:48][get_update_progressbar] 3
+[2019-04-10 11:55:50][get_update_progressbar] 3
+[2019-04-10 11:55:52][get_update_progressbar] 3
+[2019-04-10 11:55:54][get_update_progressbar] 3
+[2019-04-10 11:55:56][get_update_progressbar] 3
+[2019-04-10 11:55:58][get_update_progressbar] 3
+[2019-04-10 11:56:00][get_update_progressbar] 3
+[2019-04-10 11:56:02][get_update_progressbar] 3
+[2019-04-10 11:56:04][get_update_progressbar] 3
+[2019-04-10 11:56:06][get_update_progressbar] 3
+[2019-04-10 11:56:08][get_update_progressbar] 3
+[2019-04-10 11:56:10][get_update_progressbar] 3
+[2019-04-10 11:56:12][get_update_progressbar] 3
+[2019-04-10 11:56:14][get_update_progressbar] 3
+[2019-04-10 11:56:16][get_update_progressbar] 3
+[2019-04-10 11:56:18][get_update_progressbar] 3
+[2019-04-10 11:56:20][get_update_progressbar] 3
+[2019-04-10 11:56:22][get_update_progressbar] 3
+[2019-04-10 11:56:24][get_update_progressbar] 3
+[2019-04-10 11:56:26][get_update_progressbar] 3
+[2019-04-10 11:56:28][get_update_progressbar] 3
+[2019-04-10 11:56:30][get_update_progressbar] 3
+[2019-04-10 11:56:32][get_update_progressbar] 3
+[2019-04-10 11:56:34][get_update_progressbar] 3
+[2019-04-10 11:56:36][get_update_progressbar] 3
+[2019-04-10 11:56:38][get_update_progressbar] 3
+[2019-04-10 11:56:40][get_update_progressbar] 3
+[2019-04-10 11:56:42][get_update_progressbar] 3
+[2019-04-10 11:56:44][get_update_progressbar] 3
+[2019-04-10 11:56:46][get_update_progressbar] 3
+[2019-04-10 11:56:48][get_update_progressbar] 3
+[2019-04-10 11:56:50][get_update_progressbar] 3
+[2019-04-10 11:56:52][get_update_progressbar] 3
+[2019-04-10 11:56:54][get_update_progressbar] 3
+[2019-04-10 11:56:56][get_update_progressbar] 3
+[2019-04-10 11:56:58][get_update_progressbar] 3
+[2019-04-10 11:57:00][get_update_progressbar] 3
+[2019-04-10 11:57:02][get_update_progressbar] 3
+[2019-04-10 11:57:04][get_update_progressbar] 3
+[2019-04-10 11:57:06][get_update_progressbar] 3
+[2019-04-10 11:57:08][get_update_progressbar] 3
+[2019-04-10 11:57:10][get_update_progressbar] 3
+[2019-04-10 11:57:12][get_update_progressbar] 3
+[2019-04-10 11:57:14][get_update_progressbar] 3
+[2019-04-10 11:57:16][get_update_progressbar] 3
+[2019-04-10 11:57:18][get_update_progressbar] 3
+[2019-04-10 11:57:20][get_update_progressbar] 3
+[2019-04-10 11:57:22][get_update_progressbar] 3
+[2019-04-10 11:57:24][get_update_progressbar] 3
+[2019-04-10 11:57:26][get_update_progressbar] 3
+[2019-04-10 11:57:28][get_update_progressbar] 3
+[2019-04-10 11:57:30][get_update_progressbar] 3
+[2019-04-10 11:57:32][get_update_progressbar] 3
+[2019-04-10 11:57:34][get_update_progressbar] 3
+[2019-04-10 11:57:36][get_update_progressbar] 3
+[2019-04-10 11:57:38][get_update_progressbar] 3
+[2019-04-10 11:57:40][get_update_progressbar] 3
+[2019-04-10 11:57:42][get_update_progressbar] 3
+[2019-04-10 11:57:44][get_update_progressbar] 3
+[2019-04-10 11:57:46][get_update_progressbar] 3
+[2019-04-10 11:57:48][get_update_progressbar] 3
+[2019-04-10 11:57:50][get_update_progressbar] 3
+[2019-04-10 11:58:02][get_update_progressbar] 3
+[2019-04-10 11:58:04][get_update_progressbar] 3
+[2019-04-10 11:58:06][get_update_progressbar] 3
+[2019-04-10 11:58:08][get_update_progressbar] 3
+[2019-04-10 11:58:10][get_update_progressbar] 3
+[2019-04-10 11:58:12][get_update_progressbar] 3
+[2019-04-10 11:58:14][get_update_progressbar] 3
+[2019-04-10 11:58:16][get_update_progressbar] 3
+[2019-04-10 11:58:18][get_update_progressbar] 3
+[2019-04-10 11:58:20][get_update_progressbar] 3
+[2019-04-10 11:58:22][get_update_progressbar] 3
+[2019-04-10 11:58:24][get_update_progressbar] 3
+[2019-04-10 11:58:26][get_update_progressbar] 3
+[2019-04-10 11:58:28][get_update_progressbar] 3
+[2019-04-10 11:58:30][get_update_progressbar] 3
+[2019-04-10 11:58:32][get_update_progressbar] 3
+[2019-04-10 11:58:34][get_update_progressbar] 3
+[2019-04-10 11:58:36][get_update_progressbar] 3
+[2019-04-10 11:58:39][get_update_progressbar] 3
+[2019-04-10 11:58:41][get_update_progressbar] 3
+[2019-04-10 11:58:43][get_update_progressbar] 3
+[2019-04-10 11:58:45][get_update_progressbar] 3
+[2019-04-10 11:58:47][get_update_progressbar] 3
+[2019-04-10 11:58:49][get_update_progressbar] 3
+[2019-04-10 11:58:51][get_update_progressbar] 3
+[2019-04-10 11:58:53][get_update_progressbar] 3
+[2019-04-10 11:58:55][get_update_progressbar] 3
+[2019-04-10 11:58:57][get_update_progressbar] 3
+[2019-04-10 11:58:59][get_update_progressbar] 3

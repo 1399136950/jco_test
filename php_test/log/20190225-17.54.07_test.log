@@ -1,0 +1,700 @@
+[2019-02-25 17:54:07]|***********************START************************|
+[2019-02-25 17:54:07]SLEEPTIME IS 10000000
+[2019-02-25 17:54:07]SEND IP ADDRESS:192.168.5.133
+[2019-02-25 17:54:07]MODEL IS [v]
+[2019-02-25 17:54:07]|********************Testing Now!********************|
+[2019-02-25 17:54:08][getVideoInfo][Vencsize] IS 5
+[2019-02-25 17:54:08][getVideoInfo][Codec] IS 7
+[2019-02-25 17:54:08][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%207%20-fps%203%20-bps%202021%20-gop%2037%20-fixbps%200%20-codec%202%20-id%201%20-enable%200%20-vencsize%206%20-fps%2014%20-bps%20598%20-gop%2021%20-fixbps%200%20-codec%207
+[2019-02-25 17:54:08][send_curl]NO.1---szJcpResult="[Success];";
+
+[2019-02-25 17:54:18][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%203%20-fps%202%20-bps%203293%20-gop%2012%20-fixbps%201%20-codec%207%20-id%201%20-enable%200%20-vencsize%207%20-fps%2025%20-bps%20715%20-gop%203%20-fixbps%201%20-codec%202
+[2019-02-25 17:54:18][send_curl]NO.2---szJcpResult="[Success];";
+
+[2019-02-25 17:54:28][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%208%20-fps%2018%20-bps%203936%20-gop%2019%20-fixbps%200%20-codec%202%20-id%201%20-enable%200%20-vencsize%207%20-fps%206%20-bps%20278%20-gop%2044%20-fixbps%200%20-codec%207
+[2019-02-25 17:54:28][send_curl]NO.3---szJcpResult="[Success];";
+
+[2019-02-25 17:54:38][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%203%20-fps%207%20-bps%202943%20-gop%2028%20-fixbps%201%20-codec%202%20-id%201%20-enable%200%20-vencsize%207%20-fps%2019%20-bps%20370%20-gop%2023%20-fixbps%201%20-codec%207
+[2019-02-25 17:54:38][send_curl]NO.4---szJcpResult="[Success];";
+
+[2019-02-25 17:54:48][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%203%20-fps%206%20-bps%202165%20-gop%2045%20-fixbps%201%20-codec%202%20-id%201%20-enable%201%20-vencsize%207%20-fps%2013%20-bps%20610%20-gop%2032%20-fixbps%201%20-codec%207
+[2019-02-25 17:54:48][send_curl]NO.5---szJcpResult="[Success];";
+
+[2019-02-25 17:54:58][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%202%20-fps%202%20-bps%201523%20-gop%2036%20-fixbps%201%20-codec%202%20-id%201%20-enable%201%20-vencsize%201%20-fps%209%20-bps%20737%20-gop%2015%20-fixbps%201%20-codec%202
+[2019-02-25 17:54:58][send_curl]NO.6---szJcpResult="[Success];";
+
+[2019-02-25 17:55:08][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%205%20-fps%2017%20-bps%202083%20-gop%2048%20-fixbps%201%20-codec%202%20-id%201%20-enable%200%20-vencsize%206%20-fps%2020%20-bps%20817%20-gop%2032%20-fixbps%201%20-codec%202
+[2019-02-25 17:55:08][send_curl]NO.7---szJcpResult="[Success];";
+
+[2019-02-25 17:55:18][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%202%20-fps%2019%20-bps%201648%20-gop%2040%20-fixbps%201%20-codec%207%20-id%201%20-enable%201%20-vencsize%206%20-fps%2014%20-bps%20892%20-gop%2023%20-fixbps%200%20-codec%202
+[2019-02-25 17:55:18][send_curl]NO.8---szJcpResult="[Success];";
+
+[2019-02-25 17:55:28][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%202%20-fps%2011%20-bps%201933%20-gop%2012%20-fixbps%201%20-codec%202%20-id%201%20-enable%201%20-vencsize%207%20-fps%2013%20-bps%20600%20-gop%2036%20-fixbps%201%20-codec%202
+[2019-02-25 17:55:28][send_curl]NO.9---szJcpResult="[Success];";
+
+[2019-02-25 17:55:38][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%203%20-fps%2015%20-bps%203961%20-gop%2034%20-fixbps%201%20-codec%207%20-id%201%20-enable%201%20-vencsize%206%20-fps%209%20-bps%20278%20-gop%2029%20-fixbps%201%20-codec%207
+[2019-02-25 17:55:38][send_curl]NO.10---szJcpResult="[Success];";
+
+[2019-02-25 17:55:48][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%203%20-fps%2019%20-bps%203199%20-gop%2035%20-fixbps%201%20-codec%207%20-id%201%20-enable%200%20-vencsize%201%20-fps%201%20-bps%20917%20-gop%202%20-fixbps%201%20-codec%207
+[2019-02-25 17:55:48][send_curl]NO.11---szJcpResult="[Success];";
+
+[2019-02-25 17:55:58][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%205%20-fps%205%20-bps%203240%20-gop%2027%20-fixbps%200%20-codec%207%20-id%201%20-enable%200%20-vencsize%206%20-fps%202%20-bps%20302%20-gop%2029%20-fixbps%200%20-codec%207
+[2019-02-25 17:55:58][send_curl]NO.12---szJcpResult="[Success];";
+
+[2019-02-25 17:56:08][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%205%20-fps%2019%20-bps%202224%20-gop%204%20-fixbps%201%20-codec%202%20-id%201%20-enable%201%20-vencsize%202%20-fps%2015%20-bps%20784%20-gop%2028%20-fixbps%201%20-codec%202
+[2019-02-25 17:56:08][send_curl]NO.13---szJcpResult="[Success];";
+
+[2019-02-25 17:56:18][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%207%20-fps%2022%20-bps%201988%20-gop%205%20-fixbps%201%20-codec%202%20-id%201%20-enable%200%20-vencsize%201%20-fps%202%20-bps%20355%20-gop%2036%20-fixbps%200%20-codec%202
+[2019-02-25 17:56:18][send_curl]NO.14---szJcpResult="[Success];";
+
+[2019-02-25 17:56:28][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%207%20-fps%2022%20-bps%201809%20-gop%208%20-fixbps%200%20-codec%202%20-id%201%20-enable%201%20-vencsize%206%20-fps%2025%20-bps%20102%20-gop%2012%20-fixbps%201%20-codec%202
+[2019-02-25 17:56:28][send_curl]NO.15---szJcpResult="[Success];";
+
+[2019-02-25 17:56:38][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%203%20-fps%2022%20-bps%203366%20-gop%205%20-fixbps%200%20-codec%207%20-id%201%20-enable%200%20-vencsize%206%20-fps%2019%20-bps%20683%20-gop%2015%20-fixbps%201%20-codec%207
+[2019-02-25 17:56:38][send_curl]NO.16---szJcpResult="[Success];";
+
+[2019-02-25 17:56:48][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%207%20-fps%205%20-bps%201350%20-gop%2016%20-fixbps%201%20-codec%207%20-id%201%20-enable%201%20-vencsize%201%20-fps%206%20-bps%2098%20-gop%2034%20-fixbps%200%20-codec%202
+[2019-02-25 17:56:48][send_curl]NO.17---szJcpResult="[Success];";
+
+[2019-02-25 17:56:58][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%202%20-fps%209%20-bps%201764%20-gop%2027%20-fixbps%201%20-codec%202%20-id%201%20-enable%201%20-vencsize%207%20-fps%2024%20-bps%20256%20-gop%2017%20-fixbps%201%20-codec%202
+[2019-02-25 17:56:58][send_curl]NO.18---szJcpResult="[Success];";
+
+[2019-02-25 17:57:08][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%203%20-fps%2020%20-bps%203784%20-gop%2046%20-fixbps%200%20-codec%202%20-id%201%20-enable%201%20-vencsize%207%20-fps%209%20-bps%20607%20-gop%2047%20-fixbps%201%20-codec%207
+[2019-02-25 17:57:08][send_curl]NO.19---szJcpResult="[Success];";
+
+[2019-02-25 17:57:18][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%202%20-fps%208%20-bps%202019%20-gop%2041%20-fixbps%201%20-codec%207%20-id%201%20-enable%201%20-vencsize%206%20-fps%2025%20-bps%20480%20-gop%2022%20-fixbps%201%20-codec%207
+[2019-02-25 17:57:18][send_curl]NO.20---szJcpResult="[Success];";
+
+[2019-02-25 17:57:28][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%202%20-fps%2016%20-bps%201516%20-gop%2010%20-fixbps%200%20-codec%202%20-id%201%20-enable%201%20-vencsize%207%20-fps%2013%20-bps%20882%20-gop%2028%20-fixbps%200%20-codec%207
+[2019-02-25 17:57:28][send_curl]NO.21---szJcpResult="[Success];";
+
+[2019-02-25 17:57:38][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%202%20-fps%2023%20-bps%201366%20-gop%209%20-fixbps%201%20-codec%207%20-id%201%20-enable%201%20-vencsize%201%20-fps%2020%20-bps%20427%20-gop%2028%20-fixbps%201%20-codec%202
+[2019-02-25 17:57:38][send_curl]NO.22---szJcpResult="[Success];";
+
+[2019-02-25 17:57:48][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%207%20-fps%2019%20-bps%201515%20-gop%2027%20-fixbps%201%20-codec%202%20-id%201%20-enable%201%20-vencsize%206%20-fps%2014%20-bps%20536%20-gop%203%20-fixbps%200%20-codec%207
+[2019-02-25 17:57:48][send_curl]NO.23---szJcpResult="[Success];";
+
+[2019-02-25 17:57:58][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%207%20-fps%202%20-bps%201244%20-gop%2033%20-fixbps%200%20-codec%207%20-id%201%20-enable%200%20-vencsize%206%20-fps%2022%20-bps%20747%20-gop%202%20-fixbps%200%20-codec%207
+[2019-02-25 17:57:58][send_curl]NO.24---szJcpResult="[Success];";
+
+[2019-02-25 17:58:08][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%205%20-fps%2020%20-bps%203008%20-gop%2039%20-fixbps%201%20-codec%202%20-id%201%20-enable%201%20-vencsize%206%20-fps%2015%20-bps%20407%20-gop%2018%20-fixbps%201%20-codec%207
+[2019-02-25 17:58:08][send_curl]NO.25---szJcpResult="[Success];";
+
+[2019-02-25 17:58:18][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%207%20-fps%2010%20-bps%201717%20-gop%2047%20-fixbps%201%20-codec%207%20-id%201%20-enable%201%20-vencsize%201%20-fps%201%20-bps%20561%20-gop%2048%20-fixbps%201%20-codec%207
+[2019-02-25 17:58:18][send_curl]NO.26---szJcpResult="[Success];";
+
+[2019-02-25 17:58:28][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%205%20-fps%2024%20-bps%203686%20-gop%2034%20-fixbps%200%20-codec%202%20-id%201%20-enable%201%20-vencsize%206%20-fps%2014%20-bps%20341%20-gop%2034%20-fixbps%200%20-codec%207
+[2019-02-25 17:58:28][send_curl]NO.27---szJcpResult="[Success];";
+
+[2019-02-25 17:58:38][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%202%20-fps%2014%20-bps%201358%20-gop%2019%20-fixbps%200%20-codec%207%20-id%201%20-enable%200%20-vencsize%206%20-fps%204%20-bps%20697%20-gop%2032%20-fixbps%201%20-codec%202
+[2019-02-25 17:58:38][send_curl]NO.28---szJcpResult="[Success];";
+
+[2019-02-25 17:58:48][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%208%20-fps%209%20-bps%202285%20-gop%206%20-fixbps%200%20-codec%202%20-id%201%20-enable%200%20-vencsize%207%20-fps%205%20-bps%20847%20-gop%2040%20-fixbps%201%20-codec%207
+[2019-02-25 17:58:48][send_curl]NO.29---szJcpResult="[Success];";
+
+[2019-02-25 17:58:58][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%208%20-fps%2019%20-bps%203983%20-gop%2021%20-fixbps%200%20-codec%207%20-id%201%20-enable%200%20-vencsize%206%20-fps%2022%20-bps%20824%20-gop%2030%20-fixbps%201%20-codec%202
+[2019-02-25 17:58:58][send_curl]NO.30---szJcpResult="[Success];";
+
+[2019-02-25 17:59:08][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%202%20-fps%2017%20-bps%201907%20-gop%2044%20-fixbps%201%20-codec%202%20-id%201%20-enable%201%20-vencsize%206%20-fps%205%20-bps%20855%20-gop%2019%20-fixbps%201%20-codec%207
+[2019-02-25 17:59:08][send_curl]NO.31---szJcpResult="[Success];";
+
+[2019-02-25 17:59:18][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%203%20-fps%205%20-bps%202556%20-gop%203%20-fixbps%200%20-codec%202%20-id%201%20-enable%201%20-vencsize%201%20-fps%2012%20-bps%20897%20-gop%2020%20-fixbps%201%20-codec%207
+[2019-02-25 17:59:18][send_curl]NO.32---szJcpResult="[Success];";
+
+[2019-02-25 17:59:28][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%205%20-fps%207%20-bps%202259%20-gop%2049%20-fixbps%200%20-codec%207%20-id%201%20-enable%200%20-vencsize%207%20-fps%2018%20-bps%20280%20-gop%2017%20-fixbps%200%20-codec%207
+[2019-02-25 17:59:28][send_curl]NO.33---szJcpResult="[Success];";
+
+[2019-02-25 17:59:38][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%208%20-fps%2021%20-bps%202911%20-gop%208%20-fixbps%200%20-codec%202%20-id%201%20-enable%200%20-vencsize%201%20-fps%2018%20-bps%20573%20-gop%204%20-fixbps%201%20-codec%207
+[2019-02-25 17:59:38][send_curl]NO.34---szJcpResult="[Success];";
+
+[2019-02-25 17:59:48][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%205%20-fps%2020%20-bps%203838%20-gop%2038%20-fixbps%201%20-codec%207%20-id%201%20-enable%200%20-vencsize%202%20-fps%2010%20-bps%20700%20-gop%2034%20-fixbps%200%20-codec%202
+[2019-02-25 17:59:48][send_curl]NO.35---szJcpResult="[Success];";
+
+[2019-02-25 17:59:58][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%207%20-fps%2015%20-bps%201190%20-gop%203%20-fixbps%200%20-codec%207%20-id%201%20-enable%201%20-vencsize%201%20-fps%204%20-bps%20497%20-gop%2032%20-fixbps%201%20-codec%202
+[2019-02-25 17:59:58][send_curl]NO.36---szJcpResult="[Success];";
+
+[2019-02-25 18:00:08][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%203%20-fps%2022%20-bps%202637%20-gop%205%20-fixbps%201%20-codec%202%20-id%201%20-enable%200%20-vencsize%206%20-fps%206%20-bps%20735%20-gop%2014%20-fixbps%200%20-codec%207
+[2019-02-25 18:00:08][send_curl]NO.37---szJcpResult="[Success];";
+
+[2019-02-25 18:00:18][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%205%20-fps%2014%20-bps%204061%20-gop%2046%20-fixbps%200%20-codec%202%20-id%201%20-enable%200%20-vencsize%206%20-fps%2013%20-bps%20498%20-gop%204%20-fixbps%201%20-codec%207
+[2019-02-25 18:00:18][send_curl]NO.38---szJcpResult="[Success];";
+
+[2019-02-25 18:00:28][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%207%20-fps%2020%20-bps%201723%20-gop%2042%20-fixbps%201%20-codec%202%20-id%201%20-enable%201%20-vencsize%201%20-fps%2022%20-bps%20243%20-gop%205%20-fixbps%200%20-codec%202
+[2019-02-25 18:00:28][send_curl]NO.39---szJcpResult="[Success];";
+
+[2019-02-25 18:00:38][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%205%20-fps%2021%20-bps%202833%20-gop%2035%20-fixbps%201%20-codec%202%20-id%201%20-enable%200%20-vencsize%202%20-fps%2015%20-bps%20844%20-gop%2015%20-fixbps%201%20-codec%207
+[2019-02-25 18:00:38][send_curl]NO.40---szJcpResult="[Success];";
+
+[2019-02-25 18:00:48][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%208%20-fps%202%20-bps%202991%20-gop%201%20-fixbps%201%20-codec%207%20-id%201%20-enable%201%20-vencsize%206%20-fps%2024%20-bps%2093%20-gop%2033%20-fixbps%200%20-codec%207
+[2019-02-25 18:00:48][send_curl]NO.41---szJcpResult="[Success];";
+
+[2019-02-25 18:00:58][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%208%20-fps%2011%20-bps%203377%20-gop%2048%20-fixbps%201%20-codec%202%20-id%201%20-enable%200%20-vencsize%206%20-fps%2013%20-bps%20956%20-gop%2040%20-fixbps%201%20-codec%207
+[2019-02-25 18:00:58][send_curl]NO.42---szJcpResult="[Success];";
+
+[2019-02-25 18:01:08][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%208%20-fps%2019%20-bps%203763%20-gop%2022%20-fixbps%200%20-codec%207%20-id%201%20-enable%200%20-vencsize%201%20-fps%2015%20-bps%20170%20-gop%2038%20-fixbps%201%20-codec%207
+[2019-02-25 18:01:08][send_curl]NO.43---szJcpResult="[Success];";
+
+[2019-02-25 18:01:18][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%205%20-fps%2018%20-bps%204028%20-gop%2047%20-fixbps%201%20-codec%207%20-id%201%20-enable%201%20-vencsize%202%20-fps%207%20-bps%20715%20-gop%208%20-fixbps%200%20-codec%202
+[2019-02-25 18:01:18][send_curl]NO.44---szJcpResult="[Success];";
+
+[2019-02-25 18:01:28][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%207%20-fps%206%20-bps%201865%20-gop%2020%20-fixbps%200%20-codec%207%20-id%201%20-enable%200%20-vencsize%206%20-fps%203%20-bps%20199%20-gop%2015%20-fixbps%200%20-codec%202
+[2019-02-25 18:01:28][send_curl]NO.45---szJcpResult="[Success];";
+
+[2019-02-25 18:01:38][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%202%20-fps%2010%20-bps%201616%20-gop%2048%20-fixbps%200%20-codec%202%20-id%201%20-enable%200%20-vencsize%206%20-fps%204%20-bps%20827%20-gop%2016%20-fixbps%200%20-codec%207
+[2019-02-25 18:01:38][send_curl]NO.46---szJcpResult="[Success];";
+
+[2019-02-25 18:01:48][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%203%20-fps%205%20-bps%202506%20-gop%2050%20-fixbps%201%20-codec%207%20-id%201%20-enable%201%20-vencsize%207%20-fps%2020%20-bps%20561%20-gop%2011%20-fixbps%201%20-codec%207
+[2019-02-25 18:01:48][send_curl]NO.47---szJcpResult="[Success];";
+
+[2019-02-25 18:01:58][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%208%20-fps%201%20-bps%203283%20-gop%2047%20-fixbps%200%20-codec%207%20-id%201%20-enable%200%20-vencsize%201%20-fps%2024%20-bps%20127%20-gop%2049%20-fixbps%200%20-codec%207
+[2019-02-25 18:01:58][send_curl]NO.48---szJcpResult="[Success];";
+
+[2019-02-25 18:02:08][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%203%20-fps%2010%20-bps%203622%20-gop%2037%20-fixbps%200%20-codec%207%20-id%201%20-enable%201%20-vencsize%207%20-fps%2022%20-bps%20891%20-gop%2012%20-fixbps%201%20-codec%202
+[2019-02-25 18:02:08][send_curl]NO.49---szJcpResult="[Success];";
+
+[2019-02-25 18:02:19][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%203%20-fps%2019%20-bps%203273%20-gop%2014%20-fixbps%200%20-codec%207%20-id%201%20-enable%200%20-vencsize%202%20-fps%207%20-bps%20565%20-gop%2034%20-fixbps%201%20-codec%202
+[2019-02-25 18:02:19][send_curl]NO.50---szJcpResult="[Success];";
+
+[2019-02-25 18:02:29][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%202%20-fps%203%20-bps%201680%20-gop%201%20-fixbps%200%20-codec%207%20-id%201%20-enable%201%20-vencsize%207%20-fps%208%20-bps%20953%20-gop%2022%20-fixbps%201%20-codec%207
+[2019-02-25 18:02:29][send_curl]NO.51---szJcpResult="[Success];";
+
+[2019-02-25 18:02:39][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%203%20-fps%209%20-bps%202281%20-gop%2017%20-fixbps%200%20-codec%202%20-id%201%20-enable%201%20-vencsize%201%20-fps%2024%20-bps%2068%20-gop%2028%20-fixbps%201%20-codec%207
+[2019-02-25 18:02:39][send_curl]NO.52---szJcpResult="[Success];";
+
+[2019-02-25 18:02:49][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%208%20-fps%2021%20-bps%202329%20-gop%2023%20-fixbps%201%20-codec%207%20-id%201%20-enable%200%20-vencsize%202%20-fps%2010%20-bps%20400%20-gop%2035%20-fixbps%200%20-codec%202
+[2019-02-25 18:02:49][send_curl]NO.53---szJcpResult="[Success];";
+
+[2019-02-25 18:02:59][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%203%20-fps%2011%20-bps%202208%20-gop%201%20-fixbps%200%20-codec%202%20-id%201%20-enable%201%20-vencsize%207%20-fps%203%20-bps%20436%20-gop%2046%20-fixbps%201%20-codec%207
+[2019-02-25 18:02:59][send_curl]NO.54---szJcpResult="[Success];";
+
+[2019-02-25 18:03:09][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%202%20-fps%2020%20-bps%201392%20-gop%2045%20-fixbps%201%20-codec%207%20-id%201%20-enable%201%20-vencsize%206%20-fps%207%20-bps%20771%20-gop%2030%20-fixbps%200%20-codec%207
+[2019-02-25 18:03:09][send_curl]NO.55---szJcpResult="[Success];";
+
+[2019-02-25 18:03:19][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%205%20-fps%2022%20-bps%203004%20-gop%2018%20-fixbps%201%20-codec%207%20-id%201%20-enable%200%20-vencsize%207%20-fps%2012%20-bps%20822%20-gop%2024%20-fixbps%201%20-codec%202
+[2019-02-25 18:03:19][send_curl]NO.56---szJcpResult="[Success];";
+
+[2019-02-25 18:03:29][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%207%20-fps%2018%20-bps%201493%20-gop%2026%20-fixbps%201%20-codec%202%20-id%201%20-enable%200%20-vencsize%206%20-fps%2019%20-bps%20404%20-gop%2039%20-fixbps%200%20-codec%207
+[2019-02-25 18:03:29][send_curl]NO.57---szJcpResult="[Success];";
+
+[2019-02-25 18:03:39][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%207%20-fps%2024%20-bps%201355%20-gop%209%20-fixbps%200%20-codec%202%20-id%201%20-enable%200%20-vencsize%201%20-fps%209%20-bps%20860%20-gop%203%20-fixbps%200%20-codec%207
+[2019-02-25 18:03:39][send_curl]NO.58---szJcpResult="[Success];";
+
+[2019-02-25 18:03:49][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%202%20-fps%204%20-bps%201752%20-gop%208%20-fixbps%200%20-codec%202%20-id%201%20-enable%200%20-vencsize%207%20-fps%2021%20-bps%201020%20-gop%2047%20-fixbps%200%20-codec%202
+[2019-02-25 18:03:49][send_curl]NO.59---szJcpResult="[Success];";
+
+[2019-02-25 18:03:59][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%205%20-fps%203%20-bps%202678%20-gop%2010%20-fixbps%200%20-codec%202%20-id%201%20-enable%201%20-vencsize%207%20-fps%201%20-bps%20643%20-gop%2040%20-fixbps%200%20-codec%202
+[2019-02-25 18:03:59][send_curl]NO.60---szJcpResult="[Success];";
+
+[2019-02-25 18:04:09][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%203%20-fps%204%20-bps%202216%20-gop%2017%20-fixbps%200%20-codec%202%20-id%201%20-enable%201%20-vencsize%201%20-fps%203%20-bps%20627%20-gop%2016%20-fixbps%200%20-codec%207
+[2019-02-25 18:04:09][send_curl]NO.61---szJcpResult="[Success];";
+
+[2019-02-25 18:04:19][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%205%20-fps%208%20-bps%202435%20-gop%2021%20-fixbps%200%20-codec%202%20-id%201%20-enable%200%20-vencsize%201%20-fps%2025%20-bps%2074%20-gop%2042%20-fixbps%200%20-codec%207
+[2019-02-25 18:04:19][send_curl]NO.62---szJcpResult="[Success];";
+
+[2019-02-25 18:04:29][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%208%20-fps%203%20-bps%203075%20-gop%2045%20-fixbps%200%20-codec%202%20-id%201%20-enable%200%20-vencsize%206%20-fps%2020%20-bps%20739%20-gop%2021%20-fixbps%201%20-codec%207
+[2019-02-25 18:04:29][send_curl]NO.63---szJcpResult="[Success];";
+
+[2019-02-25 18:04:39][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%202%20-fps%2024%20-bps%201195%20-gop%2010%20-fixbps%200%20-codec%207%20-id%201%20-enable%200%20-vencsize%201%20-fps%2014%20-bps%20338%20-gop%2019%20-fixbps%200%20-codec%207
+[2019-02-25 18:04:39][send_curl]NO.64---szJcpResult="[Success];";
+
+[2019-02-25 18:04:49][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%202%20-fps%2018%20-bps%201515%20-gop%2039%20-fixbps%200%20-codec%202%20-id%201%20-enable%200%20-vencsize%207%20-fps%203%20-bps%20957%20-gop%2050%20-fixbps%200%20-codec%207
+[2019-02-25 18:04:49][send_curl]NO.65---szJcpResult="[Success];";
+
+[2019-02-25 18:04:59][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%202%20-fps%205%20-bps%201290%20-gop%2029%20-fixbps%201%20-codec%207%20-id%201%20-enable%201%20-vencsize%201%20-fps%2019%20-bps%20145%20-gop%2036%20-fixbps%200%20-codec%207
+[2019-02-25 18:04:59][send_curl]NO.66---szJcpResult="[Success];";
+
+[2019-02-25 18:05:09][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%207%20-fps%2016%20-bps%201299%20-gop%2038%20-fixbps%200%20-codec%202%20-id%201%20-enable%201%20-vencsize%206%20-fps%2025%20-bps%20667%20-gop%2027%20-fixbps%200%20-codec%202
+[2019-02-25 18:05:09][send_curl]NO.67---szJcpResult="[Success];";
+
+[2019-02-25 18:05:19][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%205%20-fps%208%20-bps%203966%20-gop%2049%20-fixbps%200%20-codec%207%20-id%201%20-enable%201%20-vencsize%206%20-fps%209%20-bps%20882%20-gop%209%20-fixbps%201%20-codec%207
+[2019-02-25 18:05:19][send_curl]NO.68---szJcpResult="[Success];";
+
+[2019-02-25 18:05:29][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%207%20-fps%2020%20-bps%201929%20-gop%2032%20-fixbps%201%20-codec%202%20-id%201%20-enable%201%20-vencsize%206%20-fps%205%20-bps%20878%20-gop%2024%20-fixbps%200%20-codec%202
+[2019-02-25 18:05:29][send_curl]NO.69---szJcpResult="[Success];";
+
+[2019-02-25 18:05:39][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%208%20-fps%2017%20-bps%203416%20-gop%2015%20-fixbps%201%20-codec%207%20-id%201%20-enable%200%20-vencsize%207%20-fps%203%20-bps%20896%20-gop%2048%20-fixbps%200%20-codec%202
+[2019-02-25 18:05:39][send_curl]NO.70---szJcpResult="[Success];";
+
+[2019-02-25 18:05:49][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%205%20-fps%204%20-bps%203945%20-gop%206%20-fixbps%201%20-codec%202%20-id%201%20-enable%201%20-vencsize%207%20-fps%2022%20-bps%20323%20-gop%2032%20-fixbps%200%20-codec%202
+[2019-02-25 18:05:49][send_curl]NO.71---szJcpResult="[Success];";
+
+[2019-02-25 18:05:59][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%202%20-fps%209%20-bps%201129%20-gop%2023%20-fixbps%201%20-codec%202%20-id%201%20-enable%201%20-vencsize%206%20-fps%2014%20-bps%20876%20-gop%2032%20-fixbps%200%20-codec%202
+[2019-02-25 18:05:59][send_curl]NO.72---szJcpResult="[Success];";
+
+[2019-02-25 18:06:09][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%207%20-fps%204%20-bps%201353%20-gop%2019%20-fixbps%200%20-codec%202%20-id%201%20-enable%200%20-vencsize%206%20-fps%2010%20-bps%20755%20-gop%2040%20-fixbps%201%20-codec%202
+[2019-02-25 18:06:09][send_curl]NO.73---szJcpResult="[Success];";
+
+[2019-02-25 18:06:19][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%203%20-fps%2023%20-bps%203562%20-gop%208%20-fixbps%200%20-codec%207%20-id%201%20-enable%200%20-vencsize%201%20-fps%2010%20-bps%20638%20-gop%2032%20-fixbps%200%20-codec%207
+[2019-02-25 18:06:19][send_curl]NO.74---szJcpResult="[Success];";
+
+[2019-02-25 18:06:29][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%205%20-fps%2014%20-bps%203184%20-gop%2038%20-fixbps%200%20-codec%202%20-id%201%20-enable%200%20-vencsize%202%20-fps%2015%20-bps%20991%20-gop%208%20-fixbps%200%20-codec%202
+[2019-02-25 18:06:29][send_curl]NO.75---szJcpResult="[Success];";
+
+[2019-02-25 18:06:39][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%202%20-fps%2012%20-bps%201701%20-gop%2018%20-fixbps%200%20-codec%207%20-id%201%20-enable%201%20-vencsize%207%20-fps%202%20-bps%20315%20-gop%206%20-fixbps%200%20-codec%202
+[2019-02-25 18:06:39][send_curl]NO.76---szJcpResult="[Success];";
+
+[2019-02-25 18:06:49][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%205%20-fps%208%20-bps%203407%20-gop%202%20-fixbps%200%20-codec%202%20-id%201%20-enable%200%20-vencsize%207%20-fps%2010%20-bps%20904%20-gop%2048%20-fixbps%200%20-codec%202
+[2019-02-25 18:06:49][send_curl]NO.77---szJcpResult="[Success];";
+
+[2019-02-25 18:06:59][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%207%20-fps%2014%20-bps%201895%20-gop%2044%20-fixbps%200%20-codec%207%20-id%201%20-enable%201%20-vencsize%201%20-fps%206%20-bps%20941%20-gop%2010%20-fixbps%201%20-codec%207
+[2019-02-25 18:06:59][send_curl]NO.78---szJcpResult="[Success];";
+
+[2019-02-25 18:07:09][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%202%20-fps%2025%20-bps%201537%20-gop%2033%20-fixbps%200%20-codec%202%20-id%201%20-enable%201%20-vencsize%207%20-fps%202%20-bps%20681%20-gop%205%20-fixbps%201%20-codec%207
+[2019-02-25 18:07:09][send_curl]NO.79---szJcpResult="[Success];";
+
+[2019-02-25 18:07:19][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%207%20-fps%2021%20-bps%201100%20-gop%202%20-fixbps%200%20-codec%207%20-id%201%20-enable%200%20-vencsize%201%20-fps%209%20-bps%20394%20-gop%2037%20-fixbps%201%20-codec%202
+[2019-02-25 18:07:19][send_curl]NO.80---szJcpResult="[Success];";
+
+[2019-02-25 18:07:29][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%205%20-fps%204%20-bps%203948%20-gop%201%20-fixbps%201%20-codec%207%20-id%201%20-enable%200%20-vencsize%202%20-fps%2013%20-bps%20797%20-gop%2037%20-fixbps%201%20-codec%202
+[2019-02-25 18:07:29][send_curl]NO.81---szJcpResult="[Success];";
+
+[2019-02-25 18:07:39][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%208%20-fps%204%20-bps%202761%20-gop%2010%20-fixbps%201%20-codec%207%20-id%201%20-enable%200%20-vencsize%206%20-fps%2022%20-bps%20129%20-gop%2013%20-fixbps%200%20-codec%207
+[2019-02-25 18:07:39][send_curl]NO.82---szJcpResult="[Success];";
+
+[2019-02-25 18:07:49][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%208%20-fps%2019%20-bps%202691%20-gop%2029%20-fixbps%201%20-codec%202%20-id%201%20-enable%201%20-vencsize%206%20-fps%2022%20-bps%20551%20-gop%2033%20-fixbps%201%20-codec%202
+[2019-02-25 18:07:49][send_curl]NO.83---szJcpResult="[Success];";
+
+[2019-02-25 18:07:59][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%207%20-fps%2010%20-bps%201986%20-gop%207%20-fixbps%201%20-codec%202%20-id%201%20-enable%201%20-vencsize%201%20-fps%201%20-bps%20906%20-gop%2041%20-fixbps%201%20-codec%207
+[2019-02-25 18:07:59][send_curl]NO.84---szJcpResult="[Success];";
+
+[2019-02-25 18:08:09][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%208%20-fps%2012%20-bps%203332%20-gop%2022%20-fixbps%200%20-codec%202%20-id%201%20-enable%200%20-vencsize%206%20-fps%2018%20-bps%20611%20-gop%201%20-fixbps%201%20-codec%207
+[2019-02-25 18:08:09][send_curl]NO.85---szJcpResult="[Success];";
+
+[2019-02-25 18:08:19][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%205%20-fps%209%20-bps%202817%20-gop%2033%20-fixbps%200%20-codec%202%20-id%201%20-enable%200%20-vencsize%206%20-fps%206%20-bps%20994%20-gop%2017%20-fixbps%200%20-codec%207
+[2019-02-25 18:08:19][send_curl]NO.86---szJcpResult="[Success];";
+
+[2019-02-25 18:08:29][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%207%20-fps%2013%20-bps%201264%20-gop%2030%20-fixbps%201%20-codec%202%20-id%201%20-enable%200%20-vencsize%206%20-fps%204%20-bps%20583%20-gop%2039%20-fixbps%201%20-codec%202
+[2019-02-25 18:08:29][send_curl]NO.87---szJcpResult="[Success];";
+
+[2019-02-25 18:08:39][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%203%20-fps%2011%20-bps%202308%20-gop%2013%20-fixbps%201%20-codec%202%20-id%201%20-enable%200%20-vencsize%202%20-fps%2022%20-bps%20949%20-gop%2017%20-fixbps%201%20-codec%207
+[2019-02-25 18:08:39][send_curl]NO.88---szJcpResult="[Success];";
+
+[2019-02-25 18:08:49][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%202%20-fps%2019%20-bps%201405%20-gop%2022%20-fixbps%201%20-codec%202%20-id%201%20-enable%200%20-vencsize%207%20-fps%2015%20-bps%20704%20-gop%2036%20-fixbps%201%20-codec%202
+[2019-02-25 18:08:49][send_curl]NO.89---szJcpResult="[Success];";
+
+[2019-02-25 18:08:59][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%205%20-fps%2011%20-bps%202794%20-gop%2025%20-fixbps%201%20-codec%202%20-id%201%20-enable%201%20-vencsize%202%20-fps%205%20-bps%20428%20-gop%2034%20-fixbps%200%20-codec%207
+[2019-02-25 18:08:59][send_curl]NO.90---szJcpResult="[Success];";
+
+[2019-02-25 18:09:09][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%207%20-fps%201%20-bps%201302%20-gop%2050%20-fixbps%201%20-codec%202%20-id%201%20-enable%201%20-vencsize%206%20-fps%206%20-bps%20668%20-gop%2048%20-fixbps%201%20-codec%202
+[2019-02-25 18:09:09][send_curl]NO.91---szJcpResult="[Success];";
+
+[2019-02-25 18:09:19][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%205%20-fps%2024%20-bps%203512%20-gop%2049%20-fixbps%201%20-codec%202%20-id%201%20-enable%200%20-vencsize%206%20-fps%2017%20-bps%20870%20-gop%203%20-fixbps%201%20-codec%202
+[2019-02-25 18:09:19][send_curl]NO.92---szJcpResult="[Success];";
+
+[2019-02-25 18:09:29][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%202%20-fps%2021%20-bps%201173%20-gop%2028%20-fixbps%200%20-codec%202%20-id%201%20-enable%200%20-vencsize%207%20-fps%204%20-bps%20419%20-gop%205%20-fixbps%201%20-codec%202
+[2019-02-25 18:09:29][send_curl]NO.93---szJcpResult="[Success];";
+
+[2019-02-25 18:09:39][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%202%20-fps%202%20-bps%202011%20-gop%206%20-fixbps%201%20-codec%202%20-id%201%20-enable%201%20-vencsize%207%20-fps%2025%20-bps%20504%20-gop%2043%20-fixbps%201%20-codec%202
+[2019-02-25 18:09:39][send_curl]NO.94---szJcpResult="[Success];";
+
+[2019-02-25 18:09:49][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%208%20-fps%2025%20-bps%203995%20-gop%2010%20-fixbps%201%20-codec%202%20-id%201%20-enable%201%20-vencsize%206%20-fps%2016%20-bps%20906%20-gop%201%20-fixbps%201%20-codec%207
+[2019-02-25 18:09:49][send_curl]NO.95---szJcpResult="[Success];";
+
+[2019-02-25 18:09:59][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%207%20-fps%209%20-bps%201987%20-gop%2014%20-fixbps%200%20-codec%207%20-id%201%20-enable%201%20-vencsize%206%20-fps%2016%20-bps%20160%20-gop%2026%20-fixbps%200%20-codec%202
+[2019-02-25 18:09:59][send_curl]NO.96---szJcpResult="[Success];";
+
+[2019-02-25 18:10:09][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%202%20-fps%209%20-bps%201617%20-gop%2049%20-fixbps%201%20-codec%202%20-id%201%20-enable%200%20-vencsize%207%20-fps%209%20-bps%20633%20-gop%2034%20-fixbps%200%20-codec%202
+[2019-02-25 18:10:09][send_curl]NO.97---szJcpResult="[Success];";
+
+[2019-02-25 18:10:19][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%202%20-fps%2020%20-bps%201074%20-gop%2018%20-fixbps%201%20-codec%207%20-id%201%20-enable%200%20-vencsize%207%20-fps%2024%20-bps%20159%20-gop%2016%20-fixbps%201%20-codec%202
+[2019-02-25 18:10:19][send_curl]NO.98---szJcpResult="[Success];";
+
+[2019-02-25 18:10:29][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%208%20-fps%2013%20-bps%203623%20-gop%205%20-fixbps%201%20-codec%202%20-id%201%20-enable%201%20-vencsize%201%20-fps%206%20-bps%20505%20-gop%2029%20-fixbps%200%20-codec%202
+[2019-02-25 18:10:29][send_curl]NO.99---szJcpResult="[Success];";
+
+[2019-02-25 18:10:39][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%205%20-fps%206%20-bps%203384%20-gop%2046%20-fixbps%201%20-codec%202%20-id%201%20-enable%200%20-vencsize%202%20-fps%209%20-bps%20181%20-gop%2012%20-fixbps%201%20-codec%202
+[2019-02-25 18:10:39][send_curl]NO.100---szJcpResult="[Success];";
+
+[2019-02-25 18:10:49][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%207%20-fps%208%20-bps%201446%20-gop%2025%20-fixbps%200%20-codec%207%20-id%201%20-enable%200%20-vencsize%201%20-fps%2018%20-bps%20694%20-gop%2042%20-fixbps%201%20-codec%202
+[2019-02-25 18:10:49][send_curl]NO.101---szJcpResult="[Success];";
+
+[2019-02-25 18:11:00][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%208%20-fps%209%20-bps%202611%20-gop%2038%20-fixbps%200%20-codec%202%20-id%201%20-enable%200%20-vencsize%201%20-fps%2011%20-bps%20503%20-gop%2017%20-fixbps%200%20-codec%207
+[2019-02-25 18:11:00][send_curl]NO.102---szJcpResult="[Success];";
+
+[2019-02-25 18:11:10][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%205%20-fps%207%20-bps%203166%20-gop%2022%20-fixbps%201%20-codec%207%20-id%201%20-enable%200%20-vencsize%201%20-fps%2025%20-bps%20733%20-gop%2044%20-fixbps%201%20-codec%202
+[2019-02-25 18:11:10][send_curl]NO.103---szJcpResult="[Success];";
+
+[2019-02-25 18:11:20][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%203%20-fps%2014%20-bps%203451%20-gop%2046%20-fixbps%200%20-codec%207%20-id%201%20-enable%201%20-vencsize%201%20-fps%208%20-bps%20512%20-gop%2027%20-fixbps%200%20-codec%202
+[2019-02-25 18:11:20][send_curl]NO.104---szJcpResult="[Success];";
+
+[2019-02-25 18:11:30][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%207%20-fps%207%20-bps%201402%20-gop%2042%20-fixbps%200%20-codec%202%20-id%201%20-enable%200%20-vencsize%201%20-fps%2025%20-bps%20977%20-gop%205%20-fixbps%201%20-codec%207
+[2019-02-25 18:11:30][send_curl]NO.105---szJcpResult="[Success];";
+
+[2019-02-25 18:11:40][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%207%20-fps%2014%20-bps%201776%20-gop%202%20-fixbps%201%20-codec%207%20-id%201%20-enable%201%20-vencsize%201%20-fps%2025%20-bps%20796%20-gop%2045%20-fixbps%201%20-codec%207
+[2019-02-25 18:11:40][send_curl]NO.106---szJcpResult="[Success];";
+
+[2019-02-25 18:11:50][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%203%20-fps%2015%20-bps%202862%20-gop%2020%20-fixbps%201%20-codec%207%20-id%201%20-enable%200%20-vencsize%206%20-fps%2010%20-bps%20281%20-gop%2028%20-fixbps%200%20-codec%207
+[2019-02-25 18:11:50][send_curl]NO.107---szJcpResult="[Success];";
+
+[2019-02-25 18:12:00][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%203%20-fps%208%20-bps%202555%20-gop%2014%20-fixbps%201%20-codec%202%20-id%201%20-enable%201%20-vencsize%202%20-fps%202%20-bps%20615%20-gop%2022%20-fixbps%200%20-codec%207
+[2019-02-25 18:12:00][send_curl]NO.108---szJcpResult="[Success];";
+
+[2019-02-25 18:12:10][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%205%20-fps%2010%20-bps%203209%20-gop%209%20-fixbps%201%20-codec%207%20-id%201%20-enable%200%20-vencsize%207%20-fps%2016%20-bps%20309%20-gop%2035%20-fixbps%201%20-codec%202
+[2019-02-25 18:12:10][send_curl]NO.109---szJcpResult="[Success];";
+
+[2019-02-25 18:12:20][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%208%20-fps%2022%20-bps%203211%20-gop%207%20-fixbps%201%20-codec%202%20-id%201%20-enable%201%20-vencsize%202%20-fps%2013%20-bps%20285%20-gop%2029%20-fixbps%200%20-codec%202
+[2019-02-25 18:12:20][send_curl]NO.110---szJcpResult="[Success];";
+
+[2019-02-25 18:12:30][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%208%20-fps%207%20-bps%202827%20-gop%2024%20-fixbps%200%20-codec%207%20-id%201%20-enable%200%20-vencsize%202%20-fps%207%20-bps%20234%20-gop%2050%20-fixbps%200%20-codec%207
+[2019-02-25 18:12:30][send_curl]NO.111---szJcpResult="[Success];";
+
+[2019-02-25 18:12:40][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%202%20-fps%2017%20-bps%201417%20-gop%2030%20-fixbps%200%20-codec%207%20-id%201%20-enable%201%20-vencsize%201%20-fps%204%20-bps%20486%20-gop%2021%20-fixbps%201%20-codec%207
+[2019-02-25 18:12:40][send_curl]NO.112---szJcpResult="[Success];";
+
+[2019-02-25 18:12:50][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%203%20-fps%205%20-bps%202777%20-gop%2046%20-fixbps%201%20-codec%202%20-id%201%20-enable%201%20-vencsize%206%20-fps%2018%20-bps%20198%20-gop%209%20-fixbps%201%20-codec%202
+[2019-02-25 18:12:50][send_curl]NO.113---szJcpResult="[Success];";
+
+[2019-02-25 18:13:00][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%207%20-fps%2013%20-bps%201412%20-gop%2015%20-fixbps%201%20-codec%207%20-id%201%20-enable%200%20-vencsize%201%20-fps%203%20-bps%20609%20-gop%2026%20-fixbps%200%20-codec%207
+[2019-02-25 18:13:00][send_curl]NO.114---szJcpResult="[Success];";
+
+[2019-02-25 18:13:10][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%203%20-fps%2025%20-bps%203368%20-gop%2011%20-fixbps%200%20-codec%202%20-id%201%20-enable%201%20-vencsize%206%20-fps%2017%20-bps%20304%20-gop%2038%20-fixbps%200%20-codec%207
+[2019-02-25 18:13:10][send_curl]NO.115---szJcpResult="[Success];";
+
+[2019-02-25 18:13:20][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%205%20-fps%206%20-bps%203846%20-gop%2032%20-fixbps%200%20-codec%202%20-id%201%20-enable%200%20-vencsize%201%20-fps%2018%20-bps%20416%20-gop%2015%20-fixbps%201%20-codec%207
+[2019-02-25 18:13:20][send_curl]NO.116---szJcpResult="[Success];";
+
+[2019-02-25 18:13:30][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%208%20-fps%2023%20-bps%202323%20-gop%2021%20-fixbps%201%20-codec%207%20-id%201%20-enable%201%20-vencsize%206%20-fps%209%20-bps%20125%20-gop%206%20-fixbps%201%20-codec%207
+[2019-02-25 18:13:30][send_curl]NO.117---szJcpResult="[Success];";
+
+[2019-02-25 18:13:40][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%202%20-fps%2011%20-bps%201286%20-gop%2032%20-fixbps%200%20-codec%207%20-id%201%20-enable%201%20-vencsize%201%20-fps%203%20-bps%20949%20-gop%204%20-fixbps%200%20-codec%207
+[2019-02-25 18:13:40][send_curl]NO.118---szJcpResult="[Success];";
+
+[2019-02-25 18:13:50][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%207%20-fps%2024%20-bps%201529%20-gop%2041%20-fixbps%201%20-codec%202%20-id%201%20-enable%201%20-vencsize%206%20-fps%209%20-bps%20420%20-gop%208%20-fixbps%200%20-codec%207
+[2019-02-25 18:13:50][send_curl]NO.119---szJcpResult="[Success];";
+
+[2019-02-25 18:14:00][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%207%20-fps%2014%20-bps%201189%20-gop%2021%20-fixbps%200%20-codec%207%20-id%201%20-enable%200%20-vencsize%206%20-fps%2018%20-bps%2040%20-gop%205%20-fixbps%200%20-codec%207
+[2019-02-25 18:14:00][send_curl]NO.120---szJcpResult="[Success];";
+
+[2019-02-25 18:14:10][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%208%20-fps%2021%20-bps%202287%20-gop%2048%20-fixbps%201%20-codec%202%20-id%201%20-enable%201%20-vencsize%206%20-fps%202%20-bps%20680%20-gop%2039%20-fixbps%201%20-codec%202
+[2019-02-25 18:14:10][send_curl]NO.121---szJcpResult="[Success];";
+
+[2019-02-25 18:14:20][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%207%20-fps%208%20-bps%201853%20-gop%2019%20-fixbps%200%20-codec%202%20-id%201%20-enable%201%20-vencsize%201%20-fps%2011%20-bps%20918%20-gop%208%20-fixbps%200%20-codec%207
+[2019-02-25 18:14:20][send_curl]NO.122---szJcpResult="[Success];";
+
+[2019-02-25 18:14:30][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%202%20-fps%201%20-bps%201499%20-gop%2047%20-fixbps%200%20-codec%202%20-id%201%20-enable%201%20-vencsize%206%20-fps%2010%20-bps%20248%20-gop%2012%20-fixbps%201%20-codec%202
+[2019-02-25 18:14:30][send_curl]NO.123---szJcpResult="[Success];";
+
+[2019-02-25 18:14:40][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%202%20-fps%2010%20-bps%201591%20-gop%2039%20-fixbps%201%20-codec%207%20-id%201%20-enable%200%20-vencsize%207%20-fps%2021%20-bps%20997%20-gop%2025%20-fixbps%201%20-codec%207
+[2019-02-25 18:14:40][send_curl]NO.124---szJcpResult="[Success];";
+
+[2019-02-25 18:14:50][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%205%20-fps%207%20-bps%202356%20-gop%2010%20-fixbps%200%20-codec%202%20-id%201%20-enable%201%20-vencsize%206%20-fps%205%20-bps%20634%20-gop%2014%20-fixbps%201%20-codec%202
+[2019-02-25 18:14:50][send_curl]NO.125---szJcpResult="[Success];";
+
+[2019-02-25 18:15:00][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%202%20-fps%2020%20-bps%201856%20-gop%205%20-fixbps%201%20-codec%207%20-id%201%20-enable%201%20-vencsize%207%20-fps%2012%20-bps%20816%20-gop%2044%20-fixbps%201%20-codec%207
+[2019-02-25 18:15:00][send_curl]NO.126---szJcpResult="[Success];";
+
+[2019-02-25 18:15:10][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%203%20-fps%205%20-bps%203040%20-gop%2015%20-fixbps%200%20-codec%202%20-id%201%20-enable%200%20-vencsize%202%20-fps%2013%20-bps%20369%20-gop%2036%20-fixbps%200%20-codec%207
+[2019-02-25 18:15:10][send_curl]NO.127---szJcpResult="[Success];";
+
+[2019-02-25 18:15:20][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%203%20-fps%201%20-bps%202458%20-gop%2030%20-fixbps%201%20-codec%202%20-id%201%20-enable%201%20-vencsize%202%20-fps%208%20-bps%2066%20-gop%2035%20-fixbps%200%20-codec%207
+[2019-02-25 18:15:20][send_curl]NO.128---szJcpResult="[Success];";
+
+[2019-02-25 18:15:30][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%203%20-fps%203%20-bps%203094%20-gop%2038%20-fixbps%200%20-codec%207%20-id%201%20-enable%201%20-vencsize%201%20-fps%2023%20-bps%20227%20-gop%2048%20-fixbps%201%20-codec%207
+[2019-02-25 18:15:30][send_curl]NO.129---szJcpResult="[Success];";
+
+[2019-02-25 18:15:40][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%208%20-fps%2011%20-bps%204096%20-gop%2032%20-fixbps%201%20-codec%202%20-id%201%20-enable%200%20-vencsize%201%20-fps%205%20-bps%20359%20-gop%2036%20-fixbps%201%20-codec%202
+[2019-02-25 18:15:40][send_curl]NO.130---szJcpResult="[Success];";
+
+[2019-02-25 18:15:50][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%208%20-fps%204%20-bps%202600%20-gop%2036%20-fixbps%201%20-codec%202%20-id%201%20-enable%200%20-vencsize%207%20-fps%2012%20-bps%2044%20-gop%2049%20-fixbps%201%20-codec%202
+[2019-02-25 18:15:50][send_curl]NO.131---szJcpResult="[Success];";
+
+[2019-02-25 18:16:00][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%202%20-fps%209%20-bps%201482%20-gop%203%20-fixbps%201%20-codec%202%20-id%201%20-enable%200%20-vencsize%201%20-fps%2014%20-bps%20425%20-gop%2041%20-fixbps%200%20-codec%202
+[2019-02-25 18:16:00][send_curl]NO.132---szJcpResult="[Success];";
+
+[2019-02-25 18:16:10][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%208%20-fps%2019%20-bps%203667%20-gop%205%20-fixbps%201%20-codec%202%20-id%201%20-enable%200%20-vencsize%201%20-fps%2016%20-bps%20379%20-gop%2017%20-fixbps%201%20-codec%207
+[2019-02-25 18:16:10][send_curl]NO.133---szJcpResult="[Success];";
+
+[2019-02-25 18:16:20][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%208%20-fps%203%20-bps%203263%20-gop%2040%20-fixbps%200%20-codec%207%20-id%201%20-enable%200%20-vencsize%206%20-fps%2017%20-bps%2040%20-gop%2021%20-fixbps%200%20-codec%202
+[2019-02-25 18:16:20][send_curl]NO.134---szJcpResult="[Success];";
+
+[2019-02-25 18:16:30][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%205%20-fps%206%20-bps%203210%20-gop%205%20-fixbps%201%20-codec%202%20-id%201%20-enable%201%20-vencsize%207%20-fps%208%20-bps%20335%20-gop%2017%20-fixbps%201%20-codec%202
+[2019-02-25 18:16:30][send_curl]NO.135---szJcpResult="[Success];";
+
+[2019-02-25 18:16:40][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%208%20-fps%2018%20-bps%202863%20-gop%2038%20-fixbps%200%20-codec%207%20-id%201%20-enable%200%20-vencsize%206%20-fps%2023%20-bps%20776%20-gop%2037%20-fixbps%200%20-codec%202
+[2019-02-25 18:16:40][send_curl]NO.136---szJcpResult="[Success];";
+
+[2019-02-25 18:16:50][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%203%20-fps%203%20-bps%202338%20-gop%2012%20-fixbps%200%20-codec%202%20-id%201%20-enable%201%20-vencsize%201%20-fps%2016%20-bps%20319%20-gop%2030%20-fixbps%200%20-codec%207
+[2019-02-25 18:16:50][send_curl]NO.137---szJcpResult="[Success];";
+
+[2019-02-25 18:17:00][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%208%20-fps%2017%20-bps%202595%20-gop%2037%20-fixbps%201%20-codec%207%20-id%201%20-enable%201%20-vencsize%201%20-fps%2023%20-bps%20342%20-gop%206%20-fixbps%200%20-codec%207
+[2019-02-25 18:17:00][send_curl]NO.138---szJcpResult="[Success];";
+
+[2019-02-25 18:17:10][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%205%20-fps%205%20-bps%203726%20-gop%2045%20-fixbps%200%20-codec%202%20-id%201%20-enable%200%20-vencsize%202%20-fps%2011%20-bps%20366%20-gop%203%20-fixbps%201%20-codec%207
+[2019-02-25 18:17:10][send_curl]NO.139---szJcpResult="[Success];";
+
+[2019-02-25 18:17:20][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%208%20-fps%2013%20-bps%202582%20-gop%2028%20-fixbps%201%20-codec%207%20-id%201%20-enable%201%20-vencsize%207%20-fps%2014%20-bps%20249%20-gop%2047%20-fixbps%201%20-codec%207
+[2019-02-25 18:17:20][send_curl]NO.140---szJcpResult="[Success];";
+
+[2019-02-25 18:17:30][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%208%20-fps%2016%20-bps%203519%20-gop%2022%20-fixbps%200%20-codec%207%20-id%201%20-enable%201%20-vencsize%207%20-fps%205%20-bps%201014%20-gop%2023%20-fixbps%201%20-codec%207
+[2019-02-25 18:17:30][send_curl]NO.141---szJcpResult="[Success];";
+
+[2019-02-25 18:17:40][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%203%20-fps%207%20-bps%202360%20-gop%205%20-fixbps%201%20-codec%202%20-id%201%20-enable%200%20-vencsize%207%20-fps%2012%20-bps%20912%20-gop%2046%20-fixbps%200%20-codec%202
+[2019-02-25 18:17:40][send_curl]NO.142---szJcpResult="[Success];";
+
+[2019-02-25 18:17:50][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%203%20-fps%2019%20-bps%202103%20-gop%2023%20-fixbps%201%20-codec%202%20-id%201%20-enable%201%20-vencsize%201%20-fps%2010%20-bps%20741%20-gop%2030%20-fixbps%200%20-codec%207
+[2019-02-25 18:17:50][send_curl]NO.143---szJcpResult="[Success];";
+
+[2019-02-25 18:18:00][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%208%20-fps%2012%20-bps%203329%20-gop%2027%20-fixbps%201%20-codec%207%20-id%201%20-enable%201%20-vencsize%202%20-fps%2020%20-bps%20973%20-gop%2037%20-fixbps%200%20-codec%207
+[2019-02-25 18:18:00][send_curl]NO.144---szJcpResult="[Success];";
+
+[2019-02-25 18:18:10][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%208%20-fps%2016%20-bps%202776%20-gop%2018%20-fixbps%200%20-codec%207%20-id%201%20-enable%201%20-vencsize%206%20-fps%207%20-bps%20884%20-gop%2023%20-fixbps%201%20-codec%207
+[2019-02-25 18:18:10][send_curl]NO.145---szJcpResult="[Success];";
+
+[2019-02-25 18:18:20][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%203%20-fps%2020%20-bps%203274%20-gop%202%20-fixbps%201%20-codec%202%20-id%201%20-enable%201%20-vencsize%206%20-fps%2024%20-bps%20808%20-gop%206%20-fixbps%200%20-codec%202
+[2019-02-25 18:18:20][send_curl]NO.146---szJcpResult="[Success];";
+
+[2019-02-25 18:18:30][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%208%20-fps%208%20-bps%203260%20-gop%2032%20-fixbps%200%20-codec%202%20-id%201%20-enable%201%20-vencsize%207%20-fps%204%20-bps%20208%20-gop%2044%20-fixbps%201%20-codec%207
+[2019-02-25 18:18:30][send_curl]NO.147---szJcpResult="[Success];";
+
+[2019-02-25 18:18:40][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%207%20-fps%2017%20-bps%201665%20-gop%2020%20-fixbps%200%20-codec%202%20-id%201%20-enable%201%20-vencsize%206%20-fps%2019%20-bps%20796%20-gop%208%20-fixbps%201%20-codec%202
+[2019-02-25 18:18:40][send_curl]NO.148---szJcpResult="[Success];";
+
+[2019-02-25 18:18:50][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%208%20-fps%207%20-bps%203313%20-gop%2036%20-fixbps%200%20-codec%207%20-id%201%20-enable%201%20-vencsize%207%20-fps%209%20-bps%20508%20-gop%2030%20-fixbps%201%20-codec%207
+[2019-02-25 18:18:50][send_curl]NO.149---szJcpResult="[Success];";
+
+[2019-02-25 18:19:00][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%202%20-fps%2017%20-bps%201648%20-gop%2016%20-fixbps%200%20-codec%207%20-id%201%20-enable%201%20-vencsize%207%20-fps%2014%20-bps%20545%20-gop%2048%20-fixbps%201%20-codec%202
+[2019-02-25 18:19:00][send_curl]NO.150---szJcpResult="[Success];";
+
+[2019-02-25 18:19:10][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%207%20-fps%2016%20-bps%201090%20-gop%2022%20-fixbps%201%20-codec%207%20-id%201%20-enable%201%20-vencsize%201%20-fps%2011%20-bps%20682%20-gop%2027%20-fixbps%201%20-codec%202
+[2019-02-25 18:19:10][send_curl]NO.151---szJcpResult="[Success];";
+
+[2019-02-25 18:19:20][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%202%20-fps%2015%20-bps%201722%20-gop%2049%20-fixbps%200%20-codec%207%20-id%201%20-enable%201%20-vencsize%206%20-fps%207%20-bps%20304%20-gop%2048%20-fixbps%201%20-codec%202
+[2019-02-25 18:19:20][send_curl]NO.152---szJcpResult="[Success];";
+
+[2019-02-25 18:19:30][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%205%20-fps%208%20-bps%203797%20-gop%2041%20-fixbps%200%20-codec%207%20-id%201%20-enable%201%20-vencsize%206%20-fps%2021%20-bps%20957%20-gop%2029%20-fixbps%201%20-codec%207
+[2019-02-25 18:19:30][send_curl]NO.153---szJcpResult="[Success];";
+
+[2019-02-25 18:19:40][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%205%20-fps%2015%20-bps%202693%20-gop%2018%20-fixbps%200%20-codec%207%20-id%201%20-enable%201%20-vencsize%207%20-fps%2020%20-bps%20843%20-gop%2018%20-fixbps%200%20-codec%202
+[2019-02-25 18:19:40][send_curl]NO.154---szJcpResult="[Success];";
+
+[2019-02-25 18:19:50][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%208%20-fps%2010%20-bps%203783%20-gop%2011%20-fixbps%201%20-codec%202%20-id%201%20-enable%201%20-vencsize%207%20-fps%2013%20-bps%20125%20-gop%2025%20-fixbps%201%20-codec%207
+[2019-02-25 18:19:50][send_curl]NO.155---szJcpResult="[Success];";
+
+[2019-02-25 18:20:00][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%202%20-fps%2011%20-bps%201725%20-gop%2033%20-fixbps%201%20-codec%207%20-id%201%20-enable%200%20-vencsize%201%20-fps%207%20-bps%20650%20-gop%2041%20-fixbps%200%20-codec%207
+[2019-02-25 18:20:00][send_curl]NO.156---szJcpResult="[Success];";
+
+[2019-02-25 18:20:10][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%202%20-fps%209%20-bps%201690%20-gop%2019%20-fixbps%200%20-codec%202%20-id%201%20-enable%201%20-vencsize%201%20-fps%208%20-bps%20738%20-gop%2047%20-fixbps%201%20-codec%202
+[2019-02-25 18:20:10][send_curl]NO.157---szJcpResult="[Success];";
+
+[2019-02-25 18:20:21][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%208%20-fps%201%20-bps%204048%20-gop%2039%20-fixbps%200%20-codec%202%20-id%201%20-enable%201%20-vencsize%202%20-fps%2021%20-bps%20648%20-gop%201%20-fixbps%200%20-codec%207
+[2019-02-25 18:20:21][send_curl]NO.158---szJcpResult="[Success];";
+
+[2019-02-25 18:20:31][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%208%20-fps%207%20-bps%203070%20-gop%205%20-fixbps%200%20-codec%207%20-id%201%20-enable%200%20-vencsize%201%20-fps%201%20-bps%20942%20-gop%2023%20-fixbps%200%20-codec%207
+[2019-02-25 18:20:31][send_curl]NO.159---szJcpResult="[Success];";
+
+[2019-02-25 18:20:41][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%208%20-fps%2022%20-bps%202751%20-gop%2022%20-fixbps%200%20-codec%207%20-id%201%20-enable%201%20-vencsize%206%20-fps%2016%20-bps%20348%20-gop%2016%20-fixbps%200%20-codec%207
+[2019-02-25 18:20:41][send_curl]NO.160---szJcpResult="[Success];";
+
+[2019-02-25 18:20:51][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%202%20-fps%203%20-bps%201474%20-gop%2012%20-fixbps%200%20-codec%202%20-id%201%20-enable%201%20-vencsize%206%20-fps%205%20-bps%20578%20-gop%2042%20-fixbps%200%20-codec%207
+[2019-02-25 18:20:51][send_curl]NO.161---szJcpResult="[Success];";
+
+[2019-02-25 18:21:01][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%208%20-fps%2011%20-bps%202816%20-gop%2013%20-fixbps%201%20-codec%207%20-id%201%20-enable%201%20-vencsize%202%20-fps%2015%20-bps%20341%20-gop%2018%20-fixbps%200%20-codec%202
+[2019-02-25 18:21:01][send_curl]NO.162---szJcpResult="[Success];";
+
+[2019-02-25 18:21:11][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%208%20-fps%207%20-bps%202154%20-gop%2010%20-fixbps%201%20-codec%202%20-id%201%20-enable%200%20-vencsize%202%20-fps%2021%20-bps%2061%20-gop%2047%20-fixbps%201%20-codec%202
+[2019-02-25 18:21:11][send_curl]NO.163---szJcpResult="[Success];";
+
+[2019-02-25 18:21:21][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%205%20-fps%201%20-bps%203561%20-gop%2033%20-fixbps%201%20-codec%202%20-id%201%20-enable%200%20-vencsize%207%20-fps%203%20-bps%20814%20-gop%206%20-fixbps%200%20-codec%207
+[2019-02-25 18:21:21][send_curl]NO.164---szJcpResult="[Success];";
+
+[2019-02-25 18:21:31][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%203%20-fps%2011%20-bps%204036%20-gop%208%20-fixbps%201%20-codec%207%20-id%201%20-enable%201%20-vencsize%206%20-fps%2012%20-bps%20644%20-gop%2030%20-fixbps%201%20-codec%202
+[2019-02-25 18:21:31][send_curl]NO.165---szJcpResult="[Success];";
+
+[2019-02-25 18:21:41][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%205%20-fps%2020%20-bps%203885%20-gop%2040%20-fixbps%201%20-codec%207%20-id%201%20-enable%200%20-vencsize%207%20-fps%207%20-bps%20513%20-gop%2043%20-fixbps%200%20-codec%202
+[2019-02-25 18:21:41][send_curl]NO.166---szJcpResult="[Success];";
+
+[2019-02-25 18:21:51][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%203%20-fps%202%20-bps%203069%20-gop%2018%20-fixbps%201%20-codec%207%20-id%201%20-enable%201%20-vencsize%206%20-fps%2011%20-bps%20200%20-gop%2020%20-fixbps%200%20-codec%202
+[2019-02-25 18:21:51][send_curl]NO.167---szJcpResult="[Success];";
+
+[2019-02-25 18:22:01][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%205%20-fps%201%20-bps%203021%20-gop%2029%20-fixbps%201%20-codec%202%20-id%201%20-enable%201%20-vencsize%207%20-fps%2012%20-bps%20807%20-gop%2048%20-fixbps%200%20-codec%207
+[2019-02-25 18:22:01][send_curl]NO.168---szJcpResult="[Success];";
+
+[2019-02-25 18:22:11][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%202%20-fps%2015%20-bps%201663%20-gop%2050%20-fixbps%201%20-codec%207%20-id%201%20-enable%201%20-vencsize%206%20-fps%204%20-bps%20756%20-gop%2018%20-fixbps%201%20-codec%202
+[2019-02-25 18:22:11][send_curl]NO.169---szJcpResult="[Success];";
+
+[2019-02-25 18:22:21][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%202%20-fps%203%20-bps%202022%20-gop%2031%20-fixbps%201%20-codec%207%20-id%201%20-enable%201%20-vencsize%201%20-fps%2019%20-bps%20470%20-gop%2039%20-fixbps%201%20-codec%202
+[2019-02-25 18:22:21][send_curl]NO.170---szJcpResult="[Success];";
+
+[2019-02-25 18:22:31][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%208%20-fps%2021%20-bps%203745%20-gop%2041%20-fixbps%200%20-codec%207%20-id%201%20-enable%200%20-vencsize%202%20-fps%205%20-bps%20319%20-gop%206%20-fixbps%201%20-codec%207
+[2019-02-25 18:22:31][send_curl]NO.171---szJcpResult="[Success];";
+
+[2019-02-25 18:22:41][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%207%20-fps%2024%20-bps%201633%20-gop%2023%20-fixbps%200%20-codec%202%20-id%201%20-enable%200%20-vencsize%206%20-fps%205%20-bps%20712%20-gop%2041%20-fixbps%201%20-codec%202
+[2019-02-25 18:22:41][send_curl]NO.172---szJcpResult="[Success];";
+
+[2019-02-25 18:22:51][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%202%20-fps%2016%20-bps%201991%20-gop%209%20-fixbps%201%20-codec%207%20-id%201%20-enable%201%20-vencsize%206%20-fps%2015%20-bps%20171%20-gop%2037%20-fixbps%200%20-codec%202
+[2019-02-25 18:22:51][send_curl]NO.173---szJcpResult="[Success];";
+
+[2019-02-25 18:23:01][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%203%20-fps%2015%20-bps%203128%20-gop%2033%20-fixbps%201%20-codec%207%20-id%201%20-enable%201%20-vencsize%206%20-fps%2019%20-bps%20682%20-gop%2016%20-fixbps%200%20-codec%202
+[2019-02-25 18:23:01][send_curl]NO.174---szJcpResult="[Success];";
+
+[2019-02-25 18:23:11][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%207%20-fps%206%20-bps%201729%20-gop%2031%20-fixbps%201%20-codec%207%20-id%201%20-enable%200%20-vencsize%201%20-fps%2023%20-bps%20839%20-gop%2023%20-fixbps%200%20-codec%207
+[2019-02-25 18:23:11][send_curl]NO.175---szJcpResult="[Success];";
+
+[2019-02-25 18:23:21][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%203%20-fps%2025%20-bps%203560%20-gop%2045%20-fixbps%200%20-codec%207%20-id%201%20-enable%200%20-vencsize%201%20-fps%2013%20-bps%20819%20-gop%2027%20-fixbps%201%20-codec%207
+[2019-02-25 18:23:21][send_curl]NO.176---szJcpResult="[Success];";
+
+[2019-02-25 18:23:31][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%202%20-fps%2015%20-bps%201945%20-gop%2043%20-fixbps%200%20-codec%207%20-id%201%20-enable%201%20-vencsize%207%20-fps%207%20-bps%20710%20-gop%2043%20-fixbps%200%20-codec%207
+[2019-02-25 18:23:31][send_curl]NO.177---szJcpResult="[Success];";
+
+[2019-02-25 18:23:41][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%205%20-fps%208%20-bps%202650%20-gop%2038%20-fixbps%200%20-codec%207%20-id%201%20-enable%201%20-vencsize%201%20-fps%2024%20-bps%20970%20-gop%2041%20-fixbps%200%20-codec%202
+[2019-02-25 18:23:41][send_curl]NO.178---szJcpResult="[Success];";
+
+[2019-02-25 18:23:51][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%205%20-fps%2014%20-bps%203033%20-gop%2036%20-fixbps%201%20-codec%207%20-id%201%20-enable%200%20-vencsize%202%20-fps%207%20-bps%20241%20-gop%2046%20-fixbps%200%20-codec%207
+[2019-02-25 18:23:51][send_curl]NO.179---szJcpResult="[Success];";
+
+[2019-02-25 18:24:01][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%208%20-fps%2010%20-bps%203630%20-gop%2021%20-fixbps%201%20-codec%207%20-id%201%20-enable%200%20-vencsize%207%20-fps%204%20-bps%20267%20-gop%2031%20-fixbps%201%20-codec%202
+[2019-02-25 18:24:01][send_curl]NO.180---szJcpResult="[Success];";
+
+[2019-02-25 18:24:11][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%205%20-fps%2013%20-bps%202868%20-gop%2028%20-fixbps%200%20-codec%202%20-id%201%20-enable%200%20-vencsize%207%20-fps%208%20-bps%20413%20-gop%2044%20-fixbps%200%20-codec%207
+[2019-02-25 18:24:11][send_curl]NO.181---szJcpResult="[Success];";
+
+[2019-02-25 18:24:21][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%208%20-fps%2015%20-bps%202123%20-gop%2011%20-fixbps%201%20-codec%207%20-id%201%20-enable%201%20-vencsize%201%20-fps%2019%20-bps%20445%20-gop%2019%20-fixbps%201%20-codec%202
+[2019-02-25 18:24:21][send_curl]NO.182---szJcpResult="[Success];";
+
+[2019-02-25 18:24:31][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%207%20-fps%2024%20-bps%201394%20-gop%2026%20-fixbps%200%20-codec%202%20-id%201%20-enable%200%20-vencsize%201%20-fps%205%20-bps%20743%20-gop%2026%20-fixbps%200%20-codec%207
+[2019-02-25 18:24:31][send_curl]NO.183---szJcpResult="[Success];";
+
+[2019-02-25 18:24:41][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%207%20-fps%204%20-bps%201828%20-gop%2017%20-fixbps%201%20-codec%202%20-id%201%20-enable%200%20-vencsize%206%20-fps%2018%20-bps%20380%20-gop%2034%20-fixbps%200%20-codec%202
+[2019-02-25 18:24:41][send_curl]NO.184---szJcpResult="[Success];";
+
+[2019-02-25 18:24:51][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%208%20-fps%2021%20-bps%203923%20-gop%2027%20-fixbps%201%20-codec%202%20-id%201%20-enable%200%20-vencsize%207%20-fps%2022%20-bps%2075%20-gop%2040%20-fixbps%200%20-codec%207
+[2019-02-25 18:24:51][send_curl]NO.185---szJcpResult="[Success];";
+
+[2019-02-25 18:25:01][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%203%20-fps%207%20-bps%203093%20-gop%2043%20-fixbps%201%20-codec%207%20-id%201%20-enable%200%20-vencsize%206%20-fps%209%20-bps%20866%20-gop%2033%20-fixbps%201%20-codec%207
+[2019-02-25 18:25:01][send_curl]NO.186---szJcpResult="[Success];";
+
+[2019-02-25 18:25:11][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%202%20-fps%2013%20-bps%201688%20-gop%2029%20-fixbps%200%20-codec%207%20-id%201%20-enable%201%20-vencsize%207%20-fps%2016%20-bps%20339%20-gop%2036%20-fixbps%201%20-codec%207
+[2019-02-25 18:25:11][send_curl]NO.187---szJcpResult="[Success];";
+
+[2019-02-25 18:25:21][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%205%20-fps%2024%20-bps%202270%20-gop%2017%20-fixbps%201%20-codec%207%20-id%201%20-enable%201%20-vencsize%201%20-fps%208%20-bps%20306%20-gop%2031%20-fixbps%201%20-codec%207
+[2019-02-25 18:25:21][send_curl]NO.188---szJcpResult="[Success];";
+
+[2019-02-25 18:25:31][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%202%20-fps%2019%20-bps%201416%20-gop%2016%20-fixbps%200%20-codec%202%20-id%201%20-enable%200%20-vencsize%206%20-fps%2017%20-bps%20333%20-gop%2040%20-fixbps%200%20-codec%207
+[2019-02-25 18:25:31][send_curl]NO.189---szJcpResult="[Success];";
+
+[2019-02-25 18:25:41][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%208%20-fps%2023%20-bps%202484%20-gop%2039%20-fixbps%201%20-codec%202%20-id%201%20-enable%200%20-vencsize%202%20-fps%207%20-bps%20403%20-gop%2015%20-fixbps%200%20-codec%207
+[2019-02-25 18:25:41][send_curl]NO.190---szJcpResult="[Success];";
+
+[2019-02-25 18:25:51][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%203%20-fps%208%20-bps%203796%20-gop%203%20-fixbps%201%20-codec%202%20-id%201%20-enable%200%20-vencsize%206%20-fps%2011%20-bps%20838%20-gop%2015%20-fixbps%201%20-codec%202
+[2019-02-25 18:25:51][send_curl]NO.191---szJcpResult="[Success];";
+
+[2019-02-25 18:26:01][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%202%20-fps%2012%20-bps%201724%20-gop%2026%20-fixbps%200%20-codec%207%20-id%201%20-enable%200%20-vencsize%206%20-fps%2023%20-bps%20520%20-gop%2016%20-fixbps%200%20-codec%202
+[2019-02-25 18:26:01][send_curl]NO.192---szJcpResult="[Success];";
+
+[2019-02-25 18:26:11][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%205%20-fps%2015%20-bps%202641%20-gop%2027%20-fixbps%200%20-codec%207%20-id%201%20-enable%200%20-vencsize%201%20-fps%2011%20-bps%20962%20-gop%203%20-fixbps%201%20-codec%202
+[2019-02-25 18:26:11][send_curl]NO.193---szJcpResult="[Success];";
+
+[2019-02-25 18:26:21][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%207%20-fps%2019%20-bps%201519%20-gop%2011%20-fixbps%200%20-codec%207%20-id%201%20-enable%200%20-vencsize%201%20-fps%2016%20-bps%20657%20-gop%2010%20-fixbps%200%20-codec%207
+[2019-02-25 18:26:21][send_curl]NO.194---szJcpResult="[Success];";
+
+[2019-02-25 18:26:31][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%203%20-fps%2023%20-bps%203858%20-gop%2044%20-fixbps%201%20-codec%207%20-id%201%20-enable%200%20-vencsize%206%20-fps%2015%20-bps%20566%20-gop%2038%20-fixbps%201%20-codec%202
+[2019-02-25 18:26:31][send_curl]NO.195---szJcpResult="[Success];";
+
+[2019-02-25 18:26:41][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%203%20-fps%203%20-bps%203310%20-gop%2042%20-fixbps%201%20-codec%207%20-id%201%20-enable%201%20-vencsize%202%20-fps%2024%20-bps%20362%20-gop%2030%20-fixbps%201%20-codec%207
+[2019-02-25 18:26:41][send_curl]NO.196---szJcpResult="[Success];";
+
+[2019-02-25 18:26:51][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%202%20-fps%2024%20-bps%201426%20-gop%2040%20-fixbps%201%20-codec%207%20-id%201%20-enable%201%20-vencsize%206%20-fps%207%20-bps%20747%20-gop%208%20-fixbps%200%20-codec%202
+[2019-02-25 18:26:51][send_curl]NO.197---szJcpResult="[Success];";
+
+[2019-02-25 18:27:01][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%203%20-fps%2010%20-bps%203356%20-gop%2023%20-fixbps%200%20-codec%202%20-id%201%20-enable%201%20-vencsize%207%20-fps%2011%20-bps%20146%20-gop%2047%20-fixbps%200%20-codec%207
+[2019-02-25 18:27:01][send_curl]NO.198---szJcpResult="[Success];";
+
+[2019-02-25 18:27:11][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%207%20-fps%2018%20-bps%201884%20-gop%2010%20-fixbps%200%20-codec%207%20-id%201%20-enable%200%20-vencsize%201%20-fps%208%20-bps%20663%20-gop%2035%20-fixbps%200%20-codec%202
+[2019-02-25 18:27:11][send_curl]NO.199---szJcpResult="[Success];";
+
+[2019-02-25 18:27:21][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%203%20-fps%2014%20-bps%203740%20-gop%2047%20-fixbps%200%20-codec%202%20-id%201%20-enable%200%20-vencsize%202%20-fps%2022%20-bps%20829%20-gop%2010%20-fixbps%201%20-codec%202
+[2019-02-25 18:27:21][send_curl]NO.200---szJcpResult="[Success];";
+
+[2019-02-25 18:27:31][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%207%20-fps%206%20-bps%201314%20-gop%2019%20-fixbps%200%20-codec%202%20-id%201%20-enable%200%20-vencsize%206%20-fps%2011%20-bps%20817%20-gop%209%20-fixbps%200%20-codec%202
+[2019-02-25 18:27:31][send_curl]NO.201---szJcpResult="[Success];";
+
+[2019-02-25 18:27:41][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%205%20-fps%2016%20-bps%202988%20-gop%2040%20-fixbps%201%20-codec%207%20-id%201%20-enable%201%20-vencsize%207%20-fps%2024%20-bps%20650%20-gop%202%20-fixbps%200%20-codec%207
+[2019-02-25 18:27:41][send_curl]NO.202---szJcpResult="[Success];";
+
+[2019-02-25 18:27:51][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%208%20-fps%2014%20-bps%203973%20-gop%206%20-fixbps%200%20-codec%207%20-id%201%20-enable%201%20-vencsize%207%20-fps%2024%20-bps%20726%20-gop%2014%20-fixbps%201%20-codec%202
+[2019-02-25 18:27:51][send_curl]NO.203---szJcpResult="[Success];";
+
+[2019-02-25 18:28:01][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%203%20-fps%204%20-bps%203606%20-gop%208%20-fixbps%200%20-codec%202%20-id%201%20-enable%200%20-vencsize%206%20-fps%2010%20-bps%20367%20-gop%2035%20-fixbps%201%20-codec%207
+[2019-02-25 18:28:01][send_curl]NO.204---szJcpResult="[Success];";
+
+[2019-02-25 18:28:11][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%203%20-fps%2015%20-bps%202545%20-gop%2010%20-fixbps%201%20-codec%207%20-id%201%20-enable%201%20-vencsize%206%20-fps%2016%20-bps%20426%20-gop%2043%20-fixbps%201%20-codec%207
+[2019-02-25 18:28:11][send_curl]NO.205---szJcpResult="[Success];";
+
+[2019-02-25 18:28:21][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%203%20-fps%2010%20-bps%203061%20-gop%202%20-fixbps%201%20-codec%202%20-id%201%20-enable%201%20-vencsize%201%20-fps%204%20-bps%20970%20-gop%2044%20-fixbps%200%20-codec%202
+[2019-02-25 18:28:21][send_curl]NO.206---szJcpResult="[Success];";
+
+[2019-02-25 18:28:31][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%202%20-fps%209%20-bps%201141%20-gop%205%20-fixbps%201%20-codec%207%20-id%201%20-enable%200%20-vencsize%206%20-fps%2022%20-bps%20996%20-gop%2043%20-fixbps%200%20-codec%207
+[2019-02-25 18:28:31][send_curl]NO.207---szJcpResult="[Success];";
+
+[2019-02-25 18:28:41][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%202%20-fps%2016%20-bps%201881%20-gop%209%20-fixbps%200%20-codec%207%20-id%201%20-enable%200%20-vencsize%201%20-fps%2015%20-bps%20307%20-gop%202%20-fixbps%201%20-codec%207
+[2019-02-25 18:28:41][send_curl]NO.208---szJcpResult="[Success];";
+
+[2019-02-25 18:28:51][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%202%20-fps%2011%20-bps%201800%20-gop%2048%20-fixbps%200%20-codec%207%20-id%201%20-enable%201%20-vencsize%207%20-fps%204%20-bps%20199%20-gop%2049%20-fixbps%201%20-codec%207
+[2019-02-25 18:28:51][send_curl]NO.209---szJcpResult="[Success];";
+
+[2019-02-25 18:29:01][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%205%20-fps%201%20-bps%203264%20-gop%2010%20-fixbps%200%20-codec%202%20-id%201%20-enable%200%20-vencsize%206%20-fps%2015%20-bps%20657%20-gop%2025%20-fixbps%200%20-codec%207
+[2019-02-25 18:29:01][send_curl]NO.210---szJcpResult="[Success];";
+
+[2019-02-25 18:29:11][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%203%20-fps%2021%20-bps%202612%20-gop%2042%20-fixbps%200%20-codec%202%20-id%201%20-enable%200%20-vencsize%206%20-fps%2013%20-bps%20819%20-gop%2042%20-fixbps%200%20-codec%207
+[2019-02-25 18:29:11][send_curl]NO.211---szJcpResult="[Success];";
+
+[2019-02-25 18:29:21][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%202%20-fps%2011%20-bps%201908%20-gop%209%20-fixbps%201%20-codec%207%20-id%201%20-enable%201%20-vencsize%201%20-fps%2020%20-bps%20979%20-gop%2017%20-fixbps%201%20-codec%207
+[2019-02-25 18:29:21][send_curl]NO.212---szJcpResult="[Success];";
+
+[2019-02-25 18:29:31][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%207%20-fps%2024%20-bps%201731%20-gop%2040%20-fixbps%200%20-codec%202%20-id%201%20-enable%201%20-vencsize%201%20-fps%204%20-bps%20194%20-gop%2035%20-fixbps%201%20-codec%202
+[2019-02-25 18:29:31][send_curl]NO.213---szJcpResult="[Success];";
+
+[2019-02-25 18:29:41][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%208%20-fps%202%20-bps%202185%20-gop%2027%20-fixbps%200%20-codec%207%20-id%201%20-enable%201%20-vencsize%202%20-fps%205%20-bps%20240%20-gop%2029%20-fixbps%200%20-codec%202
+[2019-02-25 18:29:41][send_curl]NO.214---szJcpResult="[Success];";
+
+[2019-02-25 18:29:51][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%207%20-fps%201%20-bps%201671%20-gop%2028%20-fixbps%201%20-codec%202%20-id%201%20-enable%201%20-vencsize%201%20-fps%207%20-bps%20263%20-gop%202%20-fixbps%201%20-codec%202
+[2019-02-25 18:29:51][send_curl]NO.215---szJcpResult="[Success];";
+
+[2019-02-25 18:30:01][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%207%20-fps%2021%20-bps%201370%20-gop%2012%20-fixbps%201%20-codec%202%20-id%201%20-enable%200%20-vencsize%201%20-fps%2016%20-bps%20398%20-gop%207%20-fixbps%201%20-codec%207
+[2019-02-25 18:30:01][send_curl]NO.216---szJcpResult="[Success];";
+
+[2019-02-25 18:30:11][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%208%20-fps%2017%20-bps%204081%20-gop%201%20-fixbps%200%20-codec%207%20-id%201%20-enable%200%20-vencsize%202%20-fps%202%20-bps%20425%20-gop%2017%20-fixbps%201%20-codec%202
+[2019-02-25 18:30:11][send_curl]NO.217---szJcpResult="[Success];";
+
+[2019-02-25 18:30:21][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%208%20-fps%2010%20-bps%203291%20-gop%2022%20-fixbps%200%20-codec%207%20-id%201%20-enable%201%20-vencsize%201%20-fps%2018%20-bps%20208%20-gop%204%20-fixbps%201%20-codec%207
+[2019-02-25 18:30:21][send_curl]NO.218---szJcpResult="[Success];";
+
+[2019-02-25 18:30:31][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%208%20-fps%2025%20-bps%202181%20-gop%2014%20-fixbps%201%20-codec%202%20-id%201%20-enable%200%20-vencsize%207%20-fps%206%20-bps%20246%20-gop%2043%20-fixbps%200%20-codec%207
+[2019-02-25 18:30:31][send_curl]NO.219---szJcpResult="[Success];";
+
+[2019-02-25 18:30:42][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%203%20-fps%2012%20-bps%202452%20-gop%2020%20-fixbps%201%20-codec%202%20-id%201%20-enable%201%20-vencsize%201%20-fps%206%20-bps%201018%20-gop%2022%20-fixbps%200%20-codec%207
+[2019-02-25 18:30:42][send_curl]NO.220---szJcpResult="[Success];";
+
+[2019-02-25 18:30:52][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%202%20-fps%201%20-bps%201706%20-gop%2018%20-fixbps%201%20-codec%202%20-id%201%20-enable%200%20-vencsize%207%20-fps%2015%20-bps%2032%20-gop%2024%20-fixbps%201%20-codec%202
+[2019-02-25 18:30:52][send_curl]NO.221---szJcpResult="[Success];";
+
+[2019-02-25 18:31:02][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%202%20-fps%201%20-bps%201084%20-gop%2035%20-fixbps%201%20-codec%202%20-id%201%20-enable%201%20-vencsize%201%20-fps%205%20-bps%2043%20-gop%2028%20-fixbps%200%20-codec%202
+[2019-02-25 18:31:02][send_curl]NO.222---szJcpResult="[Success];";
+
+[2019-02-25 18:31:12][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%205%20-fps%2024%20-bps%202656%20-gop%2023%20-fixbps%200%20-codec%207%20-id%201%20-enable%200%20-vencsize%201%20-fps%2015%20-bps%20304%20-gop%2037%20-fixbps%200%20-codec%202
+[2019-02-25 18:31:12][send_curl]NO.223---szJcpResult="[Success];";
+
+[2019-02-25 18:31:22][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%207%20-fps%209%20-bps%201055%20-gop%2015%20-fixbps%200%20-codec%207%20-id%201%20-enable%200%20-vencsize%206%20-fps%2020%20-bps%20854%20-gop%2013%20-fixbps%200%20-codec%202
+[2019-02-25 18:31:22][send_curl]NO.224---szJcpResult="[Success];";
+
+[2019-02-25 18:31:32][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%202%20-fps%2015%20-bps%201151%20-gop%2035%20-fixbps%200%20-codec%202%20-id%201%20-enable%201%20-vencsize%206%20-fps%2015%20-bps%20211%20-gop%2034%20-fixbps%201%20-codec%202
+[2019-02-25 18:31:32][send_curl]NO.225---szJcpResult="[Success];";
+
+[2019-02-25 18:31:42][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%205%20-fps%2010%20-bps%202797%20-gop%2026%20-fixbps%200%20-codec%202%20-id%201%20-enable%200%20-vencsize%207%20-fps%2025%20-bps%20854%20-gop%2016%20-fixbps%200%20-codec%202
+[2019-02-25 18:31:42][send_curl]NO.226---szJcpResult="[Success];";
+
+[2019-02-25 18:31:52][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%202%20-fps%2014%20-bps%201870%20-gop%2041%20-fixbps%200%20-codec%207%20-id%201%20-enable%201%20-vencsize%206%20-fps%2020%20-bps%2043%20-gop%2038%20-fixbps%201%20-codec%202
+[2019-02-25 18:31:52][send_curl]NO.227---szJcpResult="[Success];";
+
+[2019-02-25 18:32:02][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%205%20-fps%2015%20-bps%202251%20-gop%2032%20-fixbps%201%20-codec%207%20-id%201%20-enable%201%20-vencsize%206%20-fps%2025%20-bps%20803%20-gop%209%20-fixbps%200%20-codec%207
+[2019-02-25 18:32:02][send_curl]NO.228---szJcpResult="[Success];";
+
+[2019-02-25 18:32:12][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%207%20-fps%2021%20-bps%201246%20-gop%2042%20-fixbps%201%20-codec%202%20-id%201%20-enable%201%20-vencsize%206%20-fps%206%20-bps%20973%20-gop%2011%20-fixbps%201%20-codec%202
+[2019-02-25 18:32:12][send_curl]NO.229---szJcpResult="[Success];";
+
+[2019-02-25 18:32:22][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%205%20-fps%2021%20-bps%202736%20-gop%2024%20-fixbps%201%20-codec%207%20-id%201%20-enable%201%20-vencsize%201%20-fps%2023%20-bps%20898%20-gop%2010%20-fixbps%200%20-codec%207
+[2019-02-25 18:32:22][send_curl]NO.230---szJcpResult="[Success];";
+
+[2019-02-25 18:32:32][send_curl]http://192.168.5.133/?jcpcmd=devvecfg%20-act%20set%20-id%200%20-enable%201%20-vencsize%203%20-fps%2020%20-bps%203684%20-gop%2034%20-fixbps%201%20-codec%207%20-id%201%20-enable%201%20-vencsize%202%20-fps%209%20-bps%20422%20-gop%207%20-fixbps%200%20-codec%202
+[2019-02-25 18:32:32][send_curl]NO.231---szJcpResult="[Success];";
+

@@ -1,0 +1,12 @@
+[2019-04-01 13:54:29]|***********************START************************|
+[2019-04-01 13:54:29]SLEEPTIME IS 1000000
+[2019-04-01 13:54:29]SEND IP ADDRESS:192.168.2.154
+[2019-04-01 13:54:29]MODEL IS [osize]
+[2019-04-01 13:54:29]|********************Testing Now!********************|
+[2019-04-01 13:54:29][send_curl]http://192.168.2.154/?jcpcmd=osdstrcfg%20-act%20set%20-size%200
+[2019-04-01 13:54:30][send_curl]http://192.168.2.154/?jcpcmd=osdstrcfg%20-act%20set%20-size%200
+[2019-04-01 13:54:31][send_curl]http://192.168.2.154/?jcpcmd=osdstrcfg%20-act%20set%20-size%200
+[2019-04-01 13:54:32][send_curl]http://192.168.2.154/?jcpcmd=osdstrcfg%20-act%20set%20-size%202
+[2019-04-01 13:54:33][send_curl]http://192.168.2.154/?jcpcmd=osdstrcfg%20-act%20set%20-size%200
+[2019-04-01 13:54:34][send_curl]http://192.168.2.154/?jcpcmd=osdstrcfg%20-act%20set%20-size%201
+[2019-04-01 13:54:35][send_curl]http://192.168.2.154/?jcpcmd=osdstrcfg%20-act%20set%20-size%201

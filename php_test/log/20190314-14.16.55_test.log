@@ -1,0 +1,326 @@
+[2019-03-14 14:16:55]|***********************START************************|
+[2019-03-14 14:16:55]SLEEPTIME IS 1000000
+[2019-03-14 14:16:55]SEND IP ADDRESS:192.168.200.100
+[2019-03-14 14:16:55]MODEL IS [p]
+[2019-03-14 14:16:55]|********************Testing Now!********************|
+[2019-03-14 14:16:55][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2040%20-bright%2025%20-contrast%20195%20-saturation%20179%20-sharpness%2053%20-gain%20205%20-suppress%2034%20%20-lampfrequency%200%20-brightlevel%202
+[2019-03-14 14:16:55][send_curl]NO.1---szJcpResult="[Success];";
+
+[2019-03-14 14:16:56][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2040%20-bright%205%20-contrast%20235%20-saturation%20112%20-sharpness%20144%20-gain%20119%20-suppress%2083%20%20-lampfrequency%200%20-brightlevel%202
+[2019-03-14 14:16:56][send_curl]NO.2---szJcpResult="[Success];";
+
+[2019-03-14 14:16:57][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2080%20-bright%2093%20-contrast%20233%20-saturation%2074%20-sharpness%20177%20-gain%20111%20-suppress%2052%20%20-lampfrequency%200%20-brightlevel%202
+[2019-03-14 14:16:57][send_curl]NO.3---szJcpResult="[Success];";
+
+[2019-03-14 14:16:58][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2035%20-bright%20228%20-contrast%20125%20-saturation%203%20-sharpness%2090%20-gain%20117%20-suppress%2017%20%20-lampfrequency%200%20-brightlevel%202
+[2019-03-14 14:16:58][send_curl]NO.4---szJcpResult="[Success];";
+
+[2019-03-14 14:16:59][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2080%20-bright%2089%20-contrast%20104%20-saturation%2089%20-sharpness%2071%20-gain%2073%20-suppress%2054%20%20-lampfrequency%200%20-brightlevel%202
+[2019-03-14 14:16:59][send_curl]NO.5---szJcpResult="[Success];";
+
+[2019-03-14 14:17:00][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2090%20-bright%20124%20-contrast%20104%20-saturation%2014%20-sharpness%2059%20-gain%20170%20-suppress%2036%20%20-lampfrequency%201%20-brightlevel%202
+[2019-03-14 14:17:00][send_curl]NO.6---szJcpResult="[Success];";
+
+[2019-03-14 14:17:01][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2039%20-bright%2013%20-contrast%2062%20-saturation%20223%20-sharpness%20244%20-gain%2091%20-suppress%2039%20%20-lampfrequency%200%20-brightlevel%202
+[2019-03-14 14:17:01][send_curl]NO.7---szJcpResult="[Success];";
+
+[2019-03-14 14:17:02][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%203%20-bright%20203%20-contrast%20170%20-saturation%20144%20-sharpness%2052%20-gain%2025%20-suppress%2039%20%20-lampfrequency%201%20-brightlevel%202
+[2019-03-14 14:17:02][send_curl]NO.8---szJcpResult="[Success];";
+
+[2019-03-14 14:17:03][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2058%20-bright%20121%20-contrast%20108%20-saturation%20222%20-sharpness%20186%20-gain%20164%20-suppress%2010%20%20-lampfrequency%200%20-brightlevel%202
+[2019-03-14 14:17:03][send_curl]NO.9---szJcpResult="[Success];";
+
+[2019-03-14 14:17:04][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2077%20-bright%20211%20-contrast%2069%20-saturation%20139%20-sharpness%2070%20-gain%20190%20-suppress%2027%20%20-lampfrequency%201%20-brightlevel%202
+[2019-03-14 14:17:04][send_curl]NO.10---szJcpResult="[Success];";
+
+[2019-03-14 14:17:05][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2035%20-bright%20156%20-contrast%20242%20-saturation%2086%20-sharpness%20151%20-gain%2039%20-suppress%2065%20%20-lampfrequency%201%20-brightlevel%202
+[2019-03-14 14:17:05][send_curl]NO.11---szJcpResult="[Success];";
+
+[2019-03-14 14:17:06][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%209%20-bright%20147%20-contrast%2055%20-saturation%20253%20-sharpness%20111%20-gain%20156%20-suppress%2099%20%20-lampfrequency%200%20-brightlevel%202
+[2019-03-14 14:17:06][send_curl]NO.12---szJcpResult="[Success];";
+
+[2019-03-14 14:17:07][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2073%20-bright%20120%20-contrast%20209%20-saturation%2068%20-sharpness%20140%20-gain%20224%20-suppress%204%20%20-lampfrequency%200%20-brightlevel%202
+[2019-03-14 14:17:07][send_curl]NO.13---szJcpResult="[Success];";
+
+[2019-03-14 14:17:09][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%201%20-bright%2012%20-contrast%20129%20-saturation%20232%20-sharpness%20176%20-gain%20178%20-suppress%2055%20%20-lampfrequency%201%20-brightlevel%202
+[2019-03-14 14:17:09][send_curl]NO.14---szJcpResult="[Success];";
+
+[2019-03-14 14:17:10][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2069%20-bright%2013%20-contrast%208%20-saturation%20171%20-sharpness%20154%20-gain%20210%20-suppress%2027%20%20-lampfrequency%200%20-brightlevel%202
+[2019-03-14 14:17:10][send_curl]NO.15---szJcpResult="[Success];";
+
+[2019-03-14 14:17:11][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2052%20-bright%2059%20-contrast%2036%20-saturation%2076%20-sharpness%2010%20-gain%20255%20-suppress%2097%20%20-lampfrequency%201%20-brightlevel%202
+[2019-03-14 14:17:11][send_curl]NO.16---szJcpResult="[Success];";
+
+[2019-03-14 14:17:12][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2025%20-bright%2088%20-contrast%20150%20-saturation%20138%20-sharpness%20191%20-gain%20251%20-suppress%2035%20%20-lampfrequency%200%20-brightlevel%202
+[2019-03-14 14:17:12][send_curl]NO.17---szJcpResult="[Success];";
+
+[2019-03-14 14:17:13][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2063%20-bright%2035%20-contrast%2030%20-saturation%2039%20-sharpness%20123%20-gain%20134%20-suppress%2021%20%20-lampfrequency%200%20-brightlevel%202
+[2019-03-14 14:17:13][send_curl]NO.18---szJcpResult="[Success];";
+
+[2019-03-14 14:17:14][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2041%20-bright%2092%20-contrast%20124%20-saturation%20225%20-sharpness%20252%20-gain%2094%20-suppress%2028%20%20-lampfrequency%200%20-brightlevel%202
+[2019-03-14 14:17:14][send_curl]NO.19---szJcpResult="[Success];";
+
+[2019-03-14 14:17:15][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2033%20-bright%20195%20-contrast%20112%20-saturation%20121%20-sharpness%205%20-gain%2068%20-suppress%2031%20%20-lampfrequency%201%20-brightlevel%202
+[2019-03-14 14:17:15][send_curl]NO.20---szJcpResult="[Success];";
+
+[2019-03-14 14:17:16][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2016%20-bright%2024%20-contrast%20186%20-saturation%20176%20-sharpness%2082%20-gain%20247%20-suppress%204%20%20-lampfrequency%200%20-brightlevel%202
+[2019-03-14 14:17:16][send_curl]NO.21---szJcpResult="[Success];";
+
+[2019-03-14 14:17:17][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2063%20-bright%2027%20-contrast%2027%20-saturation%2068%20-sharpness%20166%20-gain%2058%20-suppress%2024%20%20-lampfrequency%201%20-brightlevel%202
+[2019-03-14 14:17:17][send_curl]NO.22---szJcpResult="[Success];";
+
+[2019-03-14 14:17:18][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2050%20-bright%20140%20-contrast%2081%20-saturation%20246%20-sharpness%20191%20-gain%20201%20-suppress%2066%20%20-lampfrequency%201%20-brightlevel%202
+[2019-03-14 14:17:18][send_curl]NO.23---szJcpResult="[Success];";
+
+[2019-03-14 14:17:19][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2051%20-bright%2043%20-contrast%2030%20-saturation%20135%20-sharpness%2095%20-gain%20103%20-suppress%202%20%20-lampfrequency%200%20-brightlevel%202
+[2019-03-14 14:17:19][send_curl]NO.24---szJcpResult="[Success];";
+
+[2019-03-14 14:17:20][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2043%20-bright%20183%20-contrast%2064%20-saturation%20181%20-sharpness%2069%20-gain%20211%20-suppress%2011%20%20-lampfrequency%201%20-brightlevel%202
+[2019-03-14 14:17:20][send_curl]NO.25---szJcpResult="[Success];";
+
+[2019-03-14 14:17:21][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%20100%20-bright%20242%20-contrast%20120%20-saturation%2066%20-sharpness%2049%20-gain%20205%20-suppress%2066%20%20-lampfrequency%201%20-brightlevel%202
+[2019-03-14 14:17:21][send_curl]NO.26---szJcpResult="[Success];";
+
+[2019-03-14 14:17:22][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2096%20-bright%20155%20-contrast%20134%20-saturation%20236%20-sharpness%20226%20-gain%2022%20-suppress%2041%20%20-lampfrequency%201%20-brightlevel%202
+[2019-03-14 14:17:22][send_curl]NO.27---szJcpResult="[Success];";
+
+[2019-03-14 14:17:23][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%207%20-bright%20114%20-contrast%2042%20-saturation%20117%20-sharpness%2026%20-gain%20107%20-suppress%2012%20%20-lampfrequency%200%20-brightlevel%202
+[2019-03-14 14:17:23][send_curl]NO.28---szJcpResult="[Success];";
+
+[2019-03-14 14:17:24][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%208%20-bright%2056%20-contrast%2036%20-saturation%20155%20-sharpness%20151%20-gain%20143%20-suppress%2055%20%20-lampfrequency%200%20-brightlevel%202
+[2019-03-14 14:17:24][send_curl]NO.29---szJcpResult="[Success];";
+
+[2019-03-14 14:17:25][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2074%20-bright%20170%20-contrast%2053%20-saturation%2032%20-sharpness%2028%20-gain%2065%20-suppress%2044%20%20-lampfrequency%201%20-brightlevel%202
+[2019-03-14 14:17:25][send_curl]NO.30---szJcpResult="[Success];";
+
+[2019-03-14 14:17:26][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2080%20-bright%20139%20-contrast%2027%20-saturation%20194%20-sharpness%20101%20-gain%2065%20-suppress%2054%20%20-lampfrequency%201%20-brightlevel%202
+[2019-03-14 14:17:26][send_curl]NO.31---szJcpResult="[Success];";
+
+[2019-03-14 14:17:27][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%201%20-bright%20154%20-contrast%20151%20-saturation%2067%20-sharpness%2053%20-gain%2079%20-suppress%2060%20%20-lampfrequency%200%20-brightlevel%202
+[2019-03-14 14:17:27][send_curl]NO.32---szJcpResult="[Success];";
+
+[2019-03-14 14:17:28][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2011%20-bright%20151%20-contrast%20105%20-saturation%2097%20-sharpness%2075%20-gain%2043%20-suppress%2037%20%20-lampfrequency%201%20-brightlevel%202
+[2019-03-14 14:17:28][send_curl]NO.33---szJcpResult="[Success];";
+
+[2019-03-14 14:17:29][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2086%20-bright%2066%20-contrast%2081%20-saturation%20221%20-sharpness%20102%20-gain%20149%20-suppress%2060%20%20-lampfrequency%200%20-brightlevel%202
+[2019-03-14 14:17:29][send_curl]NO.34---szJcpResult="[Success];";
+
+[2019-03-14 14:17:30][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%201%20-bright%2091%20-contrast%2016%20-saturation%20120%20-sharpness%2072%20-gain%2077%20-suppress%204%20%20-lampfrequency%200%20-brightlevel%202
+[2019-03-14 14:17:30][send_curl]NO.35---szJcpResult="[Success];";
+
+[2019-03-14 14:17:31][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2031%20-bright%20162%20-contrast%2099%20-saturation%20240%20-sharpness%20175%20-gain%2019%20-suppress%2044%20%20-lampfrequency%201%20-brightlevel%202
+[2019-03-14 14:17:31][send_curl]NO.36---szJcpResult="[Success];";
+
+[2019-03-14 14:17:32][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2051%20-bright%20214%20-contrast%2014%20-saturation%207%20-sharpness%2093%20-gain%20166%20-suppress%2056%20%20-lampfrequency%201%20-brightlevel%202
+[2019-03-14 14:17:32][send_curl]NO.37---szJcpResult="[Success];";
+
+[2019-03-14 14:17:33][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2036%20-bright%20186%20-contrast%20205%20-saturation%20123%20-sharpness%2017%20-gain%20200%20-suppress%2013%20%20-lampfrequency%200%20-brightlevel%202
+[2019-03-14 14:17:33][send_curl]NO.38---szJcpResult="[Success];";
+
+[2019-03-14 14:17:34][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2060%20-bright%2011%20-contrast%20100%20-saturation%2014%20-sharpness%20138%20-gain%2057%20-suppress%2092%20%20-lampfrequency%200%20-brightlevel%202
+[2019-03-14 14:17:34][send_curl]NO.39---szJcpResult="[Success];";
+
+[2019-03-14 14:17:35][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%20100%20-bright%20138%20-contrast%20144%20-saturation%20126%20-sharpness%20138%20-gain%20182%20-suppress%2067%20%20-lampfrequency%201%20-brightlevel%202
+[2019-03-14 14:17:35][send_curl]NO.40---szJcpResult="[Success];";
+
+[2019-03-14 14:17:36][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2029%20-bright%20246%20-contrast%2019%20-saturation%20140%20-sharpness%20207%20-gain%203%20-suppress%2012%20%20-lampfrequency%200%20-brightlevel%202
+[2019-03-14 14:17:36][send_curl]NO.41---szJcpResult="[Success];";
+
+[2019-03-14 14:17:37][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2023%20-bright%2018%20-contrast%20170%20-saturation%20248%20-sharpness%2028%20-gain%20220%20-suppress%204%20%20-lampfrequency%201%20-brightlevel%202
+[2019-03-14 14:17:37][send_curl]NO.42---szJcpResult="[Success];";
+
+[2019-03-14 14:17:38][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2057%20-bright%20154%20-contrast%2025%20-saturation%20131%20-sharpness%2045%20-gain%205%20-suppress%2017%20%20-lampfrequency%201%20-brightlevel%202
+[2019-03-14 14:17:38][send_curl]NO.43---szJcpResult="[Success];";
+
+[2019-03-14 14:17:42][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%205%20-bright%2082%20-contrast%2029%20-saturation%20235%20-sharpness%20197%20-gain%2058%20-suppress%2026%20%20-lampfrequency%200%20-brightlevel%202
+[2019-03-14 14:17:42][send_curl]NO.44---szJcpResult="[Success];";
+
+[2019-03-14 14:17:43][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2044%20-bright%20246%20-contrast%20119%20-saturation%20242%20-sharpness%20162%20-gain%2062%20-suppress%206%20%20-lampfrequency%200%20-brightlevel%202
+[2019-03-14 14:17:43][send_curl]NO.45---szJcpResult="[Success];";
+
+[2019-03-14 14:17:44][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2047%20-bright%2073%20-contrast%20231%20-saturation%2087%20-sharpness%20134%20-gain%20208%20-suppress%2032%20%20-lampfrequency%200%20-brightlevel%202
+[2019-03-14 14:17:44][send_curl]NO.46---szJcpResult="[Success];";
+
+[2019-03-14 14:17:45][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2090%20-bright%2011%20-contrast%2046%20-saturation%20217%20-sharpness%2048%20-gain%20176%20-suppress%2080%20%20-lampfrequency%201%20-brightlevel%202
+[2019-03-14 14:17:45][send_curl]NO.47---szJcpResult="[Success];";
+
+[2019-03-14 14:17:46][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2049%20-bright%20249%20-contrast%2010%20-saturation%2058%20-sharpness%2096%20-gain%20158%20-suppress%2023%20%20-lampfrequency%200%20-brightlevel%202
+[2019-03-14 14:17:46][send_curl]NO.48---szJcpResult="[Success];";
+
+[2019-03-14 14:17:47][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2096%20-bright%20214%20-contrast%2060%20-saturation%2056%20-sharpness%20213%20-gain%2090%20-suppress%2038%20%20-lampfrequency%201%20-brightlevel%202
+[2019-03-14 14:17:47][send_curl]NO.49---szJcpResult="[Success];";
+
+[2019-03-14 14:17:48][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%209%20-bright%2097%20-contrast%20132%20-saturation%20148%20-sharpness%2081%20-gain%20164%20-suppress%2099%20%20-lampfrequency%201%20-brightlevel%202
+[2019-03-14 14:17:48][send_curl]NO.50---szJcpResult="[Success];";
+
+[2019-03-14 14:17:49][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2062%20-bright%2090%20-contrast%20162%20-saturation%2015%20-sharpness%20147%20-gain%2060%20-suppress%2081%20%20-lampfrequency%200%20-brightlevel%202
+[2019-03-14 14:17:49][send_curl]NO.51---szJcpResult="[Success];";
+
+[2019-03-14 14:17:50][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2029%20-bright%20129%20-contrast%2087%20-saturation%20103%20-sharpness%2091%20-gain%20225%20-suppress%2058%20%20-lampfrequency%201%20-brightlevel%202
+[2019-03-14 14:17:50][send_curl]NO.52---szJcpResult="[Success];";
+
+[2019-03-14 14:17:51][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2087%20-bright%20150%20-contrast%2097%20-saturation%2094%20-sharpness%20104%20-gain%2086%20-suppress%207%20%20-lampfrequency%201%20-brightlevel%202
+[2019-03-14 14:17:51][send_curl]NO.53---szJcpResult="[Success];";
+
+[2019-03-14 14:17:52][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%209%20-bright%2089%20-contrast%20129%20-saturation%20178%20-sharpness%20124%20-gain%2088%20-suppress%202%20%20-lampfrequency%201%20-brightlevel%202
+[2019-03-14 14:17:52][send_curl]NO.54---szJcpResult="[Success];";
+
+[2019-03-14 14:17:54][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2071%20-bright%20138%20-contrast%20119%20-saturation%2037%20-sharpness%2086%20-gain%20167%20-suppress%2018%20%20-lampfrequency%200%20-brightlevel%202
+[2019-03-14 14:17:54][send_curl]NO.55---szJcpResult="[Success];";
+
+[2019-03-14 14:17:55][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2048%20-bright%20232%20-contrast%204%20-saturation%20117%20-sharpness%20181%20-gain%206%20-suppress%2030%20%20-lampfrequency%201%20-brightlevel%202
+[2019-03-14 14:17:55][send_curl]NO.56---szJcpResult="[Success];";
+
+[2019-03-14 14:17:56][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2014%20-bright%2054%20-contrast%20229%20-saturation%20100%20-sharpness%2091%20-gain%2050%20-suppress%2013%20%20-lampfrequency%200%20-brightlevel%202
+[2019-03-14 14:17:56][send_curl]NO.57---szJcpResult="[Success];";
+
+[2019-03-14 14:17:57][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2046%20-bright%2049%20-contrast%20221%20-saturation%20176%20-sharpness%207%20-gain%20235%20-suppress%2043%20%20-lampfrequency%201%20-brightlevel%202
+[2019-03-14 14:17:57][send_curl]NO.58---szJcpResult="[Success];";
+
+[2019-03-14 14:17:58][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2017%20-bright%20153%20-contrast%20172%20-saturation%2027%20-sharpness%20120%20-gain%20243%20-suppress%2094%20%20-lampfrequency%201%20-brightlevel%202
+[2019-03-14 14:17:58][send_curl]NO.59---szJcpResult="[Success];";
+
+[2019-03-14 14:17:59][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%203%20-bright%2049%20-contrast%2016%20-saturation%2099%20-sharpness%20112%20-gain%2010%20-suppress%2040%20%20-lampfrequency%201%20-brightlevel%202
+[2019-03-14 14:17:59][send_curl]NO.60---szJcpResult="[Success];";
+
+[2019-03-14 14:18:00][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2079%20-bright%20181%20-contrast%20202%20-saturation%2073%20-sharpness%20173%20-gain%20237%20-suppress%2058%20%20-lampfrequency%201%20-brightlevel%202
+[2019-03-14 14:18:00][send_curl]NO.61---szJcpResult="[Success];";
+
+[2019-03-14 14:18:04][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2020%20-bright%20232%20-contrast%20154%20-saturation%20142%20-sharpness%20241%20-gain%2095%20-suppress%2021%20%20-lampfrequency%201%20-brightlevel%202
+[2019-03-14 14:18:04][send_curl]NO.62---szJcpResult="[Success];";
+
+[2019-03-14 14:18:05][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%201%20-bright%20137%20-contrast%2065%20-saturation%20240%20-sharpness%20250%20-gain%2031%20-suppress%206%20%20-lampfrequency%200%20-brightlevel%202
+[2019-03-14 14:18:05][send_curl]NO.63---szJcpResult="[Success];";
+
+[2019-03-14 14:18:06][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2097%20-bright%2088%20-contrast%20125%20-saturation%2049%20-sharpness%20139%20-gain%20236%20-suppress%2087%20%20-lampfrequency%201%20-brightlevel%202
+[2019-03-14 14:18:06][send_curl]NO.64---szJcpResult="[Success];";
+
+[2019-03-14 14:18:07][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2082%20-bright%2022%20-contrast%2015%20-saturation%2015%20-sharpness%2096%20-gain%20137%20-suppress%2039%20%20-lampfrequency%200%20-brightlevel%202
+[2019-03-14 14:18:07][send_curl]NO.65---szJcpResult="[Success];";
+
+[2019-03-14 14:18:08][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2032%20-bright%20128%20-contrast%20183%20-saturation%2076%20-sharpness%2060%20-gain%20179%20-suppress%2037%20%20-lampfrequency%201%20-brightlevel%202
+[2019-03-14 14:18:08][send_curl]NO.66---szJcpResult="[Success];";
+
+[2019-03-14 14:18:09][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2022%20-bright%2089%20-contrast%2053%20-saturation%20166%20-sharpness%20221%20-gain%2043%20-suppress%2057%20%20-lampfrequency%200%20-brightlevel%202
+[2019-03-14 14:18:09][send_curl]NO.67---szJcpResult="[Success];";
+
+[2019-03-14 14:18:10][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2027%20-bright%2096%20-contrast%2074%20-saturation%20222%20-sharpness%206%20-gain%20176%20-suppress%2072%20%20-lampfrequency%201%20-brightlevel%202
+[2019-03-14 14:18:10][send_curl]NO.68---szJcpResult="[Success];";
+
+[2019-03-14 14:18:12][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2022%20-bright%2085%20-contrast%20179%20-saturation%20181%20-sharpness%20115%20-gain%205%20-suppress%2058%20%20-lampfrequency%200%20-brightlevel%202
+[2019-03-14 14:18:12][send_curl]NO.69---szJcpResult="[Success];";
+
+[2019-03-14 14:18:13][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2082%20-bright%20247%20-contrast%2052%20-saturation%20233%20-sharpness%20230%20-gain%20230%20-suppress%2091%20%20-lampfrequency%201%20-brightlevel%202
+[2019-03-14 14:18:13][send_curl]NO.70---szJcpResult="[Success];";
+
+[2019-03-14 14:18:14][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2081%20-bright%209%20-contrast%20138%20-saturation%2060%20-sharpness%2033%20-gain%2023%20-suppress%2044%20%20-lampfrequency%201%20-brightlevel%202
+[2019-03-14 14:18:14][send_curl]NO.71---szJcpResult="[Success];";
+
+[2019-03-14 14:18:15][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2096%20-bright%2072%20-contrast%20118%20-saturation%20108%20-sharpness%20224%20-gain%2085%20-suppress%2094%20%20-lampfrequency%200%20-brightlevel%202
+[2019-03-14 14:18:15][send_curl]NO.72---szJcpResult="[Success];";
+
+[2019-03-14 14:18:16][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%20100%20-bright%20117%20-contrast%20184%20-saturation%2059%20-sharpness%20229%20-gain%2096%20-suppress%2014%20%20-lampfrequency%201%20-brightlevel%202
+[2019-03-14 14:18:16][send_curl]NO.73---szJcpResult="[Success];";
+
+[2019-03-14 14:18:17][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2069%20-bright%2080%20-contrast%2017%20-saturation%20103%20-sharpness%20241%20-gain%20250%20-suppress%2082%20%20-lampfrequency%200%20-brightlevel%202
+[2019-03-14 14:18:17][send_curl]NO.74---szJcpResult="[Success];";
+
+[2019-03-14 14:18:18][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2078%20-bright%20152%20-contrast%2063%20-saturation%20177%20-sharpness%20195%20-gain%20226%20-suppress%2070%20%20-lampfrequency%201%20-brightlevel%202
+[2019-03-14 14:18:18][send_curl]NO.75---szJcpResult="[Success];";
+
+[2019-03-14 14:18:19][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%201%20-bright%2016%20-contrast%203%20-saturation%20217%20-sharpness%2027%20-gain%20216%20-suppress%2054%20%20-lampfrequency%201%20-brightlevel%202
+[2019-03-14 14:18:19][send_curl]NO.76---szJcpResult="[Success];";
+
+[2019-03-14 14:18:20][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2015%20-bright%20116%20-contrast%2029%20-saturation%20160%20-sharpness%20184%20-gain%20156%20-suppress%208%20%20-lampfrequency%201%20-brightlevel%202
+[2019-03-14 14:18:20][send_curl]NO.77---szJcpResult="[Success];";
+
+[2019-03-14 14:18:21][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2093%20-bright%20135%20-contrast%2077%20-saturation%20196%20-sharpness%2092%20-gain%20238%20-suppress%2010%20%20-lampfrequency%201%20-brightlevel%202
+[2019-03-14 14:18:21][send_curl]NO.78---szJcpResult="[Success];";
+
+[2019-03-14 14:18:22][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2012%20-bright%209%20-contrast%2084%20-saturation%208%20-sharpness%20198%20-gain%20142%20-suppress%2032%20%20-lampfrequency%201%20-brightlevel%202
+[2019-03-14 14:18:22][send_curl]NO.79---szJcpResult="[Success];";
+
+[2019-03-14 14:18:23][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2045%20-bright%20183%20-contrast%20239%20-saturation%2040%20-sharpness%20181%20-gain%2060%20-suppress%2051%20%20-lampfrequency%200%20-brightlevel%202
+[2019-03-14 14:18:23][send_curl]NO.80---szJcpResult="[Success];";
+
+[2019-03-14 14:18:24][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2068%20-bright%2084%20-contrast%20225%20-saturation%20230%20-sharpness%20235%20-gain%20184%20-suppress%2040%20%20-lampfrequency%200%20-brightlevel%202
+[2019-03-14 14:18:24][send_curl]NO.81---szJcpResult="[Success];";
+
+[2019-03-14 14:18:25][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2055%20-bright%20159%20-contrast%20234%20-saturation%203%20-sharpness%2039%20-gain%20193%20-suppress%2076%20%20-lampfrequency%201%20-brightlevel%202
+[2019-03-14 14:18:25][send_curl]NO.82---szJcpResult="[Success];";
+
+[2019-03-14 14:18:26][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2083%20-bright%2088%20-contrast%20200%20-saturation%2061%20-sharpness%2041%20-gain%2026%20-suppress%2032%20%20-lampfrequency%200%20-brightlevel%202
+[2019-03-14 14:18:26][send_curl]NO.83---szJcpResult="[Success];";
+
+[2019-03-14 14:18:27][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2025%20-bright%2063%20-contrast%2061%20-saturation%2085%20-sharpness%20176%20-gain%20128%20-suppress%2086%20%20-lampfrequency%201%20-brightlevel%202
+[2019-03-14 14:18:27][send_curl]NO.84---szJcpResult="[Success];";
+
+[2019-03-14 14:18:28][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2058%20-bright%2020%20-contrast%207%20-saturation%2012%20-sharpness%20126%20-gain%20179%20-suppress%209%20%20-lampfrequency%200%20-brightlevel%202
+[2019-03-14 14:18:28][send_curl]NO.85---szJcpResult="[Success];";
+
+[2019-03-14 14:18:29][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2055%20-bright%20151%20-contrast%20230%20-saturation%2033%20-sharpness%2082%20-gain%20118%20-suppress%2080%20%20-lampfrequency%200%20-brightlevel%202
+[2019-03-14 14:18:29][send_curl]NO.86---szJcpResult="[Success];";
+
+[2019-03-14 14:18:30][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2092%20-bright%20136%20-contrast%20157%20-saturation%2083%20-sharpness%20235%20-gain%20133%20-suppress%2071%20%20-lampfrequency%200%20-brightlevel%202
+[2019-03-14 14:18:30][send_curl]NO.87---szJcpResult="[Success];";
+
+[2019-03-14 14:18:31][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2044%20-bright%20166%20-contrast%20233%20-saturation%2099%20-sharpness%2012%20-gain%20163%20-suppress%2058%20%20-lampfrequency%201%20-brightlevel%202
+[2019-03-14 14:18:31][send_curl]NO.88---szJcpResult="[Success];";
+
+[2019-03-14 14:18:32][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2085%20-bright%20179%20-contrast%20139%20-saturation%2018%20-sharpness%20113%20-gain%20143%20-suppress%2016%20%20-lampfrequency%201%20-brightlevel%202
+[2019-03-14 14:18:32][send_curl]NO.89---szJcpResult="[Success];";
+
+[2019-03-14 14:18:33][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2092%20-bright%20111%20-contrast%2068%20-saturation%2030%20-sharpness%20220%20-gain%2010%20-suppress%2020%20%20-lampfrequency%200%20-brightlevel%202
+[2019-03-14 14:18:33][send_curl]NO.90---szJcpResult="[Success];";
+
+[2019-03-14 14:18:34][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2038%20-bright%20151%20-contrast%20209%20-saturation%2073%20-sharpness%2015%20-gain%20209%20-suppress%2046%20%20-lampfrequency%201%20-brightlevel%202
+[2019-03-14 14:18:34][send_curl]NO.91---szJcpResult="[Success];";
+
+[2019-03-14 14:18:35][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2099%20-bright%20238%20-contrast%20245%20-saturation%2081%20-sharpness%20198%20-gain%20167%20-suppress%2067%20%20-lampfrequency%201%20-brightlevel%202
+[2019-03-14 14:18:35][send_curl]NO.92---szJcpResult="[Success];";
+
+[2019-03-14 14:18:36][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2050%20-bright%2052%20-contrast%20112%20-saturation%20247%20-sharpness%20195%20-gain%2075%20-suppress%2060%20%20-lampfrequency%200%20-brightlevel%202
+[2019-03-14 14:18:36][send_curl]NO.93---szJcpResult="[Success];";
+
+[2019-03-14 14:18:37][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2066%20-bright%2039%20-contrast%201%20-saturation%20251%20-sharpness%20199%20-gain%20125%20-suppress%2099%20%20-lampfrequency%200%20-brightlevel%202
+[2019-03-14 14:18:37][send_curl]NO.94---szJcpResult="[Success];";
+
+[2019-03-14 14:18:38][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2022%20-bright%20135%20-contrast%20103%20-saturation%2031%20-sharpness%20145%20-gain%20252%20-suppress%2059%20%20-lampfrequency%200%20-brightlevel%202
+[2019-03-14 14:18:38][send_curl]NO.95---szJcpResult="[Success];";
+
+[2019-03-14 14:18:39][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2093%20-bright%2023%20-contrast%2099%20-saturation%2031%20-sharpness%20224%20-gain%20139%20-suppress%2014%20%20-lampfrequency%201%20-brightlevel%202
+[2019-03-14 14:18:39][send_curl]NO.96---szJcpResult="[Success];";
+
+[2019-03-14 14:18:40][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2053%20-bright%20147%20-contrast%20181%20-saturation%20189%20-sharpness%20118%20-gain%20230%20-suppress%2041%20%20-lampfrequency%201%20-brightlevel%202
+[2019-03-14 14:18:40][send_curl]NO.97---szJcpResult="[Success];";
+
+[2019-03-14 14:18:41][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2078%20-bright%20190%20-contrast%2029%20-saturation%20185%20-sharpness%2018%20-gain%20208%20-suppress%2014%20%20-lampfrequency%200%20-brightlevel%202
+[2019-03-14 14:18:41][send_curl]NO.98---szJcpResult="[Success];";
+
+[2019-03-14 14:18:43][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2043%20-bright%2087%20-contrast%2091%20-saturation%20212%20-sharpness%20116%20-gain%209%20-suppress%208%20%20-lampfrequency%200%20-brightlevel%202
+[2019-03-14 14:18:43][send_curl]NO.99---szJcpResult="[Success];";
+
+[2019-03-14 14:18:44][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2023%20-bright%2030%20-contrast%2048%20-saturation%20204%20-sharpness%2092%20-gain%2079%20-suppress%20100%20%20-lampfrequency%200%20-brightlevel%202
+[2019-03-14 14:18:44][send_curl]NO.100---szJcpResult="[Success];";
+
+[2019-03-14 14:18:45][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2093%20-bright%20211%20-contrast%2090%20-saturation%2099%20-sharpness%20137%20-gain%2099%20-suppress%2061%20%20-lampfrequency%200%20-brightlevel%202
+[2019-03-14 14:18:45][send_curl]NO.101---szJcpResult="[Success];";
+
+[2019-03-14 14:18:46][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2028%20-bright%2054%20-contrast%20154%20-saturation%2087%20-sharpness%20188%20-gain%205%20-suppress%2068%20%20-lampfrequency%201%20-brightlevel%202
+[2019-03-14 14:18:46][send_curl]NO.102---szJcpResult="[Success];";
+
+[2019-03-14 14:18:47][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%202%20-bright%207%20-contrast%20176%20-saturation%20106%20-sharpness%20182%20-gain%20244%20-suppress%2097%20%20-lampfrequency%201%20-brightlevel%202
+[2019-03-14 14:18:47][send_curl]NO.103---szJcpResult="[Success];";
+
+[2019-03-14 14:18:48][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2092%20-bright%206%20-contrast%2092%20-saturation%2090%20-sharpness%2054%20-gain%20242%20-suppress%2021%20%20-lampfrequency%200%20-brightlevel%202
+[2019-03-14 14:18:48][send_curl]NO.104---szJcpResult="[Success];";
+
+[2019-03-14 14:18:49][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2071%20-bright%20242%20-contrast%2094%20-saturation%20232%20-sharpness%20251%20-gain%20190%20-suppress%2017%20%20-lampfrequency%200%20-brightlevel%202
+[2019-03-14 14:18:49][send_curl]NO.105---szJcpResult="[Success];";
+
+[2019-03-14 14:18:50][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2015%20-bright%20141%20-contrast%20119%20-saturation%20213%20-sharpness%20199%20-gain%2025%20-suppress%2059%20%20-lampfrequency%200%20-brightlevel%202
+[2019-03-14 14:18:50][send_curl]NO.106---szJcpResult="[Success];";
+
+[2019-03-14 14:18:51][send_curl]http://192.168.200.100/?jcpcmd=vicfg%20-act%20set%20-nightluma%2099%20-bright%20150%20-contrast%20101%20-saturation%20223%20-sharpness%2089%20-gain%20192%20-suppress%2022%20%20-lampfrequency%201%20-brightlevel%202
+[2019-03-14 14:18:51][send_curl]NO.107---szJcpResult="[Success];";
+

@@ -1,0 +1,90 @@
+[2019-04-09 17:45:08][get_upload_file]Upgrade Pack Is--3.28-H36-SSC325.starlight.HDXGP2P.gen.zh.201903281.IPC2.H26_H28.tgz
+[2019-04-09 17:45:08][get_upload_file]Upgrade Pack Is--3.29-T-SSC325.starlight.HDXP2P.gen.zh.201903291.IPC2.H(F)36_H(F)38.tgz
+[2019-04-09 17:45:08][before_execute_script]Execute Script After 10 seconds!
+[2019-04-09 17:45:08][before_execute_script]Sleep(10)
+[2019-04-09 17:45:18][before_execute_script]Start!
+[2019-04-09 17:45:18][start_upgrade_by_tgzs]Begin Collecting Test Data......
+[2019-04-09 17:45:18][new_before_upgrade_test]Upload File Now
+[2019-04-09 17:45:18][new_before_upgrade_test]NO.1,FILE IS 3.28-H36-SSC325.starlight.HDXGP2P.gen.zh.201903281.IPC2.H26_H28.tgz
+[2019-04-09 17:45:18][upload_file][192.168.17.169]IS ON-LINE!
+[2019-04-09 17:45:18][upload_file][192.168.17.169]send file now
+[2019-04-09 17:45:18][upload_file][192.168.17.169]send file finished
+[2019-04-09 17:45:18][get_update_progressbar] 0
+[2019-04-09 17:45:20][get_update_progressbar] 0
+[2019-04-09 17:45:22][get_update_progressbar] 3
+[2019-04-09 17:45:24][get_update_progressbar] 13
+[2019-04-09 17:45:26][get_update_progressbar] 13
+[2019-04-09 17:45:28][get_update_progressbar] 32
+[2019-04-09 17:45:30][get_update_progressbar] 100
+[2019-04-09 17:45:30][new_before_upgrade_test]Upload Finished,Sleep(80)
+[2019-04-09 17:46:50][new_before_upgrade_test]Result Is TB1.26.1728-20190328-HDXGP2P-GEN
+[2019-04-09 17:46:50][new_before_upgrade_test]Get Test Data......It takes 93 secends
+[2019-04-09 17:46:50][new_before_upgrade_test]Sleep(30)
+[2019-04-09 17:47:20][new_before_upgrade_test]Upload File Now
+[2019-04-09 17:47:20][new_before_upgrade_test]NO.2,FILE IS 3.28-H36-SSC325.starlight.HDXGP2P.gen.zh.201903281.IPC2.H26_H28.tgz
+[2019-04-09 17:47:21][upload_file][192.168.17.169]IS ON-LINE!
+[2019-04-09 17:47:21][upload_file][192.168.17.169]send file now
+[2019-04-09 17:47:21][upload_file][192.168.17.169]send file finished
+[2019-04-09 17:47:21][get_update_progressbar] 0
+[2019-04-09 17:47:23][get_update_progressbar] 3
+[2019-04-09 17:47:25][get_update_progressbar] 13
+[2019-04-09 17:47:27][get_update_progressbar] 13
+[2019-04-09 17:47:29][get_update_progressbar] 32
+[2019-04-09 17:47:31][get_update_progressbar] 100
+[2019-04-09 17:47:31][new_before_upgrade_test]Upload Finished,Sleep(80)
+[2019-04-09 17:48:52][new_before_upgrade_test]No Answer,Sleep(10)
+[2019-04-09 17:49:02][new_before_upgrade_test]Result Is TB1.26.1728-20190328-HDXGP2P-GEN
+[2019-04-09 17:49:02][new_before_upgrade_test]Get Test Data......It takes 102 secends
+[2019-04-09 17:49:02][new_before_upgrade_test]Sleep(30)
+[2019-04-09 17:49:32][new_before_upgrade_test]Upload File Now
+[2019-04-09 17:49:32][new_before_upgrade_test]NO.1,FILE IS 3.29-T-SSC325.starlight.HDXP2P.gen.zh.201903291.IPC2.H(F)36_H(F)38.tgz
+[2019-04-09 17:49:32][upload_file][192.168.17.169]IS ON-LINE!
+[2019-04-09 17:49:32][upload_file][192.168.17.169]send file now
+[2019-04-09 17:49:32][upload_file][192.168.17.169]send file finished
+[2019-04-09 17:49:32][get_update_progressbar] 0
+[2019-04-09 17:49:34][get_update_progressbar] 0
+[2019-04-09 17:49:36][get_update_progressbar] 13
+[2019-04-09 17:49:38][get_update_progressbar] 13
+[2019-04-09 17:49:40][get_update_progressbar] 32
+[2019-04-09 17:49:42][get_update_progressbar] 100
+[2019-04-09 17:49:42][new_before_upgrade_test]Upload Finished,Sleep(80)
+[2019-04-09 17:51:03][new_before_upgrade_test]No Answer,Sleep(10)
+[2019-04-09 17:51:13][new_before_upgrade_test]Result Is TB1.36.0957-20190329-HDXP2P-GEN
+[2019-04-09 17:51:13][new_before_upgrade_test]Get Test Data......It takes 102 secends
+[2019-04-09 17:51:13][new_before_upgrade_test]Sleep(30)
+[2019-04-09 17:51:43][new_before_upgrade_test]Upload File Now
+[2019-04-09 17:51:43][new_before_upgrade_test]NO.2,FILE IS 3.29-T-SSC325.starlight.HDXP2P.gen.zh.201903291.IPC2.H(F)36_H(F)38.tgz
+[2019-04-09 17:51:43][upload_file][192.168.17.169]IS ON-LINE!
+[2019-04-09 17:51:43][upload_file][192.168.17.169]send file now
+[2019-04-09 17:51:43][upload_file][192.168.17.169]send file finished
+[2019-04-09 17:51:43][get_update_progressbar] 0
+[2019-04-09 17:51:45][get_update_progressbar] 3
+[2019-04-09 17:51:47][get_update_progressbar] 13
+[2019-04-09 17:51:49][get_update_progressbar] 15
+[2019-04-09 17:51:51][get_update_progressbar] 32
+[2019-04-09 17:51:53][get_update_progressbar] 100
+[2019-04-09 17:51:53][new_before_upgrade_test]Upload Finished,Sleep(80)
+[2019-04-09 17:53:14][new_before_upgrade_test]Result Is TB1.36.0957-20190329-HDXP2P-GEN
+[2019-04-09 17:53:14][new_before_upgrade_test]Get Test Data......It takes 91 secends
+[2019-04-09 17:53:14][new_before_upgrade_test]Sleep(30)
+[2019-04-09 17:53:44][new_before_upgrade_test]Corresponding Software Version Is:
+[2019-04-09 17:53:44][new_before_upgrade_test]3.28-H36-SSC325.starlight.HDXGP2P.gen.zh.201903281.IPC2.H26_H28.tgz--TB1.26.1728-20190328-HDXGP2P-GEN
+[2019-04-09 17:53:44][new_before_upgrade_test]3.29-T-SSC325.starlight.HDXP2P.gen.zh.201903291.IPC2.H(F)36_H(F)38.tgz--TB1.36.0957-20190329-HDXP2P-GEN
+[2019-04-09 17:53:44][start_upgrade_by_tgzs]Data Collection Complete!Start Upgrading Now!
+[2019-04-09 17:53:44][start_upgrade_by_tgzs:79]NO.1--3.28-H36-SSC325.starlight.HDXGP2P.gen.zh.201903281.IPC2.H26_H28.tgz
+[2019-04-09 17:53:44][upload_file][192.168.17.169]IS ON-LINE!
+[2019-04-09 17:53:44][upload_file][192.168.17.169]send file now
+[2019-04-09 17:53:44][upload_file][192.168.17.169]send file finished
+[2019-04-09 17:53:44][get_update_progressbar] 0
+[2019-04-09 17:53:46][get_update_progressbar] 13
+[2019-04-09 17:53:48][get_update_progressbar] 28
+[2019-04-09 17:53:50][get_update_progressbar] 32
+[2019-04-09 17:53:52][get_update_progressbar] 100
+[2019-04-09 17:53:52][start_upgrade_by_tgzs:225]Upload Finshed,Sleep(80)
+[2019-04-09 17:55:13][Continuous_send_request]No Answer,Sleep(10)
+[2019-04-09 17:55:23][start_upgrade_by_tgzs]Inconsistent with the expected version!
+[2019-04-09 17:55:23][start_upgrade_by_tgzs]sleep(180)
+[2019-04-09 17:58:23][start_upgrade_by_tgzs]Upgrade Error!
+[2019-04-09 17:58:23][start_upgrade_by_tgzs]The Version Is TB1.20.1728-20190328-HDXGP2P-GEN
+[2019-04-09 17:58:24][get_upgrade_log]GET UPGRADE LOG-------log/192.168.17.169_20190409-17.58.23_upgrade.log
+[2019-04-09 17:58:24][start_upgrade_by_tgzs]EXIT

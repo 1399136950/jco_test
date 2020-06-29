@@ -1,0 +1,43 @@
+[2019-12-26 17:45:22]|***********************START************************|
+[2019-12-26 17:45:22]SLEEPTIME IS 10000000
+[2019-12-26 17:45:22]SEND IP ADDRESS:192.168.201.201
+[2019-12-26 17:45:22]MODEL IS [i]
+[2019-12-26 17:45:22]|********************Testing Now!********************|
+[2019-12-26 17:45:22][send_curl]http://192.168.201.201/?jcpcmd=ircfg%20-act%20set%20-irswitchmode%201%20-turnonlux%200%20-webturnonlux%20100
+[2019-12-26 17:45:32][send_curl]http://192.168.201.201/?jcpcmd=ircfg%20-act%20set%20-irswitchmode%201%20-turnonlux%200%20-webturnonlux%201
+[2019-12-26 17:45:42][send_curl]http://192.168.201.201/?jcpcmd=ircfg%20-act%20set%20-irswitchmode%201%20-turnonlux%200%20-webturnonlux%20100
+[2019-12-26 17:45:52][send_curl]http://192.168.201.201/?jcpcmd=ircfg%20-act%20set%20-irswitchmode%201%20-turnonlux%200%20-webturnonlux%201
+[2019-12-26 17:46:02][send_curl]http://192.168.201.201/?jcpcmd=ircfg%20-act%20set%20-irswitchmode%201%20-turnonlux%200%20-webturnonlux%20100
+[2019-12-26 17:46:12][send_curl]http://192.168.201.201/?jcpcmd=ircfg%20-act%20set%20-irswitchmode%201%20-turnonlux%200%20-webturnonlux%201
+[2019-12-26 17:46:22][send_curl]http://192.168.201.201/?jcpcmd=ircfg%20-act%20set%20-irswitchmode%201%20-turnonlux%200%20-webturnonlux%20100
+[2019-12-26 17:46:32][send_curl]http://192.168.201.201/?jcpcmd=ircfg%20-act%20set%20-irswitchmode%201%20-turnonlux%200%20-webturnonlux%201
+[2019-12-26 17:46:45][send_curl]http://192.168.201.201/?jcpcmd=ircfg%20-act%20set%20-irswitchmode%201%20-turnonlux%200%20-webturnonlux%20100
+[2019-12-26 17:46:55][send_curl]http://192.168.201.201/?jcpcmd=ircfg%20-act%20set%20-irswitchmode%201%20-turnonlux%200%20-webturnonlux%201
+[2019-12-26 17:47:05][send_curl]http://192.168.201.201/?jcpcmd=ircfg%20-act%20set%20-irswitchmode%201%20-turnonlux%200%20-webturnonlux%20100
+[2019-12-26 17:47:15][send_curl]http://192.168.201.201/?jcpcmd=ircfg%20-act%20set%20-irswitchmode%201%20-turnonlux%200%20-webturnonlux%201
+[2019-12-26 17:47:25][send_curl]http://192.168.201.201/?jcpcmd=ircfg%20-act%20set%20-irswitchmode%201%20-turnonlux%200%20-webturnonlux%20100
+[2019-12-26 17:47:35][send_curl]http://192.168.201.201/?jcpcmd=ircfg%20-act%20set%20-irswitchmode%201%20-turnonlux%200%20-webturnonlux%201
+[2019-12-26 17:47:45][send_curl]http://192.168.201.201/?jcpcmd=ircfg%20-act%20set%20-irswitchmode%201%20-turnonlux%200%20-webturnonlux%20100
+[2019-12-26 17:47:55][send_curl]http://192.168.201.201/?jcpcmd=ircfg%20-act%20set%20-irswitchmode%201%20-turnonlux%200%20-webturnonlux%201
+[2019-12-26 17:48:05][send_curl]http://192.168.201.201/?jcpcmd=ircfg%20-act%20set%20-irswitchmode%201%20-turnonlux%200%20-webturnonlux%20100
+[2019-12-26 17:48:15][send_curl]http://192.168.201.201/?jcpcmd=ircfg%20-act%20set%20-irswitchmode%201%20-turnonlux%200%20-webturnonlux%201
+[2019-12-26 17:48:25][send_curl]http://192.168.201.201/?jcpcmd=ircfg%20-act%20set%20-irswitchmode%201%20-turnonlux%200%20-webturnonlux%20100
+[2019-12-26 17:48:35][send_curl]http://192.168.201.201/?jcpcmd=ircfg%20-act%20set%20-irswitchmode%201%20-turnonlux%200%20-webturnonlux%201
+[2019-12-26 17:48:45][send_curl]http://192.168.201.201/?jcpcmd=ircfg%20-act%20set%20-irswitchmode%201%20-turnonlux%200%20-webturnonlux%20100
+[2019-12-26 17:48:55][send_curl]http://192.168.201.201/?jcpcmd=ircfg%20-act%20set%20-irswitchmode%201%20-turnonlux%200%20-webturnonlux%201
+[2019-12-26 17:49:05][send_curl]http://192.168.201.201/?jcpcmd=ircfg%20-act%20set%20-irswitchmode%201%20-turnonlux%200%20-webturnonlux%20100
+[2019-12-26 17:49:15][send_curl]http://192.168.201.201/?jcpcmd=ircfg%20-act%20set%20-irswitchmode%201%20-turnonlux%200%20-webturnonlux%201
+[2019-12-26 17:49:25][send_curl]http://192.168.201.201/?jcpcmd=ircfg%20-act%20set%20-irswitchmode%201%20-turnonlux%200%20-webturnonlux%20100
+[2019-12-26 17:49:36][send_curl]http://192.168.201.201/?jcpcmd=ircfg%20-act%20set%20-irswitchmode%201%20-turnonlux%200%20-webturnonlux%201
+[2019-12-26 17:49:46][send_curl]http://192.168.201.201/?jcpcmd=ircfg%20-act%20set%20-irswitchmode%201%20-turnonlux%200%20-webturnonlux%20100
+[2019-12-26 17:49:59][send_curl]http://192.168.201.201/?jcpcmd=ircfg%20-act%20set%20-irswitchmode%201%20-turnonlux%200%20-webturnonlux%201
+[2019-12-26 17:50:09][send_curl]http://192.168.201.201/?jcpcmd=ircfg%20-act%20set%20-irswitchmode%201%20-turnonlux%200%20-webturnonlux%20100
+[2019-12-26 17:50:19][send_curl]http://192.168.201.201/?jcpcmd=ircfg%20-act%20set%20-irswitchmode%201%20-turnonlux%200%20-webturnonlux%201
+[2019-12-26 17:50:29][send_curl]http://192.168.201.201/?jcpcmd=ircfg%20-act%20set%20-irswitchmode%201%20-turnonlux%200%20-webturnonlux%20100
+[2019-12-26 17:50:39][send_curl]http://192.168.201.201/?jcpcmd=ircfg%20-act%20set%20-irswitchmode%201%20-turnonlux%200%20-webturnonlux%201
+[2019-12-26 17:50:49][send_curl]http://192.168.201.201/?jcpcmd=ircfg%20-act%20set%20-irswitchmode%201%20-turnonlux%200%20-webturnonlux%20100
+[2019-12-26 17:50:59][send_curl]http://192.168.201.201/?jcpcmd=ircfg%20-act%20set%20-irswitchmode%201%20-turnonlux%200%20-webturnonlux%201
+[2019-12-26 17:51:09][send_curl]http://192.168.201.201/?jcpcmd=ircfg%20-act%20set%20-irswitchmode%201%20-turnonlux%200%20-webturnonlux%20100
+[2019-12-26 17:51:19][send_curl]http://192.168.201.201/?jcpcmd=ircfg%20-act%20set%20-irswitchmode%201%20-turnonlux%200%20-webturnonlux%201
+[2019-12-26 17:51:29][send_curl]http://192.168.201.201/?jcpcmd=ircfg%20-act%20set%20-irswitchmode%201%20-turnonlux%200%20-webturnonlux%20100
+[2019-12-26 17:51:39][send_curl]http://192.168.201.201/?jcpcmd=ircfg%20-act%20set%20-irswitchmode%201%20-turnonlux%200%20-webturnonlux%201

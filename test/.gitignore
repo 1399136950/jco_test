@@ -1,0 +1,4 @@
+log
+http_requests.txt
+__pycache__/* 
+upgrade_file

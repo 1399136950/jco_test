@@ -1,0 +1,44 @@
+[2020-05-28 14:19:51]|***********************START************************|
+[2020-05-28 14:19:51]SLEEPTIME IS 500000
+[2020-05-28 14:19:51]SEND IP ADDRESS:192.168.150.111
+[2020-05-28 14:19:51]MODEL IS [ircut]
+[2020-05-28 14:19:51]|********************Testing Now!********************|
+[2020-05-28 14:19:51][send_curl]http://192.168.150.111/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2020-05-28 14:19:51][send_curl]http://192.168.150.111/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2020-05-28 14:19:52][send_curl]http://192.168.150.111/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2020-05-28 14:19:52][send_curl]http://192.168.150.111/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2020-05-28 14:19:53][send_curl]http://192.168.150.111/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2020-05-28 14:19:53][send_curl]http://192.168.150.111/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2020-05-28 14:19:54][send_curl]http://192.168.150.111/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2020-05-28 14:19:54][send_curl]http://192.168.150.111/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2020-05-28 14:19:55][send_curl]http://192.168.150.111/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2020-05-28 14:19:55][send_curl]http://192.168.150.111/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2020-05-28 14:19:56][send_curl]http://192.168.150.111/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2020-05-28 14:19:56][send_curl]http://192.168.150.111/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2020-05-28 14:19:57][send_curl]http://192.168.150.111/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2020-05-28 14:19:57][send_curl]http://192.168.150.111/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2020-05-28 14:19:58][send_curl]http://192.168.150.111/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2020-05-28 14:19:59][send_curl]http://192.168.150.111/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2020-05-28 14:19:59][send_curl]http://192.168.150.111/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2020-05-28 14:20:00][send_curl]http://192.168.150.111/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2020-05-28 14:20:00][send_curl]http://192.168.150.111/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2020-05-28 14:20:01][send_curl]http://192.168.150.111/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2020-05-28 14:20:01][send_curl]http://192.168.150.111/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2020-05-28 14:20:02][send_curl]http://192.168.150.111/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2020-05-28 14:20:02][send_curl]http://192.168.150.111/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2020-05-28 14:20:03][send_curl]http://192.168.150.111/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2020-05-28 14:20:03][send_curl]http://192.168.150.111/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2020-05-28 14:20:04][send_curl]http://192.168.150.111/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2020-05-28 14:20:04][send_curl]http://192.168.150.111/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2020-05-28 14:20:05][send_curl]http://192.168.150.111/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2020-05-28 14:20:05][send_curl]http://192.168.150.111/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2020-05-28 14:20:06][send_curl]http://192.168.150.111/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2020-05-28 14:20:06][send_curl]http://192.168.150.111/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2020-05-28 14:20:07][send_curl]http://192.168.150.111/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2020-05-28 14:20:07][send_curl]http://192.168.150.111/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2020-05-28 14:20:08][send_curl]http://192.168.150.111/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2020-05-28 14:20:09][send_curl]http://192.168.150.111/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2020-05-28 14:20:09][send_curl]http://192.168.150.111/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2020-05-28 14:20:10][send_curl]http://192.168.150.111/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2020-05-28 14:20:10][send_curl]http://192.168.150.111/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2020-05-28 14:20:11][send_curl]http://192.168.150.111/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201

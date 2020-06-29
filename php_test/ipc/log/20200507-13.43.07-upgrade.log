@@ -1,0 +1,200 @@
+[2020-05-07 13:43:07][get_upload_file]Upgrade Pack Is--11.tgz
+[2020-05-07 13:43:07][get_upload_file]Upgrade Pack Is--5.6-VB-2063-SSC335.starlight.HDXGPtP.gen.zh-cn.202005061.IPC2.H(F)39+_H(F)29+_SC3335.tgz
+[2020-05-07 13:43:07][before_execute_script]Execute Script After 10 seconds!
+[2020-05-07 13:43:07][before_execute_script]Sleep(10)
+[2020-05-07 13:43:17][before_execute_script]Start!
+[2020-05-07 13:43:17][start_upgrade_by_tgzs]Begin Collecting Test Data......
+[2020-05-07 13:43:17][new_before_upgrade_test]Upload File Now
+[2020-05-07 13:43:17][new_before_upgrade_test]NO.1,FILE IS 11.tgz
+[2020-05-07 13:43:17][upload_file][192.168.222.28]IS ON-LINE!
+[2020-05-07 13:43:17][upload_file][192.168.222.28]send file now
+[2020-05-07 13:43:17][upload_file][192.168.222.28]send file finished
+[2020-05-07 13:43:17][get_update_progressbar] 0
+[2020-05-07 13:43:19][get_update_progressbar] 13
+[2020-05-07 13:43:21][get_update_progressbar] 13
+[2020-05-07 13:43:23][get_update_progressbar] 28
+[2020-05-07 13:43:25][get_update_progressbar] 100
+[2020-05-07 13:43:25][new_before_upgrade_test]Upload Finished,Sleep(80)
+[2020-05-07 13:44:46][new_before_upgrade_test]Result Is VBA1.39+.1514-20200506-HDXGPtP-GEN
+[2020-05-07 13:44:46][new_before_upgrade_test]Get Test Data......It takes 89 secends
+[2020-05-07 13:44:46][new_before_upgrade_test]Sleep(30)
+[2020-05-07 13:45:16][new_before_upgrade_test]Upload File Now
+[2020-05-07 13:45:16][new_before_upgrade_test]NO.2,FILE IS 11.tgz
+[2020-05-07 13:45:16][upload_file][192.168.222.28]IS ON-LINE!
+[2020-05-07 13:45:16][upload_file][192.168.222.28]send file now
+[2020-05-07 13:45:16][upload_file][192.168.222.28]send file finished
+[2020-05-07 13:45:16][get_update_progressbar] 0
+[2020-05-07 13:45:18][get_update_progressbar] 13
+[2020-05-07 13:45:20][get_update_progressbar] 13
+[2020-05-07 13:45:22][get_update_progressbar] 28
+[2020-05-07 13:45:24][get_update_progressbar] 100
+[2020-05-07 13:45:24][new_before_upgrade_test]Upload Finished,Sleep(80)
+[2020-05-07 13:46:44][new_before_upgrade_test]Result Is VBA1.39+.1514-20200506-HDXGPtP-GEN
+[2020-05-07 13:46:44][new_before_upgrade_test]Get Test Data......It takes 89 secends
+[2020-05-07 13:46:44][new_before_upgrade_test]Sleep(30)
+[2020-05-07 13:47:14][new_before_upgrade_test]Upload File Now
+[2020-05-07 13:47:14][new_before_upgrade_test]NO.1,FILE IS 5.6-VB-2063-SSC335.starlight.HDXGPtP.gen.zh-cn.202005061.IPC2.H(F)39+_H(F)29+_SC3335.tgz
+[2020-05-07 13:47:14][upload_file][192.168.222.28]IS ON-LINE!
+[2020-05-07 13:47:14][upload_file][192.168.222.28]send file now
+[2020-05-07 13:47:14][upload_file][192.168.222.28]send file finished
+[2020-05-07 13:47:14][get_update_progressbar] 0
+[2020-05-07 13:47:16][get_update_progressbar] 3
+[2020-05-07 13:47:18][get_update_progressbar] 13
+[2020-05-07 13:47:20][get_update_progressbar] 15
+[2020-05-07 13:47:23][get_update_progressbar] 28
+[2020-05-07 13:47:25][get_update_progressbar] 100
+[2020-05-07 13:47:25][new_before_upgrade_test]Upload Finished,Sleep(80)
+[2020-05-07 13:48:45][new_before_upgrade_test]Result Is VBA1.39+.1514-20200506-HDXGPtP-GEN
+[2020-05-07 13:48:45][new_before_upgrade_test]Get Test Data......It takes 91 secends
+[2020-05-07 13:48:45][new_before_upgrade_test]Sleep(30)
+[2020-05-07 13:49:15][new_before_upgrade_test]Upload File Now
+[2020-05-07 13:49:15][new_before_upgrade_test]NO.2,FILE IS 5.6-VB-2063-SSC335.starlight.HDXGPtP.gen.zh-cn.202005061.IPC2.H(F)39+_H(F)29+_SC3335.tgz
+[2020-05-07 13:49:15][upload_file][192.168.222.28]IS ON-LINE!
+[2020-05-07 13:49:15][upload_file][192.168.222.28]send file now
+[2020-05-07 13:49:15][upload_file][192.168.222.28]send file finished
+[2020-05-07 13:49:15][get_update_progressbar] 0
+[2020-05-07 13:49:17][get_update_progressbar] 3
+[2020-05-07 13:49:19][get_update_progressbar] 13
+[2020-05-07 13:49:21][get_update_progressbar] 13
+[2020-05-07 13:49:23][get_update_progressbar] 13
+[2020-05-07 13:49:25][get_update_progressbar] 100
+[2020-05-07 13:49:25][new_before_upgrade_test]Upload Finished,Sleep(80)
+[2020-05-07 13:50:45][new_before_upgrade_test]Result Is VBA1.39+.1514-20200506-HDXGPtP-GEN
+[2020-05-07 13:50:45][new_before_upgrade_test]Get Test Data......It takes 91 secends
+[2020-05-07 13:50:45][new_before_upgrade_test]Sleep(30)
+[2020-05-07 13:51:15][new_before_upgrade_test]Corresponding Software Version Is:
+[2020-05-07 13:51:15][new_before_upgrade_test]11.tgz--VBA1.39+.1514-20200506-HDXGPtP-GEN
+[2020-05-07 13:51:15][new_before_upgrade_test]5.6-VB-2063-SSC335.starlight.HDXGPtP.gen.zh-cn.202005061.IPC2.H(F)39+_H(F)29+_SC3335.tgz--VBA1.39+.1514-20200506-HDXGPtP-GEN
+[2020-05-07 13:51:15][start_upgrade_by_tgzs]Data Collection Complete!Start Upgrading Now!
+[2020-05-07 13:51:15][start_upgrade_by_tgzs:79]NO.1--11.tgz
+[2020-05-07 13:51:15][upload_file][192.168.222.28]IS ON-LINE!
+[2020-05-07 13:51:15][upload_file][http://192.168.222.28/webs/updateCfg]Start Send Curl!
+[2020-05-07 13:51:24][upload_file][http://192.168.222.28/webs/updateCfg]Close Curl!
+[2020-05-07 13:51:24][get_update_progressbar] 13
+[2020-05-07 13:51:26][get_update_progressbar] 13
+[2020-05-07 13:51:28][get_update_progressbar] 13
+[2020-05-07 13:51:30][get_update_progressbar] 32
+[2020-05-07 13:51:32][get_update_progressbar] 100
+[2020-05-07 13:51:32][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-05-07 13:52:52][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-05-07 13:52:52][start_upgrade_by_tgzs]The Version Is VBA1.39+.1514-20200506-HDXGPtP-GEN
+[2020-05-07 13:52:52][start_upgrade_by_tgzs]sleep(30)
+[2020-05-07 13:53:22][start_upgrade_by_tgzs:79]NO.2--5.6-VB-2063-SSC335.starlight.HDXGPtP.gen.zh-cn.202005061.IPC2.H(F)39+_H(F)29+_SC3335.tgz
+[2020-05-07 13:53:22][upload_file][192.168.222.28]IS ON-LINE!
+[2020-05-07 13:53:22][upload_file][192.168.222.28]send file now
+[2020-05-07 13:53:22][upload_file][192.168.222.28]send file finished
+[2020-05-07 13:53:22][get_update_progressbar] 0
+[2020-05-07 13:53:24][get_update_progressbar] 3
+[2020-05-07 13:53:26][get_update_progressbar] 13
+[2020-05-07 13:53:28][get_update_progressbar] 13
+[2020-05-07 13:53:30][get_update_progressbar] 32
+[2020-05-07 13:53:32][get_update_progressbar] 100
+[2020-05-07 13:53:32][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-05-07 13:54:52][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-05-07 13:54:52][start_upgrade_by_tgzs]The Version Is VBA1.39+.1514-20200506-HDXGPtP-GEN
+[2020-05-07 13:54:52][start_upgrade_by_tgzs]sleep(30)
+[2020-05-07 13:55:22][start_upgrade_by_tgzs:79]NO.3--11.tgz
+[2020-05-07 13:55:22][upload_file][192.168.222.28]IS ON-LINE!
+[2020-05-07 13:55:22][upload_file][http://192.168.222.28/webs/updateCfg]Start Send Curl!
+[2020-05-07 13:55:30][upload_file][http://192.168.222.28/webs/updateCfg]Close Curl!
+[2020-05-07 13:55:30][get_update_progressbar] 13
+[2020-05-07 13:55:32][get_update_progressbar] 13
+[2020-05-07 13:55:34][get_update_progressbar] 28
+[2020-05-07 13:55:36][get_update_progressbar] 100
+[2020-05-07 13:55:36][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-05-07 13:56:56][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-05-07 13:56:56][start_upgrade_by_tgzs]The Version Is VBA1.39+.1514-20200506-HDXGPtP-GEN
+[2020-05-07 13:56:56][start_upgrade_by_tgzs]sleep(30)
+[2020-05-07 13:57:26][start_upgrade_by_tgzs:79]NO.4--5.6-VB-2063-SSC335.starlight.HDXGPtP.gen.zh-cn.202005061.IPC2.H(F)39+_H(F)29+_SC3335.tgz
+[2020-05-07 13:57:26][upload_file][192.168.222.28]IS ON-LINE!
+[2020-05-07 13:57:26][upload_file][192.168.222.28]send file now
+[2020-05-07 13:57:26][upload_file][192.168.222.28]send file finished
+[2020-05-07 13:57:26][get_update_progressbar] 0
+[2020-05-07 13:57:28][get_update_progressbar] 13
+[2020-05-07 13:57:31][get_update_progressbar] 13
+[2020-05-07 13:57:33][get_update_progressbar] 32
+[2020-05-07 13:57:35][get_update_progressbar] 100
+[2020-05-07 13:57:35][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-05-07 13:58:55][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-05-07 13:58:55][start_upgrade_by_tgzs]The Version Is VBA1.39+.1514-20200506-HDXGPtP-GEN
+[2020-05-07 13:58:55][start_upgrade_by_tgzs]sleep(30)
+[2020-05-07 13:59:25][start_upgrade_by_tgzs:79]NO.5--11.tgz
+[2020-05-07 13:59:25][upload_file][192.168.222.28]IS ON-LINE!
+[2020-05-07 13:59:25][upload_file][http://192.168.222.28/webs/updateCfg]Start Send Curl!
+[2020-05-07 13:59:33][upload_file][http://192.168.222.28/webs/updateCfg]Close Curl!
+[2020-05-07 13:59:33][get_update_progressbar] 13
+[2020-05-07 13:59:35][get_update_progressbar] 13
+[2020-05-07 13:59:37][get_update_progressbar] 13
+[2020-05-07 13:59:39][get_update_progressbar] 32
+[2020-05-07 13:59:41][get_update_progressbar] 100
+[2020-05-07 13:59:41][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-05-07 14:01:01][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-05-07 14:01:01][start_upgrade_by_tgzs]The Version Is VBA1.39+.1514-20200506-HDXGPtP-GEN
+[2020-05-07 14:01:01][start_upgrade_by_tgzs]sleep(30)
+[2020-05-07 14:01:31][start_upgrade_by_tgzs:79]NO.6--5.6-VB-2063-SSC335.starlight.HDXGPtP.gen.zh-cn.202005061.IPC2.H(F)39+_H(F)29+_SC3335.tgz
+[2020-05-07 14:01:31][upload_file][192.168.222.28]IS ON-LINE!
+[2020-05-07 14:01:31][upload_file][192.168.222.28]send file now
+[2020-05-07 14:01:31][upload_file][192.168.222.28]send file finished
+[2020-05-07 14:01:31][get_update_progressbar] 0
+[2020-05-07 14:01:33][get_update_progressbar] 3
+[2020-05-07 14:01:35][get_update_progressbar] 13
+[2020-05-07 14:01:37][get_update_progressbar] 13
+[2020-05-07 14:01:39][get_update_progressbar] 36
+[2020-05-07 14:01:41][get_update_progressbar] 100
+[2020-05-07 14:01:41][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-05-07 14:03:01][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-05-07 14:03:01][start_upgrade_by_tgzs]The Version Is VBA1.39+.1514-20200506-HDXGPtP-GEN
+[2020-05-07 14:03:01][start_upgrade_by_tgzs]sleep(30)
+[2020-05-07 14:03:31][start_upgrade_by_tgzs:79]NO.7--11.tgz
+[2020-05-07 14:03:31][upload_file][192.168.222.28]IS ON-LINE!
+[2020-05-07 14:03:31][upload_file][http://192.168.222.28/webs/updateCfg]Start Send Curl!
+[2020-05-07 14:03:39][upload_file][http://192.168.222.28/webs/updateCfg]Close Curl!
+[2020-05-07 14:03:39][get_update_progressbar] 13
+[2020-05-07 14:03:41][get_update_progressbar] 13
+[2020-05-07 14:03:43][get_update_progressbar] 13
+[2020-05-07 14:03:45][get_update_progressbar] 28
+[2020-05-07 14:03:47][get_update_progressbar] 100
+[2020-05-07 14:03:47][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-05-07 14:05:07][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-05-07 14:05:07][start_upgrade_by_tgzs]The Version Is VBA1.39+.1514-20200506-HDXGPtP-GEN
+[2020-05-07 14:05:07][start_upgrade_by_tgzs]sleep(30)
+[2020-05-07 14:05:37][start_upgrade_by_tgzs:79]NO.8--5.6-VB-2063-SSC335.starlight.HDXGPtP.gen.zh-cn.202005061.IPC2.H(F)39+_H(F)29+_SC3335.tgz
+[2020-05-07 14:05:37][upload_file][192.168.222.28]IS ON-LINE!
+[2020-05-07 14:05:37][upload_file][192.168.222.28]send file now
+[2020-05-07 14:05:37][upload_file][192.168.222.28]send file finished
+[2020-05-07 14:05:37][get_update_progressbar] 0
+[2020-05-07 14:05:39][get_update_progressbar] 13
+[2020-05-07 14:05:41][get_update_progressbar] 13
+[2020-05-07 14:05:43][get_update_progressbar] 32
+[2020-05-07 14:05:45][get_update_progressbar] 100
+[2020-05-07 14:05:45][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-05-07 14:07:05][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-05-07 14:07:05][start_upgrade_by_tgzs]The Version Is VBA1.39+.1514-20200506-HDXGPtP-GEN
+[2020-05-07 14:07:05][start_upgrade_by_tgzs]sleep(30)
+[2020-05-07 14:07:35][start_upgrade_by_tgzs:79]NO.9--11.tgz
+[2020-05-07 14:07:35][upload_file][192.168.222.28]IS ON-LINE!
+[2020-05-07 14:07:35][upload_file][http://192.168.222.28/webs/updateCfg]Start Send Curl!
+[2020-05-07 14:07:44][upload_file][http://192.168.222.28/webs/updateCfg]Close Curl!
+[2020-05-07 14:07:44][get_update_progressbar] 13
+[2020-05-07 14:07:46][get_update_progressbar] 13
+[2020-05-07 14:07:48][get_update_progressbar] 13
+[2020-05-07 14:07:50][get_update_progressbar] 32
+[2020-05-07 14:07:52][get_update_progressbar] 100
+[2020-05-07 14:07:52][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-05-07 14:09:12][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-05-07 14:09:12][start_upgrade_by_tgzs]The Version Is VBA1.39+.1514-20200506-HDXGPtP-GEN
+[2020-05-07 14:09:12][start_upgrade_by_tgzs]sleep(30)
+[2020-05-07 14:09:42][start_upgrade_by_tgzs:79]NO.10--5.6-VB-2063-SSC335.starlight.HDXGPtP.gen.zh-cn.202005061.IPC2.H(F)39+_H(F)29+_SC3335.tgz
+[2020-05-07 14:09:42][upload_file][192.168.222.28]IS ON-LINE!
+[2020-05-07 14:09:42][upload_file][192.168.222.28]send file now
+[2020-05-07 14:09:42][upload_file][192.168.222.28]send file finished
+[2020-05-07 14:09:42][get_update_progressbar] 0
+[2020-05-07 14:09:44][get_update_progressbar] 3
+[2020-05-07 14:09:46][get_update_progressbar] 13
+[2020-05-07 14:09:48][get_update_progressbar] 15
+[2020-05-07 14:09:50][get_update_progressbar] 32
+[2020-05-07 14:09:52][get_update_progressbar] 100
+[2020-05-07 14:09:52][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-05-07 14:11:12][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-05-07 14:11:12][start_upgrade_by_tgzs]The Version Is VBA1.39+.1514-20200506-HDXGPtP-GEN
+[2020-05-07 14:11:12][start_upgrade_by_tgzs]sleep(30)

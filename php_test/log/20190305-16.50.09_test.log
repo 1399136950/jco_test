@@ -1,0 +1,80 @@
+[2019-03-05 16:50:09]|***********************START************************|
+[2019-03-05 16:50:09]SLEEPTIME IS 50000
+[2019-03-05 16:50:09]SEND IP ADDRESS:192.168.200.55
+[2019-03-05 16:50:09]MODEL IS [ircut]
+[2019-03-05 16:50:09]|********************Testing Now!********************|
+[2019-03-05 16:50:09][send_curl]http://192.168.200.55/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-03-05 16:50:09][send_curl]NO.1---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-03-05 16:50:09][send_curl]http://192.168.200.55/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-03-05 16:50:09][send_curl]NO.2---szJcpResult="[Success];";
+
+[2019-03-05 16:50:09][send_curl]http://192.168.200.55/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-03-05 16:50:09][send_curl]NO.3---szJcpResult="[Success];";
+
+[2019-03-05 16:50:09][send_curl]http://192.168.200.55/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-03-05 16:50:09][send_curl]NO.4---szJcpResult="[Success];";
+
+[2019-03-05 16:50:09][send_curl]http://192.168.200.55/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-03-05 16:50:09][send_curl]NO.5---szJcpResult="[Success];";
+
+[2019-03-05 16:50:09][send_curl]http://192.168.200.55/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-03-05 16:50:09][send_curl]NO.6---szJcpResult="[Success];";
+
+[2019-03-05 16:50:09][send_curl]http://192.168.200.55/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-03-05 16:50:09][send_curl]NO.7---szJcpResult="[Success];";
+
+[2019-03-05 16:50:09][send_curl]http://192.168.200.55/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-03-05 16:50:09][send_curl]NO.8---szJcpResult="[Success];";
+
+[2019-03-05 16:50:09][send_curl]http://192.168.200.55/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-03-05 16:50:09][send_curl]NO.9---szJcpResult="[Success];";
+
+[2019-03-05 16:50:09][send_curl]http://192.168.200.55/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-03-05 16:50:09][send_curl]NO.10---szJcpResult="[Success];";
+
+[2019-03-05 16:50:09][send_curl]http://192.168.200.55/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-03-05 16:50:09][send_curl]NO.11---szJcpResult="[Success];";
+
+[2019-03-05 16:50:09][send_curl]http://192.168.200.55/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-03-05 16:50:09][send_curl]NO.12---szJcpResult="[Success];";
+
+[2019-03-05 16:50:10][send_curl]http://192.168.200.55/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-03-05 16:50:10][send_curl]NO.13---szJcpResult="[Success];";
+
+[2019-03-05 16:50:10][send_curl]http://192.168.200.55/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-03-05 16:50:10][send_curl]NO.14---szJcpResult="[Success];";
+
+[2019-03-05 16:50:10][send_curl]http://192.168.200.55/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-03-05 16:50:10][send_curl]NO.15---szJcpResult="[Success];";
+
+[2019-03-05 16:50:10][send_curl]http://192.168.200.55/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-03-05 16:50:10][send_curl]NO.16---szJcpResult="[Success];";
+
+[2019-03-05 16:50:10][send_curl]http://192.168.200.55/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-03-05 16:50:10][send_curl]NO.17---szJcpResult="[Success];";
+
+[2019-03-05 16:50:10][send_curl]http://192.168.200.55/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-03-05 16:50:10][send_curl]NO.18---szJcpResult="[Success];";
+
+[2019-03-05 16:50:10][send_curl]http://192.168.200.55/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-03-05 16:50:10][send_curl]NO.19---szJcpResult="[Success];";
+
+[2019-03-05 16:50:10][send_curl]http://192.168.200.55/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-03-05 16:50:10][send_curl]NO.20---szJcpResult="[Success];";
+
+[2019-03-05 16:50:10][send_curl]http://192.168.200.55/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-03-05 16:50:10][send_curl]NO.21---szJcpResult="[Success];";
+
+[2019-03-05 16:50:10][send_curl]http://192.168.200.55/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-03-05 16:50:10][send_curl]NO.22---szJcpResult="[Success];";
+
+[2019-03-05 16:50:10][send_curl]http://192.168.200.55/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-03-05 16:50:10][send_curl]NO.23---szJcpResult="[Success];";
+
+[2019-03-05 16:50:10][send_curl]http://192.168.200.55/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-03-05 16:50:10][send_curl]NO.24---szJcpResult="[Success];";
+
+[2019-03-05 16:50:10][send_curl]http://192.168.200.55/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-03-05 16:50:10][send_curl]NO.25---szJcpResult="[Success];";
+

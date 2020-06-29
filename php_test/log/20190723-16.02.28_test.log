@@ -1,0 +1,14 @@
+[2019-07-23 16:02:28]|***********************START************************|
+[2019-07-23 16:02:28]SLEEPTIME IS 1000000
+[2019-07-23 16:02:28]SEND IP ADDRESS:192.168.71.158
+[2019-07-23 16:02:28]MODEL IS [ircut]
+[2019-07-23 16:02:28]|********************Testing Now!********************|
+[2019-07-23 16:02:28][send_curl]http://192.168.71.158/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-07-23 16:02:29][send_curl]http://192.168.71.158/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-07-23 16:02:30][send_curl]http://192.168.71.158/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-07-23 16:02:31][send_curl]http://192.168.71.158/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-07-23 16:02:33][send_curl]http://192.168.71.158/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-07-23 16:02:34][send_curl]http://192.168.71.158/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-07-23 16:02:35][send_curl]http://192.168.71.158/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-07-23 16:02:36][send_curl]http://192.168.71.158/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-07-23 16:02:38][send_curl]http://192.168.71.158/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201

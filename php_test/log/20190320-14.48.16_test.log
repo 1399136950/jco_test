@@ -1,0 +1,11 @@
+[2019-03-20 14:48:16]|***********************START************************|
+[2019-03-20 14:48:16]SLEEPTIME IS 1000000
+[2019-03-20 14:48:16]SEND IP ADDRESS:192.168.200.131
+[2019-03-20 14:48:16]MODEL IS [ircut]
+[2019-03-20 14:48:16]|********************Testing Now!********************|
+[2019-03-20 14:48:16][send_curl]http://192.168.200.131/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-03-20 14:48:16][send_curl]NO.1---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-03-20 14:48:17][send_curl]http://192.168.200.131/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-03-20 14:48:17][send_curl]NO.2---szJcpResult="[Success];";
+

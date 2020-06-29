@@ -1,0 +1,20 @@
+[2019-03-30 21:37:20][get_upload_file]Upgrade Pack Is--1.tgz
+[2019-03-30 21:37:20][get_upload_file]Upgrade Pack Is--SSC325.starlight.HDXP2P.gen.zh.201903301.IPC2.H(F)36_H(F)38.tgz
+[2019-03-30 21:37:20][before_execute_script]Execute Script After 10 seconds!
+[2019-03-30 21:37:20][before_execute_script]Sleep(10)
+[2019-03-30 21:37:30][before_execute_script]Start!
+[2019-03-30 21:37:30][start_upgrade_by_tgzs]Begin Collecting Test Data......
+[2019-03-30 21:37:30][new_before_upgrade_test]Upload File Now
+[2019-03-30 21:37:30][new_before_upgrade_test]NO.1,FILE IS 1.tgz
+[2019-03-30 21:37:30][upload_file][192.168.110.212]IS ON-LINE!
+[2019-03-30 21:37:30][upload_file][192.168.110.212]send file now
+[2019-03-30 21:37:30][upload_file][192.168.110.212]send file finished
+[2019-03-30 21:37:30][get_update_progressbar] 0
+[2019-03-30 21:37:32][get_update_progressbar] 13
+[2019-03-30 21:37:34][get_update_progressbar] 13
+[2019-03-30 21:37:36][get_update_progressbar] 32
+[2019-03-30 21:37:38][get_update_progressbar] 40
+[2019-03-30 21:37:40][get_update_progressbar] 100
+[2019-03-30 21:37:40][new_before_upgrade_test]Upload Finished,Sleep(80)
+[2019-03-30 21:39:03][new_before_upgrade_test]No Answer,Sleep(10)
+[2019-03-30 21:39:13][new_before_upgrade_test]Result Is TBA1.36.2111-20190330-HDXP2P-GEN

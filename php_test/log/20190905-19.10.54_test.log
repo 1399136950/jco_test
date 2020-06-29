@@ -1,0 +1,9 @@
+[2019-09-05 19:10:54]|***********************START************************|
+[2019-09-05 19:10:54]SLEEPTIME IS 200000
+[2019-09-05 19:10:54]SEND IP ADDRESS:192.168.155.24
+[2019-09-05 19:10:54]MODEL IS [light1]
+[2019-09-05 19:10:54]|********************Testing Now!********************|
+[2019-09-05 19:10:54][send_curl]http://192.168.155.24/?jcpcmd=lightcfg%20-act%20set%20-openlightlux%201
+[2019-09-05 19:10:54][send_curl]http://192.168.155.24/?jcpcmd=lightcfg%20-act%20set%20-openlightlux%20100
+[2019-09-05 19:10:54][send_curl]http://192.168.155.24/?jcpcmd=lightcfg%20-act%20set%20-openlightlux%201
+[2019-09-05 19:10:54][send_curl]http://192.168.155.24/?jcpcmd=lightcfg%20-act%20set%20-openlightlux%20100

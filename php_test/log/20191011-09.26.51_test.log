@@ -1,0 +1,31 @@
+[2019-10-11 09:26:51]|***********************START************************|
+[2019-10-11 09:26:51]SLEEPTIME IS 1000000
+[2019-10-11 09:26:51]SEND IP ADDRESS:192.168.201.57
+[2019-10-11 09:26:51]MODEL IS [r]
+[2019-10-11 09:26:51]|********************Testing Now!********************|
+[2019-10-11 09:26:51][send_curl]http://192.168.201.57/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-10-11 09:26:52][send_curl]http://192.168.201.57/?jcpcmd=vicfg%20-act%20set%20-reverse%202
+[2019-10-11 09:26:53][send_curl]http://192.168.201.57/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-10-11 09:26:54][send_curl]http://192.168.201.57/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-10-11 09:26:55][send_curl]http://192.168.201.57/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-10-11 09:26:56][send_curl]http://192.168.201.57/?jcpcmd=vicfg%20-act%20set%20-reverse%203
+[2019-10-11 09:26:57][send_curl]http://192.168.201.57/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-10-11 09:26:58][send_curl]http://192.168.201.57/?jcpcmd=vicfg%20-act%20set%20-reverse%202
+[2019-10-11 09:26:59][send_curl]http://192.168.201.57/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-10-11 09:27:00][send_curl]http://192.168.201.57/?jcpcmd=vicfg%20-act%20set%20-reverse%201
+[2019-10-11 09:27:01][send_curl]http://192.168.201.57/?jcpcmd=vicfg%20-act%20set%20-reverse%203
+[2019-10-11 09:27:02][send_curl]http://192.168.201.57/?jcpcmd=vicfg%20-act%20set%20-reverse%202
+[2019-10-11 09:27:03][send_curl]http://192.168.201.57/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-10-11 09:27:04][send_curl]http://192.168.201.57/?jcpcmd=vicfg%20-act%20set%20-reverse%203
+[2019-10-11 09:27:05][send_curl]http://192.168.201.57/?jcpcmd=vicfg%20-act%20set%20-reverse%203
+[2019-10-11 09:27:06][send_curl]http://192.168.201.57/?jcpcmd=vicfg%20-act%20set%20-reverse%202
+[2019-10-11 09:27:07][send_curl]http://192.168.201.57/?jcpcmd=vicfg%20-act%20set%20-reverse%203
+[2019-10-11 09:27:08][send_curl]http://192.168.201.57/?jcpcmd=vicfg%20-act%20set%20-reverse%203
+[2019-10-11 09:27:09][send_curl]http://192.168.201.57/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-10-11 09:27:10][send_curl]http://192.168.201.57/?jcpcmd=vicfg%20-act%20set%20-reverse%202
+[2019-10-11 09:27:11][send_curl]http://192.168.201.57/?jcpcmd=vicfg%20-act%20set%20-reverse%203
+[2019-10-11 09:27:12][send_curl]http://192.168.201.57/?jcpcmd=vicfg%20-act%20set%20-reverse%201
+[2019-10-11 09:27:13][send_curl]http://192.168.201.57/?jcpcmd=vicfg%20-act%20set%20-reverse%201
+[2019-10-11 09:27:14][send_curl]http://192.168.201.57/?jcpcmd=vicfg%20-act%20set%20-reverse%202
+[2019-10-11 09:27:15][send_curl]http://192.168.201.57/?jcpcmd=vicfg%20-act%20set%20-reverse%202
+[2019-10-11 09:27:16][send_curl]http://192.168.201.57/?jcpcmd=vicfg%20-act%20set%20-reverse%201

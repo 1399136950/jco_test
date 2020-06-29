@@ -1,0 +1,312 @@
+[2019-02-14 17:54:05][get_upload_file]Upgrade Pack Is--1.26-ZD-MSC316DM.base.HDXGP2P.gen.zh.201901261.IPC2.F43_F52S.tgz
+[2019-02-14 17:54:05][get_upload_file]Upgrade Pack Is--1.tgz
+[2019-02-14 17:54:05][before_execute_script]Execute Script After 10 seconds!
+[2019-02-14 17:54:05][before_execute_script]Sleep(10)
+[2019-02-14 17:54:15][before_execute_script]Start!
+[2019-02-14 17:54:15][start_upgrade_by_tgzs]Begin Collecting Test Data......
+[2019-02-14 17:54:15][new_before_upgrade_test]Upload File Now
+[2019-02-14 17:54:15][new_before_upgrade_test]NO.1,FILE IS 1.26-ZD-MSC316DM.base.HDXGP2P.gen.zh.201901261.IPC2.F43_F52S.tgz
+[2019-02-14 17:54:15][upload_file][192.168.120.160]IS ON-LINE!
+[2019-02-14 17:54:15][upload_file][192.168.120.160]send file now
+[2019-02-14 17:54:15][upload_file][192.168.120.160]send file finished
+[2019-02-14 17:54:15][get_update_progressbar] 0
+[2019-02-14 17:54:17][get_update_progressbar] 3
+[2019-02-14 17:54:19][get_update_progressbar] 13
+[2019-02-14 17:54:21][get_update_progressbar] 13
+[2019-02-14 17:54:23][get_update_progressbar] 32
+[2019-02-14 17:54:25][get_update_progressbar] 32
+[2019-02-14 17:54:27][get_update_progressbar] 100
+[2019-02-14 17:54:27][new_before_upgrade_test]Upload Finished,Sleep(80)
+[2019-02-14 17:55:49][new_before_upgrade_test]No Answer,Sleep(10)
+[2019-02-14 17:56:00][new_before_upgrade_test]No Answer,Sleep(10)
+[2019-02-14 17:56:13][new_before_upgrade_test]No Answer,Sleep(10)
+[2019-02-14 17:56:24][new_before_upgrade_test]No Answer,Sleep(10)
+[2019-02-14 17:56:34][new_before_upgrade_test]Result Is ZD2.43.1623-20190126-HDXGP2P-GEN
+[2019-02-14 17:56:34][new_before_upgrade_test]Get Test Data......It takes 139 secends
+[2019-02-14 17:56:34][new_before_upgrade_test]Sleep(30)
+[2019-02-14 17:57:04][new_before_upgrade_test]Upload File Now
+[2019-02-14 17:57:04][new_before_upgrade_test]NO.2,FILE IS 1.26-ZD-MSC316DM.base.HDXGP2P.gen.zh.201901261.IPC2.F43_F52S.tgz
+[2019-02-14 17:57:04][upload_file][192.168.120.160]IS ON-LINE!
+[2019-02-14 17:57:04][upload_file][192.168.120.160]send file now
+[2019-02-14 17:57:04][upload_file][192.168.120.160]send file finished
+[2019-02-14 17:57:04][get_update_progressbar] 0
+[2019-02-14 17:57:06][get_update_progressbar] 3
+[2019-02-14 17:57:08][get_update_progressbar] 13
+[2019-02-14 17:57:10][get_update_progressbar] 13
+[2019-02-14 17:57:12][get_update_progressbar] 13
+[2019-02-14 17:57:14][get_update_progressbar] 28
+[2019-02-14 17:57:16][get_update_progressbar] 100
+[2019-02-14 17:57:16][new_before_upgrade_test]Upload Finished,Sleep(80)
+[2019-02-14 17:58:37][new_before_upgrade_test]No Answer,Sleep(10)
+[2019-02-14 17:58:48][new_before_upgrade_test]No Answer,Sleep(10)
+[2019-02-14 17:59:01][new_before_upgrade_test]No Answer,Sleep(10)
+[2019-02-14 17:59:13][new_before_upgrade_test]No Answer,Sleep(10)
+[2019-02-14 17:59:23][new_before_upgrade_test]Result Is ZD2.43.1623-20190126-HDXGP2P-GEN
+[2019-02-14 17:59:23][new_before_upgrade_test]Get Test Data......It takes 139 secends
+[2019-02-14 17:59:23][new_before_upgrade_test]Sleep(30)
+[2019-02-14 17:59:53][new_before_upgrade_test]Upload File Now
+[2019-02-14 17:59:53][new_before_upgrade_test]NO.1,FILE IS 1.tgz
+[2019-02-14 17:59:53][upload_file][192.168.120.160]IS ON-LINE!
+[2019-02-14 17:59:53][upload_file][192.168.120.160]send file now
+[2019-02-14 17:59:53][upload_file][192.168.120.160]send file finished
+[2019-02-14 17:59:53][get_update_progressbar] 0
+[2019-02-14 17:59:55][get_update_progressbar] 3
+[2019-02-14 17:59:57][get_update_progressbar] 13
+[2019-02-14 17:59:59][get_update_progressbar] 13
+[2019-02-14 18:00:01][get_update_progressbar] 32
+[2019-02-14 18:00:03][get_update_progressbar] 32
+[2019-02-14 18:00:05][get_update_progressbar] 100
+[2019-02-14 18:00:05][new_before_upgrade_test]Upload Finished,Sleep(80)
+[2019-02-14 18:01:26][new_before_upgrade_test]No Answer,Sleep(10)
+[2019-02-14 18:01:37][new_before_upgrade_test]No Answer,Sleep(10)
+[2019-02-14 18:01:50][new_before_upgrade_test]No Answer,Sleep(10)
+[2019-02-14 18:02:01][new_before_upgrade_test]No Answer,Sleep(10)
+[2019-02-14 18:02:11][new_before_upgrade_test]Result Is ZD2.43.1623-20190126-HDXGP2P-GEN
+[2019-02-14 18:02:11][new_before_upgrade_test]Get Test Data......It takes 139 secends
+[2019-02-14 18:02:11][new_before_upgrade_test]Sleep(30)
+[2019-02-14 18:02:41][new_before_upgrade_test]Upload File Now
+[2019-02-14 18:02:41][new_before_upgrade_test]NO.2,FILE IS 1.tgz
+[2019-02-14 18:02:41][upload_file][192.168.120.160]IS ON-LINE!
+[2019-02-14 18:02:41][upload_file][192.168.120.160]send file now
+[2019-02-14 18:02:41][upload_file][192.168.120.160]send file finished
+[2019-02-14 18:02:41][get_update_progressbar] 0
+[2019-02-14 18:02:43][get_update_progressbar] 3
+[2019-02-14 18:02:45][get_update_progressbar] 13
+[2019-02-14 18:02:47][get_update_progressbar] 15
+[2019-02-14 18:02:49][get_update_progressbar] 32
+[2019-02-14 18:02:51][get_update_progressbar] 100
+[2019-02-14 18:02:51][new_before_upgrade_test]Upload Finished,Sleep(80)
+[2019-02-14 18:04:13][new_before_upgrade_test]No Answer,Sleep(10)
+[2019-02-14 18:04:24][new_before_upgrade_test]No Answer,Sleep(10)
+[2019-02-14 18:04:37][new_before_upgrade_test]No Answer,Sleep(10)
+[2019-02-14 18:04:48][new_before_upgrade_test]No Answer,Sleep(10)
+[2019-02-14 18:04:58][new_before_upgrade_test]Result Is ZD2.43.1623-20190126-HDXGP2P-GEN
+[2019-02-14 18:04:58][new_before_upgrade_test]Get Test Data......It takes 137 secends
+[2019-02-14 18:04:58][new_before_upgrade_test]Sleep(30)
+[2019-02-14 18:05:28][new_before_upgrade_test]Corresponding Software Version Is:
+[2019-02-14 18:05:28][new_before_upgrade_test]1.26-ZD-MSC316DM.base.HDXGP2P.gen.zh.201901261.IPC2.F43_F52S.tgz--ZD2.43.1623-20190126-HDXGP2P-GEN
+[2019-02-14 18:05:28][new_before_upgrade_test]1.tgz--ZD2.43.1623-20190126-HDXGP2P-GEN
+[2019-02-14 18:05:28][start_upgrade_by_tgzs]Data Collection Complete!Start Upgrading Now!
+[2019-02-14 18:05:28][start_upgrade_by_tgzs:79]NO.1--1.26-ZD-MSC316DM.base.HDXGP2P.gen.zh.201901261.IPC2.F43_F52S.tgz
+[2019-02-14 18:05:28][upload_file][192.168.120.160]IS ON-LINE!
+[2019-02-14 18:05:28][upload_file][192.168.120.160]send file now
+[2019-02-14 18:05:28][upload_file][192.168.120.160]send file finished
+[2019-02-14 18:05:28][start_upgrade_by_tgzs:81]Upload Finshed,Sleep(80)
+[2019-02-14 18:05:28][get_update_progressbar] 0
+[2019-02-14 18:05:30][get_update_progressbar] 3
+[2019-02-14 18:05:32][get_update_progressbar] 13
+[2019-02-14 18:05:34][get_update_progressbar] 13
+[2019-02-14 18:05:36][get_update_progressbar] 28
+[2019-02-14 18:05:38][get_update_progressbar] 32
+[2019-02-14 18:05:40][get_update_progressbar] 100
+[2019-02-14 18:07:01][Continuous_send_request]No Answer,Sleep(10)
+[2019-02-14 18:07:13][Continuous_send_request]No Answer,Sleep(10)
+[2019-02-14 18:07:26][Continuous_send_request]No Answer,Sleep(10)
+[2019-02-14 18:07:37][Continuous_send_request]No Answer,Sleep(10)
+[2019-02-14 18:07:47][start_upgrade_by_tgzs]Upgrade Success!It Takes 120 Seconds!
+[2019-02-14 18:07:47][start_upgrade_by_tgzs]The Version Is ZD2.43.1623-20190126-HDXGP2P-GEN
+[2019-02-14 18:07:47][start_upgrade_by_tgzs]sleep(30)
+[2019-02-14 18:08:17][start_upgrade_by_tgzs:79]NO.2--1.tgz
+[2019-02-14 18:08:17][upload_file][192.168.120.160]IS ON-LINE!
+[2019-02-14 18:08:17][upload_file][192.168.120.160]send file now
+[2019-02-14 18:08:17][upload_file][192.168.120.160]send file finished
+[2019-02-14 18:08:17][start_upgrade_by_tgzs:81]Upload Finshed,Sleep(80)
+[2019-02-14 18:08:17][get_update_progressbar] 0
+[2019-02-14 18:08:19][get_update_progressbar] 3
+[2019-02-14 18:08:21][get_update_progressbar] 13
+[2019-02-14 18:08:23][get_update_progressbar] 13
+[2019-02-14 18:08:25][get_update_progressbar] 13
+[2019-02-14 18:08:27][get_update_progressbar] 32
+[2019-02-14 18:08:29][get_update_progressbar] 100
+[2019-02-14 18:09:50][Continuous_send_request]No Answer,Sleep(10)
+[2019-02-14 18:10:01][Continuous_send_request]No Answer,Sleep(10)
+[2019-02-14 18:10:14][Continuous_send_request]No Answer,Sleep(10)
+[2019-02-14 18:10:26][Continuous_send_request]No Answer,Sleep(10)
+[2019-02-14 18:10:36][start_upgrade_by_tgzs]Upgrade Success!It Takes 120 Seconds!
+[2019-02-14 18:10:36][start_upgrade_by_tgzs]The Version Is ZD2.43.1623-20190126-HDXGP2P-GEN
+[2019-02-14 18:10:36][start_upgrade_by_tgzs]sleep(30)
+[2019-02-14 18:11:06][start_upgrade_by_tgzs:79]NO.3--1.26-ZD-MSC316DM.base.HDXGP2P.gen.zh.201901261.IPC2.F43_F52S.tgz
+[2019-02-14 18:11:06][upload_file][192.168.120.160]IS ON-LINE!
+[2019-02-14 18:11:06][upload_file][192.168.120.160]send file now
+[2019-02-14 18:11:06][upload_file][192.168.120.160]send file finished
+[2019-02-14 18:11:06][start_upgrade_by_tgzs:81]Upload Finshed,Sleep(80)
+[2019-02-14 18:11:06][get_update_progressbar] 0
+[2019-02-14 18:11:08][get_update_progressbar] 3
+[2019-02-14 18:11:10][get_update_progressbar] 13
+[2019-02-14 18:11:12][get_update_progressbar] 13
+[2019-02-14 18:11:14][get_update_progressbar] 28
+[2019-02-14 18:11:16][get_update_progressbar] 32
+[2019-02-14 18:11:18][get_update_progressbar] 100
+[2019-02-14 18:12:39][Continuous_send_request]No Answer,Sleep(10)
+[2019-02-14 18:12:50][Continuous_send_request]No Answer,Sleep(10)
+[2019-02-14 18:13:03][Continuous_send_request]No Answer,Sleep(10)
+[2019-02-14 18:13:14][Continuous_send_request]No Answer,Sleep(10)
+[2019-02-14 18:13:24][start_upgrade_by_tgzs]Upgrade Success!It Takes 120 Seconds!
+[2019-02-14 18:13:24][start_upgrade_by_tgzs]The Version Is ZD2.43.1623-20190126-HDXGP2P-GEN
+[2019-02-14 18:13:24][start_upgrade_by_tgzs]sleep(30)
+[2019-02-14 18:13:54][start_upgrade_by_tgzs:79]NO.4--1.tgz
+[2019-02-14 18:13:54][upload_file][192.168.120.160]IS ON-LINE!
+[2019-02-14 18:13:54][upload_file][192.168.120.160]send file now
+[2019-02-14 18:13:54][upload_file][192.168.120.160]send file finished
+[2019-02-14 18:13:54][start_upgrade_by_tgzs:81]Upload Finshed,Sleep(80)
+[2019-02-14 18:13:54][get_update_progressbar] 0
+[2019-02-14 18:13:56][get_update_progressbar] 3
+[2019-02-14 18:13:58][get_update_progressbar] 13
+[2019-02-14 18:14:00][get_update_progressbar] 13
+[2019-02-14 18:14:02][get_update_progressbar] 15
+[2019-02-14 18:14:04][get_update_progressbar] 32
+[2019-02-14 18:14:06][get_update_progressbar] 100
+[2019-02-14 18:15:28][Continuous_send_request]No Answer,Sleep(10)
+[2019-02-14 18:15:39][Continuous_send_request]No Answer,Sleep(10)
+[2019-02-14 18:15:52][Continuous_send_request]No Answer,Sleep(10)
+[2019-02-14 18:16:03][Continuous_send_request]No Answer,Sleep(10)
+[2019-02-14 18:16:13][start_upgrade_by_tgzs]Upgrade Success!It Takes 120 Seconds!
+[2019-02-14 18:16:13][start_upgrade_by_tgzs]The Version Is ZD2.43.1623-20190126-HDXGP2P-GEN
+[2019-02-14 18:16:13][start_upgrade_by_tgzs]sleep(30)
+[2019-02-14 18:16:43][start_upgrade_by_tgzs:79]NO.5--1.26-ZD-MSC316DM.base.HDXGP2P.gen.zh.201901261.IPC2.F43_F52S.tgz
+[2019-02-14 18:16:43][upload_file][192.168.120.160]IS ON-LINE!
+[2019-02-14 18:16:43][upload_file][192.168.120.160]send file now
+[2019-02-14 18:16:43][upload_file][192.168.120.160]send file finished
+[2019-02-14 18:16:43][start_upgrade_by_tgzs:81]Upload Finshed,Sleep(80)
+[2019-02-14 18:16:43][get_update_progressbar] 0
+[2019-02-14 18:16:45][get_update_progressbar] 3
+[2019-02-14 18:16:47][get_update_progressbar] 13
+[2019-02-14 18:16:49][get_update_progressbar] 13
+[2019-02-14 18:16:51][get_update_progressbar] 15
+[2019-02-14 18:16:53][get_update_progressbar] 99
+[2019-02-14 18:16:55][get_update_progressbar] 100
+[2019-02-14 18:18:16][Continuous_send_request]No Answer,Sleep(10)
+[2019-02-14 18:18:27][Continuous_send_request]No Answer,Sleep(10)
+[2019-02-14 18:18:40][Continuous_send_request]No Answer,Sleep(10)
+[2019-02-14 18:18:52][Continuous_send_request]No Answer,Sleep(10)
+[2019-02-14 18:19:02][start_upgrade_by_tgzs]Upgrade Success!It Takes 120 Seconds!
+[2019-02-14 18:19:02][start_upgrade_by_tgzs]The Version Is ZD2.43.1623-20190126-HDXGP2P-GEN
+[2019-02-14 18:19:02][start_upgrade_by_tgzs]sleep(30)
+[2019-02-14 18:19:32][start_upgrade_by_tgzs:79]NO.6--1.tgz
+[2019-02-14 18:19:32][upload_file][192.168.120.160]IS ON-LINE!
+[2019-02-14 18:19:32][upload_file][192.168.120.160]send file now
+[2019-02-14 18:19:32][upload_file][192.168.120.160]send file finished
+[2019-02-14 18:19:32][start_upgrade_by_tgzs:81]Upload Finshed,Sleep(80)
+[2019-02-14 18:19:32][get_update_progressbar] 0
+[2019-02-14 18:19:34][get_update_progressbar] 3
+[2019-02-14 18:19:36][get_update_progressbar] 13
+[2019-02-14 18:19:38][get_update_progressbar] 13
+[2019-02-14 18:19:40][get_update_progressbar] 13
+[2019-02-14 18:19:42][get_update_progressbar] 15
+[2019-02-14 18:19:44][get_update_progressbar] 32
+[2019-02-14 18:19:46][get_update_progressbar] 100
+[2019-02-14 18:21:07][Continuous_send_request]No Answer,Sleep(10)
+[2019-02-14 18:21:18][Continuous_send_request]No Answer,Sleep(10)
+[2019-02-14 18:21:31][Continuous_send_request]No Answer,Sleep(10)
+[2019-02-14 18:21:42][Continuous_send_request]No Answer,Sleep(10)
+[2019-02-14 18:21:52][start_upgrade_by_tgzs]Upgrade Success!It Takes 120 Seconds!
+[2019-02-14 18:21:52][start_upgrade_by_tgzs]The Version Is ZD2.43.1623-20190126-HDXGP2P-GEN
+[2019-02-14 18:21:52][start_upgrade_by_tgzs]sleep(30)
+[2019-02-14 18:22:22][start_upgrade_by_tgzs:79]NO.7--1.26-ZD-MSC316DM.base.HDXGP2P.gen.zh.201901261.IPC2.F43_F52S.tgz
+[2019-02-14 18:22:22][upload_file][192.168.120.160]IS ON-LINE!
+[2019-02-14 18:22:22][upload_file][192.168.120.160]send file now
+[2019-02-14 18:22:22][upload_file][192.168.120.160]send file finished
+[2019-02-14 18:22:22][start_upgrade_by_tgzs:81]Upload Finshed,Sleep(80)
+[2019-02-14 18:22:22][get_update_progressbar] 0
+[2019-02-14 18:22:24][get_update_progressbar] 3
+[2019-02-14 18:22:26][get_update_progressbar] 13
+[2019-02-14 18:22:28][get_update_progressbar] 13
+[2019-02-14 18:22:30][get_update_progressbar] 15
+[2019-02-14 18:22:33][get_update_progressbar] 32
+[2019-02-14 18:22:35][get_update_progressbar] 100
+[2019-02-14 18:23:56][Continuous_send_request]No Answer,Sleep(10)
+[2019-02-14 18:24:07][Continuous_send_request]No Answer,Sleep(10)
+[2019-02-14 18:24:20][Continuous_send_request]No Answer,Sleep(10)
+[2019-02-14 18:24:31][Continuous_send_request]No Answer,Sleep(10)
+[2019-02-14 18:24:41][start_upgrade_by_tgzs]Upgrade Success!It Takes 120 Seconds!
+[2019-02-14 18:24:41][start_upgrade_by_tgzs]The Version Is ZD2.43.1623-20190126-HDXGP2P-GEN
+[2019-02-14 18:24:41][start_upgrade_by_tgzs]sleep(30)
+[2019-02-14 18:25:11][start_upgrade_by_tgzs:79]NO.8--1.tgz
+[2019-02-14 18:25:11][upload_file][192.168.120.160]IS ON-LINE!
+[2019-02-14 18:25:11][upload_file][192.168.120.160]send file now
+[2019-02-14 18:25:11][upload_file][192.168.120.160]send file finished
+[2019-02-14 18:25:11][start_upgrade_by_tgzs:81]Upload Finshed,Sleep(80)
+[2019-02-14 18:25:11][get_update_progressbar] 0
+[2019-02-14 18:25:13][get_update_progressbar] 3
+[2019-02-14 18:25:15][get_update_progressbar] 13
+[2019-02-14 18:25:17][get_update_progressbar] 13
+[2019-02-14 18:25:19][get_update_progressbar] 13
+[2019-02-14 18:25:21][get_update_progressbar] 28
+[2019-02-14 18:25:23][get_update_progressbar] 32
+[2019-02-14 18:25:25][get_update_progressbar] 100
+[2019-02-14 18:26:46][Continuous_send_request]No Answer,Sleep(10)
+[2019-02-14 18:26:58][Continuous_send_request]No Answer,Sleep(10)
+[2019-02-14 18:27:11][Continuous_send_request]No Answer,Sleep(10)
+[2019-02-14 18:27:22][Continuous_send_request]No Answer,Sleep(10)
+[2019-02-14 18:27:32][start_upgrade_by_tgzs]Upgrade Success!It Takes 120 Seconds!
+[2019-02-14 18:27:32][start_upgrade_by_tgzs]The Version Is ZD2.43.1623-20190126-HDXGP2P-GEN
+[2019-02-14 18:27:32][start_upgrade_by_tgzs]sleep(30)
+[2019-02-14 18:28:02][start_upgrade_by_tgzs:79]NO.9--1.26-ZD-MSC316DM.base.HDXGP2P.gen.zh.201901261.IPC2.F43_F52S.tgz
+[2019-02-14 18:28:02][upload_file][192.168.120.160]IS ON-LINE!
+[2019-02-14 18:28:02][upload_file][192.168.120.160]send file now
+[2019-02-14 18:28:02][upload_file][192.168.120.160]send file finished
+[2019-02-14 18:28:02][start_upgrade_by_tgzs:81]Upload Finshed,Sleep(80)
+[2019-02-14 18:28:02][get_update_progressbar] 0
+[2019-02-14 18:28:04][get_update_progressbar] 3
+[2019-02-14 18:28:06][get_update_progressbar] 13
+[2019-02-14 18:28:08][get_update_progressbar] 13
+[2019-02-14 18:28:10][get_update_progressbar] 32
+[2019-02-14 18:28:12][get_update_progressbar] 32
+[2019-02-14 18:28:14][get_update_progressbar] 100
+[2019-02-14 18:29:35][Continuous_send_request]No Answer,Sleep(10)
+[2019-02-14 18:29:46][Continuous_send_request]No Answer,Sleep(10)
+[2019-02-14 18:29:59][Continuous_send_request]No Answer,Sleep(10)
+[2019-02-14 18:30:11][Continuous_send_request]No Answer,Sleep(10)
+[2019-02-14 18:30:21][start_upgrade_by_tgzs]Upgrade Success!It Takes 120 Seconds!
+[2019-02-14 18:30:21][start_upgrade_by_tgzs]The Version Is ZD2.43.1623-20190126-HDXGP2P-GEN
+[2019-02-14 18:30:21][start_upgrade_by_tgzs]sleep(30)
+[2019-02-14 18:30:51][start_upgrade_by_tgzs:79]NO.10--1.tgz
+[2019-02-14 18:30:51][upload_file][192.168.120.160]IS ON-LINE!
+[2019-02-14 18:30:51][upload_file][192.168.120.160]send file now
+[2019-02-14 18:30:51][upload_file][192.168.120.160]send file finished
+[2019-02-14 18:30:51][start_upgrade_by_tgzs:81]Upload Finshed,Sleep(80)
+[2019-02-14 18:30:51][get_update_progressbar] 0
+[2019-02-14 18:30:53][get_update_progressbar] 3
+[2019-02-14 18:30:55][get_update_progressbar] 13
+[2019-02-14 18:30:57][get_update_progressbar] 13
+[2019-02-14 18:30:59][get_update_progressbar] 13
+[2019-02-14 18:31:01][get_update_progressbar] 32
+[2019-02-14 18:31:03][get_update_progressbar] 32
+[2019-02-14 18:31:05][get_update_progressbar] 100
+[2019-02-14 18:32:26][Continuous_send_request]No Answer,Sleep(10)
+[2019-02-14 18:32:37][Continuous_send_request]No Answer,Sleep(10)
+[2019-02-14 18:32:50][Continuous_send_request]No Answer,Sleep(10)
+[2019-02-14 18:33:01][Continuous_send_request]No Answer,Sleep(10)
+[2019-02-14 18:33:11][start_upgrade_by_tgzs]Upgrade Success!It Takes 120 Seconds!
+[2019-02-14 18:33:11][start_upgrade_by_tgzs]The Version Is ZD2.43.1623-20190126-HDXGP2P-GEN
+[2019-02-14 18:33:11][start_upgrade_by_tgzs]sleep(30)
+[2019-02-14 18:33:41][start_upgrade_by_tgzs:79]NO.11--1.26-ZD-MSC316DM.base.HDXGP2P.gen.zh.201901261.IPC2.F43_F52S.tgz
+[2019-02-14 18:33:41][upload_file][192.168.120.160]IS ON-LINE!
+[2019-02-14 18:33:41][upload_file][192.168.120.160]send file now
+[2019-02-14 18:33:41][upload_file][192.168.120.160]send file finished
+[2019-02-14 18:33:41][start_upgrade_by_tgzs:81]Upload Finshed,Sleep(80)
+[2019-02-14 18:33:41][get_update_progressbar] 0
+[2019-02-14 18:33:43][get_update_progressbar] 3
+[2019-02-14 18:33:45][get_update_progressbar] 13
+[2019-02-14 18:33:47][get_update_progressbar] 13
+[2019-02-14 18:33:49][get_update_progressbar] 15
+[2019-02-14 18:33:51][get_update_progressbar] 99
+[2019-02-14 18:33:53][get_update_progressbar] 100
+[2019-02-14 18:35:15][Continuous_send_request]No Answer,Sleep(10)
+[2019-02-14 18:35:26][Continuous_send_request]No Answer,Sleep(10)
+[2019-02-14 18:35:39][Continuous_send_request]No Answer,Sleep(10)
+[2019-02-14 18:35:50][Continuous_send_request]No Answer,Sleep(10)
+[2019-02-14 18:36:00][start_upgrade_by_tgzs]Upgrade Success!It Takes 120 Seconds!
+[2019-02-14 18:36:00][start_upgrade_by_tgzs]The Version Is ZD2.43.1623-20190126-HDXGP2P-GEN
+[2019-02-14 18:36:00][start_upgrade_by_tgzs]sleep(30)
+[2019-02-14 18:36:30][start_upgrade_by_tgzs:79]NO.12--1.tgz
+[2019-02-14 18:36:30][upload_file][192.168.120.160]IS ON-LINE!
+[2019-02-14 18:36:30][upload_file][192.168.120.160]send file now
+[2019-02-14 18:36:30][upload_file][192.168.120.160]send file finished
+[2019-02-14 18:36:30][start_upgrade_by_tgzs:81]Upload Finshed,Sleep(80)
+[2019-02-14 18:36:30][get_update_progressbar] 0
+[2019-02-14 18:36:32][get_update_progressbar] 3
+[2019-02-14 18:36:34][get_update_progressbar] 13
+[2019-02-14 18:36:36][get_update_progressbar] 15
+[2019-02-14 18:36:38][get_update_progressbar] 32
+[2019-02-14 18:36:40][get_update_progressbar] 100

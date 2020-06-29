@@ -1,0 +1,38 @@
+[2019-02-14 15:57:59]|***********************START************************|
+[2019-02-14 15:57:59]SLEEPTIME IS 100000
+[2019-02-14 15:57:59]SEND IP ADDRESS:192.168.1.106
+[2019-02-14 15:57:59]MODEL IS [ircut]
+[2019-02-14 15:57:59]|********************Testing Now!********************|
+[2019-02-14 15:58:00][send_curl]http://192.168.1.106/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-02-14 15:58:00][send_curl]NO.1---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-14 15:58:00][send_curl]http://192.168.1.106/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-02-14 15:58:00][send_curl]NO.2---szJcpResult="[Success];";
+
+[2019-02-14 15:58:00][send_curl]http://192.168.1.106/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-02-14 15:58:00][send_curl]NO.3---szJcpResult="[Success];";
+
+[2019-02-14 15:58:00][send_curl]http://192.168.1.106/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-02-14 15:58:00][send_curl]NO.4---szJcpResult="[Success];";
+
+[2019-02-14 15:58:00][send_curl]http://192.168.1.106/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-02-14 15:58:00][send_curl]NO.5---szJcpResult="[Success];";
+
+[2019-02-14 15:58:00][send_curl]http://192.168.1.106/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-02-14 15:58:00][send_curl]NO.6---szJcpResult="[Success];";
+
+[2019-02-14 15:58:00][send_curl]http://192.168.1.106/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-02-14 15:58:00][send_curl]NO.7---szJcpResult="[Success];";
+
+[2019-02-14 15:58:00][send_curl]http://192.168.1.106/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-02-14 15:58:00][send_curl]NO.8---szJcpResult="[Success];";
+
+[2019-02-14 15:58:00][send_curl]http://192.168.1.106/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-02-14 15:58:00][send_curl]NO.9---szJcpResult="[Success];";
+
+[2019-02-14 15:58:01][send_curl]http://192.168.1.106/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-02-14 15:58:01][send_curl]NO.10---szJcpResult="[Success];";
+
+[2019-02-14 15:58:01][send_curl]http://192.168.1.106/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-02-14 15:58:01][send_curl]NO.11---szJcpResult="[Success];";
+

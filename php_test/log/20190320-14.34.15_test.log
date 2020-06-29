@@ -1,0 +1,221 @@
+[2019-03-20 14:34:15]|***********************START************************|
+[2019-03-20 14:34:15]SLEEPTIME IS 1000000
+[2019-03-20 14:34:15]SEND IP ADDRESS:192.168.200.131
+[2019-03-20 14:34:15]MODEL IS [y]
+[2019-03-20 14:34:15]|********************Testing Now!********************|
+[2019-03-20 14:34:15][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-20 14:34:15][send_curl]NO.1---szJcpResult="[Success];";
+
+[2019-03-20 14:34:16][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-20 14:34:16][send_curl]NO.2---szJcpResult="[Success];";
+
+[2019-03-20 14:34:17][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-20 14:34:17][send_curl]NO.3---szJcpResult="[Success];";
+
+[2019-03-20 14:34:18][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-20 14:34:18][send_curl]NO.4---szJcpResult="[Success];";
+
+[2019-03-20 14:34:19][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-20 14:34:19][send_curl]NO.5---szJcpResult="[Success];";
+
+[2019-03-20 14:34:20][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-20 14:34:20][send_curl]NO.6---szJcpResult="[Success];";
+
+[2019-03-20 14:34:21][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-20 14:34:21][send_curl]NO.7---szJcpResult="[Success];";
+
+[2019-03-20 14:34:22][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-20 14:34:22][send_curl]NO.8---szJcpResult="[Success];";
+
+[2019-03-20 14:34:23][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-20 14:34:23][send_curl]NO.9---szJcpResult="[Success];";
+
+[2019-03-20 14:34:24][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-20 14:34:24][send_curl]NO.10---szJcpResult="[Success];";
+
+[2019-03-20 14:34:25][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-20 14:34:25][send_curl]NO.11---szJcpResult="[Success];";
+
+[2019-03-20 14:34:26][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-20 14:34:26][send_curl]NO.12---szJcpResult="[Success];";
+
+[2019-03-20 14:34:27][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-20 14:34:27][send_curl]NO.13---szJcpResult="[Success];";
+
+[2019-03-20 14:34:28][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-20 14:34:28][send_curl]NO.14---szJcpResult="[Success];";
+
+[2019-03-20 14:34:29][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-20 14:34:29][send_curl]NO.15---szJcpResult="[Success];";
+
+[2019-03-20 14:34:30][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-20 14:34:30][send_curl]NO.16---szJcpResult="[Success];";
+
+[2019-03-20 14:34:31][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-20 14:34:31][send_curl]NO.17---szJcpResult="[Success];";
+
+[2019-03-20 14:34:32][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-20 14:34:32][send_curl]NO.18---szJcpResult="[Success];";
+
+[2019-03-20 14:34:33][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-20 14:34:33][send_curl]NO.19---szJcpResult="[Success];";
+
+[2019-03-20 14:34:34][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-20 14:34:34][send_curl]NO.20---szJcpResult="[Success];";
+
+[2019-03-20 14:34:36][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-20 14:34:36][send_curl]NO.21---szJcpResult="[Success];";
+
+[2019-03-20 14:34:37][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-20 14:34:37][send_curl]NO.22---szJcpResult="[Success];";
+
+[2019-03-20 14:34:38][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-20 14:34:38][send_curl]NO.23---szJcpResult="[Success];";
+
+[2019-03-20 14:34:39][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-20 14:34:39][send_curl]NO.24---szJcpResult="[Success];";
+
+[2019-03-20 14:34:40][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-20 14:34:40][send_curl]NO.25---szJcpResult="[Success];";
+
+[2019-03-20 14:34:41][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-20 14:34:41][send_curl]NO.26---szJcpResult="[Success];";
+
+[2019-03-20 14:34:42][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-20 14:34:42][send_curl]NO.27---szJcpResult="[Success];";
+
+[2019-03-20 14:34:43][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-20 14:34:43][send_curl]NO.28---szJcpResult="[Success];";
+
+[2019-03-20 14:34:44][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-20 14:34:44][send_curl]NO.29---szJcpResult="[Success];";
+
+[2019-03-20 14:34:45][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-20 14:34:45][send_curl]NO.30---szJcpResult="[Success];";
+
+[2019-03-20 14:34:46][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-20 14:34:46][send_curl]NO.31---szJcpResult="[Success];";
+
+[2019-03-20 14:34:47][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-20 14:34:47][send_curl]NO.32---szJcpResult="[Success];";
+
+[2019-03-20 14:34:48][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-20 14:34:48][send_curl]NO.33---szJcpResult="[Success];";
+
+[2019-03-20 14:34:49][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-20 14:34:49][send_curl]NO.34---szJcpResult="[Success];";
+
+[2019-03-20 14:34:50][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-20 14:34:50][send_curl]NO.35---szJcpResult="[Success];";
+
+[2019-03-20 14:34:51][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-20 14:34:51][send_curl]NO.36---szJcpResult="[Success];";
+
+[2019-03-20 14:34:52][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-20 14:34:52][send_curl]NO.37---szJcpResult="[Success];";
+
+[2019-03-20 14:34:53][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-20 14:34:53][send_curl]NO.38---szJcpResult="[Success];";
+
+[2019-03-20 14:34:54][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-20 14:34:54][send_curl]NO.39---szJcpResult="[Success];";
+
+[2019-03-20 14:34:55][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-20 14:34:55][send_curl]NO.40---szJcpResult="[Success];";
+
+[2019-03-20 14:34:56][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-20 14:34:56][send_curl]NO.41---szJcpResult="[Success];";
+
+[2019-03-20 14:34:57][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-20 14:34:57][send_curl]NO.42---szJcpResult="[Success];";
+
+[2019-03-20 14:34:58][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-20 14:34:58][send_curl]NO.43---szJcpResult="[Success];";
+
+[2019-03-20 14:34:59][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-20 14:34:59][send_curl]NO.44---szJcpResult="[Success];";
+
+[2019-03-20 14:35:00][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-20 14:35:00][send_curl]NO.45---szJcpResult="[Success];";
+
+[2019-03-20 14:35:01][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-20 14:35:01][send_curl]NO.46---szJcpResult="[Success];";
+
+[2019-03-20 14:35:02][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-20 14:35:02][send_curl]NO.47---szJcpResult="[Success];";
+
+[2019-03-20 14:35:03][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-20 14:35:03][send_curl]NO.48---szJcpResult="[Success];";
+
+[2019-03-20 14:35:04][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-20 14:35:04][send_curl]NO.49---szJcpResult="[Success];";
+
+[2019-03-20 14:35:05][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-20 14:35:05][send_curl]NO.50---szJcpResult="[Success];";
+
+[2019-03-20 14:35:06][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-20 14:35:06][send_curl]NO.51---szJcpResult="[Success];";
+
+[2019-03-20 14:35:07][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-20 14:35:07][send_curl]NO.52---szJcpResult="[Success];";
+
+[2019-03-20 14:35:08][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-20 14:35:08][send_curl]NO.53---szJcpResult="[Success];";
+
+[2019-03-20 14:35:09][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-20 14:35:09][send_curl]NO.54---szJcpResult="[Success];";
+
+[2019-03-20 14:35:10][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-20 14:35:10][send_curl]NO.55---szJcpResult="[Success];";
+
+[2019-03-20 14:35:11][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-20 14:35:11][send_curl]NO.56---szJcpResult="[Success];";
+
+[2019-03-20 14:35:12][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-20 14:35:12][send_curl]NO.57---szJcpResult="[Success];";
+
+[2019-03-20 14:35:13][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-20 14:35:13][send_curl]NO.58---szJcpResult="[Success];";
+
+[2019-03-20 14:35:14][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-20 14:35:14][send_curl]NO.59---szJcpResult="[Success];";
+
+[2019-03-20 14:35:15][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-20 14:35:15][send_curl]NO.60---szJcpResult="[Success];";
+
+[2019-03-20 14:35:16][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-20 14:35:16][send_curl]NO.61---szJcpResult="[Success];";
+
+[2019-03-20 14:35:17][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-20 14:35:17][send_curl]NO.62---szJcpResult="[Success];";
+
+[2019-03-20 14:35:18][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-20 14:35:18][send_curl]NO.63---szJcpResult="[Success];";
+
+[2019-03-20 14:35:19][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-20 14:35:19][send_curl]NO.64---szJcpResult="[Success];";
+
+[2019-03-20 14:35:20][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-20 14:35:20][send_curl]NO.65---szJcpResult="[Success];";
+
+[2019-03-20 14:35:21][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-20 14:35:21][send_curl]NO.66---szJcpResult="[Success];";
+
+[2019-03-20 14:35:22][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-20 14:35:22][send_curl]NO.67---szJcpResult="[Success];";
+
+[2019-03-20 14:35:23][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-20 14:35:23][send_curl]NO.68---szJcpResult="[Success];";
+
+[2019-03-20 14:35:24][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-20 14:35:24][send_curl]NO.69---szJcpResult="[Success];";
+
+[2019-03-20 14:35:25][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-20 14:35:25][send_curl]NO.70---szJcpResult="[Success];";
+
+[2019-03-20 14:35:26][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-20 14:35:26][send_curl]NO.71---szJcpResult="[Success];";
+
+[2019-03-20 14:35:27][send_curl]http://192.168.200.131/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-20 14:35:27][send_curl]NO.72---szJcpResult="[Success];";
+

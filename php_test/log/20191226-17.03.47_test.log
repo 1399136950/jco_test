@@ -1,0 +1,14 @@
+[2019-12-26 17:03:47]|***********************START************************|
+[2019-12-26 17:03:47]SLEEPTIME IS 15000000
+[2019-12-26 17:03:47]SEND IP ADDRESS:192.168.201.2
+[2019-12-26 17:03:47]MODEL IS [i]
+[2019-12-26 17:03:47]|********************Testing Now!********************|
+[2019-12-26 17:03:47][send_curl]http://192.168.201.2/?jcpcmd=ircfg%20-act%20set%20-irswitchmode%201%20-turnonlux%200%20-webturnonlux%20100
+[2019-12-26 17:04:02][send_curl]http://192.168.201.2/?jcpcmd=ircfg%20-act%20set%20-irswitchmode%201%20-turnonlux%200%20-webturnonlux%201
+[2019-12-26 17:04:17][send_curl]http://192.168.201.2/?jcpcmd=ircfg%20-act%20set%20-irswitchmode%201%20-turnonlux%200%20-webturnonlux%20100
+[2019-12-26 17:04:32][send_curl]http://192.168.201.2/?jcpcmd=ircfg%20-act%20set%20-irswitchmode%201%20-turnonlux%200%20-webturnonlux%201
+[2019-12-26 17:04:47][send_curl]http://192.168.201.2/?jcpcmd=ircfg%20-act%20set%20-irswitchmode%201%20-turnonlux%200%20-webturnonlux%20100
+[2019-12-26 17:05:02][send_curl]http://192.168.201.2/?jcpcmd=ircfg%20-act%20set%20-irswitchmode%201%20-turnonlux%200%20-webturnonlux%201
+[2019-12-26 17:05:17][send_curl]http://192.168.201.2/?jcpcmd=ircfg%20-act%20set%20-irswitchmode%201%20-turnonlux%200%20-webturnonlux%20100
+[2019-12-26 17:05:32][send_curl]http://192.168.201.2/?jcpcmd=ircfg%20-act%20set%20-irswitchmode%201%20-turnonlux%200%20-webturnonlux%201
+[2019-12-26 17:05:47][send_curl]http://192.168.201.2/?jcpcmd=ircfg%20-act%20set%20-irswitchmode%201%20-turnonlux%200%20-webturnonlux%20100

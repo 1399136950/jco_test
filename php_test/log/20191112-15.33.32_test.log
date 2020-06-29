@@ -1,0 +1,8 @@
+[2019-11-12 15:33:32]|***********************START************************|
+[2019-11-12 15:33:32]SLEEPTIME IS 1000000
+[2019-11-12 15:33:32]SEND IP ADDRESS:192.168.201.231
+[2019-11-12 15:33:32]MODEL IS [a]
+[2019-11-12 15:33:32]|********************Testing Now!********************|
+[2019-11-12 15:33:32][send_curl]http://192.168.201.231/?jcpcmd=audiocfg%20-act%20set%20%20-inenable%201%20-involume%2010%20-outvolume%2029%20-codetype%201%20-inputtype%201
+[2019-11-12 15:33:33][send_curl]http://192.168.201.231/?jcpcmd=audiocfg%20-act%20set%20%20-inenable%201%20-involume%2093%20-outvolume%2098%20-codetype%201%20-inputtype%201
+[2019-11-12 15:33:34][send_curl]http://192.168.201.231/?jcpcmd=audiocfg%20-act%20set%20%20-inenable%200%20-involume%2019%20-outvolume%2085%20-codetype%201%20-inputtype%200

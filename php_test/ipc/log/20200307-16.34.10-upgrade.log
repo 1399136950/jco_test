@@ -1,0 +1,195 @@
+[2020-03-07 16:34:10][get_upload_file]Upgrade Pack Is--12.20-H41-V-SSC328Q.base.HDXGP2P.gen.zh.201912201.IPC2.H81_H85_H4K+.tgz
+[2020-03-07 16:34:10][get_upload_file]Upgrade Pack Is--9.5-V-SSC328Q.base.HDXGP2P.gen.zh.201909051.IPC2.H81_H85.tgz
+[2020-03-07 16:34:10][before_execute_script]Execute Script After 10 seconds!
+[2020-03-07 16:34:10][before_execute_script]Sleep(10)
+[2020-03-07 16:34:20][before_execute_script]Start!
+[2020-03-07 16:34:20][start_upgrade_by_tgzs]Begin Collecting Test Data......
+[2020-03-07 16:34:20][new_before_upgrade_test]Upload File Now
+[2020-03-07 16:34:20][new_before_upgrade_test]NO.1,FILE IS 12.20-H41-V-SSC328Q.base.HDXGP2P.gen.zh.201912201.IPC2.H81_H85_H4K+.tgz
+[2020-03-07 16:34:20][upload_file][192.168.254.201]IS ON-LINE!
+[2020-03-07 16:34:20][upload_file][192.168.254.201]send file now
+[2020-03-07 16:34:20][upload_file][192.168.254.201]send file finished
+[2020-03-07 16:34:20][get_update_progressbar] 0
+[2020-03-07 16:34:22][get_update_progressbar] 13
+[2020-03-07 16:34:24][get_update_progressbar] 13
+[2020-03-07 16:34:26][get_update_progressbar] 15
+[2020-03-07 16:34:28][get_update_progressbar] 36
+[2020-03-07 16:34:30][get_update_progressbar] 100
+[2020-03-07 16:34:30][new_before_upgrade_test]Upload Finished,Sleep(80)
+[2020-03-07 16:35:56][new_before_upgrade_test]Result Is V1.F4K.1422-20191220-HDXGP2P-GEN
+[2020-03-07 16:35:56][new_before_upgrade_test]Get Test Data......It takes 97 secends
+[2020-03-07 16:35:56][new_before_upgrade_test]Sleep(30)
+[2020-03-07 16:36:26][new_before_upgrade_test]Upload File Now
+[2020-03-07 16:36:26][new_before_upgrade_test]NO.2,FILE IS 12.20-H41-V-SSC328Q.base.HDXGP2P.gen.zh.201912201.IPC2.H81_H85_H4K+.tgz
+[2020-03-07 16:36:26][upload_file][192.168.254.201]IS ON-LINE!
+[2020-03-07 16:36:26][upload_file][192.168.254.201]send file now
+[2020-03-07 16:36:26][upload_file][192.168.254.201]send file finished
+[2020-03-07 16:36:26][get_update_progressbar] 0
+[2020-03-07 16:36:28][get_update_progressbar] 3
+[2020-03-07 16:36:30][get_update_progressbar] 13
+[2020-03-07 16:36:32][get_update_progressbar] 15
+[2020-03-07 16:36:34][get_update_progressbar] 32
+[2020-03-07 16:36:36][get_update_progressbar] 100
+[2020-03-07 16:36:36][new_before_upgrade_test]Upload Finished,Sleep(80)
+[2020-03-07 16:37:59][new_before_upgrade_test]Result Is V1.F4K.1422-20191220-HDXGP2P-GEN
+[2020-03-07 16:37:59][new_before_upgrade_test]Get Test Data......It takes 94 secends
+[2020-03-07 16:37:59][new_before_upgrade_test]Sleep(30)
+[2020-03-07 16:38:30][new_before_upgrade_test]Upload File Now
+[2020-03-07 16:38:30][new_before_upgrade_test]NO.1,FILE IS 9.5-V-SSC328Q.base.HDXGP2P.gen.zh.201909051.IPC2.H81_H85.tgz
+[2020-03-07 16:38:30][upload_file][192.168.254.201]IS ON-LINE!
+[2020-03-07 16:38:30][upload_file][192.168.254.201]send file now
+[2020-03-07 16:38:30][upload_file][192.168.254.201]send file finished
+[2020-03-07 16:38:30][get_update_progressbar] 0
+[2020-03-07 16:38:32][get_update_progressbar] 3
+[2020-03-07 16:38:34][get_update_progressbar] 13
+[2020-03-07 16:38:36][get_update_progressbar] 15
+[2020-03-07 16:38:38][get_update_progressbar] 32
+[2020-03-07 16:38:40][get_update_progressbar] 100
+[2020-03-07 16:38:40][new_before_upgrade_test]Upload Finished,Sleep(80)
+[2020-03-07 16:40:05][new_before_upgrade_test]Result Is V1.F4K.1905-20190905-HDXGP2P-GEN
+[2020-03-07 16:40:05][new_before_upgrade_test]Get Test Data......It takes 96 secends
+[2020-03-07 16:40:05][new_before_upgrade_test]Sleep(30)
+[2020-03-07 16:40:35][new_before_upgrade_test]Upload File Now
+[2020-03-07 16:40:35][new_before_upgrade_test]NO.2,FILE IS 9.5-V-SSC328Q.base.HDXGP2P.gen.zh.201909051.IPC2.H81_H85.tgz
+[2020-03-07 16:40:35][upload_file][192.168.254.201]IS ON-LINE!
+[2020-03-07 16:40:35][upload_file][192.168.254.201]send file now
+[2020-03-07 16:40:35][upload_file][192.168.254.201]send file finished
+[2020-03-07 16:40:35][get_update_progressbar] 0
+[2020-03-07 16:40:37][get_update_progressbar] 3
+[2020-03-07 16:40:39][get_update_progressbar] 13
+[2020-03-07 16:40:41][get_update_progressbar] 13
+[2020-03-07 16:40:43][get_update_progressbar] 32
+[2020-03-07 16:40:45][get_update_progressbar] 100
+[2020-03-07 16:40:45][new_before_upgrade_test]Upload Finished,Sleep(80)
+[2020-03-07 16:42:10][new_before_upgrade_test]Result Is V1.F4K.1905-20190905-HDXGP2P-GEN
+[2020-03-07 16:42:10][new_before_upgrade_test]Get Test Data......It takes 95 secends
+[2020-03-07 16:42:10][new_before_upgrade_test]Sleep(30)
+[2020-03-07 16:42:40][new_before_upgrade_test]Corresponding Software Version Is:
+[2020-03-07 16:42:40][new_before_upgrade_test]12.20-H41-V-SSC328Q.base.HDXGP2P.gen.zh.201912201.IPC2.H81_H85_H4K+.tgz--V1.F4K.1422-20191220-HDXGP2P-GEN
+[2020-03-07 16:42:40][new_before_upgrade_test]9.5-V-SSC328Q.base.HDXGP2P.gen.zh.201909051.IPC2.H81_H85.tgz--V1.F4K.1905-20190905-HDXGP2P-GEN
+[2020-03-07 16:42:40][start_upgrade_by_tgzs]Data Collection Complete!Start Upgrading Now!
+[2020-03-07 16:42:40][start_upgrade_by_tgzs:79]NO.1--12.20-H41-V-SSC328Q.base.HDXGP2P.gen.zh.201912201.IPC2.H81_H85_H4K+.tgz
+[2020-03-07 16:42:40][upload_file][192.168.254.201]IS ON-LINE!
+[2020-03-07 16:42:40][upload_file][http://192.168.254.201/webs/updateCfg]Start Send Curl!
+[2020-03-07 16:42:50][upload_file][http://192.168.254.201/webs/updateCfg]Close Curl!
+[2020-03-07 16:42:50][get_update_progressbar] 13
+[2020-03-07 16:42:52][get_update_progressbar] 13
+[2020-03-07 16:42:54][get_update_progressbar] 13
+[2020-03-07 16:42:56][get_update_progressbar] 28
+[2020-03-07 16:42:58][get_update_progressbar] 100
+[2020-03-07 16:42:58][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-07 16:44:24][Continuous_send_request]No Answer,Sleep(10)
+[2020-03-07 16:44:34][start_upgrade_by_tgzs]Upgrade Success!It Takes 90 Seconds!
+[2020-03-07 16:44:34][start_upgrade_by_tgzs]The Version Is V1.F4K.1422-20191220-HDXGP2P-GEN
+[2020-03-07 16:44:34][start_upgrade_by_tgzs]sleep(30)
+[2020-03-07 16:45:04][start_upgrade_by_tgzs:79]NO.2--9.5-V-SSC328Q.base.HDXGP2P.gen.zh.201909051.IPC2.H81_H85.tgz
+[2020-03-07 16:45:04][upload_file][192.168.254.201]IS ON-LINE!
+[2020-03-07 16:45:04][upload_file][192.168.254.201]send file now
+[2020-03-07 16:45:04][upload_file][192.168.254.201]send file finished
+[2020-03-07 16:45:04][get_update_progressbar] 0
+[2020-03-07 16:45:06][get_update_progressbar] 13
+[2020-03-07 16:45:08][get_update_progressbar] 13
+[2020-03-07 16:45:10][get_update_progressbar] 32
+[2020-03-07 16:45:12][get_update_progressbar] 100
+[2020-03-07 16:45:12][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-07 16:46:38][Continuous_send_request]No Answer,Sleep(10)
+[2020-03-07 16:46:48][start_upgrade_by_tgzs]Upgrade Success!It Takes 90 Seconds!
+[2020-03-07 16:46:48][start_upgrade_by_tgzs]The Version Is V1.F4K.1905-20190905-HDXGP2P-GEN
+[2020-03-07 16:46:48][start_upgrade_by_tgzs]sleep(30)
+[2020-03-07 16:47:18][start_upgrade_by_tgzs:79]NO.3--12.20-H41-V-SSC328Q.base.HDXGP2P.gen.zh.201912201.IPC2.H81_H85_H4K+.tgz
+[2020-03-07 16:47:18][upload_file][192.168.254.201]IS ON-LINE!
+[2020-03-07 16:47:18][upload_file][http://192.168.254.201/webs/updateCfg]Start Send Curl!
+[2020-03-07 16:47:29][upload_file][http://192.168.254.201/webs/updateCfg]Close Curl!
+[2020-03-07 16:47:29][get_update_progressbar] 13
+[2020-03-07 16:47:31][get_update_progressbar] 13
+[2020-03-07 16:47:33][get_update_progressbar] 28
+[2020-03-07 16:47:35][get_update_progressbar] 100
+[2020-03-07 16:47:35][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-07 16:49:01][Continuous_send_request]No Answer,Sleep(10)
+[2020-03-07 16:49:11][start_upgrade_by_tgzs]Upgrade Success!It Takes 90 Seconds!
+[2020-03-07 16:49:11][start_upgrade_by_tgzs]The Version Is V1.F4K.1422-20191220-HDXGP2P-GEN
+[2020-03-07 16:49:11][start_upgrade_by_tgzs]sleep(30)
+[2020-03-07 16:49:41][start_upgrade_by_tgzs:79]NO.4--9.5-V-SSC328Q.base.HDXGP2P.gen.zh.201909051.IPC2.H81_H85.tgz
+[2020-03-07 16:49:41][upload_file][192.168.254.201]IS ON-LINE!
+[2020-03-07 16:49:41][upload_file][192.168.254.201]send file now
+[2020-03-07 16:49:41][upload_file][192.168.254.201]send file finished
+[2020-03-07 16:49:41][get_update_progressbar] 0
+[2020-03-07 16:49:43][get_update_progressbar] 3
+[2020-03-07 16:49:45][get_update_progressbar] 13
+[2020-03-07 16:49:47][get_update_progressbar] 13
+[2020-03-07 16:49:49][get_update_progressbar] 32
+[2020-03-07 16:49:51][get_update_progressbar] 100
+[2020-03-07 16:49:51][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-07 16:51:17][Continuous_send_request]No Answer,Sleep(10)
+[2020-03-07 16:51:27][start_upgrade_by_tgzs]Upgrade Success!It Takes 90 Seconds!
+[2020-03-07 16:51:27][start_upgrade_by_tgzs]The Version Is V1.F4K.1905-20190905-HDXGP2P-GEN
+[2020-03-07 16:51:27][start_upgrade_by_tgzs]sleep(30)
+[2020-03-07 16:51:57][start_upgrade_by_tgzs:79]NO.5--12.20-H41-V-SSC328Q.base.HDXGP2P.gen.zh.201912201.IPC2.H81_H85_H4K+.tgz
+[2020-03-07 16:51:57][upload_file][192.168.254.201]IS ON-LINE!
+[2020-03-07 16:51:57][upload_file][http://192.168.254.201/webs/updateCfg]Start Send Curl!
+[2020-03-07 16:52:07][upload_file][http://192.168.254.201/webs/updateCfg]Close Curl!
+[2020-03-07 16:52:07][get_update_progressbar] 13
+[2020-03-07 16:52:09][get_update_progressbar] 15
+[2020-03-07 16:52:11][get_update_progressbar] 32
+[2020-03-07 16:52:13][get_update_progressbar] 100
+[2020-03-07 16:52:13][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-07 16:53:39][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-03-07 16:53:39][start_upgrade_by_tgzs]The Version Is V1.F4K.1422-20191220-HDXGP2P-GEN
+[2020-03-07 16:53:39][start_upgrade_by_tgzs]sleep(30)
+[2020-03-07 16:54:09][start_upgrade_by_tgzs:79]NO.6--9.5-V-SSC328Q.base.HDXGP2P.gen.zh.201909051.IPC2.H81_H85.tgz
+[2020-03-07 16:54:09][upload_file][192.168.254.201]IS ON-LINE!
+[2020-03-07 16:54:09][upload_file][192.168.254.201]send file now
+[2020-03-07 16:54:09][upload_file][192.168.254.201]send file finished
+[2020-03-07 16:54:09][get_update_progressbar] 0
+[2020-03-07 16:54:11][get_update_progressbar] 3
+[2020-03-07 16:54:13][get_update_progressbar] 13
+[2020-03-07 16:54:15][get_update_progressbar] 13
+[2020-03-07 16:54:17][get_update_progressbar] 15
+[2020-03-07 16:54:19][get_update_progressbar] 32
+[2020-03-07 16:54:21][get_update_progressbar] 100
+[2020-03-07 16:54:21][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-07 16:55:57][Continuous_send_request]No Answer,Sleep(10)
+[2020-03-07 16:56:13][start_upgrade_by_tgzs]Upgrade Success!It Takes 90 Seconds!
+[2020-03-07 16:56:13][start_upgrade_by_tgzs]The Version Is V1.F4K.1905-20190905-HDXGP2P-GEN
+[2020-03-07 16:56:13][start_upgrade_by_tgzs]sleep(30)
+[2020-03-07 16:56:43][start_upgrade_by_tgzs:79]NO.7--12.20-H41-V-SSC328Q.base.HDXGP2P.gen.zh.201912201.IPC2.H81_H85_H4K+.tgz
+[2020-03-07 16:56:43][upload_file][192.168.254.201]IS ON-LINE!
+[2020-03-07 16:56:43][upload_file][http://192.168.254.201/webs/updateCfg]Start Send Curl!
+[2020-03-07 16:56:53][upload_file][http://192.168.254.201/webs/updateCfg]Close Curl!
+[2020-03-07 16:56:53][get_update_progressbar] 13
+[2020-03-07 16:56:55][get_update_progressbar] 13
+[2020-03-07 16:56:57][get_update_progressbar] 15
+[2020-03-07 16:56:59][get_update_progressbar] 32
+[2020-03-07 16:57:01][get_update_progressbar] 100
+[2020-03-07 16:57:01][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-07 16:58:26][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-03-07 16:58:26][start_upgrade_by_tgzs]The Version Is V1.F4K.1422-20191220-HDXGP2P-GEN
+[2020-03-07 16:58:26][start_upgrade_by_tgzs]sleep(30)
+[2020-03-07 16:58:56][start_upgrade_by_tgzs:79]NO.8--9.5-V-SSC328Q.base.HDXGP2P.gen.zh.201909051.IPC2.H81_H85.tgz
+[2020-03-07 16:58:56][upload_file][192.168.254.201]IS ON-LINE!
+[2020-03-07 16:58:56][upload_file][192.168.254.201]send file now
+[2020-03-07 16:58:56][upload_file][192.168.254.201]send file finished
+[2020-03-07 16:58:56][get_update_progressbar] 0
+[2020-03-07 16:58:59][get_update_progressbar] 3
+[2020-03-07 16:59:01][get_update_progressbar] 13
+[2020-03-07 16:59:03][get_update_progressbar] 13
+[2020-03-07 16:59:05][get_update_progressbar] 32
+[2020-03-07 16:59:07][get_update_progressbar] 100
+[2020-03-07 16:59:07][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-07 17:00:33][Continuous_send_request]No Answer,Sleep(10)
+[2020-03-07 17:00:43][start_upgrade_by_tgzs]Upgrade Success!It Takes 90 Seconds!
+[2020-03-07 17:00:43][start_upgrade_by_tgzs]The Version Is V1.F4K.1905-20190905-HDXGP2P-GEN
+[2020-03-07 17:00:43][start_upgrade_by_tgzs]sleep(30)
+[2020-03-07 17:01:13][start_upgrade_by_tgzs:79]NO.9--12.20-H41-V-SSC328Q.base.HDXGP2P.gen.zh.201912201.IPC2.H81_H85_H4K+.tgz
+[2020-03-07 17:01:13][upload_file][192.168.254.201]IS ON-LINE!
+[2020-03-07 17:01:13][upload_file][http://192.168.254.201/webs/updateCfg]Start Send Curl!
+[2020-03-07 17:01:24][upload_file][http://192.168.254.201/webs/updateCfg]Close Curl!
+[2020-03-07 17:01:24][get_update_progressbar] 13
+[2020-03-07 17:01:26][get_update_progressbar] 13
+[2020-03-07 17:01:28][get_update_progressbar] 28
+[2020-03-07 17:01:30][get_update_progressbar] 100
+[2020-03-07 17:01:30][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-07 17:02:56][Continuous_send_request]No Answer,Sleep(10)
+[2020-03-07 17:03:06][start_upgrade_by_tgzs]Upgrade Success!It Takes 90 Seconds!
+[2020-03-07 17:03:06][start_upgrade_by_tgzs]The Version Is V1.F4K.1422-20191220-HDXGP2P-GEN
+[2020-03-07 17:03:06][start_upgrade_by_tgzs]sleep(30)

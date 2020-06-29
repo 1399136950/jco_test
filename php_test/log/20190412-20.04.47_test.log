@@ -1,0 +1,24 @@
+[2019-04-12 20:04:47]|***********************START************************|
+[2019-04-12 20:04:47]SLEEPTIME IS 1000000
+[2019-04-12 20:04:47]SEND IP ADDRESS:192.168.201.123
+[2019-04-12 20:04:47]MODEL IS [osize]
+[2019-04-12 20:04:47]|********************Testing Now!********************|
+[2019-04-12 20:04:47][send_curl]http://192.168.201.123/?jcpcmd=osdstrcfg%20-act%20set%20-size%201
+[2019-04-12 20:04:48][send_curl]http://192.168.201.123/?jcpcmd=osdstrcfg%20-act%20set%20-size%200
+[2019-04-12 20:04:49][send_curl]http://192.168.201.123/?jcpcmd=osdstrcfg%20-act%20set%20-size%200
+[2019-04-12 20:04:50][send_curl]http://192.168.201.123/?jcpcmd=osdstrcfg%20-act%20set%20-size%201
+[2019-04-12 20:04:51][send_curl]http://192.168.201.123/?jcpcmd=osdstrcfg%20-act%20set%20-size%202
+[2019-04-12 20:04:52][send_curl]http://192.168.201.123/?jcpcmd=osdstrcfg%20-act%20set%20-size%201
+[2019-04-12 20:04:53][send_curl]http://192.168.201.123/?jcpcmd=osdstrcfg%20-act%20set%20-size%200
+[2019-04-12 20:04:54][send_curl]http://192.168.201.123/?jcpcmd=osdstrcfg%20-act%20set%20-size%201
+[2019-04-12 20:04:55][send_curl]http://192.168.201.123/?jcpcmd=osdstrcfg%20-act%20set%20-size%200
+[2019-04-12 20:04:56][send_curl]http://192.168.201.123/?jcpcmd=osdstrcfg%20-act%20set%20-size%200
+[2019-04-12 20:04:57][send_curl]http://192.168.201.123/?jcpcmd=osdstrcfg%20-act%20set%20-size%200
+[2019-04-12 20:04:58][send_curl]http://192.168.201.123/?jcpcmd=osdstrcfg%20-act%20set%20-size%202
+[2019-04-12 20:04:59][send_curl]http://192.168.201.123/?jcpcmd=osdstrcfg%20-act%20set%20-size%201
+[2019-04-12 20:05:00][send_curl]http://192.168.201.123/?jcpcmd=osdstrcfg%20-act%20set%20-size%200
+[2019-04-12 20:05:01][send_curl]http://192.168.201.123/?jcpcmd=osdstrcfg%20-act%20set%20-size%201
+[2019-04-12 20:05:02][send_curl]http://192.168.201.123/?jcpcmd=osdstrcfg%20-act%20set%20-size%200
+[2019-04-12 20:05:03][send_curl]http://192.168.201.123/?jcpcmd=osdstrcfg%20-act%20set%20-size%202
+[2019-04-12 20:05:04][send_curl]http://192.168.201.123/?jcpcmd=osdstrcfg%20-act%20set%20-size%202
+[2019-04-12 20:05:05][send_curl]http://192.168.201.123/?jcpcmd=osdstrcfg%20-act%20set%20-size%200

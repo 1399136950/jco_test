@@ -1,0 +1,166 @@
+[2020-06-09 11:21:38][get_upload_file]Upgrade Pack Is--1.tgz
+[2020-06-09 11:21:38][get_upload_file]Upgrade Pack Is--6.8-HB-VB-SSC327E.starlight.HBPtP.cd-hanbang.zh-cn.202006081.IPC2.H(F)29_H(F)55.tgz
+[2020-06-09 11:21:38][before_execute_script]Execute Script After 10 seconds!
+[2020-06-09 11:21:38][before_execute_script]Sleep(10)
+[2020-06-09 11:21:48][before_execute_script]Start!
+[2020-06-09 11:21:48][start_upgrade_by_tgzs]Begin Collecting Test Data......
+[2020-06-09 11:21:48][new_before_upgrade_test]Upload File Now
+[2020-06-09 11:21:48][new_before_upgrade_test]NO.1,FILE IS 1.tgz
+[2020-06-09 11:21:48][upload_file][192.168.150.187]IS ON-LINE!
+[2020-06-09 11:21:48][upload_file][192.168.150.187]send file now
+[2020-06-09 11:21:48][upload_file][192.168.150.187]send file finished
+[2020-06-09 11:21:48][get_update_progressbar] 0
+[2020-06-09 11:21:50][get_update_progressbar] 13
+[2020-06-09 11:21:52][get_update_progressbar] 13
+[2020-06-09 11:21:54][get_update_progressbar] 15
+[2020-06-09 11:21:56][get_update_progressbar] 32
+[2020-06-09 11:21:58][get_update_progressbar] 100
+[2020-06-09 11:21:58][new_before_upgrade_test]Upload Finished,Sleep(80)
+[2020-06-09 11:23:18][new_before_upgrade_test]Result Is VBA1.55.1922-20200608-HBPtP-CD
+[2020-06-09 11:23:18][new_before_upgrade_test]Get Test Data......It takes 91 secends
+[2020-06-09 11:23:18][new_before_upgrade_test]Sleep(30)
+[2020-06-09 11:23:48][new_before_upgrade_test]Upload File Now
+[2020-06-09 11:23:48][new_before_upgrade_test]NO.2,FILE IS 1.tgz
+[2020-06-09 11:23:48][upload_file][192.168.150.187]IS ON-LINE!
+[2020-06-09 11:23:48][upload_file][192.168.150.187]send file now
+[2020-06-09 11:23:48][upload_file][192.168.150.187]send file finished
+[2020-06-09 11:23:48][get_update_progressbar] 0
+[2020-06-09 11:23:50][get_update_progressbar] 3
+[2020-06-09 11:23:52][get_update_progressbar] 13
+[2020-06-09 11:23:54][get_update_progressbar] 13
+[2020-06-09 11:23:56][get_update_progressbar] 28
+[2020-06-09 11:23:58][get_update_progressbar] 100
+[2020-06-09 11:23:58][new_before_upgrade_test]Upload Finished,Sleep(80)
+[2020-06-09 11:25:19][new_before_upgrade_test]Result Is VBA1.55.1922-20200608-HBPtP-CD
+[2020-06-09 11:25:19][new_before_upgrade_test]Get Test Data......It takes 91 secends
+[2020-06-09 11:25:19][new_before_upgrade_test]Sleep(30)
+[2020-06-09 11:25:49][new_before_upgrade_test]Upload File Now
+[2020-06-09 11:25:49][new_before_upgrade_test]NO.1,FILE IS 6.8-HB-VB-SSC327E.starlight.HBPtP.cd-hanbang.zh-cn.202006081.IPC2.H(F)29_H(F)55.tgz
+[2020-06-09 11:25:49][upload_file][192.168.150.187]IS ON-LINE!
+[2020-06-09 11:25:49][upload_file][192.168.150.187]send file now
+[2020-06-09 11:25:49][upload_file][192.168.150.187]send file finished
+[2020-06-09 11:25:49][get_update_progressbar] 0
+[2020-06-09 11:25:51][get_update_progressbar] 3
+[2020-06-09 11:25:53][get_update_progressbar] 13
+[2020-06-09 11:25:55][get_update_progressbar] 13
+[2020-06-09 11:25:57][get_update_progressbar] 28
+[2020-06-09 11:25:59][get_update_progressbar] 32
+[2020-06-09 11:26:01][get_update_progressbar] 100
+[2020-06-09 11:26:01][new_before_upgrade_test]Upload Finished,Sleep(80)
+[2020-06-09 11:27:21][new_before_upgrade_test]Result Is VBA1.55.1922-20200608-HBPtP-CD
+[2020-06-09 11:27:21][new_before_upgrade_test]Get Test Data......It takes 93 secends
+[2020-06-09 11:27:21][new_before_upgrade_test]Sleep(30)
+[2020-06-09 11:27:51][new_before_upgrade_test]Upload File Now
+[2020-06-09 11:27:51][new_before_upgrade_test]NO.2,FILE IS 6.8-HB-VB-SSC327E.starlight.HBPtP.cd-hanbang.zh-cn.202006081.IPC2.H(F)29_H(F)55.tgz
+[2020-06-09 11:27:51][upload_file][192.168.150.187]IS ON-LINE!
+[2020-06-09 11:27:51][upload_file][192.168.150.187]send file now
+[2020-06-09 11:27:51][upload_file][192.168.150.187]send file finished
+[2020-06-09 11:27:51][get_update_progressbar] 0
+[2020-06-09 11:27:53][get_update_progressbar] 3
+[2020-06-09 11:27:55][get_update_progressbar] 13
+[2020-06-09 11:27:57][get_update_progressbar] 13
+[2020-06-09 11:27:59][get_update_progressbar] 28
+[2020-06-09 11:28:01][get_update_progressbar] 100
+[2020-06-09 11:28:01][new_before_upgrade_test]Upload Finished,Sleep(80)
+[2020-06-09 11:29:21][new_before_upgrade_test]Result Is VBA1.55.1922-20200608-HBPtP-CD
+[2020-06-09 11:29:21][new_before_upgrade_test]Get Test Data......It takes 91 secends
+[2020-06-09 11:29:21][new_before_upgrade_test]Sleep(30)
+[2020-06-09 11:29:51][new_before_upgrade_test]Corresponding Software Version Is:
+[2020-06-09 11:29:51][new_before_upgrade_test]1.tgz--VBA1.55.1922-20200608-HBPtP-CD
+[2020-06-09 11:29:51][new_before_upgrade_test]6.8-HB-VB-SSC327E.starlight.HBPtP.cd-hanbang.zh-cn.202006081.IPC2.H(F)29_H(F)55.tgz--VBA1.55.1922-20200608-HBPtP-CD
+[2020-06-09 11:29:51][start_upgrade_by_tgzs]Data Collection Complete!Start Upgrading Now!
+[2020-06-09 11:29:51][start_upgrade_by_tgzs:79]NO.1--1.tgz
+[2020-06-09 11:29:51][upload_file][192.168.150.187]IS ON-LINE!
+[2020-06-09 11:29:51][upload_file][http://192.168.150.187/webs/updateCfg]Start Send Curl!
+[2020-06-09 11:29:59][upload_file][http://192.168.150.187/webs/updateCfg]Close Curl!
+[2020-06-09 11:29:59][get_update_progressbar] 13
+[2020-06-09 11:30:01][get_update_progressbar] 13
+[2020-06-09 11:30:03][get_update_progressbar] 13
+[2020-06-09 11:30:05][get_update_progressbar] 13
+[2020-06-09 11:30:07][get_update_progressbar] 28
+[2020-06-09 11:30:09][get_update_progressbar] 100
+[2020-06-09 11:30:09][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-06-09 11:31:29][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-06-09 11:31:29][start_upgrade_by_tgzs]The Version Is VBA1.55.1922-20200608-HBPtP-CD
+[2020-06-09 11:31:29][start_upgrade_by_tgzs]sleep(30)
+[2020-06-09 11:31:59][start_upgrade_by_tgzs:79]NO.2--6.8-HB-VB-SSC327E.starlight.HBPtP.cd-hanbang.zh-cn.202006081.IPC2.H(F)29_H(F)55.tgz
+[2020-06-09 11:31:59][upload_file][192.168.150.187]IS ON-LINE!
+[2020-06-09 11:31:59][upload_file][192.168.150.187]send file now
+[2020-06-09 11:31:59][upload_file][192.168.150.187]send file finished
+[2020-06-09 11:31:59][get_update_progressbar] 0
+[2020-06-09 11:32:01][get_update_progressbar] 3
+[2020-06-09 11:32:03][get_update_progressbar] 13
+[2020-06-09 11:32:05][get_update_progressbar] 15
+[2020-06-09 11:32:07][get_update_progressbar] 32
+[2020-06-09 11:32:09][get_update_progressbar] 100
+[2020-06-09 11:32:09][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-06-09 11:33:30][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-06-09 11:33:30][start_upgrade_by_tgzs]The Version Is VBA1.55.1922-20200608-HBPtP-CD
+[2020-06-09 11:33:30][start_upgrade_by_tgzs]sleep(30)
+[2020-06-09 11:34:00][start_upgrade_by_tgzs:79]NO.3--1.tgz
+[2020-06-09 11:34:00][upload_file][192.168.150.187]IS ON-LINE!
+[2020-06-09 11:34:00][upload_file][http://192.168.150.187/webs/updateCfg]Start Send Curl!
+[2020-06-09 11:34:07][upload_file][http://192.168.150.187/webs/updateCfg]Close Curl!
+[2020-06-09 11:34:07][get_update_progressbar] 13
+[2020-06-09 11:34:09][get_update_progressbar] 13
+[2020-06-09 11:34:11][get_update_progressbar] 13
+[2020-06-09 11:34:13][get_update_progressbar] 28
+[2020-06-09 11:34:15][get_update_progressbar] 100
+[2020-06-09 11:34:15][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-06-09 11:35:35][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-06-09 11:35:35][start_upgrade_by_tgzs]The Version Is VBA1.55.1922-20200608-HBPtP-CD
+[2020-06-09 11:35:35][start_upgrade_by_tgzs]sleep(30)
+[2020-06-09 11:36:05][start_upgrade_by_tgzs:79]NO.4--6.8-HB-VB-SSC327E.starlight.HBPtP.cd-hanbang.zh-cn.202006081.IPC2.H(F)29_H(F)55.tgz
+[2020-06-09 11:36:05][upload_file][192.168.150.187]IS ON-LINE!
+[2020-06-09 11:36:05][upload_file][192.168.150.187]send file now
+[2020-06-09 11:36:05][upload_file][192.168.150.187]send file finished
+[2020-06-09 11:36:06][get_update_progressbar] 0
+[2020-06-09 11:36:08][get_update_progressbar] 3
+[2020-06-09 11:36:10][get_update_progressbar] 13
+[2020-06-09 11:36:12][get_update_progressbar] 13
+[2020-06-09 11:36:14][get_update_progressbar] 15
+[2020-06-09 11:36:16][get_update_progressbar] 32
+[2020-06-09 11:36:18][get_update_progressbar] 100
+[2020-06-09 11:36:18][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-06-09 11:37:38][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-06-09 11:37:38][start_upgrade_by_tgzs]The Version Is VBA1.55.1922-20200608-HBPtP-CD
+[2020-06-09 11:37:38][start_upgrade_by_tgzs]sleep(30)
+[2020-06-09 11:38:08][start_upgrade_by_tgzs:79]NO.5--1.tgz
+[2020-06-09 11:38:08][upload_file][192.168.150.187]IS ON-LINE!
+[2020-06-09 11:38:08][upload_file][http://192.168.150.187/webs/updateCfg]Start Send Curl!
+[2020-06-09 11:38:15][upload_file][http://192.168.150.187/webs/updateCfg]Close Curl!
+[2020-06-09 11:38:15][get_update_progressbar] 13
+[2020-06-09 11:38:17][get_update_progressbar] 13
+[2020-06-09 11:38:19][get_update_progressbar] 13
+[2020-06-09 11:38:21][get_update_progressbar] 32
+[2020-06-09 11:38:23][get_update_progressbar] 100
+[2020-06-09 11:38:23][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-06-09 11:39:43][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-06-09 11:39:43][start_upgrade_by_tgzs]The Version Is VBA1.55.1922-20200608-HBPtP-CD
+[2020-06-09 11:39:43][start_upgrade_by_tgzs]sleep(30)
+[2020-06-09 11:40:13][start_upgrade_by_tgzs:79]NO.6--6.8-HB-VB-SSC327E.starlight.HBPtP.cd-hanbang.zh-cn.202006081.IPC2.H(F)29_H(F)55.tgz
+[2020-06-09 11:40:13][upload_file][192.168.150.187]IS ON-LINE!
+[2020-06-09 11:40:13][upload_file][192.168.150.187]send file now
+[2020-06-09 11:40:13][upload_file][192.168.150.187]send file finished
+[2020-06-09 11:40:13][get_update_progressbar] 0
+[2020-06-09 11:40:15][get_update_progressbar] 13
+[2020-06-09 11:40:17][get_update_progressbar] 13
+[2020-06-09 11:40:19][get_update_progressbar] 28
+[2020-06-09 11:40:21][get_update_progressbar] 100
+[2020-06-09 11:40:21][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-06-09 11:41:41][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-06-09 11:41:41][start_upgrade_by_tgzs]The Version Is VBA1.55.1922-20200608-HBPtP-CD
+[2020-06-09 11:41:41][start_upgrade_by_tgzs]sleep(30)
+[2020-06-09 11:42:11][start_upgrade_by_tgzs:79]NO.7--1.tgz
+[2020-06-09 11:42:11][upload_file][192.168.150.187]IS ON-LINE!
+[2020-06-09 11:42:11][upload_file][http://192.168.150.187/webs/updateCfg]Start Send Curl!
+[2020-06-09 11:42:21][upload_file][http://192.168.150.187/webs/updateCfg]Close Curl!
+[2020-06-09 11:42:21][get_update_progressbar] 13
+[2020-06-09 11:42:23][get_update_progressbar] 13
+[2020-06-09 11:42:25][get_update_progressbar] 13
+[2020-06-09 11:42:27][get_update_progressbar] 32
+[2020-06-09 11:42:29][get_update_progressbar] 100
+[2020-06-09 11:42:29][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-06-09 11:43:49][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-06-09 11:43:49][start_upgrade_by_tgzs]The Version Is VBA1.55.1922-20200608-HBPtP-CD
+[2020-06-09 11:43:49][start_upgrade_by_tgzs]sleep(30)

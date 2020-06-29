@@ -1,0 +1,104 @@
+[2020-06-03 11:44:00][get_upload_file]Upgrade Pack Is--111.tgz
+[2020-06-03 11:44:00][get_upload_file]Upgrade Pack Is--6.2-V-K05-T31X.base.HDXGPtP.genAI-dl.zh.202006021.IPC2.H31_H51_H42_H41_SC3335.tgz
+[2020-06-03 11:44:00][before_execute_script]Execute Script After 10 seconds!
+[2020-06-03 11:44:00][before_execute_script]Sleep(10)
+[2020-06-03 11:44:10][before_execute_script]Start!
+[2020-06-03 11:44:10][start_upgrade_by_tgzs]Begin Collecting Test Data......
+[2020-06-03 11:44:10][new_before_upgrade_test]Upload File Now
+[2020-06-03 11:44:10][new_before_upgrade_test]NO.1,FILE IS 111.tgz
+[2020-06-03 11:44:10][upload_file][192.168.150.249]IS ON-LINE!
+[2020-06-03 11:44:10][upload_file][192.168.150.249]send file now
+[2020-06-03 11:44:10][upload_file][192.168.150.249]send file finished
+[2020-06-03 11:44:10][get_update_progressbar] 0
+[2020-06-03 11:44:12][get_update_progressbar] 0
+[2020-06-03 11:44:14][get_update_progressbar] 3
+[2020-06-03 11:44:17][get_update_progressbar] 13
+[2020-06-03 11:44:19][get_update_progressbar] 28
+[2020-06-03 11:44:21][get_update_progressbar] 100
+[2020-06-03 11:44:21][new_before_upgrade_test]Upload Finished,Sleep(80)
+[2020-06-03 11:45:52][new_before_upgrade_test]No Answer,Sleep(10)
+[2020-06-03 11:46:02][new_before_upgrade_test]Result Is VC1.0.H51.1907-20200602-HDXGPtP-GENAI-DL
+[2020-06-03 11:46:02][new_before_upgrade_test]Get Test Data......It takes 112 secends
+[2020-06-03 11:46:02][new_before_upgrade_test]Sleep(30)
+[2020-06-03 11:46:32][new_before_upgrade_test]Upload File Now
+[2020-06-03 11:46:32][new_before_upgrade_test]NO.2,FILE IS 111.tgz
+[2020-06-03 11:46:32][upload_file][192.168.150.249]IS ON-LINE!
+[2020-06-03 11:46:32][upload_file][192.168.150.249]send file now
+[2020-06-03 11:46:32][upload_file][192.168.150.249]send file finished
+[2020-06-03 11:46:32][get_update_progressbar] 0
+[2020-06-03 11:46:34][get_update_progressbar] 0
+[2020-06-03 11:46:36][get_update_progressbar] 3
+[2020-06-03 11:46:38][get_update_progressbar] 13
+[2020-06-03 11:46:40][get_update_progressbar] 13
+[2020-06-03 11:46:42][get_update_progressbar] 28
+[2020-06-03 11:46:44][get_update_progressbar] 100
+[2020-06-03 11:46:44][new_before_upgrade_test]Upload Finished,Sleep(80)
+[2020-06-03 11:48:16][new_before_upgrade_test]No Answer,Sleep(10)
+[2020-06-03 11:48:26][new_before_upgrade_test]Result Is VC1.0.H51.1907-20200602-HDXGPtP-GENAI-DL
+[2020-06-03 11:48:26][new_before_upgrade_test]Get Test Data......It takes 114 secends
+[2020-06-03 11:48:26][new_before_upgrade_test]Sleep(30)
+[2020-06-03 11:48:56][new_before_upgrade_test]Upload File Now
+[2020-06-03 11:48:56][new_before_upgrade_test]NO.1,FILE IS 6.2-V-K05-T31X.base.HDXGPtP.genAI-dl.zh.202006021.IPC2.H31_H51_H42_H41_SC3335.tgz
+[2020-06-03 11:48:56][upload_file][192.168.150.249]IS ON-LINE!
+[2020-06-03 11:48:56][upload_file][192.168.150.249]send file now
+[2020-06-03 11:48:56][upload_file][192.168.150.249]send file finished
+[2020-06-03 11:48:56][get_update_progressbar] 0
+[2020-06-03 11:48:58][get_update_progressbar] 0
+[2020-06-03 11:49:00][get_update_progressbar] 3
+[2020-06-03 11:49:02][get_update_progressbar] 13
+[2020-06-03 11:49:04][get_update_progressbar] 13
+[2020-06-03 11:49:06][get_update_progressbar] 28
+[2020-06-03 11:49:08][get_update_progressbar] 100
+[2020-06-03 11:49:08][new_before_upgrade_test]Upload Finished,Sleep(80)
+[2020-06-03 11:50:39][new_before_upgrade_test]No Answer,Sleep(10)
+[2020-06-03 11:50:50][new_before_upgrade_test]Result Is VC1.0.H51.1907-20200602-HDXGPtP-GENAI-DL
+[2020-06-03 11:50:50][new_before_upgrade_test]Get Test Data......It takes 114 secends
+[2020-06-03 11:50:50][new_before_upgrade_test]Sleep(30)
+[2020-06-03 11:51:20][new_before_upgrade_test]Upload File Now
+[2020-06-03 11:51:20][new_before_upgrade_test]NO.2,FILE IS 6.2-V-K05-T31X.base.HDXGPtP.genAI-dl.zh.202006021.IPC2.H31_H51_H42_H41_SC3335.tgz
+[2020-06-03 11:51:20][upload_file][192.168.150.249]IS ON-LINE!
+[2020-06-03 11:51:20][upload_file][192.168.150.249]send file now
+[2020-06-03 11:51:20][upload_file][192.168.150.249]send file finished
+[2020-06-03 11:51:20][get_update_progressbar] 0
+[2020-06-03 11:51:22][get_update_progressbar] 0
+[2020-06-03 11:51:24][get_update_progressbar] 3
+[2020-06-03 11:51:26][get_update_progressbar] 13
+[2020-06-03 11:51:28][get_update_progressbar] 13
+[2020-06-03 11:51:30][get_update_progressbar] 15
+[2020-06-03 11:51:32][get_update_progressbar] 32
+[2020-06-03 11:51:34][get_update_progressbar] 100
+[2020-06-03 11:51:34][new_before_upgrade_test]Upload Finished,Sleep(80)
+[2020-06-03 11:53:05][new_before_upgrade_test]No Answer,Sleep(10)
+[2020-06-03 11:53:16][new_before_upgrade_test]Result Is VC1.0.H51.1907-20200602-HDXGPtP-GENAI-DL
+[2020-06-03 11:53:16][new_before_upgrade_test]Get Test Data......It takes 116 secends
+[2020-06-03 11:53:16][new_before_upgrade_test]Sleep(30)
+[2020-06-03 11:53:46][new_before_upgrade_test]Corresponding Software Version Is:
+[2020-06-03 11:53:46][new_before_upgrade_test]111.tgz--VC1.0.H51.1907-20200602-HDXGPtP-GENAI-DL
+[2020-06-03 11:53:46][new_before_upgrade_test]6.2-V-K05-T31X.base.HDXGPtP.genAI-dl.zh.202006021.IPC2.H31_H51_H42_H41_SC3335.tgz--VC1.0.H51.1907-20200602-HDXGPtP-GENAI-DL
+[2020-06-03 11:53:46][start_upgrade_by_tgzs]Data Collection Complete!Start Upgrading Now!
+[2020-06-03 11:53:46][start_upgrade_by_tgzs:79]NO.1--111.tgz
+[2020-06-03 11:53:46][upload_file][192.168.150.249]IS ON-LINE!
+[2020-06-03 11:53:46][upload_file][http://192.168.150.249/webs/updateCfg]Start Send Curl!
+[2020-06-03 11:53:57][upload_file][http://192.168.150.249/webs/updateCfg]Close Curl!
+[2020-06-03 11:53:57][get_update_progressbar] 13
+[2020-06-03 11:53:59][get_update_progressbar] 13
+[2020-06-03 11:54:01][get_update_progressbar] 13
+[2020-06-03 11:54:03][get_update_progressbar] 32
+[2020-06-03 11:54:05][get_update_progressbar] 100
+[2020-06-03 11:54:05][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-06-03 11:55:36][Continuous_send_request]No Answer,Sleep(10)
+[2020-06-03 11:55:47][start_upgrade_by_tgzs]Upgrade Success!It Takes 90 Seconds!
+[2020-06-03 11:55:47][start_upgrade_by_tgzs]The Version Is VC1.0.H51.1907-20200602-HDXGPtP-GENAI-DL
+[2020-06-03 11:55:47][start_upgrade_by_tgzs]sleep(30)
+[2020-06-03 11:56:17][start_upgrade_by_tgzs:79]NO.2--6.2-V-K05-T31X.base.HDXGPtP.genAI-dl.zh.202006021.IPC2.H31_H51_H42_H41_SC3335.tgz
+[2020-06-03 11:56:17][upload_file][192.168.150.249]IS ON-LINE!
+[2020-06-03 11:56:17][upload_file][192.168.150.249]send file now
+[2020-06-03 11:56:17][upload_file][192.168.150.249]send file finished
+[2020-06-03 11:56:17][get_update_progressbar] 0
+[2020-06-03 11:56:19][get_update_progressbar] 0
+[2020-06-03 11:56:21][get_update_progressbar] 3
+[2020-06-03 11:56:23][get_update_progressbar] 13
+[2020-06-03 11:56:25][get_update_progressbar] 13
+[2020-06-03 11:56:27][get_update_progressbar] 32
+[2020-06-03 11:56:29][get_update_progressbar] 100
+[2020-06-03 11:56:29][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)

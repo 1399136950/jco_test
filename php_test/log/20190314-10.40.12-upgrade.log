@@ -1,0 +1,107 @@
+[2019-03-14 10:40:12][get_upload_file]Upgrade Pack Is--1.tgz
+[2019-03-14 10:40:12][get_upload_file]Upgrade Pack Is--3.13-T-SSC325.base.HDXGP2P.gen.zh.201903131.IPC2.H29_H281.tgz
+[2019-03-14 10:40:12][before_execute_script]Execute Script After 10 seconds!
+[2019-03-14 10:40:12][before_execute_script]Sleep(10)
+[2019-03-14 10:40:22][before_execute_script]Start!
+[2019-03-14 10:40:22][start_upgrade_by_tgzs]Begin Collecting Test Data......
+[2019-03-14 10:40:22][new_before_upgrade_test]Upload File Now
+[2019-03-14 10:40:22][new_before_upgrade_test]NO.1,FILE IS 1.tgz
+[2019-03-14 10:40:22][upload_file][192.168.200.110]IS ON-LINE!
+[2019-03-14 10:40:22][upload_file][192.168.200.110]send file now
+[2019-03-14 10:40:22][upload_file][192.168.200.110]send file finished
+[2019-03-14 10:40:22][get_update_progressbar] 0
+[2019-03-14 10:40:25][get_update_progressbar] 3
+[2019-03-14 10:40:27][get_update_progressbar] 13
+[2019-03-14 10:40:29][get_update_progressbar] 13
+[2019-03-14 10:40:31][get_update_progressbar] 13
+[2019-03-14 10:40:33][get_update_progressbar] 32
+[2019-03-14 10:40:35][get_update_progressbar] 100
+[2019-03-14 10:40:35][new_before_upgrade_test]Upload Finished,Sleep(80)
+[2019-03-14 10:41:56][new_before_upgrade_test]No Answer,Sleep(10)
+[2019-03-14 10:42:06][new_before_upgrade_test]Result Is T1.281.1733-20190313-HDXGP2P-GEN
+[2019-03-14 10:42:06][new_before_upgrade_test]Get Test Data......It takes 104 secends
+[2019-03-14 10:42:06][new_before_upgrade_test]Sleep(30)
+[2019-03-14 10:42:36][new_before_upgrade_test]Upload File Now
+[2019-03-14 10:42:36][new_before_upgrade_test]NO.2,FILE IS 1.tgz
+[2019-03-14 10:42:36][upload_file][192.168.200.110]IS ON-LINE!
+[2019-03-14 10:42:36][upload_file][192.168.200.110]send file now
+[2019-03-14 10:42:36][upload_file][192.168.200.110]send file finished
+[2019-03-14 10:42:36][get_update_progressbar] 0
+[2019-03-14 10:42:38][get_update_progressbar] 3
+[2019-03-14 10:42:40][get_update_progressbar] 13
+[2019-03-14 10:42:42][get_update_progressbar] 13
+[2019-03-14 10:42:44][get_update_progressbar] 28
+[2019-03-14 10:42:46][get_update_progressbar] 32
+[2019-03-14 10:42:48][get_update_progressbar] 100
+[2019-03-14 10:42:48][new_before_upgrade_test]Upload Finished,Sleep(80)
+[2019-03-14 10:44:09][new_before_upgrade_test]No Answer,Sleep(10)
+[2019-03-14 10:44:19][new_before_upgrade_test]Result Is T1.281.1733-20190313-HDXGP2P-GEN
+[2019-03-14 10:44:19][new_before_upgrade_test]Get Test Data......It takes 104 secends
+[2019-03-14 10:44:19][new_before_upgrade_test]Sleep(30)
+[2019-03-14 10:44:49][new_before_upgrade_test]Upload File Now
+[2019-03-14 10:44:49][new_before_upgrade_test]NO.1,FILE IS 3.13-T-SSC325.base.HDXGP2P.gen.zh.201903131.IPC2.H29_H281.tgz
+[2019-03-14 10:44:49][upload_file][192.168.200.110]IS ON-LINE!
+[2019-03-14 10:44:49][upload_file][192.168.200.110]send file now
+[2019-03-14 10:44:49][upload_file][192.168.200.110]send file finished
+[2019-03-14 10:44:49][get_update_progressbar] 0
+[2019-03-14 10:44:51][get_update_progressbar] 3
+[2019-03-14 10:44:53][get_update_progressbar] 3
+[2019-03-14 10:44:55][get_update_progressbar] 13
+[2019-03-14 10:44:57][get_update_progressbar] 15
+[2019-03-14 10:44:59][get_update_progressbar] 32
+[2019-03-14 10:45:01][get_update_progressbar] 32
+[2019-03-14 10:45:03][get_update_progressbar] 100
+[2019-03-14 10:45:03][new_before_upgrade_test]Upload Finished,Sleep(80)
+[2019-03-14 10:46:24][new_before_upgrade_test]No Answer,Sleep(10)
+[2019-03-14 10:46:35][new_before_upgrade_test]Result Is T1.281.1733-20190313-HDXGP2P-GEN
+[2019-03-14 10:46:35][new_before_upgrade_test]Get Test Data......It takes 106 secends
+[2019-03-14 10:46:35][new_before_upgrade_test]Sleep(30)
+[2019-03-14 10:47:05][new_before_upgrade_test]Upload File Now
+[2019-03-14 10:47:05][new_before_upgrade_test]NO.2,FILE IS 3.13-T-SSC325.base.HDXGP2P.gen.zh.201903131.IPC2.H29_H281.tgz
+[2019-03-14 10:47:05][upload_file][192.168.200.110]IS ON-LINE!
+[2019-03-14 10:47:05][upload_file][192.168.200.110]send file now
+[2019-03-14 10:47:05][upload_file][192.168.200.110]send file finished
+[2019-03-14 10:47:05][get_update_progressbar] 0
+[2019-03-14 10:47:07][get_update_progressbar] 3
+[2019-03-14 10:47:09][get_update_progressbar] 13
+[2019-03-14 10:47:11][get_update_progressbar] 13
+[2019-03-14 10:47:13][get_update_progressbar] 15
+[2019-03-14 10:47:15][get_update_progressbar] 32
+[2019-03-14 10:47:17][get_update_progressbar] 100
+[2019-03-14 10:47:17][new_before_upgrade_test]Upload Finished,Sleep(80)
+[2019-03-14 10:48:40][new_before_upgrade_test]No Answer,Sleep(10)
+[2019-03-14 10:48:50][new_before_upgrade_test]Result Is T1.281.1733-20190313-HDXGP2P-GEN
+[2019-03-14 10:48:50][new_before_upgrade_test]Get Test Data......It takes 106 secends
+[2019-03-14 10:48:50][new_before_upgrade_test]Sleep(30)
+[2019-03-14 10:49:20][new_before_upgrade_test]Corresponding Software Version Is:
+[2019-03-14 10:49:20][new_before_upgrade_test]1.tgz--T1.281.1733-20190313-HDXGP2P-GEN
+[2019-03-14 10:49:20][new_before_upgrade_test]3.13-T-SSC325.base.HDXGP2P.gen.zh.201903131.IPC2.H29_H281.tgz--T1.281.1733-20190313-HDXGP2P-GEN
+[2019-03-14 10:49:20][start_upgrade_by_tgzs]Data Collection Complete!Start Upgrading Now!
+[2019-03-14 10:49:20][start_upgrade_by_tgzs:79]NO.1--1.tgz
+[2019-03-14 10:49:20][upload_file][192.168.200.110]IS ON-LINE!
+[2019-03-14 10:49:20][upload_file][192.168.200.110]send file now
+[2019-03-14 10:49:20][upload_file][192.168.200.110]send file finished
+[2019-03-14 10:49:20][start_upgrade_by_tgzs:81]Upload Finshed,Sleep(80)
+[2019-03-14 10:49:20][get_update_progressbar] 0
+[2019-03-14 10:49:22][get_update_progressbar] 3
+[2019-03-14 10:49:24][get_update_progressbar] 13
+[2019-03-14 10:49:26][get_update_progressbar] 13
+[2019-03-14 10:49:28][get_update_progressbar] 28
+[2019-03-14 10:49:30][get_update_progressbar] 32
+[2019-03-14 10:49:32][get_update_progressbar] 100
+[2019-03-14 10:50:53][Continuous_send_request]No Answer,Sleep(10)
+[2019-03-14 10:51:03][start_upgrade_by_tgzs]Upgrade Success!It Takes 90 Seconds!
+[2019-03-14 10:51:03][start_upgrade_by_tgzs]The Version Is T1.281.1733-20190313-HDXGP2P-GEN
+[2019-03-14 10:51:03][start_upgrade_by_tgzs]sleep(30)
+[2019-03-14 10:51:33][start_upgrade_by_tgzs:79]NO.2--3.13-T-SSC325.base.HDXGP2P.gen.zh.201903131.IPC2.H29_H281.tgz
+[2019-03-14 10:51:33][upload_file][192.168.200.110]IS ON-LINE!
+[2019-03-14 10:51:33][upload_file][192.168.200.110]send file now
+[2019-03-14 10:51:33][upload_file][192.168.200.110]send file finished
+[2019-03-14 10:51:33][start_upgrade_by_tgzs:81]Upload Finshed,Sleep(80)
+[2019-03-14 10:51:33][get_update_progressbar] 0
+[2019-03-14 10:51:35][get_update_progressbar] 3
+[2019-03-14 10:51:37][get_update_progressbar] 3
+[2019-03-14 10:51:39][get_update_progressbar] 13
+[2019-03-14 10:51:41][get_update_progressbar] 32
+[2019-03-14 10:51:43][get_update_progressbar] 36
+[2019-03-14 10:51:45][get_update_progressbar] 100

@@ -1,0 +1,14 @@
+[2019-03-11 22:17:29]|***********************START************************|
+[2019-03-11 22:17:29]SLEEPTIME IS 2000000
+[2019-03-11 22:17:29]SEND IP ADDRESS:192.168.200.50
+[2019-03-11 22:17:29]MODEL IS [i]
+[2019-03-11 22:17:29]|********************Testing Now!********************|
+[2019-03-11 22:17:29][send_curl]http://192.168.200.50/?jcpcmd=ircfg%20-act%20set%20-irswitchmode%201%20-turnonlux%20100
+[2019-03-11 22:17:29][send_curl]NO.1---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-03-11 22:17:31][send_curl]http://192.168.200.50/?jcpcmd=ircfg%20-act%20set%20-irswitchmode%201%20-turnonlux%201
+[2019-03-11 22:17:31][send_curl]NO.2---szJcpResult="[Success];";
+
+[2019-03-11 22:17:33][send_curl]http://192.168.200.50/?jcpcmd=ircfg%20-act%20set%20-irswitchmode%201%20-turnonlux%20100
+[2019-03-11 22:17:33][send_curl]NO.3---szJcpResult="[Success];";
+

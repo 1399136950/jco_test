@@ -1,0 +1,14 @@
+[2019-10-31 16:24:33]|***********************START************************|
+[2019-10-31 16:24:33]SLEEPTIME IS 2000000
+[2019-10-31 16:24:33]SEND IP ADDRESS:192.168.201.111
+[2019-10-31 16:24:33]MODEL IS [r]
+[2019-10-31 16:24:33]|********************Testing Now!********************|
+[2019-10-31 16:24:33][send_curl]http://192.168.201.111/?jcpcmd=vicfg%20-act%20set%20-reverse%203
+[2019-10-31 16:24:35][send_curl]http://192.168.201.111/?jcpcmd=vicfg%20-act%20set%20-reverse%202
+[2019-10-31 16:24:37][send_curl]http://192.168.201.111/?jcpcmd=vicfg%20-act%20set%20-reverse%203
+[2019-10-31 16:24:40][send_curl]http://192.168.201.111/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-10-31 16:24:42][send_curl]http://192.168.201.111/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-10-31 16:24:44][send_curl]http://192.168.201.111/?jcpcmd=vicfg%20-act%20set%20-reverse%203
+[2019-10-31 16:24:46][send_curl]http://192.168.201.111/?jcpcmd=vicfg%20-act%20set%20-reverse%202
+[2019-10-31 16:24:48][send_curl]http://192.168.201.111/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-10-31 16:24:50][send_curl]http://192.168.201.111/?jcpcmd=vicfg%20-act%20set%20-reverse%203

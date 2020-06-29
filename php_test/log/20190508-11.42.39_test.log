@@ -1,0 +1,45 @@
+[2019-05-08 11:42:39]|***********************START************************|
+[2019-05-08 11:42:39]SLEEPTIME IS 2000000
+[2019-05-08 11:42:39]SEND IP ADDRESS:192.168.13.114
+[2019-05-08 11:42:39]MODEL IS [o]
+[2019-05-08 11:42:39]|********************Testing Now!********************|
+[2019-05-08 11:42:39][send_curl]http://192.168.13.114/?jcpcmd=osdcfg%20-act%20set%20-nameen%200%20-nameleft%20790%20-nametop%2046%20-name%20测试专用阗泗鑫会计师泾鄯%20-timeen%201%20-timeleft%201365%20-timetop%20695
+[2019-05-08 11:42:41][send_curl]http://192.168.13.114/?jcpcmd=osdcfg%20-act%20set%20-nameen%200%20-nameleft%2059%20-nametop%20640%20-name%20测试专用阗泗鑫会计师泾鄯%20-timeen%201%20-timeleft%20802%20-timetop%20942
+[2019-05-08 11:42:44][send_curl]http://192.168.13.114/?jcpcmd=osdcfg%20-act%20set%20-nameen%200%20-nameleft%201191%20-nametop%20751%20-name%20测试专用阗泗鑫会计师泾鄯%20-timeen%201%20-timeleft%201639%20-timetop%20930
+[2019-05-08 11:42:46][send_curl]http://192.168.13.114/?jcpcmd=osdcfg%20-act%20set%20-nameen%200%20-nameleft%20259%20-nametop%20277%20-name%20测试专用阗泗鑫会计师泾鄯%20-timeen%201%20-timeleft%20962%20-timetop%201078
+[2019-05-08 11:42:48][send_curl]http://192.168.13.114/?jcpcmd=osdcfg%20-act%20set%20-nameen%201%20-nameleft%201662%20-nametop%20636%20-name%20测试专用阗泗鑫会计师泾鄯%20-timeen%201%20-timeleft%201571%20-timetop%20974
+[2019-05-08 11:42:50][send_curl]http://192.168.13.114/?jcpcmd=osdcfg%20-act%20set%20-nameen%201%20-nameleft%20909%20-nametop%20718%20-name%20测试专用阗泗鑫会计师泾鄯%20-timeen%201%20-timeleft%201369%20-timetop%20400
+[2019-05-08 11:42:52][send_curl]http://192.168.13.114/?jcpcmd=osdcfg%20-act%20set%20-nameen%201%20-nameleft%20725%20-nametop%20914%20-name%20测试专用阗泗鑫会计师泾鄯%20-timeen%201%20-timeleft%201183%20-timetop%2047
+[2019-05-08 11:42:54][send_curl]http://192.168.13.114/?jcpcmd=osdcfg%20-act%20set%20-nameen%201%20-nameleft%20200%20-nametop%20219%20-name%20测试专用阗泗鑫会计师泾鄯%20-timeen%201%20-timeleft%201475%20-timetop%20983
+[2019-05-08 11:42:56][send_curl]http://192.168.13.114/?jcpcmd=osdcfg%20-act%20set%20-nameen%200%20-nameleft%201405%20-nametop%2059%20-name%20测试专用阗泗鑫会计师泾鄯%20-timeen%201%20-timeleft%201639%20-timetop%20305
+[2019-05-08 11:42:58][send_curl]http://192.168.13.114/?jcpcmd=osdcfg%20-act%20set%20-nameen%201%20-nameleft%20105%20-nametop%20921%20-name%20测试专用阗泗鑫会计师泾鄯%20-timeen%201%20-timeleft%201152%20-timetop%20405
+[2019-05-08 11:43:00][send_curl]http://192.168.13.114/?jcpcmd=osdcfg%20-act%20set%20-nameen%201%20-nameleft%201142%20-nametop%2027%20-name%20测试专用阗泗鑫会计师泾鄯%20-timeen%201%20-timeleft%20918%20-timetop%2090
+[2019-05-08 11:43:02][send_curl]http://192.168.13.114/?jcpcmd=osdcfg%20-act%20set%20-nameen%201%20-nameleft%20137%20-nametop%201011%20-name%20测试专用阗泗鑫会计师泾鄯%20-timeen%201%20-timeleft%20213%20-timetop%20134
+[2019-05-08 11:43:04][send_curl]http://192.168.13.114/?jcpcmd=osdcfg%20-act%20set%20-nameen%200%20-nameleft%20919%20-nametop%20578%20-name%20测试专用阗泗鑫会计师泾鄯%20-timeen%201%20-timeleft%201027%20-timetop%20141
+[2019-05-08 11:43:06][send_curl]http://192.168.13.114/?jcpcmd=osdcfg%20-act%20set%20-nameen%201%20-nameleft%20708%20-nametop%20944%20-name%20测试专用阗泗鑫会计师泾鄯%20-timeen%201%20-timeleft%201772%20-timetop%20924
+[2019-05-08 11:43:08][send_curl]http://192.168.13.114/?jcpcmd=osdcfg%20-act%20set%20-nameen%201%20-nameleft%20939%20-nametop%2085%20-name%20测试专用阗泗鑫会计师泾鄯%20-timeen%201%20-timeleft%201746%20-timetop%2081
+[2019-05-08 11:43:10][send_curl]http://192.168.13.114/?jcpcmd=osdcfg%20-act%20set%20-nameen%200%20-nameleft%20730%20-nametop%201000%20-name%20测试专用阗泗鑫会计师泾鄯%20-timeen%201%20-timeleft%20239%20-timetop%20389
+[2019-05-08 11:43:12][send_curl]http://192.168.13.114/?jcpcmd=osdcfg%20-act%20set%20-nameen%201%20-nameleft%20144%20-nametop%20672%20-name%20测试专用阗泗鑫会计师泾鄯%20-timeen%201%20-timeleft%20156%20-timetop%20312
+[2019-05-08 11:43:14][send_curl]http://192.168.13.114/?jcpcmd=osdcfg%20-act%20set%20-nameen%200%20-nameleft%20977%20-nametop%201024%20-name%20测试专用阗泗鑫会计师泾鄯%20-timeen%201%20-timeleft%2047%20-timetop%20300
+[2019-05-08 11:43:16][send_curl]http://192.168.13.114/?jcpcmd=osdcfg%20-act%20set%20-nameen%201%20-nameleft%201498%20-nametop%20376%20-name%20测试专用阗泗鑫会计师泾鄯%20-timeen%201%20-timeleft%201683%20-timetop%20661
+[2019-05-08 11:43:18][send_curl]http://192.168.13.114/?jcpcmd=osdcfg%20-act%20set%20-nameen%201%20-nameleft%201680%20-nametop%20150%20-name%20测试专用阗泗鑫会计师泾鄯%20-timeen%201%20-timeleft%201731%20-timetop%20904
+[2019-05-08 11:43:20][send_curl]http://192.168.13.114/?jcpcmd=osdcfg%20-act%20set%20-nameen%200%20-nameleft%201901%20-nametop%20443%20-name%20测试专用阗泗鑫会计师泾鄯%20-timeen%201%20-timeleft%20407%20-timetop%20110
+[2019-05-08 11:43:22][send_curl]http://192.168.13.114/?jcpcmd=osdcfg%20-act%20set%20-nameen%200%20-nameleft%20132%20-nametop%20857%20-name%20测试专用阗泗鑫会计师泾鄯%20-timeen%201%20-timeleft%201440%20-timetop%20662
+[2019-05-08 11:43:24][send_curl]http://192.168.13.114/?jcpcmd=osdcfg%20-act%20set%20-nameen%200%20-nameleft%201317%20-nametop%20734%20-name%20测试专用阗泗鑫会计师泾鄯%20-timeen%201%20-timeleft%201633%20-timetop%20851
+[2019-05-08 11:43:26][send_curl]http://192.168.13.114/?jcpcmd=osdcfg%20-act%20set%20-nameen%201%20-nameleft%201726%20-nametop%2049%20-name%20测试专用阗泗鑫会计师泾鄯%20-timeen%201%20-timeleft%2067%20-timetop%20294
+[2019-05-08 11:43:28][send_curl]http://192.168.13.114/?jcpcmd=osdcfg%20-act%20set%20-nameen%200%20-nameleft%20368%20-nametop%20534%20-name%20测试专用阗泗鑫会计师泾鄯%20-timeen%201%20-timeleft%20279%20-timetop%20446
+[2019-05-08 11:43:30][send_curl]http://192.168.13.114/?jcpcmd=osdcfg%20-act%20set%20-nameen%201%20-nameleft%20273%20-nametop%20679%20-name%20测试专用阗泗鑫会计师泾鄯%20-timeen%201%20-timeleft%20848%20-timetop%20354
+[2019-05-08 11:43:32][send_curl]http://192.168.13.114/?jcpcmd=osdcfg%20-act%20set%20-nameen%200%20-nameleft%201779%20-nametop%20447%20-name%20测试专用阗泗鑫会计师泾鄯%20-timeen%201%20-timeleft%201533%20-timetop%20210
+[2019-05-08 11:43:34][send_curl]http://192.168.13.114/?jcpcmd=osdcfg%20-act%20set%20-nameen%201%20-nameleft%20567%20-nametop%20665%20-name%20测试专用阗泗鑫会计师泾鄯%20-timeen%201%20-timeleft%201192%20-timetop%20957
+[2019-05-08 11:43:36][send_curl]http://192.168.13.114/?jcpcmd=osdcfg%20-act%20set%20-nameen%201%20-nameleft%20287%20-nametop%201044%20-name%20测试专用阗泗鑫会计师泾鄯%20-timeen%201%20-timeleft%201153%20-timetop%20611
+[2019-05-08 11:43:38][send_curl]http://192.168.13.114/?jcpcmd=osdcfg%20-act%20set%20-nameen%201%20-nameleft%20621%20-nametop%20187%20-name%20测试专用阗泗鑫会计师泾鄯%20-timeen%201%20-timeleft%201813%20-timetop%20425
+[2019-05-08 11:43:40][send_curl]http://192.168.13.114/?jcpcmd=osdcfg%20-act%20set%20-nameen%201%20-nameleft%201381%20-nametop%20428%20-name%20测试专用阗泗鑫会计师泾鄯%20-timeen%201%20-timeleft%20364%20-timetop%201003
+[2019-05-08 11:43:42][send_curl]http://192.168.13.114/?jcpcmd=osdcfg%20-act%20set%20-nameen%200%20-nameleft%20786%20-nametop%20340%20-name%20测试专用阗泗鑫会计师泾鄯%20-timeen%201%20-timeleft%20481%20-timetop%20427
+[2019-05-08 11:43:44][send_curl]http://192.168.13.114/?jcpcmd=osdcfg%20-act%20set%20-nameen%200%20-nameleft%201599%20-nametop%20454%20-name%20测试专用阗泗鑫会计师泾鄯%20-timeen%201%20-timeleft%201528%20-timetop%20437
+[2019-05-08 11:43:46][send_curl]http://192.168.13.114/?jcpcmd=osdcfg%20-act%20set%20-nameen%201%20-nameleft%201355%20-nametop%20698%20-name%20测试专用阗泗鑫会计师泾鄯%20-timeen%201%20-timeleft%201153%20-timetop%20299
+[2019-05-08 11:43:48][send_curl]http://192.168.13.114/?jcpcmd=osdcfg%20-act%20set%20-nameen%201%20-nameleft%201504%20-nametop%201049%20-name%20测试专用阗泗鑫会计师泾鄯%20-timeen%201%20-timeleft%201908%20-timetop%20629
+[2019-05-08 11:43:50][send_curl]http://192.168.13.114/?jcpcmd=osdcfg%20-act%20set%20-nameen%200%20-nameleft%20160%20-nametop%20124%20-name%20测试专用阗泗鑫会计师泾鄯%20-timeen%201%20-timeleft%2038%20-timetop%2021
+[2019-05-08 11:43:52][send_curl]http://192.168.13.114/?jcpcmd=osdcfg%20-act%20set%20-nameen%201%20-nameleft%201360%20-nametop%201028%20-name%20测试专用阗泗鑫会计师泾鄯%20-timeen%201%20-timeleft%20864%20-timetop%20293
+[2019-05-08 11:43:54][send_curl]http://192.168.13.114/?jcpcmd=osdcfg%20-act%20set%20-nameen%200%20-nameleft%201695%20-nametop%20827%20-name%20测试专用阗泗鑫会计师泾鄯%20-timeen%201%20-timeleft%20490%20-timetop%201024
+[2019-05-08 11:43:56][send_curl]http://192.168.13.114/?jcpcmd=osdcfg%20-act%20set%20-nameen%200%20-nameleft%20648%20-nametop%201060%20-name%20测试专用阗泗鑫会计师泾鄯%20-timeen%201%20-timeleft%201301%20-timetop%20270
+[2019-05-08 11:43:58][send_curl]http://192.168.13.114/?jcpcmd=osdcfg%20-act%20set%20-nameen%201%20-nameleft%201271%20-nametop%20522%20-name%20测试专用阗泗鑫会计师泾鄯%20-timeen%201%20-timeleft%201001%20-timetop%20517

@@ -1,0 +1,25 @@
+[2020-04-21 13:46:46]|***********************START************************|
+[2020-04-21 13:46:46]SLEEPTIME IS 10000000
+[2020-04-21 13:46:46]SEND IP ADDRESS:192.168.22.203
+[2020-04-21 13:46:46]MODEL IS [light1]
+[2020-04-21 13:46:46]|********************Testing Now!********************|
+[2020-04-21 13:46:46][send_curl]http://192.168.22.203/?jcpcmd=lightcfg%20-act%20set%20-openlightlux%201
+[2020-04-21 13:46:56][send_curl]http://192.168.22.203/?jcpcmd=lightcfg%20-act%20set%20-openlightlux%20100
+[2020-04-21 13:47:06][send_curl]http://192.168.22.203/?jcpcmd=lightcfg%20-act%20set%20-openlightlux%201
+[2020-04-21 13:47:16][send_curl]http://192.168.22.203/?jcpcmd=lightcfg%20-act%20set%20-openlightlux%20100
+[2020-04-21 13:47:26][send_curl]http://192.168.22.203/?jcpcmd=lightcfg%20-act%20set%20-openlightlux%201
+[2020-04-21 13:47:36][send_curl]http://192.168.22.203/?jcpcmd=lightcfg%20-act%20set%20-openlightlux%20100
+[2020-04-21 13:47:46][send_curl]http://192.168.22.203/?jcpcmd=lightcfg%20-act%20set%20-openlightlux%201
+[2020-04-21 13:47:56][send_curl]http://192.168.22.203/?jcpcmd=lightcfg%20-act%20set%20-openlightlux%20100
+[2020-04-21 13:48:06][send_curl]http://192.168.22.203/?jcpcmd=lightcfg%20-act%20set%20-openlightlux%201
+[2020-04-21 13:48:16][send_curl]http://192.168.22.203/?jcpcmd=lightcfg%20-act%20set%20-openlightlux%20100
+[2020-04-21 13:48:26][send_curl]http://192.168.22.203/?jcpcmd=lightcfg%20-act%20set%20-openlightlux%201
+[2020-04-21 13:48:36][send_curl]http://192.168.22.203/?jcpcmd=lightcfg%20-act%20set%20-openlightlux%20100
+[2020-04-21 13:48:46][send_curl]http://192.168.22.203/?jcpcmd=lightcfg%20-act%20set%20-openlightlux%201
+[2020-04-21 13:48:56][send_curl]http://192.168.22.203/?jcpcmd=lightcfg%20-act%20set%20-openlightlux%20100
+[2020-04-21 13:49:06][send_curl]http://192.168.22.203/?jcpcmd=lightcfg%20-act%20set%20-openlightlux%201
+[2020-04-21 13:49:16][send_curl]http://192.168.22.203/?jcpcmd=lightcfg%20-act%20set%20-openlightlux%20100
+[2020-04-21 13:49:26][send_curl]http://192.168.22.203/?jcpcmd=lightcfg%20-act%20set%20-openlightlux%201
+[2020-04-21 13:49:36][send_curl]http://192.168.22.203/?jcpcmd=lightcfg%20-act%20set%20-openlightlux%20100
+[2020-04-21 13:49:46][send_curl]http://192.168.22.203/?jcpcmd=lightcfg%20-act%20set%20-openlightlux%201
+[2020-04-21 13:49:56][send_curl]http://192.168.22.203/?jcpcmd=lightcfg%20-act%20set%20-openlightlux%20100

@@ -1,0 +1,19 @@
+[2019-06-15 14:42:11]|***********************START************************|
+[2019-06-15 14:42:11]SLEEPTIME IS 1000000
+[2019-06-15 14:42:11]SEND IP ADDRESS:192.168.120.185:554
+[2019-06-15 14:42:11]MODEL IS [y]
+[2019-06-15 14:42:11]|********************Testing Now!********************|
+[2019-06-15 14:42:11][send_curl]http://192.168.120.185:554/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-06-15 14:42:12][send_curl]http://192.168.120.185:554/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-06-15 14:42:13][send_curl]http://192.168.120.185:554/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-06-15 14:42:14][send_curl]http://192.168.120.185:554/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-06-15 14:42:15][send_curl]http://192.168.120.185:554/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-06-15 14:42:16][send_curl]http://192.168.120.185:554/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-06-15 14:42:17][send_curl]http://192.168.120.185:554/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-06-15 14:42:18][send_curl]http://192.168.120.185:554/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-06-15 14:42:19][send_curl]http://192.168.120.185:554/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-06-15 14:42:20][send_curl]http://192.168.120.185:554/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-06-15 14:42:21][send_curl]http://192.168.120.185:554/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-06-15 14:42:22][send_curl]http://192.168.120.185:554/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-06-15 14:42:26][send_curl]http://192.168.120.185:554/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-06-15 14:42:28][send_curl]http://192.168.120.185:554/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201

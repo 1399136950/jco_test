@@ -1,0 +1,188 @@
+[2019-02-28 09:07:20]|***********************START************************|
+[2019-02-28 09:07:20]SLEEPTIME IS 1000000
+[2019-02-28 09:07:20]SEND IP ADDRESS:192.168.183.89
+[2019-02-28 09:07:20]MODEL IS [ircut]
+[2019-02-28 09:07:20]|********************Testing Now!********************|
+[2019-02-28 09:07:20][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-02-28 09:07:20][send_curl]NO.1---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-28 09:07:21][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-02-28 09:07:21][send_curl]NO.2---szJcpResult="[Success];";
+
+[2019-02-28 09:07:22][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-02-28 09:07:22][send_curl]NO.3---szJcpResult="[Success];";
+
+[2019-02-28 09:07:23][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-02-28 09:07:23][send_curl]NO.4---szJcpResult="[Success];";
+
+[2019-02-28 09:07:24][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-02-28 09:07:24][send_curl]NO.5---szJcpResult="[Success];";
+
+[2019-02-28 09:07:25][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-02-28 09:07:25][send_curl]NO.6---szJcpResult="[Success];";
+
+[2019-02-28 09:07:26][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-02-28 09:07:26][send_curl]NO.7---szJcpResult="[Success];";
+
+[2019-02-28 09:07:27][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-02-28 09:07:27][send_curl]NO.8---szJcpResult="[Success];";
+
+[2019-02-28 09:07:28][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-02-28 09:07:28][send_curl]NO.9---szJcpResult="[Success];";
+
+[2019-02-28 09:07:29][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-02-28 09:07:29][send_curl]NO.10---szJcpResult="[Success];";
+
+[2019-02-28 09:07:30][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-02-28 09:07:30][send_curl]NO.11---szJcpResult="[Success];";
+
+[2019-02-28 09:07:31][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-02-28 09:07:31][send_curl]NO.12---szJcpResult="[Success];";
+
+[2019-02-28 09:07:32][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-02-28 09:07:32][send_curl]NO.13---szJcpResult="[Success];";
+
+[2019-02-28 09:07:33][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-02-28 09:07:33][send_curl]NO.14---szJcpResult="[Success];";
+
+[2019-02-28 09:07:34][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-02-28 09:07:34][send_curl]NO.15---szJcpResult="[Success];";
+
+[2019-02-28 09:07:35][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-02-28 09:07:35][send_curl]NO.16---szJcpResult="[Success];";
+
+[2019-02-28 09:07:36][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-02-28 09:07:36][send_curl]NO.17---szJcpResult="[Success];";
+
+[2019-02-28 09:07:37][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-02-28 09:07:37][send_curl]NO.18---szJcpResult="[Success];";
+
+[2019-02-28 09:07:38][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-02-28 09:07:38][send_curl]NO.19---szJcpResult="[Success];";
+
+[2019-02-28 09:07:39][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-02-28 09:07:39][send_curl]NO.20---szJcpResult="[Success];";
+
+[2019-02-28 09:07:40][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-02-28 09:07:40][send_curl]NO.21---szJcpResult="[Success];";
+
+[2019-02-28 09:07:41][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-02-28 09:07:41][send_curl]NO.22---szJcpResult="[Success];";
+
+[2019-02-28 09:07:42][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-02-28 09:07:42][send_curl]NO.23---szJcpResult="[Success];";
+
+[2019-02-28 09:07:43][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-02-28 09:07:43][send_curl]NO.24---szJcpResult="[Success];";
+
+[2019-02-28 09:07:44][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-02-28 09:07:44][send_curl]NO.25---szJcpResult="[Success];";
+
+[2019-02-28 09:07:45][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-02-28 09:07:45][send_curl]NO.26---szJcpResult="[Success];";
+
+[2019-02-28 09:07:47][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-02-28 09:07:47][send_curl]NO.27---szJcpResult="[Success];";
+
+[2019-02-28 09:07:48][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-02-28 09:07:48][send_curl]NO.28---szJcpResult="[Success];";
+
+[2019-02-28 09:07:49][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-02-28 09:07:49][send_curl]NO.29---szJcpResult="[Success];";
+
+[2019-02-28 09:07:50][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-02-28 09:07:50][send_curl]NO.30---szJcpResult="[Success];";
+
+[2019-02-28 09:07:51][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-02-28 09:07:51][send_curl]NO.31---szJcpResult="[Success];";
+
+[2019-02-28 09:07:52][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-02-28 09:07:52][send_curl]NO.32---szJcpResult="[Success];";
+
+[2019-02-28 09:07:53][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-02-28 09:07:53][send_curl]NO.33---szJcpResult="[Success];";
+
+[2019-02-28 09:07:54][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-02-28 09:07:54][send_curl]NO.34---szJcpResult="[Success];";
+
+[2019-02-28 09:07:55][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-02-28 09:07:55][send_curl]NO.35---szJcpResult="[Success];";
+
+[2019-02-28 09:07:56][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-02-28 09:07:56][send_curl]NO.36---szJcpResult="[Success];";
+
+[2019-02-28 09:07:57][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-02-28 09:07:57][send_curl]NO.37---szJcpResult="[Success];";
+
+[2019-02-28 09:07:58][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-02-28 09:07:58][send_curl]NO.38---szJcpResult="[Success];";
+
+[2019-02-28 09:07:59][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-02-28 09:07:59][send_curl]NO.39---szJcpResult="[Success];";
+
+[2019-02-28 09:08:00][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-02-28 09:08:00][send_curl]NO.40---szJcpResult="[Success];";
+
+[2019-02-28 09:08:01][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-02-28 09:08:01][send_curl]NO.41---szJcpResult="[Success];";
+
+[2019-02-28 09:08:02][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-02-28 09:08:02][send_curl]NO.42---szJcpResult="[Success];";
+
+[2019-02-28 09:08:03][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-02-28 09:08:03][send_curl]NO.43---szJcpResult="[Success];";
+
+[2019-02-28 09:08:04][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-02-28 09:08:04][send_curl]NO.44---szJcpResult="[Success];";
+
+[2019-02-28 09:08:05][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-02-28 09:08:05][send_curl]NO.45---szJcpResult="[Success];";
+
+[2019-02-28 09:08:06][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-02-28 09:08:06][send_curl]NO.46---szJcpResult="[Success];";
+
+[2019-02-28 09:08:07][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-02-28 09:08:07][send_curl]NO.47---szJcpResult="[Success];";
+
+[2019-02-28 09:08:08][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-02-28 09:08:08][send_curl]NO.48---szJcpResult="[Success];";
+
+[2019-02-28 09:08:09][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-02-28 09:08:09][send_curl]NO.49---szJcpResult="[Success];";
+
+[2019-02-28 09:08:10][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-02-28 09:08:10][send_curl]NO.50---szJcpResult="[Success];";
+
+[2019-02-28 09:08:11][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-02-28 09:08:11][send_curl]NO.51---szJcpResult="[Success];";
+
+[2019-02-28 09:08:12][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-02-28 09:08:12][send_curl]NO.52---szJcpResult="[Success];";
+
+[2019-02-28 09:08:13][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-02-28 09:08:13][send_curl]NO.53---szJcpResult="[Success];";
+
+[2019-02-28 09:08:14][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-02-28 09:08:14][send_curl]NO.54---szJcpResult="[Success];";
+
+[2019-02-28 09:08:15][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-02-28 09:08:15][send_curl]NO.55---szJcpResult="[Success];";
+
+[2019-02-28 09:08:16][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-02-28 09:08:16][send_curl]NO.56---szJcpResult="[Success];";
+
+[2019-02-28 09:08:17][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-02-28 09:08:17][send_curl]NO.57---szJcpResult="[Success];";
+
+[2019-02-28 09:08:18][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-02-28 09:08:18][send_curl]NO.58---szJcpResult="[Success];";
+
+[2019-02-28 09:08:19][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-02-28 09:08:19][send_curl]NO.59---szJcpResult="[Success];";
+
+[2019-02-28 09:08:20][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2019-02-28 09:08:20][send_curl]NO.60---szJcpResult="[Success];";
+
+[2019-02-28 09:08:21][send_curl]http://192.168.183.89/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2019-02-28 09:08:21][send_curl]NO.61---szJcpResult="[Success];";
+

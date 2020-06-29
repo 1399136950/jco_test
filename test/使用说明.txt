@@ -1,0 +1,3 @@
+`upgrade_file`目录为存放升级包目录
+在脚本的目录下,按住Shift键然后再点击鼠标右键,选择`在此处打开命令窗口`
+输入 `python comparison_image_effect.py`,提示输入IP地址，开始升级

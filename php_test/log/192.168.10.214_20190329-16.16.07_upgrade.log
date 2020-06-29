@@ -1,0 +1,331 @@
+cat /opt/log/upgrade.log
+UPGRADE updateExt.sh exec begin@Thu Mar 21 19:15:57 UTC 2019
+UPGRADE updateExt.sh mv begin@Thu Mar 21 19:15:58 UTC 2019
+    |              UPGRADE SUCCESSFUL, ENJOY IT!                |
+UPGRADE updateExt.sh mv _end_@Thu Mar 21 19:15:59 UTC 2019
+UPGRADE updateExt.sh exec _end_@Thu Mar 21 19:16:00 UTC 2019
+UPGRADE updateExt.sh exec begin@Thu Mar 21 20:39:46 UTC 2019
+UPGRADE updateExt.sh mv begin@Thu Mar 21 20:39:46 UTC 2019
+    |              UPGRADE SUCCESSFUL, ENJOY IT!                |
+UPGRADE updateExt.sh mv _end_@Thu Mar 21 20:39:47 UTC 2019
+UPGRADE updateExt.sh exec _end_@Thu Mar 21 20:39:48 UTC 2019
+UPGRADE updateExt.sh exec begin@Sat Mar 23 19:51:01 UTC 2019
+UPGRADE updateExt.sh mv begin@Sat Mar 23 19:51:01 UTC 2019
+    |              UPGRADE SUCCESSFUL, ENJOY IT!                |
+UPGRADE updateExt.sh mv _end_@Sat Mar 23 19:51:02 UTC 2019
+UPGRADE updateExt.sh exec _end_@Sat Mar 23 19:51:03 UTC 2019
+UPGRADE updateExt.sh exec begin@Sat Mar 23 20:10:47 UTC 2019
+UPGRADE updateExt.sh mv begin@Sat Mar 23 20:10:48 UTC 2019
+    |              UPGRADE SUCCESSFUL, ENJOY IT!                |
+UPGRADE updateExt.sh mv _end_@Sat Mar 23 20:10:49 UTC 2019
+UPGRADE updateExt.sh exec _end_@Sat Mar 23 20:10:50 UTC 2019
+UPGRADE updateExt.sh exec begin@Tue Mar 26 15:38:45 UTC 2019
+UPGRADE updateExt.sh mv begin@Tue Mar 26 15:38:46 UTC 2019
+    |              UPGRADE SUCCESSFUL, ENJOY IT!                |
+UPGRADE updateExt.sh mv _end_@Tue Mar 26 15:38:47 UTC 2019
+UPGRADE updateExt.sh exec _end_@Tue Mar 26 15:38:48 UTC 2019
+UPGRADE updateExt.sh exec begin@Wed Mar 27 17:49:49 UTC 2019
+UPGRADE updateExt.sh mv begin@Wed Mar 27 17:49:49 UTC 2019
+    |              UPGRADE SUCCESSFUL, ENJOY IT!                |
+UPGRADE updateExt.sh mv _end_@Wed Mar 27 17:49:51 UTC 2019
+UPGRADE updateExt.sh exec _end_@Wed Mar 27 17:49:51 UTC 2019
+UPGRADE updateExt.sh exec begin@Fri Mar 29 11:19:49 UTC 2019
+UPGRADE updateExt.sh mv begin@Fri Mar 29 11:19:49 UTC 2019
+    |              UPGRADE SUCCESSFUL, ENJOY IT!                |
+UPGRADE updateExt.sh mv _end_@Fri Mar 29 11:19:51 UTC 2019
+UPGRADE updateExt.sh exec _end_@Fri Mar 29 11:19:52 UTC 2019
+UPGRADE updateExt.sh exec begin@Fri Mar 29 11:22:29 UTC 2019
+UPGRADE updateExt.sh mv begin@Fri Mar 29 11:22:30 UTC 2019
+    |              UPGRADE SUCCESSFUL, ENJOY IT!                |
+UPGRADE updateExt.sh mv _end_@Fri Mar 29 11:22:31 UTC 2019
+UPGRADE updateExt.sh exec _end_@Fri Mar 29 11:22:32 UTC 2019
+UPGRADE updateExt.sh exec begin@Fri Mar 29 11:24:46 UTC 2019
+UPGRADE updateExt.sh mv begin@Fri Mar 29 11:24:47 UTC 2019
+    |              UPGRADE SUCCESSFUL, ENJOY IT!                |
+UPGRADE updateExt.sh mv _end_@Fri Mar 29 11:24:48 UTC 2019
+UPGRADE updateExt.sh exec _end_@Fri Mar 29 11:24:48 UTC 2019
+UPGRADE updateExt.sh exec begin@Fri Mar 29 15:17:31 UTC 2019
+UPGRADE updateExt.sh mv begin@Fri Mar 29 15:17:32 UTC 2019
+    |              UPGRADE SUCCESSFUL, ENJOY IT!                |
+UPGRADE updateExt.sh mv _end_@Fri Mar 29 15:17:33 UTC 2019
+UPGRADE updateExt.sh exec _end_@Fri Mar 29 15:17:34 UTC 2019
+UPGRADE updateExt.sh exec begin@Fri Mar 29 15:28:11 UTC 2019
+UPGRADE updateExt.sh mv begin@Fri Mar 29 15:28:13 UTC 2019
+    |              UPGRADE SUCCESSFUL, ENJOY IT!                |
+UPGRADE updateExt.sh mv _end_@Fri Mar 29 15:28:14 UTC 2019
+UPGRADE updateExt.sh exec _end_@Fri Mar 29 15:28:15 UTC 2019
+UPGRADE updateExt.sh exec begin@Fri Mar 29 15:30:27 UTC 2019
+UPGRADE updateExt.sh mv begin@Fri Mar 29 15:30:28 UTC 2019
+    |              UPGRADE SUCCESSFUL, ENJOY IT!                |
+UPGRADE updateExt.sh mv _end_@Fri Mar 29 15:30:29 UTC 2019
+UPGRADE updateExt.sh exec _end_@Fri Mar 29 15:30:30 UTC 2019
+UPGRADE updateExt.sh exec begin@Fri Mar 29 15:32:43 UTC 2019
+UPGRADE updateExt.sh mv begin@Fri Mar 29 15:32:44 UTC 2019
+    |              UPGRADE SUCCESSFUL, ENJOY IT!                |
+UPGRADE updateExt.sh mv _end_@Fri Mar 29 15:32:46 UTC 2019
+UPGRADE updateExt.sh exec _end_@Fri Mar 29 15:32:46 UTC 2019
+UPGRADE updateExt.sh exec begin@Fri Mar 29 15:35:05 UTC 2019
+UPGRADE updateExt.sh mv begin@Fri Mar 29 15:35:06 UTC 2019
+    |              UPGRADE SUCCESSFUL, ENJOY IT!                |
+UPGRADE updateExt.sh mv _end_@Fri Mar 29 15:35:07 UTC 2019
+UPGRADE updateExt.sh exec _end_@Fri Mar 29 15:35:08 UTC 2019
+UPGRADE updateExt.sh exec begin@Fri Mar 29 15:53:40 UTC 2019
+UPGRADE updateExt.sh mv begin@Fri Mar 29 15:53:41 UTC 2019
+    |              UPGRADE SUCCESSFUL, ENJOY IT!                |
+UPGRADE updateExt.sh mv _end_@Fri Mar 29 15:53:42 UTC 2019
+UPGRADE updateExt.sh exec _end_@Fri Mar 29 15:53:43 UTC 2019
+UPGRADE updateExt.sh exec begin@Fri Mar 29 15:54:54 UTC 2019
+UPGRADE updateExt.sh mv begin@Fri Mar 29 15:54:55 UTC 2019
+    |              UPGRADE SUCCESSFUL, ENJOY IT!                |
+UPGRADE updateExt.sh mv _end_@Fri Mar 29 15:54:56 UTC 2019
+UPGRADE updateExt.sh exec _end_@Fri Mar 29 15:54:57 UTC 2019
+UPGRADE updateExt.sh exec begin@Fri Mar 29 15:57:15 UTC 2019
+UPGRADE updateExt.sh mv begin@Fri Mar 29 15:57:16 UTC 2019
+    |              UPGRADE SUCCESSFUL, ENJOY IT!                |
+UPGRADE updateExt.sh mv _end_@Fri Mar 29 15:57:18 UTC 2019
+UPGRADE updateExt.sh exec _end_@Fri Mar 29 15:57:18 UTC 2019
+UPGRADE updateExt.sh exec begin@Fri Mar 29 15:59:36 UTC 2019
+UPGRADE updateExt.sh mv begin@Fri Mar 29 15:59:37 UTC 2019
+    |              UPGRADE SUCCESSFUL, ENJOY IT!                |
+UPGRADE updateExt.sh mv _end_@Fri Mar 29 15:59:38 UTC 2019
+UPGRADE updateExt.sh exec _end_@Fri Mar 29 15:59:39 UTC 2019
+UPGRADE updateExt.sh exec begin@Fri Mar 29 16:03:00 UTC 2019
+UPGRADE updateExt.sh mv begin@Fri Mar 29 16:03:01 UTC 2019
+    |              UPGRADE SUCCESSFUL, ENJOY IT!                |
+UPGRADE updateExt.sh mv _end_@Fri Mar 29 16:03:02 UTC 2019
+UPGRADE updateExt.sh exec _end_@Fri Mar 29 16:03:03 UTC 2019
+UPGRADE updateExt.sh exec begin@Fri Mar 29 16:04:15 UTC 2019
+UPGRADE updateExt.sh mv begin@Fri Mar 29 16:04:16 UTC 2019
+    |              UPGRADE SUCCESSFUL, ENJOY IT!                |
+UPGRADE updateExt.sh mv _end_@Fri Mar 29 16:04:18 UTC 2019
+UPGRADE updateExt.sh exec _end_@Fri Mar 29 16:04:18 UTC 2019
+UPGRADE updateExt.sh exec begin@Fri Mar 29 16:06:36 UTC 2019
+UPGRADE updateExt.sh mv begin@Fri Mar 29 16:06:37 UTC 2019
+    |              UPGRADE SUCCESSFUL, ENJOY IT!                |
+UPGRADE updateExt.sh mv _end_@Fri Mar 29 16:06:38 UTC 2019
+UPGRADE updateExt.sh exec _end_@Fri Mar 29 16:06:39 UTC 2019
++ + + + catxargs /proc/cmdlinegrep cpu=
+
+ -n1
+awk -F= {print $2}
++ CPUTYPE=SSC325
++ [ SSC325 != SSC325 ]
++ ccli update -act set -type 1
+[Success]
+
+
++ package=/tmp/upgrade.tgz
++ PATH=/tmp/upgrade/upTools:/ipc/bin:/bin:/sbin:/usr/bin:/usr/sbin
++ fn_prog_bar_start
++ total_secs=25
++ date +%s
++ start=1553875736
++ xtar_secs=7
++ let start=start-xtar_secs
++ sync
++ set +x
++ unload_module
++ echo unload_module!
+unload_module!
++ free
+             total       used       free     shared    buffers     cached
+Mem:         33156      25628       7528       6288         76      11668
+-/+ buffers/cache:      13884      19272
+Swap:            0          0          0
++ fn_prog_bar_set __4
++ date +%s
++ curr=1553875736
++ let prog_bar=100*(curr-start)/total_secs
++ [ 28 -ge 100 ]
++ echo ----- 28% __4 ----
+----- 28% __4 ----
++ ccli update -act set -progressbar 28
+[Success]
+
+
++ date
++ echo UPGRADE updateExt.sh exec begin@Fri Mar 29 16:08:56 UTC 2019
+UPGRADE updateExt.sh exec begin@Fri Mar 29 16:08:56 UTC 2019
++ fn_upgrade0
++ fn_prog_bar_set __3
++ date +%s
++ curr=1553875736
++ let prog_bar=100*(curr-start)/total_secs
++ [ 28 -ge 100 ]
++ echo ----- 28% __3 ----
+----- 28% __3 ----
++ ccli update -act set -progressbar 28
+[Success]
+cmdline & xml are the same!
+
++ cd /tmp
++ src_file=/tmp/upgrade.tgz
++ + awk {print $ 5}
+ls -l /tmp/upgrade.tgz
++ tgz_size=6205822
++ let skip_size=tgz_size
++ fn_unpack_opt
++ set +x
+get header info: truncate 7276 resv 4c115058e1b1ffd7fd3775bf881fa2c0
+get header info: uptools.tgz 71954 resv ff3d27823e00fca0406ec574b39061d5
+get header info: mtd4 4575232 PS5280_IMX307 ee75b044de5cc5d41718ef46c0326f06
+get header info: mtd2 1351772 resv 31553ff7dea8f93a913d8cb5b289798d
+get header info: mtd0 164652 resv a7f501483fc91ed48a471ed053a1d3f9
+get header info: opt.tgz 34504 resv 97c22ce75e2a4ffb9d3ac225296ed172
+----- 32% __1 ----
+[Success]
+
+
+UPGRADE updateExt.sh mv begin@Fri Mar 29 16:08:57 UTC 2019
+
+PS5280
+IMX307
+flash_type BH25Q64BS
+dev_type from .tgz: 325_base
+up conf
+grep: /opt/conf/customfile.add.list: No such file or directory
+up custom/other.amr
+grep: /opt/conf/customfile.add.list: No such file or directory
+up custom/motion.amr
+grep: /opt/conf/customfile.add.list: No such file or directory
+up custom/vg.amr
+grep: /opt/conf/customfile.add.list: No such file or directory
+up custom/logo.png
+grep: /opt/conf/customfile.add.list: No such file or directory
+up custom/login_main.png
+Release   2019-03-29.09:57:57@192.168.2.152
+192.168.200.152
+Platforms HDXP2P
+Revirsion 
+Option    -d 0 -o 100 -t 0
+
+    +-----------------------------------------------------------+
+    |                                                           |
+    |              UPGRADE SUCCESSFUL, ENJOY IT!                |
+    |                                                           |
+    +-----------------------------------------------------------+
+    
+UPGRADE updateExt.sh mv _end_@Fri Mar 29 16:08:59 UTC 2019
++ sync
++ cd /opt/conf
++ xml_shuttle -i -c a -f upgrade.add.pair config.xml
++ xt_ret 0 config
++ [ 0 = 0 ]
++ return 0
++ xml_shuttle -i -c w -f upgrade.mod.pair config.xml
++ xt_ret 0 config
++ [ 0 = 0 ]
++ return 0
++ sync
++ let skip_size=tgz_size
++ fn_unpack_rest
++ truncate=/tmp/bin/truncate
++ mkdir -p /tmp/bin
++ cd /tmp
++ cp /bin/busybox flash_eraseall
++ ln -s flash_eraseall flashcp
++ retryrest=10
++ [ 10 -ge 0 ]
++ fn_unpack_img
++ set +x
+get header info: truncate 7276 resv 4c115058e1b1ffd7fd3775bf881fa2c0
+PATH:/tmp/bin:/tmp/upgrade/upTools:/ipc/bin:/bin:/sbin:/usr/bin:/usr/sbin
+get header info: uptools.tgz 71954 resv ff3d27823e00fca0406ec574b39061d5
+----- 40% __2 ----
+[Success]
+
+
+PATH:/tmp/upgrade/upTools:/tmp/bin:/tmp/upgrade/upTools:/ipc/bin:/bin:/sbin:/usr/bin:/usr/sbin
+/usr/bin/nc
+/bin/mv
+/tmp/upgrade/upTools/mtd_debug
+/tmp/upgrade/upTools/mtd_md5sum
+UPGRADE updateExt.sh exec _end_@Fri Mar 29 16:08:59 UTC 2019
+sleep 5s to keep the 100% status for webpage
+----- 100 __1 ----
+[Success]
+
+
+---- it takes 10 on upgrade ----
+  PID USER       VSZ STAT COMMAND
+    1 root      1004 S    {linuxrc} init
+    2 root         0 SW   [kthreadd]
+    3 root         0 SW   [ksoftirqd/0]
+    4 root         0 SW   [kworker/0:0]
+    5 root         0 SW<  [kworker/0:0H]
+    6 root         0 SW   [kworker/u2:0]
+    7 root         0 SW   [rcu_preempt]
+    8 root         0 SW   [rcu_sched]
+    9 root         0 SW   [rcu_bh]
+   10 root         0 SW<  [lru-add-drain]
+   11 root         0 SW   [watchdog/0]
+   12 root         0 SW   [kdevtmpfs]
+   13 root         0 SW   [kworker/u2:1]
+  130 root         0 SW   [oom_reaper]
+  131 root         0 SW<  [writeback]
+  133 root         0 SW   [kcompactd0]
+  134 root         0 SW<  [crypto]
+  135 root         0 SW<  [bioset]
+  137 root         0 SW<  [kblockd]
+  154 root         0 SW<  [watchdogd]
+  166 root         0 SW   [kworker/0:1]
+  178 root         0 SW   [kswapd0]
+  294 root         0 SW<  [bioset]
+  299 root         0 SW<  [bioset]
+  304 root         0 SW<  [bioset]
+  309 root         0 SW<  [bioset]
+  314 root         0 SW<  [bioset]
+  319 root         0 SW<  [bioset]
+  330 root         0 SW<  [cryptodev_queue]
+  345 root         0 SW<  [kworker/0:1H]
+  370 root      1000 S    syslogd -s 60 -S -O /tmp/messages
+  376 root         0 SWN  [jffs2_gcd_mtd5]
+  377 root      1016 S    sh /ipc/etc/auto_run.sh
+  378 root      1004 S    /bin/login --
+  420 root         0 SWN  [IspDriverThread]
+  424 root         0 SWN  [IspMidThreadWq]
+  435 root         0 SW<  [mi_sys_debug wq]
+  437 root         0 DW   [miLodUdiskTask]
+  472 root      1000 S    telnetd -p9527
+  473 root      1016 S    sh /ipc/etc/auto_run.sh
+  475 root       996 S    sleep 300
+  483 root      1000 S    telnetd -p24
+  488 root     98936 S    /ipc/app/jco_server
+  497 root         0 DW   [vif0_P0_MAIN]
+  498 root         0 DW   [vpe0_P0_MAIN]
+  499 root         0 DW   [vpe0_P1_MAIN]
+  500 root         0 DW   [vpe0_P2_MAIN]
+  502 root         0 DW   [divp0_P0_MAIN]
+  503 root         0 SW   [kworker/0:2]
+  505 root         0 SW<  [RGN BUF WQ]
+  511 root         0 DW   [venc0_P0_MAIN]
+  512 root         0 DW   [venc1_P0_MAIN]
+  565 root      1004 S    sh -c /tmp/updateExt.sh /tmp/upgrade.tgz
+  566 root      1040 S    {updateExt.sh} /bin/sh /tmp/updateExt.sh /tmp/upgrad
+  573 root      1048 S    {updateExt.sh} /bin/sh /tmp/updateExt.sh /tmp/upgrad
+  574 root      1004 S    tee -a /opt/log/upgrade.log
+  854 root      1004 R    ps
+auto_run.sh is exist, kill it.
+auto_run.sh exit complete
+jco_server is exist, kill it.
+jco_server exit complete
+get header info: mtd4 4575232 PS5280_IMX307 ee75b044de5cc5d41718ef46c0326f06
+-------- do mtd4 ---------
+Erasing 32 Kibyte @ 0 -  0% complete.Erasing 32 Kibyte @ 8000 -  0% complete.Erasing 32 Kibyte @ 10000 -  1% complete.Erasing 32 Kibyte @ 18000 -  2% complete.Erasing 32 Kibyte @ 20000 -  2% complete.Erasing 32 Kibyte @ 28000 -  3% complete.Erasing 32 Kibyte @ 30000 -  4% complete.Erasing 32 Kibyte @ 38000 -  4% complete.Erasing 32 Kibyte @ 40000 -  5% complete.Erasing 32 Kibyte @ 48000 -  6% complete.Erasing 32 Kibyte @ 50000 -  6% complete.Erasing 32 Kibyte @ 58000 -  7% complete.Erasing 32 Kibyte @ 60000 -  8% complete.Erasing 32 Kibyte @ 68000 -  8% complete.Erasing 32 Kibyte @ 70000 -  9% complete.Erasing 32 Kibyte @ 78000 - 10% complete.Erasing 32 Kibyte @ 80000 - 10% complete.Erasing 32 Kibyte @ 88000 - 11% complete.Erasing 32 Kibyte @ 90000 - 12% complete.Erasing 32 Kibyte @ 98000 - 12% complete.Erasing 32 Kibyte @ a0000 - 13% complete.Erasing 32 Kibyte @ a8000 - 14% complete.Erasing 32 Kibyte @ b0000 - 14% complete.Erasing 32 Kibyte @ b8000 - 15% complete.Erasing 32 Kibyte @ c0000 - 16% complete.Erasing 32 Kibyte @ c8000 - 16% complete.Erasing 32 Kibyte @ d0000 - 17% complete.Erasing 32 Kibyte @ d8000 - 18% complete.Erasing 32 Kibyte @ e0000 - 18% complete.Erasing 32 Kibyte @ e8000 - 19% complete.Erasing 32 Kibyte @ f0000 - 20% complete.Erasing 32 Kibyte @ f8000 - 20% complete.Erasing 32 Kibyte @ 100000 - 21% complete.Erasing 32 Kibyte @ 108000 - 22% complete.Erasing 32 Kibyte @ 110000 - 22% complete.Erasing 32 Kibyte @ 118000 - 23% complete.Erasing 32 Kibyte @ 120000 - 24% complete.Erasing 32 Kibyte @ 128000 - 24% complete.Erasing 32 Kibyte @ 130000 - 25% complete.Erasing 32 Kibyte @ 138000 - 26% complete.Erasing 32 Kibyte @ 140000 - 26% complete.Erasing 32 Kibyte @ 148000 - 27% complete.Erasing 32 Kibyte @ 150000 - 28% complete.Erasing 32 Kibyte @ 158000 - 28% complete.Erasing 32 Kibyte @ 160000 - 29% complete.Erasing 32 Kibyte @ 168000 - 30% complete.Erasing 32 Kibyte @ 170000 - 30% complete.Erasing 32 Kibyte @ 178000 - 31% complete.Erasing 32 Kibyte @ 180000 - 32% complete.Erasing 32 Kibyte @ 188000 - 32% complete.Erasing 32 Kibyte @ 190000 - 33% complete.Erasing 32 Kibyte @ 198000 - 34% complete.Erasing 32 Kibyte @ 1a0000 - 34% complete.Erasing 32 Kibyte @ 1a8000 - 35% complete.Erasing 32 Kibyte @ 1b0000 - 36% complete.Erasing 32 Kibyte @ 1b8000 - 36% complete.Erasing 32 Kibyte @ 1c0000 - 37% complete.Erasing 32 Kibyte @ 1c8000 - 38% complete.Erasing 32 Kibyte @ 1d0000 - 38% complete.Erasing 32 Kibyte @ 1d8000 - 39% complete.Erasing 32 Kibyte @ 1e0000 - 40% complete.Erasing 32 Kibyte @ 1e8000 - 40% complete.Erasing 32 Kibyte @ 1f0000 - 41% complete.Erasing 32 Kibyte @ 1f8000 - 42% complete.Erasing 32 Kibyte @ 200000 - 42% complete.Erasing 32 Kibyte @ 208000 - 43% complete.Erasing 32 Kibyte @ 210000 - 44% complete.Erasing 32 Kibyte @ 218000 - 44% complete.Erasing 32 Kibyte @ 220000 - 45% complete.Erasing 32 Kibyte @ 228000 - 46% complete.Erasing 32 Kibyte @ 230000 - 46% complete.Erasing 32 Kibyte @ 238000 - 47% complete.Erasing 32 Kibyte @ 240000 - 48% complete.Erasing 32 Kibyte @ 248000 - 48% complete.Erasing 32 Kibyte @ 250000 - 49% complete.Erasing 32 Kibyte @ 258000 - 50% complete.Erasing 32 Kibyte @ 260000 - 51% complete.Erasing 32 Kibyte @ 268000 - 51% complete.Erasing 32 Kibyte @ 270000 - 52% complete.Erasing 32 Kibyte @ 278000 - 53% complete.Erasing 32 Kibyte @ 280000 - 53% complete.Erasing 32 Kibyte @ 288000 - 54% complete.Erasing 32 Kibyte @ 290000 - 55% complete.Erasing 32 Kibyte @ 298000 - 55% complete.Erasing 32 Kibyte @ 2a0000 - 56% complete.Erasing 32 Kibyte @ 2a8000 - 57% complete.Erasing 32 Kibyte @ 2b0000 - 57% complete.Erasing 32 Kibyte @ 2b8000 - 58% complete.Erasing 32 Kibyte @ 2c0000 - 59% complete.Erasing 32 Kibyte @ 2c8000 - 59% complete.Erasing 32 Kibyte @ 2d0000 - 60% complete.Erasing 32 Kibyte @ 2d8000 - 61% complete.Erasing 32 Kibyte @ 2e0000 - 61% complete.Erasing 32 Kibyte @ 2e8000 - 62% complete.Erasing 32 Kibyte @ 2f0000 - 63% complete.Erasing 32 Kibyte @ 2f8000 - 63% complete.Erasing 32 Kibyte @ 300000 - 64% complete.Erasing 32 Kibyte @ 308000 - 65% complete.Erasing 32 Kibyte @ 310000 - 65% complete.Erasing 32 Kibyte @ 318000 - 66% complete.Erasing 32 Kibyte @ 320000 - 67% complete.Erasing 32 Kibyte @ 328000 - 67% complete.Erasing 32 Kibyte @ 330000 - 68% complete.Erasing 32 Kibyte @ 338000 - 69% complete.Erasing 32 Kibyte @ 340000 - 69% complete.Erasing 32 Kibyte @ 348000 - 70% complete.Erasing 32 Kibyte @ 350000 - 71% complete.Erasing 32 Kibyte @ 358000 - 71% complete.Erasing 32 Kibyte @ 360000 - 72% complete.Erasing 32 Kibyte @ 368000 - 73% complete.Erasing 32 Kibyte @ 370000 - 73% complete.Erasing 32 Kibyte @ 378000 - 74% complete.Erasing 32 Kibyte @ 380000 - 75% complete.Erasing 32 Kibyte @ 388000 - 75% complete.Erasing 32 Kibyte @ 390000 - 76% complete.Erasing 32 Kibyte @ 398000 - 77% complete.Erasing 32 Kibyte @ 3a0000 - 77% complete.Erasing 32 Kibyte @ 3a8000 - 78% complete.Erasing 32 Kibyte @ 3b0000 - 79% complete.Erasing 32 Kibyte @ 3b8000 - 79% complete.Erasing 32 Kibyte @ 3c0000 - 80% complete.Erasing 32 Kibyte @ 3c8000 - 81% complete.Erasing 32 Kibyte @ 3d0000 - 81% complete.Erasing 32 Kibyte @ 3d8000 - 82% complete.Erasing 32 Kibyte @ 3e0000 - 83% complete.Erasing 32 Kibyte @ 3e8000 - 83% complete.Erasing 32 Kibyte @ 3f0000 - 84% complete.Erasing 32 Kibyte @ 3f8000 - 85% complete.Erasing 32 Kibyte @ 400000 - 85% complete.Erasing 32 Kibyte @ 408000 - 86% complete.Erasing 32 Kibyte @ 410000 - 87% complete.Erasing 32 Kibyte @ 418000 - 87% complete.Erasing 32 Kibyte @ 420000 - 88% complete.Erasing 32 Kibyte @ 428000 - 89% complete.Erasing 32 Kibyte @ 430000 - 89% complete.Erasing 32 Kibyte @ 438000 - 90% complete.Erasing 32 Kibyte @ 440000 - 91% complete.Erasing 32 Kibyte @ 448000 - 91% complete.Erasing 32 Kibyte @ 450000 - 92% complete.Erasing 32 Kibyte @ 458000 - 93% complete.Erasing 32 Kibyte @ 460000 - 93% complete.Erasing 32 Kibyte @ 468000 - 94% complete.Erasing 32 Kibyte @ 470000 - 95% complete.Erasing 32 Kibyte @ 478000 - 95% complete.Erasing 32 Kibyte @ 480000 - 96% complete.Erasing 32 Kibyte @ 488000 - 97% complete.Erasing 32 Kibyte @ 490000 - 97% complete.Erasing 32 Kibyte @ 498000 - 98% complete.Erasing 32 Kibyte @ 4a0000 - 99% complete.Erasing 32 Kibyte @ 4a8000 - 100% complete.
+Write mtd4 complete!
+-------- do mtd4 succ-----
+get header info: mtd2 1351772 resv 31553ff7dea8f93a913d8cb5b289798d
+-------- do mtd2 ---------
+Erasing 32 Kibyte @ 0 -  0% complete.Erasing 32 Kibyte @ 8000 -  2% complete.Erasing 32 Kibyte @ 10000 -  4% complete.Erasing 32 Kibyte @ 18000 -  6% complete.Erasing 32 Kibyte @ 20000 -  8% complete.Erasing 32 Kibyte @ 28000 - 10% complete.Erasing 32 Kibyte @ 30000 - 13% complete.Erasing 32 Kibyte @ 38000 - 15% complete.Erasing 32 Kibyte @ 40000 - 17% complete.Erasing 32 Kibyte @ 48000 - 19% complete.Erasing 32 Kibyte @ 50000 - 21% complete.Erasing 32 Kibyte @ 58000 - 23% complete.Erasing 32 Kibyte @ 60000 - 26% complete.Erasing 32 Kibyte @ 68000 - 28% complete.Erasing 32 Kibyte @ 70000 - 30% complete.Erasing 32 Kibyte @ 78000 - 32% complete.Erasing 32 Kibyte @ 80000 - 34% complete.Erasing 32 Kibyte @ 88000 - 36% complete.Erasing 32 Kibyte @ 90000 - 39% complete.Erasing 32 Kibyte @ 98000 - 41% complete.Erasing 32 Kibyte @ a0000 - 43% complete.Erasing 32 Kibyte @ a8000 - 45% complete.Erasing 32 Kibyte @ b0000 - 47% complete.Erasing 32 Kibyte @ b8000 - 50% complete.Erasing 32 Kibyte @ c0000 - 52% complete.Erasing 32 Kibyte @ c8000 - 54% complete.Erasing 32 Kibyte @ d0000 - 56% complete.Erasing 32 Kibyte @ d8000 - 58% complete.Erasing 32 Kibyte @ e0000 - 60% complete.Erasing 32 Kibyte @ e8000 - 63% complete.Erasing 32 Kibyte @ f0000 - 65% complete.Erasing 32 Kibyte @ f8000 - 67% complete.Erasing 32 Kibyte @ 100000 - 69% complete.Erasing 32 Kibyte @ 108000 - 71% complete.Erasing 32 Kibyte @ 110000 - 73% complete.Erasing 32 Kibyte @ 118000 - 76% complete.Erasing 32 Kibyte @ 120000 - 78% complete.Erasing 32 Kibyte @ 128000 - 80% complete.Erasing 32 Kibyte @ 130000 - 82% complete.Erasing 32 Kibyte @ 138000 - 84% complete.Erasing 32 Kibyte @ 140000 - 86% complete.Erasing 32 Kibyte @ 148000 - 89% complete.Erasing 32 Kibyte @ 150000 - 91% complete.Erasing 32 Kibyte @ 158000 - 93% complete.Erasing 32 Kibyte @ 160000 - 95% complete.Erasing 32 Kibyte @ 168000 - 97% complete.Erasing 32 Kibyte @ 170000 - 100% complete.
+Write mtd2 complete!
+-------- do mtd2 succ-----
+get header info: mtd0 164652 resv a7f501483fc91ed48a471ed053a1d3f9
+-------- do mtd0 ---------
+Erasing 32 Kibyte @ 0 -  0% complete.Erasing 32 Kibyte @ 8000 - 16% complete.Erasing 32 Kibyte @ 10000 - 33% complete.Erasing 32 Kibyte @ 18000 - 50% complete.Erasing 32 Kibyte @ 20000 - 66% complete.Erasing 32 Kibyte @ 28000 - 83% complete.Erasing 32 Kibyte @ 30000 - 100% complete.
+Write mtd0 complete!
+-------- do mtd0 succ-----
+get header info: opt.tgz 34504 resv 97c22ce75e2a4ffb9d3ac225296ed172
++ rm -f /tmp/upgrade.tgz
++ sync
++ return 0
+root@jabsco:~# 

@@ -1,0 +1,59 @@
+[2019-02-27 18:00:12]|***********************START************************|
+[2019-02-27 18:00:12]SLEEPTIME IS 2000000
+[2019-02-27 18:00:12]SEND IP ADDRESS:192.168.200.89
+[2019-02-27 18:00:12]MODEL IS [osize]
+[2019-02-27 18:00:12]|********************Testing Now!********************|
+[2019-02-27 18:00:12][send_curl]http://192.168.200.89/?jcpcmd=osdstrcfg%20-act%20set%20-size%200
+[2019-02-27 18:00:12][send_curl]NO.1---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-27 18:00:14][send_curl]http://192.168.200.89/?jcpcmd=osdstrcfg%20-act%20set%20-size%202
+[2019-02-27 18:00:14][send_curl]NO.2---szJcpResult="[Success];";
+
+[2019-02-27 18:00:16][send_curl]http://192.168.200.89/?jcpcmd=osdstrcfg%20-act%20set%20-size%201
+[2019-02-27 18:00:16][send_curl]NO.3---szJcpResult="[Success];";
+
+[2019-02-27 18:00:18][send_curl]http://192.168.200.89/?jcpcmd=osdstrcfg%20-act%20set%20-size%202
+[2019-02-27 18:00:18][send_curl]NO.4---szJcpResult="[Success];";
+
+[2019-02-27 18:00:20][send_curl]http://192.168.200.89/?jcpcmd=osdstrcfg%20-act%20set%20-size%202
+[2019-02-27 18:00:20][send_curl]NO.5---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-27 18:00:22][send_curl]http://192.168.200.89/?jcpcmd=osdstrcfg%20-act%20set%20-size%200
+[2019-02-27 18:00:22][send_curl]NO.6---szJcpResult="[Success];";
+
+[2019-02-27 18:00:24][send_curl]http://192.168.200.89/?jcpcmd=osdstrcfg%20-act%20set%20-size%202
+[2019-02-27 18:00:24][send_curl]NO.7---szJcpResult="[Success];";
+
+[2019-02-27 18:00:27][send_curl]http://192.168.200.89/?jcpcmd=osdstrcfg%20-act%20set%20-size%202
+[2019-02-27 18:00:27][send_curl]NO.8---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-27 18:00:29][send_curl]http://192.168.200.89/?jcpcmd=osdstrcfg%20-act%20set%20-size%200
+[2019-02-27 18:00:29][send_curl]NO.9---szJcpResult="[Success];";
+
+[2019-02-27 18:00:31][send_curl]http://192.168.200.89/?jcpcmd=osdstrcfg%20-act%20set%20-size%201
+[2019-02-27 18:00:31][send_curl]NO.10---szJcpResult="[Success];";
+
+[2019-02-27 18:00:33][send_curl]http://192.168.200.89/?jcpcmd=osdstrcfg%20-act%20set%20-size%202
+[2019-02-27 18:00:33][send_curl]NO.11---szJcpResult="[Success];";
+
+[2019-02-27 18:00:35][send_curl]http://192.168.200.89/?jcpcmd=osdstrcfg%20-act%20set%20-size%202
+[2019-02-27 18:00:35][send_curl]NO.12---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-27 18:00:37][send_curl]http://192.168.200.89/?jcpcmd=osdstrcfg%20-act%20set%20-size%201
+[2019-02-27 18:00:37][send_curl]NO.13---szJcpResult="[Success];";
+
+[2019-02-27 18:00:39][send_curl]http://192.168.200.89/?jcpcmd=osdstrcfg%20-act%20set%20-size%201
+[2019-02-27 18:00:39][send_curl]NO.14---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-27 18:00:41][send_curl]http://192.168.200.89/?jcpcmd=osdstrcfg%20-act%20set%20-size%201
+[2019-02-27 18:00:41][send_curl]NO.15---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-27 18:00:43][send_curl]http://192.168.200.89/?jcpcmd=osdstrcfg%20-act%20set%20-size%202
+[2019-02-27 18:00:43][send_curl]NO.16---szJcpResult="[Success];";
+
+[2019-02-27 18:00:45][send_curl]http://192.168.200.89/?jcpcmd=osdstrcfg%20-act%20set%20-size%202
+[2019-02-27 18:00:45][send_curl]NO.17---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-27 18:00:47][send_curl]http://192.168.200.89/?jcpcmd=osdstrcfg%20-act%20set%20-size%202
+[2019-02-27 18:00:47][send_curl]NO.18---szJcpResult="[Success]cmdline & xml are the same!;";
+

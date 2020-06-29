@@ -1,0 +1,38 @@
+[2019-04-29 15:57:45]|***********************START************************|
+[2019-04-29 15:57:45]SLEEPTIME IS 2000000
+[2019-04-29 15:57:45]SEND IP ADDRESS:192.168.155.95:554
+[2019-04-29 15:57:45]MODEL IS [osize]
+[2019-04-29 15:57:45]|********************Testing Now!********************|
+[2019-04-29 15:57:45][send_curl]http://192.168.155.95:554/?jcpcmd=osdstrcfg%20-act%20set%20-size%200
+[2019-04-29 15:57:47][send_curl]http://192.168.155.95:554/?jcpcmd=osdstrcfg%20-act%20set%20-size%201
+[2019-04-29 15:57:49][send_curl]http://192.168.155.95:554/?jcpcmd=osdstrcfg%20-act%20set%20-size%202
+[2019-04-29 15:57:51][send_curl]http://192.168.155.95:554/?jcpcmd=osdstrcfg%20-act%20set%20-size%202
+[2019-04-29 15:57:53][send_curl]http://192.168.155.95:554/?jcpcmd=osdstrcfg%20-act%20set%20-size%202
+[2019-04-29 15:57:55][send_curl]http://192.168.155.95:554/?jcpcmd=osdstrcfg%20-act%20set%20-size%201
+[2019-04-29 15:57:57][send_curl]http://192.168.155.95:554/?jcpcmd=osdstrcfg%20-act%20set%20-size%201
+[2019-04-29 15:57:59][send_curl]http://192.168.155.95:554/?jcpcmd=osdstrcfg%20-act%20set%20-size%202
+[2019-04-29 15:58:01][send_curl]http://192.168.155.95:554/?jcpcmd=osdstrcfg%20-act%20set%20-size%200
+[2019-04-29 15:58:03][send_curl]http://192.168.155.95:554/?jcpcmd=osdstrcfg%20-act%20set%20-size%200
+[2019-04-29 15:58:05][send_curl]http://192.168.155.95:554/?jcpcmd=osdstrcfg%20-act%20set%20-size%201
+[2019-04-29 15:58:07][send_curl]http://192.168.155.95:554/?jcpcmd=osdstrcfg%20-act%20set%20-size%202
+[2019-04-29 15:58:09][send_curl]http://192.168.155.95:554/?jcpcmd=osdstrcfg%20-act%20set%20-size%200
+[2019-04-29 15:58:11][send_curl]http://192.168.155.95:554/?jcpcmd=osdstrcfg%20-act%20set%20-size%202
+[2019-04-29 15:58:13][send_curl]http://192.168.155.95:554/?jcpcmd=osdstrcfg%20-act%20set%20-size%201
+[2019-04-29 15:58:15][send_curl]http://192.168.155.95:554/?jcpcmd=osdstrcfg%20-act%20set%20-size%200
+[2019-04-29 15:58:17][send_curl]http://192.168.155.95:554/?jcpcmd=osdstrcfg%20-act%20set%20-size%202
+[2019-04-29 15:58:19][send_curl]http://192.168.155.95:554/?jcpcmd=osdstrcfg%20-act%20set%20-size%201
+[2019-04-29 15:58:21][send_curl]http://192.168.155.95:554/?jcpcmd=osdstrcfg%20-act%20set%20-size%200
+[2019-04-29 15:58:23][send_curl]http://192.168.155.95:554/?jcpcmd=osdstrcfg%20-act%20set%20-size%200
+[2019-04-29 15:58:25][send_curl]http://192.168.155.95:554/?jcpcmd=osdstrcfg%20-act%20set%20-size%201
+[2019-04-29 15:58:28][send_curl]http://192.168.155.95:554/?jcpcmd=osdstrcfg%20-act%20set%20-size%202
+[2019-04-29 15:58:30][send_curl]http://192.168.155.95:554/?jcpcmd=osdstrcfg%20-act%20set%20-size%202
+[2019-04-29 15:58:32][send_curl]http://192.168.155.95:554/?jcpcmd=osdstrcfg%20-act%20set%20-size%201
+[2019-04-29 15:58:34][send_curl]http://192.168.155.95:554/?jcpcmd=osdstrcfg%20-act%20set%20-size%201
+[2019-04-29 15:58:36][send_curl]http://192.168.155.95:554/?jcpcmd=osdstrcfg%20-act%20set%20-size%202
+[2019-04-29 15:58:38][send_curl]http://192.168.155.95:554/?jcpcmd=osdstrcfg%20-act%20set%20-size%201
+[2019-04-29 15:58:40][send_curl]http://192.168.155.95:554/?jcpcmd=osdstrcfg%20-act%20set%20-size%200
+[2019-04-29 15:58:42][send_curl]http://192.168.155.95:554/?jcpcmd=osdstrcfg%20-act%20set%20-size%200
+[2019-04-29 15:58:59][send_curl]http://192.168.155.95:554/?jcpcmd=osdstrcfg%20-act%20set%20-size%201
+[2019-04-29 15:58:59][send_curl]STOP RUNNING
+[2019-04-29 15:58:59][send_curl]RUNS      :29
+[2019-04-29 15:58:59][send_curl]MODEL IS  :[osize]

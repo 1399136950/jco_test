@@ -1,0 +1,40 @@
+[2019-06-25 14:21:56]|***********************START************************|
+[2019-06-25 14:21:56]SLEEPTIME IS 200000
+[2019-06-25 14:21:56]SEND IP ADDRESS:192.168.2.24
+[2019-06-25 14:21:56]MODEL IS [light]
+[2019-06-25 14:21:56]|********************Testing Now!********************|
+[2019-06-25 14:21:57][send_curl]http://192.168.2.24/?jcpcmd=ircfg%20-act%20set%20-lightgrade%2040
+[2019-06-25 14:21:57][send_curl]http://192.168.2.24/?jcpcmd=ircfg%20-act%20set%20-lightgrade%2035
+[2019-06-25 14:21:57][send_curl]http://192.168.2.24/?jcpcmd=ircfg%20-act%20set%20-lightgrade%2030
+[2019-06-25 14:21:57][send_curl]http://192.168.2.24/?jcpcmd=ircfg%20-act%20set%20-lightgrade%2025
+[2019-06-25 14:21:57][send_curl]http://192.168.2.24/?jcpcmd=ircfg%20-act%20set%20-lightgrade%2020
+[2019-06-25 14:21:58][send_curl]http://192.168.2.24/?jcpcmd=ircfg%20-act%20set%20-lightgrade%2015
+[2019-06-25 14:21:58][send_curl]http://192.168.2.24/?jcpcmd=ircfg%20-act%20set%20-lightgrade%2010
+[2019-06-25 14:21:58][send_curl]http://192.168.2.24/?jcpcmd=ircfg%20-act%20set%20-lightgrade%205
+[2019-06-25 14:21:58][send_curl]http://192.168.2.24/?jcpcmd=ircfg%20-act%20set%20-lightgrade%2010
+[2019-06-25 14:21:59][send_curl]http://192.168.2.24/?jcpcmd=ircfg%20-act%20set%20-lightgrade%2015
+[2019-06-25 14:21:59][send_curl]http://192.168.2.24/?jcpcmd=ircfg%20-act%20set%20-lightgrade%2020
+[2019-06-25 14:21:59][send_curl]http://192.168.2.24/?jcpcmd=ircfg%20-act%20set%20-lightgrade%2025
+[2019-06-25 14:21:59][send_curl]http://192.168.2.24/?jcpcmd=ircfg%20-act%20set%20-lightgrade%2030
+[2019-06-25 14:21:59][send_curl]http://192.168.2.24/?jcpcmd=ircfg%20-act%20set%20-lightgrade%2035
+[2019-06-25 14:22:00][send_curl]http://192.168.2.24/?jcpcmd=ircfg%20-act%20set%20-lightgrade%2040
+[2019-06-25 14:22:00][send_curl]http://192.168.2.24/?jcpcmd=ircfg%20-act%20set%20-lightgrade%2045
+[2019-06-25 14:22:00][send_curl]http://192.168.2.24/?jcpcmd=ircfg%20-act%20set%20-lightgrade%2040
+[2019-06-25 14:22:00][send_curl]http://192.168.2.24/?jcpcmd=ircfg%20-act%20set%20-lightgrade%2035
+[2019-06-25 14:22:01][send_curl]http://192.168.2.24/?jcpcmd=ircfg%20-act%20set%20-lightgrade%2030
+[2019-06-25 14:22:01][send_curl]http://192.168.2.24/?jcpcmd=ircfg%20-act%20set%20-lightgrade%2025
+[2019-06-25 14:22:01][send_curl]http://192.168.2.24/?jcpcmd=ircfg%20-act%20set%20-lightgrade%2020
+[2019-06-25 14:22:01][send_curl]http://192.168.2.24/?jcpcmd=ircfg%20-act%20set%20-lightgrade%2015
+[2019-06-25 14:22:02][send_curl]http://192.168.2.24/?jcpcmd=ircfg%20-act%20set%20-lightgrade%2010
+[2019-06-25 14:22:02][send_curl]http://192.168.2.24/?jcpcmd=ircfg%20-act%20set%20-lightgrade%205
+[2019-06-25 14:22:02][send_curl]http://192.168.2.24/?jcpcmd=ircfg%20-act%20set%20-lightgrade%2010
+[2019-06-25 14:22:02][send_curl]http://192.168.2.24/?jcpcmd=ircfg%20-act%20set%20-lightgrade%2015
+[2019-06-25 14:22:03][send_curl]http://192.168.2.24/?jcpcmd=ircfg%20-act%20set%20-lightgrade%2020
+[2019-06-25 14:22:03][send_curl]http://192.168.2.24/?jcpcmd=ircfg%20-act%20set%20-lightgrade%2025
+[2019-06-25 14:22:03][send_curl]http://192.168.2.24/?jcpcmd=ircfg%20-act%20set%20-lightgrade%2030
+[2019-06-25 14:22:03][send_curl]http://192.168.2.24/?jcpcmd=ircfg%20-act%20set%20-lightgrade%2035
+[2019-06-25 14:22:03][send_curl]http://192.168.2.24/?jcpcmd=ircfg%20-act%20set%20-lightgrade%2040
+[2019-06-25 14:22:04][send_curl]http://192.168.2.24/?jcpcmd=ircfg%20-act%20set%20-lightgrade%2045
+[2019-06-25 14:22:04][send_curl]http://192.168.2.24/?jcpcmd=ircfg%20-act%20set%20-lightgrade%2040
+[2019-06-25 14:22:04][send_curl]http://192.168.2.24/?jcpcmd=ircfg%20-act%20set%20-lightgrade%2035
+[2019-06-25 14:22:04][send_curl]http://192.168.2.24/?jcpcmd=ircfg%20-act%20set%20-lightgrade%2030

@@ -1,0 +1,110 @@
+[2020-03-13 14:24:15][get_upload_file]Upgrade Pack Is--1.tgz
+[2020-03-13 14:24:15][get_upload_file]Upgrade Pack Is--SSC335.base.HDXGPtP.gen.zh-cn.202003131.IPC2.H(F)29.tgz
+[2020-03-13 14:24:15][before_execute_script]Execute Script After 10 seconds!
+[2020-03-13 14:24:15][before_execute_script]Sleep(10)
+[2020-03-13 14:24:25][before_execute_script]Start!
+[2020-03-13 14:24:25][start_upgrade_by_tgzs]Begin Collecting Test Data......
+[2020-03-13 14:24:25][new_before_upgrade_test]Upload File Now
+[2020-03-13 14:24:25][new_before_upgrade_test]NO.1,FILE IS 1.tgz
+[2020-03-13 14:24:25][upload_file][192.168.200.234]IS ON-LINE!
+[2020-03-13 14:24:25][upload_file][192.168.200.234]send file now
+[2020-03-13 14:24:25][upload_file][192.168.200.234]send file finished
+[2020-03-13 14:24:25][get_update_progressbar] 0
+[2020-03-13 14:24:27][get_update_progressbar] 3
+[2020-03-13 14:24:29][get_update_progressbar] 13
+[2020-03-13 14:24:31][get_update_progressbar] 13
+[2020-03-13 14:24:33][get_update_progressbar] 100
+[2020-03-13 14:24:33][new_before_upgrade_test]Upload Finished,Sleep(80)
+[2020-03-13 14:25:53][new_before_upgrade_test]Result Is TA1.29.1407-20200313-HDXGPtP-GEN
+[2020-03-13 14:25:53][new_before_upgrade_test]Get Test Data......It takes 89 secends
+[2020-03-13 14:25:53][new_before_upgrade_test]Sleep(30)
+[2020-03-13 14:26:23][new_before_upgrade_test]Upload File Now
+[2020-03-13 14:26:23][new_before_upgrade_test]NO.2,FILE IS 1.tgz
+[2020-03-13 14:26:23][upload_file][192.168.200.234]IS ON-LINE!
+[2020-03-13 14:26:23][upload_file][192.168.200.234]send file now
+[2020-03-13 14:26:23][upload_file][192.168.200.234]send file finished
+[2020-03-13 14:26:23][get_update_progressbar] 0
+[2020-03-13 14:26:25][get_update_progressbar] 3
+[2020-03-13 14:26:27][get_update_progressbar] 13
+[2020-03-13 14:26:29][get_update_progressbar] 13
+[2020-03-13 14:26:31][get_update_progressbar] 13
+[2020-03-13 14:26:33][get_update_progressbar] 28
+[2020-03-13 14:26:35][get_update_progressbar] 100
+[2020-03-13 14:26:35][new_before_upgrade_test]Upload Finished,Sleep(80)
+[2020-03-13 14:27:55][new_before_upgrade_test]Result Is TA1.29.1407-20200313-HDXGPtP-GEN
+[2020-03-13 14:27:55][new_before_upgrade_test]Get Test Data......It takes 93 secends
+[2020-03-13 14:27:55][new_before_upgrade_test]Sleep(30)
+[2020-03-13 14:28:25][new_before_upgrade_test]Upload File Now
+[2020-03-13 14:28:25][new_before_upgrade_test]NO.1,FILE IS SSC335.base.HDXGPtP.gen.zh-cn.202003131.IPC2.H(F)29.tgz
+[2020-03-13 14:28:26][upload_file][192.168.200.234]IS ON-LINE!
+[2020-03-13 14:28:26][upload_file][192.168.200.234]send file now
+[2020-03-13 14:28:26][upload_file][192.168.200.234]send file finished
+[2020-03-13 14:28:26][get_update_progressbar] 0
+[2020-03-13 14:28:28][get_update_progressbar] 13
+[2020-03-13 14:28:30][get_update_progressbar] 13
+[2020-03-13 14:28:32][get_update_progressbar] 13
+[2020-03-13 14:28:34][get_update_progressbar] 28
+[2020-03-13 14:28:36][get_update_progressbar] 100
+[2020-03-13 14:28:36][new_before_upgrade_test]Upload Finished,Sleep(80)
+[2020-03-13 14:29:56][new_before_upgrade_test]Result Is TA1.29.1407-20200313-HDXGPtP-GEN
+[2020-03-13 14:29:56][new_before_upgrade_test]Get Test Data......It takes 91 secends
+[2020-03-13 14:29:56][new_before_upgrade_test]Sleep(30)
+[2020-03-13 14:30:26][new_before_upgrade_test]Upload File Now
+[2020-03-13 14:30:26][new_before_upgrade_test]NO.2,FILE IS SSC335.base.HDXGPtP.gen.zh-cn.202003131.IPC2.H(F)29.tgz
+[2020-03-13 14:30:26][upload_file][192.168.200.234]IS ON-LINE!
+[2020-03-13 14:30:26][upload_file][192.168.200.234]send file now
+[2020-03-13 14:30:26][upload_file][192.168.200.234]send file finished
+[2020-03-13 14:30:26][get_update_progressbar] 0
+[2020-03-13 14:30:28][get_update_progressbar] 13
+[2020-03-13 14:30:30][get_update_progressbar] 13
+[2020-03-13 14:30:32][get_update_progressbar] 13
+[2020-03-13 14:30:34][get_update_progressbar] 32
+[2020-03-13 14:30:36][get_update_progressbar] 100
+[2020-03-13 14:30:36][new_before_upgrade_test]Upload Finished,Sleep(80)
+[2020-03-13 14:31:56][new_before_upgrade_test]Result Is TA1.29.1407-20200313-HDXGPtP-GEN
+[2020-03-13 14:31:56][new_before_upgrade_test]Get Test Data......It takes 91 secends
+[2020-03-13 14:31:56][new_before_upgrade_test]Sleep(30)
+[2020-03-13 14:32:26][new_before_upgrade_test]Corresponding Software Version Is:
+[2020-03-13 14:32:26][new_before_upgrade_test]1.tgz--TA1.29.1407-20200313-HDXGPtP-GEN
+[2020-03-13 14:32:26][new_before_upgrade_test]SSC335.base.HDXGPtP.gen.zh-cn.202003131.IPC2.H(F)29.tgz--TA1.29.1407-20200313-HDXGPtP-GEN
+[2020-03-13 14:32:26][start_upgrade_by_tgzs]Data Collection Complete!Start Upgrading Now!
+[2020-03-13 14:32:26][start_upgrade_by_tgzs:79]NO.1--1.tgz
+[2020-03-13 14:32:26][upload_file][192.168.200.234]IS ON-LINE!
+[2020-03-13 14:32:26][upload_file][http://192.168.200.234/webs/updateCfg]Start Send Curl!
+[2020-03-13 14:32:35][upload_file][http://192.168.200.234/webs/updateCfg]Close Curl!
+[2020-03-13 14:32:35][get_update_progressbar] 13
+[2020-03-13 14:32:37][get_update_progressbar] 13
+[2020-03-13 14:32:39][get_update_progressbar] 13
+[2020-03-13 14:32:41][get_update_progressbar] 13
+[2020-03-13 14:32:43][get_update_progressbar] 28
+[2020-03-13 14:32:45][get_update_progressbar] 100
+[2020-03-13 14:32:45][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-13 14:34:11][Continuous_send_request]No Answer,Sleep(10)
+[2020-03-13 14:34:27][Continuous_send_request]No Answer,Sleep(10)
+[2020-03-13 14:34:43][Continuous_send_request]No Answer,Sleep(10)
+[2020-03-13 14:34:59][Continuous_send_request]No Answer,Sleep(10)
+[2020-03-13 14:35:15][Continuous_send_request]No Answer,Sleep(10)
+[2020-03-13 14:35:31][Continuous_send_request]No Answer,Sleep(10)
+[2020-03-13 14:35:47][Continuous_send_request]No Answer,Sleep(10)
+[2020-03-13 14:36:03][Continuous_send_request]No Answer,Sleep(10)
+[2020-03-13 14:36:19][Continuous_send_request]No Answer,Sleep(10)
+[2020-03-13 14:36:35][Continuous_send_request]No Answer,Sleep(10)
+[2020-03-13 14:36:51][Continuous_send_request]No Answer,Sleep(10)
+[2020-03-13 14:37:07][Continuous_send_request]No Answer,Sleep(10)
+[2020-03-13 14:37:23][Continuous_send_request]No Answer,Sleep(10)
+[2020-03-13 14:37:39][Continuous_send_request]No Answer,Sleep(10)
+[2020-03-13 14:37:55][Continuous_send_request]No Answer,Sleep(10)
+[2020-03-13 14:38:11][Continuous_send_request]No Answer,Sleep(10)
+[2020-03-13 14:38:27][Continuous_send_request]No Answer,Sleep(10)
+[2020-03-13 14:38:43][Continuous_send_request]No Answer,Sleep(10)
+[2020-03-13 14:38:59][Continuous_send_request]No Answer,Sleep(10)
+[2020-03-13 14:39:15][Continuous_send_request]No Answer,Sleep(10)
+[2020-03-13 14:39:31][Continuous_send_request]No Answer,Sleep(10)
+[2020-03-13 14:39:41][start_upgrade_by_tgzs]Upgrade Time Out!Relaunch A Request Now!
+[2020-03-13 14:39:47][Continuous_send_request]No Answer,Sleep(10)
+[2020-03-13 14:40:03][Continuous_send_request]No Answer,Sleep(10)
+[2020-03-13 14:40:19][Continuous_send_request]No Answer,Sleep(10)
+[2020-03-13 14:40:35][Continuous_send_request]No Answer,Sleep(10)
+[2020-03-13 14:40:51][Continuous_send_request]No Answer,Sleep(10)
+[2020-03-13 14:41:07][Continuous_send_request]No Answer,Sleep(10)
+[2020-03-13 14:41:17][start_upgrade_by_tgzs]Upgrade Time Out!

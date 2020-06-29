@@ -1,0 +1,32 @@
+[2019-02-22 19:18:07]|***********************START************************|
+[2019-02-22 19:18:07]SLEEPTIME IS 1000000
+[2019-02-22 19:18:07]SEND IP ADDRESS:192.168.200.3
+[2019-02-22 19:18:07]MODEL IS [c]
+[2019-02-22 19:18:07]|********************Testing Now!********************|
+[2019-02-22 19:18:07][send_curl]http://192.168.200.3/?jcpcmd=osdstrcfg%20-act%20set%20-index%200%20-enable%201%20-content%20测试专用阗泗鑫会计师泾鄯%20-left%201059%20-top%20154
+[2019-02-22 19:18:07][send_curl]NO.1---szJcpResult="[Success];";
+
+[2019-02-22 19:18:08][send_curl]http://192.168.200.3/?jcpcmd=osdstrcfg%20-act%20set%20-index%200%20-enable%201%20-content%20测试专用阗泗鑫会计师泾鄯%20-left%20700%20-top%201050
+[2019-02-22 19:18:08][send_curl]NO.2---szJcpResult="[Success];";
+
+[2019-02-22 19:18:09][send_curl]http://192.168.200.3/?jcpcmd=osdstrcfg%20-act%20set%20-index%200%20-enable%201%20-content%20测试专用阗泗鑫会计师泾鄯%20-left%2028%20-top%20124
+[2019-02-22 19:18:09][send_curl]NO.3---szJcpResult="[Success];";
+
+[2019-02-22 19:18:10][send_curl]http://192.168.200.3/?jcpcmd=osdstrcfg%20-act%20set%20-index%200%20-enable%201%20-content%20测试专用阗泗鑫会计师泾鄯%20-left%20254%20-top%201052
+[2019-02-22 19:18:10][send_curl]NO.4---szJcpResult="[Success];";
+
+[2019-02-22 19:18:11][send_curl]http://192.168.200.3/?jcpcmd=osdstrcfg%20-act%20set%20-index%200%20-enable%201%20-content%20测试专用阗泗鑫会计师泾鄯%20-left%201103%20-top%20860
+[2019-02-22 19:18:11][send_curl]NO.5---szJcpResult="[Success];";
+
+[2019-02-22 19:18:12][send_curl]http://192.168.200.3/?jcpcmd=osdstrcfg%20-act%20set%20-index%200%20-enable%201%20-content%20测试专用阗泗鑫会计师泾鄯%20-left%20340%20-top%20453
+[2019-02-22 19:18:12][send_curl]NO.6---szJcpResult="[Success];";
+
+[2019-02-22 19:18:13][send_curl]http://192.168.200.3/?jcpcmd=osdstrcfg%20-act%20set%20-index%200%20-enable%201%20-content%20测试专用阗泗鑫会计师泾鄯%20-left%20897%20-top%2031
+[2019-02-22 19:18:13][send_curl]NO.7---szJcpResult="[Success];";
+
+[2019-02-22 19:18:14][send_curl]http://192.168.200.3/?jcpcmd=osdstrcfg%20-act%20set%20-index%200%20-enable%201%20-content%20测试专用阗泗鑫会计师泾鄯%20-left%20896%20-top%20975
+[2019-02-22 19:18:14][send_curl]NO.8---szJcpResult="[Success];";
+
+[2019-02-22 19:18:15][send_curl]http://192.168.200.3/?jcpcmd=osdstrcfg%20-act%20set%20-index%200%20-enable%201%20-content%20测试专用阗泗鑫会计师泾鄯%20-left%20776%20-top%20172
+[2019-02-22 19:18:15][send_curl]NO.9---szJcpResult="[Success];";
+

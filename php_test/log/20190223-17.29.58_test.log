@@ -1,0 +1,509 @@
+[2019-02-23 17:29:58]|***********************START************************|
+[2019-02-23 17:29:58]SLEEPTIME IS 1000000
+[2019-02-23 17:29:58]SEND IP ADDRESS:192.168.10.32
+[2019-02-23 17:29:58]MODEL IS [r]
+[2019-02-23 17:29:58]|********************Testing Now!********************|
+[2019-02-23 17:29:58][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%203
+[2019-02-23 17:29:58][send_curl]NO.1---szJcpResult="[Success];";
+
+[2019-02-23 17:29:59][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-02-23 17:29:59][send_curl]NO.2---szJcpResult="[Success];";
+
+[2019-02-23 17:30:00][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-02-23 17:30:00][send_curl]NO.3---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-23 17:30:01][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-02-23 17:30:01][send_curl]NO.4---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-23 17:30:02][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-02-23 17:30:02][send_curl]NO.5---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-23 17:30:03][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%202
+[2019-02-23 17:30:03][send_curl]NO.6---szJcpResult="[Success];";
+
+[2019-02-23 17:30:04][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-02-23 17:30:04][send_curl]NO.7---szJcpResult="[Success];";
+
+[2019-02-23 17:30:05][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%202
+[2019-02-23 17:30:05][send_curl]NO.8---szJcpResult="[Success];";
+
+[2019-02-23 17:30:06][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-02-23 17:30:06][send_curl]NO.9---szJcpResult="[Success];";
+
+[2019-02-23 17:30:07][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%202
+[2019-02-23 17:30:07][send_curl]NO.10---szJcpResult="[Success];";
+
+[2019-02-23 17:30:08][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%202
+[2019-02-23 17:30:08][send_curl]NO.11---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-23 17:30:09][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-02-23 17:30:09][send_curl]NO.12---szJcpResult="[Success];";
+
+[2019-02-23 17:30:10][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%201
+[2019-02-23 17:30:10][send_curl]NO.13---szJcpResult="[Success];";
+
+[2019-02-23 17:30:11][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-02-23 17:30:11][send_curl]NO.14---szJcpResult="[Success];";
+
+[2019-02-23 17:30:12][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%202
+[2019-02-23 17:30:12][send_curl]NO.15---szJcpResult="[Success];";
+
+[2019-02-23 17:30:13][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-02-23 17:30:13][send_curl]NO.16---szJcpResult="[Success];";
+
+[2019-02-23 17:30:14][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-02-23 17:30:14][send_curl]NO.17---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-23 17:30:15][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%201
+[2019-02-23 17:30:15][send_curl]NO.18---szJcpResult="[Success];";
+
+[2019-02-23 17:30:16][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%201
+[2019-02-23 17:30:16][send_curl]NO.19---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-23 17:30:17][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%201
+[2019-02-23 17:30:17][send_curl]NO.20---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-23 17:30:18][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%203
+[2019-02-23 17:30:18][send_curl]NO.21---szJcpResult="[Success];";
+
+[2019-02-23 17:30:19][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%202
+[2019-02-23 17:30:19][send_curl]NO.22---szJcpResult="[Success];";
+
+[2019-02-23 17:30:20][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-02-23 17:30:20][send_curl]NO.23---szJcpResult="[Success];";
+
+[2019-02-23 17:30:21][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-02-23 17:30:21][send_curl]NO.24---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-23 17:30:22][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-02-23 17:30:22][send_curl]NO.25---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-23 17:30:23][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%202
+[2019-02-23 17:30:23][send_curl]NO.26---szJcpResult="[Success];";
+
+[2019-02-23 17:30:24][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-02-23 17:30:24][send_curl]NO.27---szJcpResult="[Success];";
+
+[2019-02-23 17:30:25][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%203
+[2019-02-23 17:30:25][send_curl]NO.28---szJcpResult="[Success];";
+
+[2019-02-23 17:30:26][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%202
+[2019-02-23 17:30:26][send_curl]NO.29---szJcpResult="[Success];";
+
+[2019-02-23 17:30:27][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%202
+[2019-02-23 17:30:27][send_curl]NO.30---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-23 17:30:28][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%202
+[2019-02-23 17:30:28][send_curl]NO.31---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-23 17:30:29][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%202
+[2019-02-23 17:30:29][send_curl]NO.32---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-23 17:30:30][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%201
+[2019-02-23 17:30:30][send_curl]NO.33---szJcpResult="[Success];";
+
+[2019-02-23 17:30:31][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%202
+[2019-02-23 17:30:31][send_curl]NO.34---szJcpResult="[Success];";
+
+[2019-02-23 17:30:32][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%202
+[2019-02-23 17:30:32][send_curl]NO.35---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-23 17:30:34][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%201
+[2019-02-23 17:30:34][send_curl]NO.36---szJcpResult="[Success];";
+
+[2019-02-23 17:30:35][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-02-23 17:30:35][send_curl]NO.37---szJcpResult="[Success];";
+
+[2019-02-23 17:30:36][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%203
+[2019-02-23 17:30:36][send_curl]NO.38---szJcpResult="[Success];";
+
+[2019-02-23 17:30:37][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%202
+[2019-02-23 17:30:37][send_curl]NO.39---szJcpResult="[Success];";
+
+[2019-02-23 17:30:38][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%202
+[2019-02-23 17:30:38][send_curl]NO.40---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-23 17:30:39][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%201
+[2019-02-23 17:30:39][send_curl]NO.41---szJcpResult="[Success];";
+
+[2019-02-23 17:30:40][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%202
+[2019-02-23 17:30:40][send_curl]NO.42---szJcpResult="[Success];";
+
+[2019-02-23 17:30:41][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%202
+[2019-02-23 17:30:41][send_curl]NO.43---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-23 17:30:42][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%201
+[2019-02-23 17:30:42][send_curl]NO.44---szJcpResult="[Success];";
+
+[2019-02-23 17:30:43][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%201
+[2019-02-23 17:30:43][send_curl]NO.45---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-23 17:30:44][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%201
+[2019-02-23 17:30:44][send_curl]NO.46---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-23 17:30:45][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-02-23 17:30:45][send_curl]NO.47---szJcpResult="[Success];";
+
+[2019-02-23 17:30:46][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%201
+[2019-02-23 17:30:46][send_curl]NO.48---szJcpResult="[Success];";
+
+[2019-02-23 17:30:47][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%203
+[2019-02-23 17:30:47][send_curl]NO.49---szJcpResult="[Success];";
+
+[2019-02-23 17:30:48][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%203
+[2019-02-23 17:30:48][send_curl]NO.50---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-23 17:30:49][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%203
+[2019-02-23 17:30:49][send_curl]NO.51---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-23 17:30:50][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%203
+[2019-02-23 17:30:50][send_curl]NO.52---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-23 17:30:51][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-02-23 17:30:51][send_curl]NO.53---szJcpResult="[Success];";
+
+[2019-02-23 17:30:52][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%202
+[2019-02-23 17:30:52][send_curl]NO.54---szJcpResult="[Success];";
+
+[2019-02-23 17:30:53][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%202
+[2019-02-23 17:30:53][send_curl]NO.55---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-23 17:30:54][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-02-23 17:30:54][send_curl]NO.56---szJcpResult="[Success];";
+
+[2019-02-23 17:30:55][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%203
+[2019-02-23 17:30:55][send_curl]NO.57---szJcpResult="[Success];";
+
+[2019-02-23 17:30:56][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-02-23 17:30:56][send_curl]NO.58---szJcpResult="[Success];";
+
+[2019-02-23 17:30:57][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-02-23 17:30:57][send_curl]NO.59---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-23 17:30:58][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%201
+[2019-02-23 17:30:58][send_curl]NO.60---szJcpResult="[Success];";
+
+[2019-02-23 17:30:59][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-02-23 17:30:59][send_curl]NO.61---szJcpResult="[Success];";
+
+[2019-02-23 17:31:00][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%201
+[2019-02-23 17:31:00][send_curl]NO.62---szJcpResult="[Success];";
+
+[2019-02-23 17:31:01][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%203
+[2019-02-23 17:31:01][send_curl]NO.63---szJcpResult="[Success];";
+
+[2019-02-23 17:31:02][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%201
+[2019-02-23 17:31:02][send_curl]NO.64---szJcpResult="[Success];";
+
+[2019-02-23 17:31:03][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%203
+[2019-02-23 17:31:03][send_curl]NO.65---szJcpResult="[Success];";
+
+[2019-02-23 17:31:04][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%202
+[2019-02-23 17:31:04][send_curl]NO.66---szJcpResult="[Success];";
+
+[2019-02-23 17:31:05][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-02-23 17:31:05][send_curl]NO.67---szJcpResult="[Success];";
+
+[2019-02-23 17:31:06][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%203
+[2019-02-23 17:31:06][send_curl]NO.68---szJcpResult="[Success];";
+
+[2019-02-23 17:31:07][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-02-23 17:31:07][send_curl]NO.69---szJcpResult="[Success];";
+
+[2019-02-23 17:31:08][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%202
+[2019-02-23 17:31:08][send_curl]NO.70---szJcpResult="[Success];";
+
+[2019-02-23 17:31:09][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%203
+[2019-02-23 17:31:09][send_curl]NO.71---szJcpResult="[Success];";
+
+[2019-02-23 17:31:10][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%203
+[2019-02-23 17:31:10][send_curl]NO.72---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-23 17:31:11][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%202
+[2019-02-23 17:31:11][send_curl]NO.73---szJcpResult="[Success];";
+
+[2019-02-23 17:31:12][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%203
+[2019-02-23 17:31:12][send_curl]NO.74---szJcpResult="[Success];";
+
+[2019-02-23 17:31:13][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%202
+[2019-02-23 17:31:13][send_curl]NO.75---szJcpResult="[Success];";
+
+[2019-02-23 17:31:14][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-02-23 17:31:14][send_curl]NO.76---szJcpResult="[Success];";
+
+[2019-02-23 17:31:15][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%202
+[2019-02-23 17:31:15][send_curl]NO.77---szJcpResult="[Success];";
+
+[2019-02-23 17:31:16][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%203
+[2019-02-23 17:31:16][send_curl]NO.78---szJcpResult="[Success];";
+
+[2019-02-23 17:31:17][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%201
+[2019-02-23 17:31:17][send_curl]NO.79---szJcpResult="[Success];";
+
+[2019-02-23 17:31:18][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%201
+[2019-02-23 17:31:18][send_curl]NO.80---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-23 17:31:19][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%203
+[2019-02-23 17:31:19][send_curl]NO.81---szJcpResult="[Success];";
+
+[2019-02-23 17:31:20][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%201
+[2019-02-23 17:31:20][send_curl]NO.82---szJcpResult="[Success];";
+
+[2019-02-23 17:31:21][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%201
+[2019-02-23 17:31:21][send_curl]NO.83---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-23 17:31:22][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%202
+[2019-02-23 17:31:22][send_curl]NO.84---szJcpResult="[Success];";
+
+[2019-02-23 17:31:23][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%202
+[2019-02-23 17:31:23][send_curl]NO.85---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-23 17:31:24][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-02-23 17:31:24][send_curl]NO.86---szJcpResult="[Success];";
+
+[2019-02-23 17:31:26][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%202
+[2019-02-23 17:31:26][send_curl]NO.87---szJcpResult="[Success];";
+
+[2019-02-23 17:31:27][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%202
+[2019-02-23 17:31:27][send_curl]NO.88---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-23 17:31:28][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%201
+[2019-02-23 17:31:28][send_curl]NO.89---szJcpResult="[Success];";
+
+[2019-02-23 17:31:29][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-02-23 17:31:29][send_curl]NO.90---szJcpResult="[Success];";
+
+[2019-02-23 17:31:30][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-02-23 17:31:30][send_curl]NO.91---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-23 17:31:31][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-02-23 17:31:31][send_curl]NO.92---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-23 17:31:32][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%202
+[2019-02-23 17:31:32][send_curl]NO.93---szJcpResult="[Success];";
+
+[2019-02-23 17:31:33][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%203
+[2019-02-23 17:31:33][send_curl]NO.94---szJcpResult="[Success];";
+
+[2019-02-23 17:31:34][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-02-23 17:31:34][send_curl]NO.95---szJcpResult="[Success];";
+
+[2019-02-23 17:31:35][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%201
+[2019-02-23 17:31:35][send_curl]NO.96---szJcpResult="[Success];";
+
+[2019-02-23 17:31:36][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-02-23 17:31:36][send_curl]NO.97---szJcpResult="[Success];";
+
+[2019-02-23 17:31:37][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-02-23 17:31:37][send_curl]NO.98---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-23 17:31:38][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%201
+[2019-02-23 17:31:38][send_curl]NO.99---szJcpResult="[Success];";
+
+[2019-02-23 17:31:39][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%203
+[2019-02-23 17:31:39][send_curl]NO.100---szJcpResult="[Success];";
+
+[2019-02-23 17:31:40][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%203
+[2019-02-23 17:31:40][send_curl]NO.101---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-23 17:31:41][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%203
+[2019-02-23 17:31:41][send_curl]NO.102---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-23 17:31:42][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-02-23 17:31:42][send_curl]NO.103---szJcpResult="[Success];";
+
+[2019-02-23 17:31:43][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%201
+[2019-02-23 17:31:43][send_curl]NO.104---szJcpResult="[Success];";
+
+[2019-02-23 17:31:44][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%202
+[2019-02-23 17:31:44][send_curl]NO.105---szJcpResult="[Success];";
+
+[2019-02-23 17:31:45][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%202
+[2019-02-23 17:31:45][send_curl]NO.106---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-23 17:31:46][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%201
+[2019-02-23 17:31:46][send_curl]NO.107---szJcpResult="[Success];";
+
+[2019-02-23 17:31:47][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-02-23 17:31:47][send_curl]NO.108---szJcpResult="[Success];";
+
+[2019-02-23 17:31:48][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%202
+[2019-02-23 17:31:48][send_curl]NO.109---szJcpResult="[Success];";
+
+[2019-02-23 17:31:49][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%203
+[2019-02-23 17:31:49][send_curl]NO.110---szJcpResult="[Success];";
+
+[2019-02-23 17:31:50][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%201
+[2019-02-23 17:31:50][send_curl]NO.111---szJcpResult="[Success];";
+
+[2019-02-23 17:31:51][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%201
+[2019-02-23 17:31:51][send_curl]NO.112---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-23 17:31:52][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%202
+[2019-02-23 17:31:52][send_curl]NO.113---szJcpResult="[Success];";
+
+[2019-02-23 17:31:53][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%201
+[2019-02-23 17:31:53][send_curl]NO.114---szJcpResult="[Success];";
+
+[2019-02-23 17:31:54][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%202
+[2019-02-23 17:31:54][send_curl]NO.115---szJcpResult="[Success];";
+
+[2019-02-23 17:31:55][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%202
+[2019-02-23 17:31:55][send_curl]NO.116---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-23 17:31:56][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%202
+[2019-02-23 17:31:56][send_curl]NO.117---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-23 17:31:57][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%203
+[2019-02-23 17:31:57][send_curl]NO.118---szJcpResult="[Success];";
+
+[2019-02-23 17:31:58][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%203
+[2019-02-23 17:31:58][send_curl]NO.119---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-23 17:31:59][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%201
+[2019-02-23 17:31:59][send_curl]NO.120---szJcpResult="[Success];";
+
+[2019-02-23 17:32:00][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%203
+[2019-02-23 17:32:00][send_curl]NO.121---szJcpResult="[Success];";
+
+[2019-02-23 17:32:01][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%202
+[2019-02-23 17:32:01][send_curl]NO.122---szJcpResult="[Success];";
+
+[2019-02-23 17:32:02][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%202
+[2019-02-23 17:32:02][send_curl]NO.123---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-23 17:32:03][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%201
+[2019-02-23 17:32:03][send_curl]NO.124---szJcpResult="[Success];";
+
+[2019-02-23 17:32:04][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-02-23 17:32:04][send_curl]NO.125---szJcpResult="[Success];";
+
+[2019-02-23 17:32:05][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%201
+[2019-02-23 17:32:05][send_curl]NO.126---szJcpResult="[Success];";
+
+[2019-02-23 17:32:06][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-02-23 17:32:06][send_curl]NO.127---szJcpResult="[Success];";
+
+[2019-02-23 17:32:07][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%202
+[2019-02-23 17:32:07][send_curl]NO.128---szJcpResult="[Success];";
+
+[2019-02-23 17:32:08][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-02-23 17:32:08][send_curl]NO.129---szJcpResult="[Success];";
+
+[2019-02-23 17:32:09][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%202
+[2019-02-23 17:32:09][send_curl]NO.130---szJcpResult="[Success];";
+
+[2019-02-23 17:32:10][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%202
+[2019-02-23 17:32:10][send_curl]NO.131---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-23 17:32:11][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-02-23 17:32:11][send_curl]NO.132---szJcpResult="[Success];";
+
+[2019-02-23 17:32:12][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%201
+[2019-02-23 17:32:12][send_curl]NO.133---szJcpResult="[Success];";
+
+[2019-02-23 17:32:13][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%201
+[2019-02-23 17:32:13][send_curl]NO.134---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-23 17:32:14][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-02-23 17:32:14][send_curl]NO.135---szJcpResult="[Success];";
+
+[2019-02-23 17:32:15][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%201
+[2019-02-23 17:32:15][send_curl]NO.136---szJcpResult="[Success];";
+
+[2019-02-23 17:32:16][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%201
+[2019-02-23 17:32:16][send_curl]NO.137---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-23 17:32:17][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%202
+[2019-02-23 17:32:17][send_curl]NO.138---szJcpResult="[Success];";
+
+[2019-02-23 17:32:18][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-02-23 17:32:18][send_curl]NO.139---szJcpResult="[Success];";
+
+[2019-02-23 17:32:19][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%201
+[2019-02-23 17:32:19][send_curl]NO.140---szJcpResult="[Success];";
+
+[2019-02-23 17:32:20][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%201
+[2019-02-23 17:32:20][send_curl]NO.141---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-23 17:32:21][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%201
+[2019-02-23 17:32:21][send_curl]NO.142---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-23 17:32:22][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%201
+[2019-02-23 17:32:22][send_curl]NO.143---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-23 17:32:23][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%203
+[2019-02-23 17:32:23][send_curl]NO.144---szJcpResult="[Success];";
+
+[2019-02-23 17:32:24][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-02-23 17:32:24][send_curl]NO.145---szJcpResult="[Success];";
+
+[2019-02-23 17:32:25][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%203
+[2019-02-23 17:32:25][send_curl]NO.146---szJcpResult="[Success];";
+
+[2019-02-23 17:32:26][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%202
+[2019-02-23 17:32:26][send_curl]NO.147---szJcpResult="[Success];";
+
+[2019-02-23 17:32:27][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-02-23 17:32:27][send_curl]NO.148---szJcpResult="[Success];";
+
+[2019-02-23 17:32:28][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%203
+[2019-02-23 17:32:28][send_curl]NO.149---szJcpResult="[Success];";
+
+[2019-02-23 17:32:29][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-02-23 17:32:29][send_curl]NO.150---szJcpResult="[Success];";
+
+[2019-02-23 17:32:30][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%203
+[2019-02-23 17:32:30][send_curl]NO.151---szJcpResult="[Success];";
+
+[2019-02-23 17:32:31][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%201
+[2019-02-23 17:32:31][send_curl]NO.152---szJcpResult="[Success];";
+
+[2019-02-23 17:32:32][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-02-23 17:32:32][send_curl]NO.153---szJcpResult="[Success];";
+
+[2019-02-23 17:32:33][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%201
+[2019-02-23 17:32:33][send_curl]NO.154---szJcpResult="[Success];";
+
+[2019-02-23 17:32:34][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%201
+[2019-02-23 17:32:34][send_curl]NO.155---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-23 17:32:35][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%203
+[2019-02-23 17:32:35][send_curl]NO.156---szJcpResult="[Success];";
+
+[2019-02-23 17:32:36][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%201
+[2019-02-23 17:32:36][send_curl]NO.157---szJcpResult="[Success];";
+
+[2019-02-23 17:32:37][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%201
+[2019-02-23 17:32:37][send_curl]NO.158---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-23 17:32:38][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-02-23 17:32:38][send_curl]NO.159---szJcpResult="[Success];";
+
+[2019-02-23 17:32:40][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%201
+[2019-02-23 17:32:40][send_curl]NO.160---szJcpResult="[Success];";
+
+[2019-02-23 17:32:41][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-02-23 17:32:41][send_curl]NO.161---szJcpResult="[Success];";
+
+[2019-02-23 17:32:42][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%203
+[2019-02-23 17:32:42][send_curl]NO.162---szJcpResult="[Success];";
+
+[2019-02-23 17:32:43][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%202
+[2019-02-23 17:32:43][send_curl]NO.163---szJcpResult="[Success];";
+
+[2019-02-23 17:32:44][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%202
+[2019-02-23 17:32:44][send_curl]NO.164---szJcpResult="[Success]cmdline & xml are the same!;";
+
+[2019-02-23 17:32:45][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%203
+[2019-02-23 17:32:45][send_curl]NO.165---szJcpResult="[Success];";
+
+[2019-02-23 17:32:46][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%200
+[2019-02-23 17:32:46][send_curl]NO.166---szJcpResult="[Success];";
+
+[2019-02-23 17:32:47][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%203
+[2019-02-23 17:32:47][send_curl]NO.167---szJcpResult="[Success];";
+
+[2019-02-23 17:32:48][send_curl]http://192.168.10.32/?jcpcmd=vicfg%20-act%20set%20-reverse%202
+[2019-02-23 17:32:48][send_curl]NO.168---szJcpResult="[Success];";
+

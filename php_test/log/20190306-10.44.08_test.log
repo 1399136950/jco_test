@@ -1,0 +1,143 @@
+[2019-03-06 10:44:08]|***********************START************************|
+[2019-03-06 10:44:08]SLEEPTIME IS 1000000
+[2019-03-06 10:44:08]SEND IP ADDRESS:192.168.1.115
+[2019-03-06 10:44:08]MODEL IS [y]
+[2019-03-06 10:44:08]|********************Testing Now!********************|
+[2019-03-06 10:44:08][send_curl]http://192.168.1.115/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-06 10:44:08][send_curl]NO.1---szJcpResult="[Success];";
+
+[2019-03-06 10:44:09][send_curl]http://192.168.1.115/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-06 10:44:09][send_curl]NO.2---szJcpResult="[Success];";
+
+[2019-03-06 10:44:10][send_curl]http://192.168.1.115/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-06 10:44:10][send_curl]NO.3---szJcpResult="[Success];";
+
+[2019-03-06 10:44:11][send_curl]http://192.168.1.115/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-06 10:44:11][send_curl]NO.4---szJcpResult="[Success];";
+
+[2019-03-06 10:44:12][send_curl]http://192.168.1.115/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-06 10:44:12][send_curl]NO.5---szJcpResult="[Success];";
+
+[2019-03-06 10:44:13][send_curl]http://192.168.1.115/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-06 10:44:13][send_curl]NO.6---szJcpResult="[Success];";
+
+[2019-03-06 10:44:14][send_curl]http://192.168.1.115/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-06 10:44:14][send_curl]NO.7---szJcpResult="[Success];";
+
+[2019-03-06 10:44:15][send_curl]http://192.168.1.115/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-06 10:44:15][send_curl]NO.8---szJcpResult="[Success];";
+
+[2019-03-06 10:44:16][send_curl]http://192.168.1.115/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-06 10:44:16][send_curl]NO.9---szJcpResult="[Success];";
+
+[2019-03-06 10:44:17][send_curl]http://192.168.1.115/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-06 10:44:17][send_curl]NO.10---szJcpResult="[Success];";
+
+[2019-03-06 10:44:18][send_curl]http://192.168.1.115/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-06 10:44:18][send_curl]NO.11---szJcpResult="[Success];";
+
+[2019-03-06 10:44:19][send_curl]http://192.168.1.115/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-06 10:44:19][send_curl]NO.12---szJcpResult="[Success];";
+
+[2019-03-06 10:44:20][send_curl]http://192.168.1.115/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-06 10:44:20][send_curl]NO.13---szJcpResult="[Success];";
+
+[2019-03-06 10:44:21][send_curl]http://192.168.1.115/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-06 10:44:21][send_curl]NO.14---szJcpResult="[Success];";
+
+[2019-03-06 10:44:22][send_curl]http://192.168.1.115/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-06 10:44:22][send_curl]NO.15---szJcpResult="[Success];";
+
+[2019-03-06 10:44:23][send_curl]http://192.168.1.115/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-06 10:44:23][send_curl]NO.16---szJcpResult="[Success];";
+
+[2019-03-06 10:44:24][send_curl]http://192.168.1.115/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-06 10:44:24][send_curl]NO.17---szJcpResult="[Success];";
+
+[2019-03-06 10:44:25][send_curl]http://192.168.1.115/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-06 10:44:25][send_curl]NO.18---szJcpResult="[Success];";
+
+[2019-03-06 10:44:26][send_curl]http://192.168.1.115/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-06 10:44:26][send_curl]NO.19---szJcpResult="[Success];";
+
+[2019-03-06 10:44:27][send_curl]http://192.168.1.115/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-06 10:44:27][send_curl]NO.20---szJcpResult="[Success];";
+
+[2019-03-06 10:44:28][send_curl]http://192.168.1.115/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-06 10:44:28][send_curl]NO.21---szJcpResult="[Success];";
+
+[2019-03-06 10:44:29][send_curl]http://192.168.1.115/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-06 10:44:29][send_curl]NO.22---szJcpResult="[Success];";
+
+[2019-03-06 10:44:30][send_curl]http://192.168.1.115/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-06 10:44:30][send_curl]NO.23---szJcpResult="[Success];";
+
+[2019-03-06 10:44:31][send_curl]http://192.168.1.115/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-06 10:44:31][send_curl]NO.24---szJcpResult="[Success];";
+
+[2019-03-06 10:44:32][send_curl]http://192.168.1.115/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-06 10:44:32][send_curl]NO.25---szJcpResult="[Success];";
+
+[2019-03-06 10:44:33][send_curl]http://192.168.1.115/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-06 10:44:33][send_curl]NO.26---szJcpResult="[Success];";
+
+[2019-03-06 10:44:34][send_curl]http://192.168.1.115/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-06 10:44:34][send_curl]NO.27---szJcpResult="[Success];";
+
+[2019-03-06 10:44:35][send_curl]http://192.168.1.115/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-06 10:44:35][send_curl]NO.28---szJcpResult="[Success];";
+
+[2019-03-06 10:44:36][send_curl]http://192.168.1.115/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-06 10:44:36][send_curl]NO.29---szJcpResult="[Success];";
+
+[2019-03-06 10:44:37][send_curl]http://192.168.1.115/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-06 10:44:37][send_curl]NO.30---szJcpResult="[Success];";
+
+[2019-03-06 10:44:38][send_curl]http://192.168.1.115/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-06 10:44:38][send_curl]NO.31---szJcpResult="[Success];";
+
+[2019-03-06 10:44:39][send_curl]http://192.168.1.115/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-06 10:44:39][send_curl]NO.32---szJcpResult="[Success];";
+
+[2019-03-06 10:44:40][send_curl]http://192.168.1.115/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-06 10:44:40][send_curl]NO.33---szJcpResult="[Success];";
+
+[2019-03-06 10:44:41][send_curl]http://192.168.1.115/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-06 10:44:41][send_curl]NO.34---szJcpResult="[Success];";
+
+[2019-03-06 10:44:42][send_curl]http://192.168.1.115/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-06 10:44:42][send_curl]NO.35---szJcpResult="[Success];";
+
+[2019-03-06 10:44:43][send_curl]http://192.168.1.115/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-06 10:44:43][send_curl]NO.36---szJcpResult="[Success];";
+
+[2019-03-06 10:44:44][send_curl]http://192.168.1.115/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-06 10:44:44][send_curl]NO.37---szJcpResult="[Success];";
+
+[2019-03-06 10:44:45][send_curl]http://192.168.1.115/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-06 10:44:45][send_curl]NO.38---szJcpResult="[Success];";
+
+[2019-03-06 10:44:47][send_curl]http://192.168.1.115/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-06 10:44:47][send_curl]NO.39---szJcpResult="[Success];";
+
+[2019-03-06 10:44:48][send_curl]http://192.168.1.115/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-06 10:44:48][send_curl]NO.40---szJcpResult="[Success];";
+
+[2019-03-06 10:44:49][send_curl]http://192.168.1.115/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-06 10:44:49][send_curl]NO.41---szJcpResult="[Success];";
+
+[2019-03-06 10:44:50][send_curl]http://192.168.1.115/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-06 10:44:50][send_curl]NO.42---szJcpResult="[Success];";
+
+[2019-03-06 10:44:51][send_curl]http://192.168.1.115/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-06 10:44:51][send_curl]NO.43---szJcpResult="[Success];";
+
+[2019-03-06 10:44:52][send_curl]http://192.168.1.115/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-06 10:44:52][send_curl]NO.44---szJcpResult="[Success];";
+
+[2019-03-06 10:44:53][send_curl]http://192.168.1.115/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%202
+[2019-03-06 10:44:53][send_curl]NO.45---szJcpResult="[Success];";
+
+[2019-03-06 10:44:54][send_curl]http://192.168.1.115/?jcpcmd=osdstylecfg%20-act%20set%20-colormode%201
+[2019-03-06 10:44:54][send_curl]NO.46---szJcpResult="[Success];";
+

@@ -1,0 +1,6 @@
+__pycache__/*
+exe/*
+IEDriverServer.exe
+geckodriver.exe
+chromedriver.exe
+result/*

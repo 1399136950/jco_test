@@ -1,0 +1,833 @@
+[2020-03-04 15:29:09][get_upload_file]Upgrade Pack Is--3.4-V-T21.base.HDXP2P.gen.zh.202003041.IPC.tgz
+[2020-03-04 15:29:09][get_upload_file]Upgrade Pack Is--8.20-V-T21.base.HDXP2P.gen.zh.201908201.IPC.tgz
+[2020-03-04 15:29:09][before_execute_script]Execute Script After 10 seconds!
+[2020-03-04 15:29:09][before_execute_script]Sleep(10)
+[2020-03-04 15:29:19][before_execute_script]Start!
+[2020-03-04 15:29:19][start_upgrade_by_tgzs]Begin Collecting Test Data......
+[2020-03-04 15:29:19][new_before_upgrade_test]Upload File Now
+[2020-03-04 15:29:19][new_before_upgrade_test]NO.1,FILE IS 3.4-V-T21.base.HDXP2P.gen.zh.202003041.IPC.tgz
+[2020-03-04 15:29:19][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 15:29:20][upload_file][192.168.200.162]send file now
+[2020-03-04 15:29:20][upload_file][192.168.200.162]send file finished
+[2020-03-04 15:29:20][get_update_progressbar] 0
+[2020-03-04 15:29:22][get_update_progressbar] 0
+[2020-03-04 15:29:24][get_update_progressbar] 0
+[2020-03-04 15:29:26][get_update_progressbar] 3
+[2020-03-04 15:29:28][get_update_progressbar] 13
+[2020-03-04 15:29:30][get_update_progressbar] 13
+[2020-03-04 15:29:32][get_update_progressbar] 32
+[2020-03-04 15:29:34][get_update_progressbar] 100
+[2020-03-04 15:29:34][new_before_upgrade_test]Upload Finished,Sleep(80)
+[2020-03-04 15:30:54][new_before_upgrade_test]Result Is VA2.1.0929-20200304-HDXP2P-GEN
+[2020-03-04 15:30:54][new_before_upgrade_test]Get Test Data......It takes 95 secends
+[2020-03-04 15:30:54][new_before_upgrade_test]Sleep(30)
+[2020-03-04 15:31:24][new_before_upgrade_test]Upload File Now
+[2020-03-04 15:31:24][new_before_upgrade_test]NO.2,FILE IS 3.4-V-T21.base.HDXP2P.gen.zh.202003041.IPC.tgz
+[2020-03-04 15:31:24][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 15:31:24][upload_file][192.168.200.162]send file now
+[2020-03-04 15:31:24][upload_file][192.168.200.162]send file finished
+[2020-03-04 15:31:24][get_update_progressbar] 0
+[2020-03-04 15:31:26][get_update_progressbar] 0
+[2020-03-04 15:31:28][get_update_progressbar] 3
+[2020-03-04 15:31:30][get_update_progressbar] 3
+[2020-03-04 15:31:32][get_update_progressbar] 13
+[2020-03-04 15:31:34][get_update_progressbar] 32
+[2020-03-04 15:31:36][get_update_progressbar] 100
+[2020-03-04 15:31:36][new_before_upgrade_test]Upload Finished,Sleep(80)
+[2020-03-04 15:32:57][new_before_upgrade_test]Result Is VA2.1.0929-20200304-HDXP2P-GEN
+[2020-03-04 15:32:57][new_before_upgrade_test]Get Test Data......It takes 93 secends
+[2020-03-04 15:32:57][new_before_upgrade_test]Sleep(30)
+[2020-03-04 15:33:27][new_before_upgrade_test]Upload File Now
+[2020-03-04 15:33:27][new_before_upgrade_test]NO.1,FILE IS 8.20-V-T21.base.HDXP2P.gen.zh.201908201.IPC.tgz
+[2020-03-04 15:33:27][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 15:33:27][upload_file][192.168.200.162]send file now
+[2020-03-04 15:33:27][upload_file][192.168.200.162]send file finished
+[2020-03-04 15:33:27][get_update_progressbar] 0
+[2020-03-04 15:33:29][get_update_progressbar] 0
+[2020-03-04 15:33:31][get_update_progressbar] 0
+[2020-03-04 15:33:33][get_update_progressbar] 13
+[2020-03-04 15:33:35][get_update_progressbar] 13
+[2020-03-04 15:33:37][get_update_progressbar] 28
+[2020-03-04 15:33:39][get_update_progressbar] 100
+[2020-03-04 15:33:39][new_before_upgrade_test]Upload Finished,Sleep(80)
+[2020-03-04 15:34:59][new_before_upgrade_test]Result Is VA2.1.1708-20190820-HDXP2P-GEN
+[2020-03-04 15:34:59][new_before_upgrade_test]Get Test Data......It takes 93 secends
+[2020-03-04 15:34:59][new_before_upgrade_test]Sleep(30)
+[2020-03-04 15:35:29][new_before_upgrade_test]Upload File Now
+[2020-03-04 15:35:29][new_before_upgrade_test]NO.2,FILE IS 8.20-V-T21.base.HDXP2P.gen.zh.201908201.IPC.tgz
+[2020-03-04 15:35:29][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 15:35:29][upload_file][192.168.200.162]send file now
+[2020-03-04 15:35:29][upload_file][192.168.200.162]send file finished
+[2020-03-04 15:35:29][get_update_progressbar] 0
+[2020-03-04 15:35:31][get_update_progressbar] 0
+[2020-03-04 15:35:33][get_update_progressbar] 3
+[2020-03-04 15:35:35][get_update_progressbar] 3
+[2020-03-04 15:35:37][get_update_progressbar] 13
+[2020-03-04 15:35:39][get_update_progressbar] 13
+[2020-03-04 15:35:41][get_update_progressbar] 28
+[2020-03-04 15:35:43][get_update_progressbar] 100
+[2020-03-04 15:35:43][new_before_upgrade_test]Upload Finished,Sleep(80)
+[2020-03-04 15:37:04][new_before_upgrade_test]Result Is VA2.1.1708-20190820-HDXP2P-GEN
+[2020-03-04 15:37:04][new_before_upgrade_test]Get Test Data......It takes 95 secends
+[2020-03-04 15:37:04][new_before_upgrade_test]Sleep(30)
+[2020-03-04 15:37:34][new_before_upgrade_test]Corresponding Software Version Is:
+[2020-03-04 15:37:34][new_before_upgrade_test]3.4-V-T21.base.HDXP2P.gen.zh.202003041.IPC.tgz--VA2.1.0929-20200304-HDXP2P-GEN
+[2020-03-04 15:37:34][new_before_upgrade_test]8.20-V-T21.base.HDXP2P.gen.zh.201908201.IPC.tgz--VA2.1.1708-20190820-HDXP2P-GEN
+[2020-03-04 15:37:34][start_upgrade_by_tgzs]Data Collection Complete!Start Upgrading Now!
+[2020-03-04 15:37:34][start_upgrade_by_tgzs:79]NO.1--3.4-V-T21.base.HDXP2P.gen.zh.202003041.IPC.tgz
+[2020-03-04 15:37:34][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 15:37:34][upload_file][http://192.168.200.162/webs/updateCfg]Start Send Curl!
+[2020-03-04 15:37:43][upload_file][http://192.168.200.162/webs/updateCfg]Close Curl!
+[2020-03-04 15:37:43][get_update_progressbar] 13
+[2020-03-04 15:37:45][get_update_progressbar] 13
+[2020-03-04 15:37:47][get_update_progressbar] 28
+[2020-03-04 15:37:50][get_update_progressbar] 100
+[2020-03-04 15:37:50][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-04 15:39:10][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-03-04 15:39:10][start_upgrade_by_tgzs]The Version Is VA2.1.0929-20200304-HDXP2P-GEN
+[2020-03-04 15:39:10][start_upgrade_by_tgzs]sleep(30)
+[2020-03-04 15:39:40][start_upgrade_by_tgzs:79]NO.2--8.20-V-T21.base.HDXP2P.gen.zh.201908201.IPC.tgz
+[2020-03-04 15:39:40][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 15:39:40][upload_file][192.168.200.162]send file now
+[2020-03-04 15:39:40][upload_file][192.168.200.162]send file finished
+[2020-03-04 15:39:40][get_update_progressbar] 0
+[2020-03-04 15:39:42][get_update_progressbar] 0
+[2020-03-04 15:39:44][get_update_progressbar] 0
+[2020-03-04 15:39:46][get_update_progressbar] 3
+[2020-03-04 15:39:48][get_update_progressbar] 13
+[2020-03-04 15:39:50][get_update_progressbar] 28
+[2020-03-04 15:39:52][get_update_progressbar] 100
+[2020-03-04 15:39:52][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-04 15:41:12][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-03-04 15:41:12][start_upgrade_by_tgzs]The Version Is VA2.1.1708-20190820-HDXP2P-GEN
+[2020-03-04 15:41:12][start_upgrade_by_tgzs]sleep(30)
+[2020-03-04 15:41:42][start_upgrade_by_tgzs:79]NO.3--3.4-V-T21.base.HDXP2P.gen.zh.202003041.IPC.tgz
+[2020-03-04 15:41:42][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 15:41:42][upload_file][http://192.168.200.162/webs/updateCfg]Start Send Curl!
+[2020-03-04 15:41:50][upload_file][http://192.168.200.162/webs/updateCfg]Close Curl!
+[2020-03-04 15:41:50][get_update_progressbar] 13
+[2020-03-04 15:41:52][get_update_progressbar] 13
+[2020-03-04 15:41:54][get_update_progressbar] 15
+[2020-03-04 15:41:56][get_update_progressbar] 100
+[2020-03-04 15:41:56][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-04 15:43:16][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-03-04 15:43:16][start_upgrade_by_tgzs]The Version Is VA2.1.0929-20200304-HDXP2P-GEN
+[2020-03-04 15:43:16][start_upgrade_by_tgzs]sleep(30)
+[2020-03-04 15:43:46][start_upgrade_by_tgzs:79]NO.4--8.20-V-T21.base.HDXP2P.gen.zh.201908201.IPC.tgz
+[2020-03-04 15:43:46][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 15:43:46][upload_file][192.168.200.162]send file now
+[2020-03-04 15:43:46][upload_file][192.168.200.162]send file finished
+[2020-03-04 15:43:47][get_update_progressbar] 0
+[2020-03-04 15:43:49][get_update_progressbar] 0
+[2020-03-04 15:43:51][get_update_progressbar] 0
+[2020-03-04 15:43:53][get_update_progressbar] 3
+[2020-03-04 15:43:55][get_update_progressbar] 13
+[2020-03-04 15:43:57][get_update_progressbar] 15
+[2020-03-04 15:43:59][get_update_progressbar] 32
+[2020-03-04 15:44:01][get_update_progressbar] 100
+[2020-03-04 15:44:01][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-04 15:45:21][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-03-04 15:45:21][start_upgrade_by_tgzs]The Version Is VA2.1.1708-20190820-HDXP2P-GEN
+[2020-03-04 15:45:21][start_upgrade_by_tgzs]sleep(30)
+[2020-03-04 15:45:51][start_upgrade_by_tgzs:79]NO.5--3.4-V-T21.base.HDXP2P.gen.zh.202003041.IPC.tgz
+[2020-03-04 15:45:51][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 15:45:51][upload_file][http://192.168.200.162/webs/updateCfg]Start Send Curl!
+[2020-03-04 15:45:59][upload_file][http://192.168.200.162/webs/updateCfg]Close Curl!
+[2020-03-04 15:45:59][get_update_progressbar] 13
+[2020-03-04 15:46:01][get_update_progressbar] 13
+[2020-03-04 15:46:03][get_update_progressbar] 28
+[2020-03-04 15:46:05][get_update_progressbar] 100
+[2020-03-04 15:46:05][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-04 15:47:25][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-03-04 15:47:25][start_upgrade_by_tgzs]The Version Is VA2.1.0929-20200304-HDXP2P-GEN
+[2020-03-04 15:47:25][start_upgrade_by_tgzs]sleep(30)
+[2020-03-04 15:47:55][start_upgrade_by_tgzs:79]NO.6--8.20-V-T21.base.HDXP2P.gen.zh.201908201.IPC.tgz
+[2020-03-04 15:47:55][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 15:47:55][upload_file][192.168.200.162]send file now
+[2020-03-04 15:47:55][upload_file][192.168.200.162]send file finished
+[2020-03-04 15:47:55][get_update_progressbar] 0
+[2020-03-04 15:47:57][get_update_progressbar] 0
+[2020-03-04 15:47:59][get_update_progressbar] 0
+[2020-03-04 15:48:01][get_update_progressbar] 3
+[2020-03-04 15:48:03][get_update_progressbar] 13
+[2020-03-04 15:48:05][get_update_progressbar] 13
+[2020-03-04 15:48:07][get_update_progressbar] 32
+[2020-03-04 15:48:09][get_update_progressbar] 100
+[2020-03-04 15:48:09][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-04 15:49:30][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-03-04 15:49:30][start_upgrade_by_tgzs]The Version Is VA2.1.1708-20190820-HDXP2P-GEN
+[2020-03-04 15:49:30][start_upgrade_by_tgzs]sleep(30)
+[2020-03-04 15:50:00][start_upgrade_by_tgzs:79]NO.7--3.4-V-T21.base.HDXP2P.gen.zh.202003041.IPC.tgz
+[2020-03-04 15:50:00][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 15:50:00][upload_file][http://192.168.200.162/webs/updateCfg]Start Send Curl!
+[2020-03-04 15:50:09][upload_file][http://192.168.200.162/webs/updateCfg]Close Curl!
+[2020-03-04 15:50:09][get_update_progressbar] 13
+[2020-03-04 15:50:11][get_update_progressbar] 13
+[2020-03-04 15:50:13][get_update_progressbar] 13
+[2020-03-04 15:50:15][get_update_progressbar] 32
+[2020-03-04 15:50:17][get_update_progressbar] 100
+[2020-03-04 15:50:17][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-04 15:51:38][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-03-04 15:51:38][start_upgrade_by_tgzs]The Version Is VA2.1.0929-20200304-HDXP2P-GEN
+[2020-03-04 15:51:38][start_upgrade_by_tgzs]sleep(30)
+[2020-03-04 15:52:08][start_upgrade_by_tgzs:79]NO.8--8.20-V-T21.base.HDXP2P.gen.zh.201908201.IPC.tgz
+[2020-03-04 15:52:08][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 15:52:08][upload_file][192.168.200.162]send file now
+[2020-03-04 15:52:08][upload_file][192.168.200.162]send file finished
+[2020-03-04 15:52:08][get_update_progressbar] 0
+[2020-03-04 15:52:10][get_update_progressbar] 0
+[2020-03-04 15:52:12][get_update_progressbar] 0
+[2020-03-04 15:52:14][get_update_progressbar] 3
+[2020-03-04 15:52:16][get_update_progressbar] 13
+[2020-03-04 15:52:18][get_update_progressbar] 13
+[2020-03-04 15:52:20][get_update_progressbar] 32
+[2020-03-04 15:52:22][get_update_progressbar] 100
+[2020-03-04 15:52:22][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-04 15:53:42][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-03-04 15:53:42][start_upgrade_by_tgzs]The Version Is VA2.1.1708-20190820-HDXP2P-GEN
+[2020-03-04 15:53:42][start_upgrade_by_tgzs]sleep(30)
+[2020-03-04 15:54:12][start_upgrade_by_tgzs:79]NO.9--3.4-V-T21.base.HDXP2P.gen.zh.202003041.IPC.tgz
+[2020-03-04 15:54:12][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 15:54:12][upload_file][http://192.168.200.162/webs/updateCfg]Start Send Curl!
+[2020-03-04 15:54:20][upload_file][http://192.168.200.162/webs/updateCfg]Close Curl!
+[2020-03-04 15:54:20][get_update_progressbar] 13
+[2020-03-04 15:54:22][get_update_progressbar] 13
+[2020-03-04 15:54:24][get_update_progressbar] 28
+[2020-03-04 15:54:26][get_update_progressbar] 100
+[2020-03-04 15:54:26][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-04 15:55:46][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-03-04 15:55:46][start_upgrade_by_tgzs]The Version Is VA2.1.0929-20200304-HDXP2P-GEN
+[2020-03-04 15:55:46][start_upgrade_by_tgzs]sleep(30)
+[2020-03-04 15:56:16][start_upgrade_by_tgzs:79]NO.10--8.20-V-T21.base.HDXP2P.gen.zh.201908201.IPC.tgz
+[2020-03-04 15:56:16][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 15:56:16][upload_file][192.168.200.162]send file now
+[2020-03-04 15:56:16][upload_file][192.168.200.162]send file finished
+[2020-03-04 15:56:16][get_update_progressbar] 0
+[2020-03-04 15:56:18][get_update_progressbar] 0
+[2020-03-04 15:56:20][get_update_progressbar] 0
+[2020-03-04 15:56:22][get_update_progressbar] 3
+[2020-03-04 15:56:24][get_update_progressbar] 13
+[2020-03-04 15:56:26][get_update_progressbar] 13
+[2020-03-04 15:56:28][get_update_progressbar] 32
+[2020-03-04 15:56:30][get_update_progressbar] 100
+[2020-03-04 15:56:30][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-04 15:57:51][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-03-04 15:57:51][start_upgrade_by_tgzs]The Version Is VA2.1.1708-20190820-HDXP2P-GEN
+[2020-03-04 15:57:51][start_upgrade_by_tgzs]sleep(30)
+[2020-03-04 15:58:21][start_upgrade_by_tgzs:79]NO.11--3.4-V-T21.base.HDXP2P.gen.zh.202003041.IPC.tgz
+[2020-03-04 15:58:21][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 15:58:21][upload_file][http://192.168.200.162/webs/updateCfg]Start Send Curl!
+[2020-03-04 15:58:28][upload_file][http://192.168.200.162/webs/updateCfg]Close Curl!
+[2020-03-04 15:58:28][get_update_progressbar] 13
+[2020-03-04 15:58:30][get_update_progressbar] 13
+[2020-03-04 15:58:32][get_update_progressbar] 13
+[2020-03-04 15:58:34][get_update_progressbar] 28
+[2020-03-04 15:58:36][get_update_progressbar] 100
+[2020-03-04 15:58:36][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-04 15:59:57][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-03-04 15:59:57][start_upgrade_by_tgzs]The Version Is VA2.1.0929-20200304-HDXP2P-GEN
+[2020-03-04 15:59:57][start_upgrade_by_tgzs]sleep(30)
+[2020-03-04 16:00:27][start_upgrade_by_tgzs:79]NO.12--8.20-V-T21.base.HDXP2P.gen.zh.201908201.IPC.tgz
+[2020-03-04 16:00:27][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 16:00:27][upload_file][192.168.200.162]send file now
+[2020-03-04 16:00:27][upload_file][192.168.200.162]send file finished
+[2020-03-04 16:00:27][get_update_progressbar] 0
+[2020-03-04 16:00:29][get_update_progressbar] 0
+[2020-03-04 16:00:31][get_update_progressbar] 0
+[2020-03-04 16:00:33][get_update_progressbar] 3
+[2020-03-04 16:00:35][get_update_progressbar] 13
+[2020-03-04 16:00:37][get_update_progressbar] 13
+[2020-03-04 16:00:39][get_update_progressbar] 32
+[2020-03-04 16:00:41][get_update_progressbar] 100
+[2020-03-04 16:00:41][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-04 16:02:01][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-03-04 16:02:01][start_upgrade_by_tgzs]The Version Is VA2.1.1708-20190820-HDXP2P-GEN
+[2020-03-04 16:02:01][start_upgrade_by_tgzs]sleep(30)
+[2020-03-04 16:02:31][start_upgrade_by_tgzs:79]NO.13--3.4-V-T21.base.HDXP2P.gen.zh.202003041.IPC.tgz
+[2020-03-04 16:02:31][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 16:02:31][upload_file][http://192.168.200.162/webs/updateCfg]Start Send Curl!
+[2020-03-04 16:02:41][upload_file][http://192.168.200.162/webs/updateCfg]Close Curl!
+[2020-03-04 16:02:41][get_update_progressbar] 13
+[2020-03-04 16:02:43][get_update_progressbar] 13
+[2020-03-04 16:02:45][get_update_progressbar] 15
+[2020-03-04 16:02:47][get_update_progressbar] 100
+[2020-03-04 16:02:47][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-04 16:04:07][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-03-04 16:04:07][start_upgrade_by_tgzs]The Version Is VA2.1.0929-20200304-HDXP2P-GEN
+[2020-03-04 16:04:07][start_upgrade_by_tgzs]sleep(30)
+[2020-03-04 16:04:37][start_upgrade_by_tgzs:79]NO.14--8.20-V-T21.base.HDXP2P.gen.zh.201908201.IPC.tgz
+[2020-03-04 16:04:37][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 16:04:37][upload_file][192.168.200.162]send file now
+[2020-03-04 16:04:37][upload_file][192.168.200.162]send file finished
+[2020-03-04 16:04:37][get_update_progressbar] 0
+[2020-03-04 16:04:39][get_update_progressbar] 0
+[2020-03-04 16:04:41][get_update_progressbar] 0
+[2020-03-04 16:04:43][get_update_progressbar] 3
+[2020-03-04 16:04:45][get_update_progressbar] 13
+[2020-03-04 16:04:47][get_update_progressbar] 15
+[2020-03-04 16:04:50][get_update_progressbar] 32
+[2020-03-04 16:04:52][get_update_progressbar] 100
+[2020-03-04 16:04:52][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-04 16:06:12][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-03-04 16:06:12][start_upgrade_by_tgzs]The Version Is VA2.1.1708-20190820-HDXP2P-GEN
+[2020-03-04 16:06:12][start_upgrade_by_tgzs]sleep(30)
+[2020-03-04 16:06:42][start_upgrade_by_tgzs:79]NO.15--3.4-V-T21.base.HDXP2P.gen.zh.202003041.IPC.tgz
+[2020-03-04 16:06:42][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 16:06:42][upload_file][http://192.168.200.162/webs/updateCfg]Start Send Curl!
+[2020-03-04 16:06:50][upload_file][http://192.168.200.162/webs/updateCfg]Close Curl!
+[2020-03-04 16:06:50][get_update_progressbar] 13
+[2020-03-04 16:06:52][get_update_progressbar] 13
+[2020-03-04 16:06:54][get_update_progressbar] 28
+[2020-03-04 16:06:56][get_update_progressbar] 100
+[2020-03-04 16:06:56][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-04 16:08:16][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-03-04 16:08:16][start_upgrade_by_tgzs]The Version Is VA2.1.0929-20200304-HDXP2P-GEN
+[2020-03-04 16:08:16][start_upgrade_by_tgzs]sleep(30)
+[2020-03-04 16:08:46][start_upgrade_by_tgzs:79]NO.16--8.20-V-T21.base.HDXP2P.gen.zh.201908201.IPC.tgz
+[2020-03-04 16:08:46][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 16:08:46][upload_file][192.168.200.162]send file now
+[2020-03-04 16:08:46][upload_file][192.168.200.162]send file finished
+[2020-03-04 16:08:46][get_update_progressbar] 0
+[2020-03-04 16:08:48][get_update_progressbar] 0
+[2020-03-04 16:08:50][get_update_progressbar] 0
+[2020-03-04 16:08:52][get_update_progressbar] 13
+[2020-03-04 16:08:54][get_update_progressbar] 13
+[2020-03-04 16:08:56][get_update_progressbar] 28
+[2020-03-04 16:08:58][get_update_progressbar] 100
+[2020-03-04 16:08:58][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-04 16:10:19][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-03-04 16:10:19][start_upgrade_by_tgzs]The Version Is VA2.1.1708-20190820-HDXP2P-GEN
+[2020-03-04 16:10:19][start_upgrade_by_tgzs]sleep(30)
+[2020-03-04 16:10:49][start_upgrade_by_tgzs:79]NO.17--3.4-V-T21.base.HDXP2P.gen.zh.202003041.IPC.tgz
+[2020-03-04 16:10:49][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 16:10:49][upload_file][http://192.168.200.162/webs/updateCfg]Start Send Curl!
+[2020-03-04 16:10:59][upload_file][http://192.168.200.162/webs/updateCfg]Close Curl!
+[2020-03-04 16:10:59][get_update_progressbar] 13
+[2020-03-04 16:11:01][get_update_progressbar] 13
+[2020-03-04 16:11:03][get_update_progressbar] 15
+[2020-03-04 16:11:05][get_update_progressbar] 100
+[2020-03-04 16:11:05][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-04 16:12:25][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-03-04 16:12:25][start_upgrade_by_tgzs]The Version Is VA2.1.0929-20200304-HDXP2P-GEN
+[2020-03-04 16:12:25][start_upgrade_by_tgzs]sleep(30)
+[2020-03-04 16:12:55][start_upgrade_by_tgzs:79]NO.18--8.20-V-T21.base.HDXP2P.gen.zh.201908201.IPC.tgz
+[2020-03-04 16:12:55][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 16:12:55][upload_file][192.168.200.162]send file now
+[2020-03-04 16:12:55][upload_file][192.168.200.162]send file finished
+[2020-03-04 16:12:56][get_update_progressbar] 0
+[2020-03-04 16:12:58][get_update_progressbar] 0
+[2020-03-04 16:13:00][get_update_progressbar] 0
+[2020-03-04 16:13:02][get_update_progressbar] 3
+[2020-03-04 16:13:04][get_update_progressbar] 13
+[2020-03-04 16:13:06][get_update_progressbar] 13
+[2020-03-04 16:13:08][get_update_progressbar] 32
+[2020-03-04 16:13:10][get_update_progressbar] 100
+[2020-03-04 16:13:10][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-04 16:14:30][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-03-04 16:14:30][start_upgrade_by_tgzs]The Version Is VA2.1.1708-20190820-HDXP2P-GEN
+[2020-03-04 16:14:30][start_upgrade_by_tgzs]sleep(30)
+[2020-03-04 16:15:00][start_upgrade_by_tgzs:79]NO.19--3.4-V-T21.base.HDXP2P.gen.zh.202003041.IPC.tgz
+[2020-03-04 16:15:00][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 16:15:00][upload_file][http://192.168.200.162/webs/updateCfg]Start Send Curl!
+[2020-03-04 16:15:09][upload_file][http://192.168.200.162/webs/updateCfg]Close Curl!
+[2020-03-04 16:15:09][get_update_progressbar] 13
+[2020-03-04 16:15:11][get_update_progressbar] 13
+[2020-03-04 16:15:13][get_update_progressbar] 15
+[2020-03-04 16:15:15][get_update_progressbar] 100
+[2020-03-04 16:15:15][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-04 16:16:35][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-03-04 16:16:35][start_upgrade_by_tgzs]The Version Is VA2.1.0929-20200304-HDXP2P-GEN
+[2020-03-04 16:16:35][start_upgrade_by_tgzs]sleep(30)
+[2020-03-04 16:17:05][start_upgrade_by_tgzs:79]NO.20--8.20-V-T21.base.HDXP2P.gen.zh.201908201.IPC.tgz
+[2020-03-04 16:17:05][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 16:17:05][upload_file][192.168.200.162]send file now
+[2020-03-04 16:17:05][upload_file][192.168.200.162]send file finished
+[2020-03-04 16:17:06][get_update_progressbar] 0
+[2020-03-04 16:17:08][get_update_progressbar] 0
+[2020-03-04 16:17:10][get_update_progressbar] 0
+[2020-03-04 16:17:12][get_update_progressbar] 3
+[2020-03-04 16:17:14][get_update_progressbar] 13
+[2020-03-04 16:17:16][get_update_progressbar] 13
+[2020-03-04 16:17:18][get_update_progressbar] 32
+[2020-03-04 16:17:20][get_update_progressbar] 100
+[2020-03-04 16:17:20][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-04 16:18:40][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-03-04 16:18:40][start_upgrade_by_tgzs]The Version Is VA2.1.1708-20190820-HDXP2P-GEN
+[2020-03-04 16:18:40][start_upgrade_by_tgzs]sleep(30)
+[2020-03-04 16:19:10][start_upgrade_by_tgzs:79]NO.21--3.4-V-T21.base.HDXP2P.gen.zh.202003041.IPC.tgz
+[2020-03-04 16:19:10][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 16:19:10][upload_file][http://192.168.200.162/webs/updateCfg]Start Send Curl!
+[2020-03-04 16:19:19][upload_file][http://192.168.200.162/webs/updateCfg]Close Curl!
+[2020-03-04 16:19:19][get_update_progressbar] 13
+[2020-03-04 16:19:21][get_update_progressbar] 13
+[2020-03-04 16:19:23][get_update_progressbar] 13
+[2020-03-04 16:19:25][get_update_progressbar] 32
+[2020-03-04 16:19:27][get_update_progressbar] 100
+[2020-03-04 16:19:27][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-04 16:20:47][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-03-04 16:20:47][start_upgrade_by_tgzs]The Version Is VA2.1.0929-20200304-HDXP2P-GEN
+[2020-03-04 16:20:47][start_upgrade_by_tgzs]sleep(30)
+[2020-03-04 16:21:17][start_upgrade_by_tgzs:79]NO.22--8.20-V-T21.base.HDXP2P.gen.zh.201908201.IPC.tgz
+[2020-03-04 16:21:17][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 16:21:17][upload_file][192.168.200.162]send file now
+[2020-03-04 16:21:17][upload_file][192.168.200.162]send file finished
+[2020-03-04 16:21:18][get_update_progressbar] 0
+[2020-03-04 16:21:20][get_update_progressbar] 0
+[2020-03-04 16:21:22][get_update_progressbar] 0
+[2020-03-04 16:21:24][get_update_progressbar] 3
+[2020-03-04 16:21:26][get_update_progressbar] 13
+[2020-03-04 16:21:28][get_update_progressbar] 15
+[2020-03-04 16:21:30][get_update_progressbar] 32
+[2020-03-04 16:21:32][get_update_progressbar] 100
+[2020-03-04 16:21:32][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-04 16:22:52][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-03-04 16:22:52][start_upgrade_by_tgzs]The Version Is VA2.1.1708-20190820-HDXP2P-GEN
+[2020-03-04 16:22:52][start_upgrade_by_tgzs]sleep(30)
+[2020-03-04 16:23:22][start_upgrade_by_tgzs:79]NO.23--3.4-V-T21.base.HDXP2P.gen.zh.202003041.IPC.tgz
+[2020-03-04 16:23:22][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 16:23:22][upload_file][http://192.168.200.162/webs/updateCfg]Start Send Curl!
+[2020-03-04 16:23:30][upload_file][http://192.168.200.162/webs/updateCfg]Close Curl!
+[2020-03-04 16:23:30][get_update_progressbar] 13
+[2020-03-04 16:23:32][get_update_progressbar] 13
+[2020-03-04 16:23:34][get_update_progressbar] 28
+[2020-03-04 16:23:36][get_update_progressbar] 100
+[2020-03-04 16:23:36][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-04 16:24:56][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-03-04 16:24:56][start_upgrade_by_tgzs]The Version Is VA2.1.0929-20200304-HDXP2P-GEN
+[2020-03-04 16:24:56][start_upgrade_by_tgzs]sleep(30)
+[2020-03-04 16:25:26][start_upgrade_by_tgzs:79]NO.24--8.20-V-T21.base.HDXP2P.gen.zh.201908201.IPC.tgz
+[2020-03-04 16:25:26][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 16:25:26][upload_file][192.168.200.162]send file now
+[2020-03-04 16:25:26][upload_file][192.168.200.162]send file finished
+[2020-03-04 16:25:27][get_update_progressbar] 0
+[2020-03-04 16:25:29][get_update_progressbar] 0
+[2020-03-04 16:25:31][get_update_progressbar] 0
+[2020-03-04 16:25:33][get_update_progressbar] 3
+[2020-03-04 16:25:35][get_update_progressbar] 13
+[2020-03-04 16:25:37][get_update_progressbar] 32
+[2020-03-04 16:25:39][get_update_progressbar] 100
+[2020-03-04 16:25:39][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-04 16:26:59][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-03-04 16:26:59][start_upgrade_by_tgzs]The Version Is VA2.1.1708-20190820-HDXP2P-GEN
+[2020-03-04 16:26:59][start_upgrade_by_tgzs]sleep(30)
+[2020-03-04 16:27:29][start_upgrade_by_tgzs:79]NO.25--3.4-V-T21.base.HDXP2P.gen.zh.202003041.IPC.tgz
+[2020-03-04 16:27:29][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 16:27:29][upload_file][http://192.168.200.162/webs/updateCfg]Start Send Curl!
+[2020-03-04 16:27:38][upload_file][http://192.168.200.162/webs/updateCfg]Close Curl!
+[2020-03-04 16:27:38][get_update_progressbar] 13
+[2020-03-04 16:27:40][get_update_progressbar] 13
+[2020-03-04 16:27:42][get_update_progressbar] 15
+[2020-03-04 16:27:44][get_update_progressbar] 32
+[2020-03-04 16:27:46][get_update_progressbar] 100
+[2020-03-04 16:27:46][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-04 16:29:06][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-03-04 16:29:06][start_upgrade_by_tgzs]The Version Is VA2.1.0929-20200304-HDXP2P-GEN
+[2020-03-04 16:29:06][start_upgrade_by_tgzs]sleep(30)
+[2020-03-04 16:29:36][start_upgrade_by_tgzs:79]NO.26--8.20-V-T21.base.HDXP2P.gen.zh.201908201.IPC.tgz
+[2020-03-04 16:29:36][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 16:29:36][upload_file][192.168.200.162]send file now
+[2020-03-04 16:29:36][upload_file][192.168.200.162]send file finished
+[2020-03-04 16:29:37][get_update_progressbar] 0
+[2020-03-04 16:29:39][get_update_progressbar] 0
+[2020-03-04 16:29:41][get_update_progressbar] 0
+[2020-03-04 16:29:43][get_update_progressbar] 3
+[2020-03-04 16:29:45][get_update_progressbar] 13
+[2020-03-04 16:29:47][get_update_progressbar] 15
+[2020-03-04 16:29:49][get_update_progressbar] 32
+[2020-03-04 16:29:51][get_update_progressbar] 100
+[2020-03-04 16:29:51][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-04 16:31:11][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-03-04 16:31:11][start_upgrade_by_tgzs]The Version Is VA2.1.1708-20190820-HDXP2P-GEN
+[2020-03-04 16:31:11][start_upgrade_by_tgzs]sleep(30)
+[2020-03-04 16:31:41][start_upgrade_by_tgzs:79]NO.27--3.4-V-T21.base.HDXP2P.gen.zh.202003041.IPC.tgz
+[2020-03-04 16:31:41][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 16:31:41][upload_file][http://192.168.200.162/webs/updateCfg]Start Send Curl!
+[2020-03-04 16:31:49][upload_file][http://192.168.200.162/webs/updateCfg]Close Curl!
+[2020-03-04 16:31:49][get_update_progressbar] 13
+[2020-03-04 16:31:51][get_update_progressbar] 13
+[2020-03-04 16:31:53][get_update_progressbar] 13
+[2020-03-04 16:31:55][get_update_progressbar] 32
+[2020-03-04 16:31:57][get_update_progressbar] 100
+[2020-03-04 16:31:57][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-04 16:33:18][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-03-04 16:33:18][start_upgrade_by_tgzs]The Version Is VA2.1.0929-20200304-HDXP2P-GEN
+[2020-03-04 16:33:18][start_upgrade_by_tgzs]sleep(30)
+[2020-03-04 16:33:48][start_upgrade_by_tgzs:79]NO.28--8.20-V-T21.base.HDXP2P.gen.zh.201908201.IPC.tgz
+[2020-03-04 16:33:48][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 16:33:48][upload_file][192.168.200.162]send file now
+[2020-03-04 16:33:48][upload_file][192.168.200.162]send file finished
+[2020-03-04 16:33:48][get_update_progressbar] 0
+[2020-03-04 16:33:50][get_update_progressbar] 0
+[2020-03-04 16:33:52][get_update_progressbar] 0
+[2020-03-04 16:33:54][get_update_progressbar] 3
+[2020-03-04 16:33:56][get_update_progressbar] 13
+[2020-03-04 16:33:58][get_update_progressbar] 13
+[2020-03-04 16:34:00][get_update_progressbar] 28
+[2020-03-04 16:34:02][get_update_progressbar] 100
+[2020-03-04 16:34:02][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-04 16:35:22][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-03-04 16:35:22][start_upgrade_by_tgzs]The Version Is VA2.1.1708-20190820-HDXP2P-GEN
+[2020-03-04 16:35:22][start_upgrade_by_tgzs]sleep(30)
+[2020-03-04 16:35:52][start_upgrade_by_tgzs:79]NO.29--3.4-V-T21.base.HDXP2P.gen.zh.202003041.IPC.tgz
+[2020-03-04 16:35:52][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 16:35:52][upload_file][http://192.168.200.162/webs/updateCfg]Start Send Curl!
+[2020-03-04 16:36:01][upload_file][http://192.168.200.162/webs/updateCfg]Close Curl!
+[2020-03-04 16:36:02][get_update_progressbar] 13
+[2020-03-04 16:36:04][get_update_progressbar] 13
+[2020-03-04 16:36:06][get_update_progressbar] 13
+[2020-03-04 16:36:08][get_update_progressbar] 32
+[2020-03-04 16:36:10][get_update_progressbar] 100
+[2020-03-04 16:36:10][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-04 16:37:30][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-03-04 16:37:30][start_upgrade_by_tgzs]The Version Is VA2.1.0929-20200304-HDXP2P-GEN
+[2020-03-04 16:37:30][start_upgrade_by_tgzs]sleep(30)
+[2020-03-04 16:38:00][start_upgrade_by_tgzs:79]NO.30--8.20-V-T21.base.HDXP2P.gen.zh.201908201.IPC.tgz
+[2020-03-04 16:38:00][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 16:38:00][upload_file][192.168.200.162]send file now
+[2020-03-04 16:38:00][upload_file][192.168.200.162]send file finished
+[2020-03-04 16:38:00][get_update_progressbar] 0
+[2020-03-04 16:38:02][get_update_progressbar] 0
+[2020-03-04 16:38:04][get_update_progressbar] 0
+[2020-03-04 16:38:06][get_update_progressbar] 3
+[2020-03-04 16:38:09][get_update_progressbar] 13
+[2020-03-04 16:38:11][get_update_progressbar] 13
+[2020-03-04 16:38:13][get_update_progressbar] 28
+[2020-03-04 16:38:15][get_update_progressbar] 100
+[2020-03-04 16:38:15][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-04 16:39:35][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-03-04 16:39:35][start_upgrade_by_tgzs]The Version Is VA2.1.1708-20190820-HDXP2P-GEN
+[2020-03-04 16:39:35][start_upgrade_by_tgzs]sleep(30)
+[2020-03-04 16:40:05][start_upgrade_by_tgzs:79]NO.31--3.4-V-T21.base.HDXP2P.gen.zh.202003041.IPC.tgz
+[2020-03-04 16:40:05][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 16:40:05][upload_file][http://192.168.200.162/webs/updateCfg]Start Send Curl!
+[2020-03-04 16:40:14][upload_file][http://192.168.200.162/webs/updateCfg]Close Curl!
+[2020-03-04 16:40:14][get_update_progressbar] 13
+[2020-03-04 16:40:16][get_update_progressbar] 13
+[2020-03-04 16:40:18][get_update_progressbar] 32
+[2020-03-04 16:40:20][get_update_progressbar] 100
+[2020-03-04 16:40:20][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-04 16:41:40][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-03-04 16:41:40][start_upgrade_by_tgzs]The Version Is VA2.1.0929-20200304-HDXP2P-GEN
+[2020-03-04 16:41:40][start_upgrade_by_tgzs]sleep(30)
+[2020-03-04 16:42:10][start_upgrade_by_tgzs:79]NO.32--8.20-V-T21.base.HDXP2P.gen.zh.201908201.IPC.tgz
+[2020-03-04 16:42:10][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 16:42:10][upload_file][192.168.200.162]send file now
+[2020-03-04 16:42:10][upload_file][192.168.200.162]send file finished
+[2020-03-04 16:42:10][get_update_progressbar] 0
+[2020-03-04 16:42:12][get_update_progressbar] 0
+[2020-03-04 16:42:14][get_update_progressbar] 0
+[2020-03-04 16:42:16][get_update_progressbar] 13
+[2020-03-04 16:42:18][get_update_progressbar] 13
+[2020-03-04 16:42:20][get_update_progressbar] 15
+[2020-03-04 16:42:23][get_update_progressbar] 100
+[2020-03-04 16:42:23][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-04 16:43:43][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-03-04 16:43:43][start_upgrade_by_tgzs]The Version Is VA2.1.1708-20190820-HDXP2P-GEN
+[2020-03-04 16:43:43][start_upgrade_by_tgzs]sleep(30)
+[2020-03-04 16:44:13][start_upgrade_by_tgzs:79]NO.33--3.4-V-T21.base.HDXP2P.gen.zh.202003041.IPC.tgz
+[2020-03-04 16:44:13][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 16:44:13][upload_file][http://192.168.200.162/webs/updateCfg]Start Send Curl!
+[2020-03-04 16:44:20][upload_file][http://192.168.200.162/webs/updateCfg]Close Curl!
+[2020-03-04 16:44:21][get_update_progressbar] 13
+[2020-03-04 16:44:23][get_update_progressbar] 13
+[2020-03-04 16:44:25][get_update_progressbar] 13
+[2020-03-04 16:44:27][get_update_progressbar] 32
+[2020-03-04 16:44:29][get_update_progressbar] 100
+[2020-03-04 16:44:29][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-04 16:45:49][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-03-04 16:45:49][start_upgrade_by_tgzs]The Version Is VA2.1.0929-20200304-HDXP2P-GEN
+[2020-03-04 16:45:49][start_upgrade_by_tgzs]sleep(30)
+[2020-03-04 16:46:19][start_upgrade_by_tgzs:79]NO.34--8.20-V-T21.base.HDXP2P.gen.zh.201908201.IPC.tgz
+[2020-03-04 16:46:19][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 16:46:19][upload_file][192.168.200.162]send file now
+[2020-03-04 16:46:19][upload_file][192.168.200.162]send file finished
+[2020-03-04 16:46:19][get_update_progressbar] 0
+[2020-03-04 16:46:21][get_update_progressbar] 0
+[2020-03-04 16:46:23][get_update_progressbar] 0
+[2020-03-04 16:46:25][get_update_progressbar] 3
+[2020-03-04 16:46:27][get_update_progressbar] 13
+[2020-03-04 16:46:29][get_update_progressbar] 13
+[2020-03-04 16:46:31][get_update_progressbar] 32
+[2020-03-04 16:46:33][get_update_progressbar] 100
+[2020-03-04 16:46:33][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-04 16:47:54][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-03-04 16:47:54][start_upgrade_by_tgzs]The Version Is VA2.1.1708-20190820-HDXP2P-GEN
+[2020-03-04 16:47:54][start_upgrade_by_tgzs]sleep(30)
+[2020-03-04 16:48:24][start_upgrade_by_tgzs:79]NO.35--3.4-V-T21.base.HDXP2P.gen.zh.202003041.IPC.tgz
+[2020-03-04 16:48:24][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 16:48:24][upload_file][http://192.168.200.162/webs/updateCfg]Start Send Curl!
+[2020-03-04 16:48:33][upload_file][http://192.168.200.162/webs/updateCfg]Close Curl!
+[2020-03-04 16:48:33][get_update_progressbar] 13
+[2020-03-04 16:48:35][get_update_progressbar] 13
+[2020-03-04 16:48:37][get_update_progressbar] 32
+[2020-03-04 16:48:39][get_update_progressbar] 100
+[2020-03-04 16:48:39][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-04 16:49:59][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-03-04 16:49:59][start_upgrade_by_tgzs]The Version Is VA2.1.0929-20200304-HDXP2P-GEN
+[2020-03-04 16:49:59][start_upgrade_by_tgzs]sleep(30)
+[2020-03-04 16:50:29][start_upgrade_by_tgzs:79]NO.36--8.20-V-T21.base.HDXP2P.gen.zh.201908201.IPC.tgz
+[2020-03-04 16:50:29][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 16:50:29][upload_file][192.168.200.162]send file now
+[2020-03-04 16:50:29][upload_file][192.168.200.162]send file finished
+[2020-03-04 16:50:29][get_update_progressbar] 0
+[2020-03-04 16:50:31][get_update_progressbar] 0
+[2020-03-04 16:50:33][get_update_progressbar] 0
+[2020-03-04 16:50:35][get_update_progressbar] 3
+[2020-03-04 16:50:37][get_update_progressbar] 13
+[2020-03-04 16:50:39][get_update_progressbar] 13
+[2020-03-04 16:50:41][get_update_progressbar] 32
+[2020-03-04 16:50:43][get_update_progressbar] 100
+[2020-03-04 16:50:43][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-04 16:52:03][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-03-04 16:52:03][start_upgrade_by_tgzs]The Version Is VA2.1.1708-20190820-HDXP2P-GEN
+[2020-03-04 16:52:03][start_upgrade_by_tgzs]sleep(30)
+[2020-03-04 16:52:33][start_upgrade_by_tgzs:79]NO.37--3.4-V-T21.base.HDXP2P.gen.zh.202003041.IPC.tgz
+[2020-03-04 16:52:33][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 16:52:33][upload_file][http://192.168.200.162/webs/updateCfg]Start Send Curl!
+[2020-03-04 16:52:42][upload_file][http://192.168.200.162/webs/updateCfg]Close Curl!
+[2020-03-04 16:52:42][get_update_progressbar] 13
+[2020-03-04 16:52:44][get_update_progressbar] 13
+[2020-03-04 16:52:46][get_update_progressbar] 13
+[2020-03-04 16:52:48][get_update_progressbar] 32
+[2020-03-04 16:52:50][get_update_progressbar] 100
+[2020-03-04 16:52:50][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-04 16:54:11][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-03-04 16:54:11][start_upgrade_by_tgzs]The Version Is VA2.1.0929-20200304-HDXP2P-GEN
+[2020-03-04 16:54:11][start_upgrade_by_tgzs]sleep(30)
+[2020-03-04 16:54:41][start_upgrade_by_tgzs:79]NO.38--8.20-V-T21.base.HDXP2P.gen.zh.201908201.IPC.tgz
+[2020-03-04 16:54:41][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 16:54:41][upload_file][192.168.200.162]send file now
+[2020-03-04 16:54:41][upload_file][192.168.200.162]send file finished
+[2020-03-04 16:54:41][get_update_progressbar] 0
+[2020-03-04 16:54:43][get_update_progressbar] 0
+[2020-03-04 16:54:45][get_update_progressbar] 0
+[2020-03-04 16:54:47][get_update_progressbar] 3
+[2020-03-04 16:54:49][get_update_progressbar] 13
+[2020-03-04 16:54:51][get_update_progressbar] 13
+[2020-03-04 16:54:53][get_update_progressbar] 32
+[2020-03-04 16:54:55][get_update_progressbar] 100
+[2020-03-04 16:54:55][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-04 16:56:15][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-03-04 16:56:15][start_upgrade_by_tgzs]The Version Is VA2.1.1708-20190820-HDXP2P-GEN
+[2020-03-04 16:56:15][start_upgrade_by_tgzs]sleep(30)
+[2020-03-04 16:56:45][start_upgrade_by_tgzs:79]NO.39--3.4-V-T21.base.HDXP2P.gen.zh.202003041.IPC.tgz
+[2020-03-04 16:56:45][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 16:56:45][upload_file][http://192.168.200.162/webs/updateCfg]Start Send Curl!
+[2020-03-04 16:56:55][upload_file][http://192.168.200.162/webs/updateCfg]Close Curl!
+[2020-03-04 16:56:55][get_update_progressbar] 13
+[2020-03-04 16:56:57][get_update_progressbar] 13
+[2020-03-04 16:56:59][get_update_progressbar] 28
+[2020-03-04 16:57:01][get_update_progressbar] 100
+[2020-03-04 16:57:01][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-04 16:58:21][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-03-04 16:58:21][start_upgrade_by_tgzs]The Version Is VA2.1.0929-20200304-HDXP2P-GEN
+[2020-03-04 16:58:21][start_upgrade_by_tgzs]sleep(30)
+[2020-03-04 16:58:51][start_upgrade_by_tgzs:79]NO.40--8.20-V-T21.base.HDXP2P.gen.zh.201908201.IPC.tgz
+[2020-03-04 16:58:51][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 16:58:51][upload_file][192.168.200.162]send file now
+[2020-03-04 16:58:51][upload_file][192.168.200.162]send file finished
+[2020-03-04 16:58:51][get_update_progressbar] 0
+[2020-03-04 16:58:53][get_update_progressbar] 0
+[2020-03-04 16:58:55][get_update_progressbar] 0
+[2020-03-04 16:58:57][get_update_progressbar] 3
+[2020-03-04 16:58:59][get_update_progressbar] 13
+[2020-03-04 16:59:01][get_update_progressbar] 15
+[2020-03-04 16:59:03][get_update_progressbar] 32
+[2020-03-04 16:59:05][get_update_progressbar] 100
+[2020-03-04 16:59:05][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-04 17:00:26][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-03-04 17:00:26][start_upgrade_by_tgzs]The Version Is VA2.1.1708-20190820-HDXP2P-GEN
+[2020-03-04 17:00:26][start_upgrade_by_tgzs]sleep(30)
+[2020-03-04 17:00:56][start_upgrade_by_tgzs:79]NO.41--3.4-V-T21.base.HDXP2P.gen.zh.202003041.IPC.tgz
+[2020-03-04 17:00:56][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 17:00:56][upload_file][http://192.168.200.162/webs/updateCfg]Start Send Curl!
+[2020-03-04 17:01:04][upload_file][http://192.168.200.162/webs/updateCfg]Close Curl!
+[2020-03-04 17:01:04][get_update_progressbar] 13
+[2020-03-04 17:01:06][get_update_progressbar] 13
+[2020-03-04 17:01:08][get_update_progressbar] 15
+[2020-03-04 17:01:10][get_update_progressbar] 100
+[2020-03-04 17:01:10][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-04 17:02:30][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-03-04 17:02:30][start_upgrade_by_tgzs]The Version Is VA2.1.0929-20200304-HDXP2P-GEN
+[2020-03-04 17:02:30][start_upgrade_by_tgzs]sleep(30)
+[2020-03-04 17:03:00][start_upgrade_by_tgzs:79]NO.42--8.20-V-T21.base.HDXP2P.gen.zh.201908201.IPC.tgz
+[2020-03-04 17:03:00][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 17:03:00][upload_file][192.168.200.162]send file now
+[2020-03-04 17:03:00][upload_file][192.168.200.162]send file finished
+[2020-03-04 17:03:01][get_update_progressbar] 0
+[2020-03-04 17:03:03][get_update_progressbar] 0
+[2020-03-04 17:03:05][get_update_progressbar] 0
+[2020-03-04 17:03:07][get_update_progressbar] 3
+[2020-03-04 17:03:09][get_update_progressbar] 13
+[2020-03-04 17:03:11][get_update_progressbar] 15
+[2020-03-04 17:03:13][get_update_progressbar] 32
+[2020-03-04 17:03:15][get_update_progressbar] 100
+[2020-03-04 17:03:15][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-04 17:04:35][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-03-04 17:04:35][start_upgrade_by_tgzs]The Version Is VA2.1.1708-20190820-HDXP2P-GEN
+[2020-03-04 17:04:35][start_upgrade_by_tgzs]sleep(30)
+[2020-03-04 17:05:05][start_upgrade_by_tgzs:79]NO.43--3.4-V-T21.base.HDXP2P.gen.zh.202003041.IPC.tgz
+[2020-03-04 17:05:05][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 17:05:05][upload_file][http://192.168.200.162/webs/updateCfg]Start Send Curl!
+[2020-03-04 17:05:13][upload_file][http://192.168.200.162/webs/updateCfg]Close Curl!
+[2020-03-04 17:05:13][get_update_progressbar] 13
+[2020-03-04 17:05:15][get_update_progressbar] 13
+[2020-03-04 17:05:17][get_update_progressbar] 32
+[2020-03-04 17:05:19][get_update_progressbar] 100
+[2020-03-04 17:05:19][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-04 17:06:40][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-03-04 17:06:40][start_upgrade_by_tgzs]The Version Is VA2.1.0929-20200304-HDXP2P-GEN
+[2020-03-04 17:06:40][start_upgrade_by_tgzs]sleep(30)
+[2020-03-04 17:07:10][start_upgrade_by_tgzs:79]NO.44--8.20-V-T21.base.HDXP2P.gen.zh.201908201.IPC.tgz
+[2020-03-04 17:07:10][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 17:07:10][upload_file][192.168.200.162]send file now
+[2020-03-04 17:07:10][upload_file][192.168.200.162]send file finished
+[2020-03-04 17:07:10][get_update_progressbar] 0
+[2020-03-04 17:07:12][get_update_progressbar] 0
+[2020-03-04 17:07:14][get_update_progressbar] 0
+[2020-03-04 17:07:16][get_update_progressbar] 3
+[2020-03-04 17:07:18][get_update_progressbar] 13
+[2020-03-04 17:07:20][get_update_progressbar] 13
+[2020-03-04 17:07:22][get_update_progressbar] 28
+[2020-03-04 17:07:24][get_update_progressbar] 100
+[2020-03-04 17:07:24][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-04 17:08:44][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-03-04 17:08:44][start_upgrade_by_tgzs]The Version Is VA2.1.1708-20190820-HDXP2P-GEN
+[2020-03-04 17:08:44][start_upgrade_by_tgzs]sleep(30)
+[2020-03-04 17:09:14][start_upgrade_by_tgzs:79]NO.45--3.4-V-T21.base.HDXP2P.gen.zh.202003041.IPC.tgz
+[2020-03-04 17:09:14][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 17:09:14][upload_file][http://192.168.200.162/webs/updateCfg]Start Send Curl!
+[2020-03-04 17:09:24][upload_file][http://192.168.200.162/webs/updateCfg]Close Curl!
+[2020-03-04 17:09:24][get_update_progressbar] 13
+[2020-03-04 17:09:26][get_update_progressbar] 13
+[2020-03-04 17:09:28][get_update_progressbar] 28
+[2020-03-04 17:09:30][get_update_progressbar] 100
+[2020-03-04 17:09:30][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-04 17:10:50][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-03-04 17:10:50][start_upgrade_by_tgzs]The Version Is VA2.1.0929-20200304-HDXP2P-GEN
+[2020-03-04 17:10:50][start_upgrade_by_tgzs]sleep(30)
+[2020-03-04 17:11:20][start_upgrade_by_tgzs:79]NO.46--8.20-V-T21.base.HDXP2P.gen.zh.201908201.IPC.tgz
+[2020-03-04 17:11:20][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 17:11:20][upload_file][192.168.200.162]send file now
+[2020-03-04 17:11:20][upload_file][192.168.200.162]send file finished
+[2020-03-04 17:11:20][get_update_progressbar] 0
+[2020-03-04 17:11:22][get_update_progressbar] 0
+[2020-03-04 17:11:24][get_update_progressbar] 0
+[2020-03-04 17:11:26][get_update_progressbar] 3
+[2020-03-04 17:11:28][get_update_progressbar] 13
+[2020-03-04 17:11:30][get_update_progressbar] 13
+[2020-03-04 17:11:32][get_update_progressbar] 15
+[2020-03-04 17:11:34][get_update_progressbar] 100
+[2020-03-04 17:11:34][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-04 17:12:54][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-03-04 17:12:54][start_upgrade_by_tgzs]The Version Is VA2.1.1708-20190820-HDXP2P-GEN
+[2020-03-04 17:12:54][start_upgrade_by_tgzs]sleep(30)
+[2020-03-04 17:13:24][start_upgrade_by_tgzs:79]NO.47--3.4-V-T21.base.HDXP2P.gen.zh.202003041.IPC.tgz
+[2020-03-04 17:13:24][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 17:13:24][upload_file][http://192.168.200.162/webs/updateCfg]Start Send Curl!
+[2020-03-04 17:13:32][upload_file][http://192.168.200.162/webs/updateCfg]Close Curl!
+[2020-03-04 17:13:33][get_update_progressbar] 13
+[2020-03-04 17:13:35][get_update_progressbar] 13
+[2020-03-04 17:13:37][get_update_progressbar] 28
+[2020-03-04 17:13:39][get_update_progressbar] 100
+[2020-03-04 17:13:39][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-04 17:14:59][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-03-04 17:14:59][start_upgrade_by_tgzs]The Version Is VA2.1.0929-20200304-HDXP2P-GEN
+[2020-03-04 17:14:59][start_upgrade_by_tgzs]sleep(30)
+[2020-03-04 17:15:29][start_upgrade_by_tgzs:79]NO.48--8.20-V-T21.base.HDXP2P.gen.zh.201908201.IPC.tgz
+[2020-03-04 17:15:29][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 17:15:29][upload_file][192.168.200.162]send file now
+[2020-03-04 17:15:29][upload_file][192.168.200.162]send file finished
+[2020-03-04 17:15:29][get_update_progressbar] 0
+[2020-03-04 17:15:31][get_update_progressbar] 0
+[2020-03-04 17:15:33][get_update_progressbar] 0
+[2020-03-04 17:15:35][get_update_progressbar] 3
+[2020-03-04 17:15:37][get_update_progressbar] 13
+[2020-03-04 17:15:39][get_update_progressbar] 15
+[2020-03-04 17:15:41][get_update_progressbar] 32
+[2020-03-04 17:15:43][get_update_progressbar] 100
+[2020-03-04 17:15:43][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-04 17:17:03][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-03-04 17:17:03][start_upgrade_by_tgzs]The Version Is VA2.1.1708-20190820-HDXP2P-GEN
+[2020-03-04 17:17:03][start_upgrade_by_tgzs]sleep(30)
+[2020-03-04 17:17:33][start_upgrade_by_tgzs:79]NO.49--3.4-V-T21.base.HDXP2P.gen.zh.202003041.IPC.tgz
+[2020-03-04 17:17:33][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 17:17:33][upload_file][http://192.168.200.162/webs/updateCfg]Start Send Curl!
+[2020-03-04 17:17:41][upload_file][http://192.168.200.162/webs/updateCfg]Close Curl!
+[2020-03-04 17:17:41][get_update_progressbar] 13
+[2020-03-04 17:17:43][get_update_progressbar] 13
+[2020-03-04 17:17:45][get_update_progressbar] 13
+[2020-03-04 17:17:47][get_update_progressbar] 32
+[2020-03-04 17:17:49][get_update_progressbar] 100
+[2020-03-04 17:17:49][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-04 17:19:10][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-03-04 17:19:10][start_upgrade_by_tgzs]The Version Is VA2.1.0929-20200304-HDXP2P-GEN
+[2020-03-04 17:19:10][start_upgrade_by_tgzs]sleep(30)
+[2020-03-04 17:19:40][start_upgrade_by_tgzs:79]NO.50--8.20-V-T21.base.HDXP2P.gen.zh.201908201.IPC.tgz
+[2020-03-04 17:19:40][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 17:19:40][upload_file][192.168.200.162]send file now
+[2020-03-04 17:19:40][upload_file][192.168.200.162]send file finished
+[2020-03-04 17:19:40][get_update_progressbar] 0
+[2020-03-04 17:19:42][get_update_progressbar] 0
+[2020-03-04 17:19:44][get_update_progressbar] 0
+[2020-03-04 17:19:46][get_update_progressbar] 13
+[2020-03-04 17:19:48][get_update_progressbar] 13
+[2020-03-04 17:19:50][get_update_progressbar] 28
+[2020-03-04 17:19:52][get_update_progressbar] 100
+[2020-03-04 17:19:52][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-04 17:21:12][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-03-04 17:21:12][start_upgrade_by_tgzs]The Version Is VA2.1.1708-20190820-HDXP2P-GEN
+[2020-03-04 17:21:12][start_upgrade_by_tgzs]sleep(30)
+[2020-03-04 17:21:42][start_upgrade_by_tgzs:79]NO.51--3.4-V-T21.base.HDXP2P.gen.zh.202003041.IPC.tgz
+[2020-03-04 17:21:42][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 17:21:42][upload_file][http://192.168.200.162/webs/updateCfg]Start Send Curl!
+[2020-03-04 17:21:51][upload_file][http://192.168.200.162/webs/updateCfg]Close Curl!
+[2020-03-04 17:21:51][get_update_progressbar] 13
+[2020-03-04 17:21:53][get_update_progressbar] 13
+[2020-03-04 17:21:55][get_update_progressbar] 15
+[2020-03-04 17:21:57][get_update_progressbar] 100
+[2020-03-04 17:21:57][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-04 17:23:17][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-03-04 17:23:17][start_upgrade_by_tgzs]The Version Is VA2.1.0929-20200304-HDXP2P-GEN
+[2020-03-04 17:23:17][start_upgrade_by_tgzs]sleep(30)
+[2020-03-04 17:23:47][start_upgrade_by_tgzs:79]NO.52--8.20-V-T21.base.HDXP2P.gen.zh.201908201.IPC.tgz
+[2020-03-04 17:23:47][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 17:23:47][upload_file][192.168.200.162]send file now
+[2020-03-04 17:23:47][upload_file][192.168.200.162]send file finished
+[2020-03-04 17:23:47][get_update_progressbar] 0
+[2020-03-04 17:23:49][get_update_progressbar] 0
+[2020-03-04 17:23:51][get_update_progressbar] 0
+[2020-03-04 17:23:53][get_update_progressbar] 3
+[2020-03-04 17:23:55][get_update_progressbar] 13
+[2020-03-04 17:23:57][get_update_progressbar] 13
+[2020-03-04 17:23:59][get_update_progressbar] 32
+[2020-03-04 17:24:01][get_update_progressbar] 100
+[2020-03-04 17:24:01][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-04 17:25:22][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-03-04 17:25:22][start_upgrade_by_tgzs]The Version Is VA2.1.1708-20190820-HDXP2P-GEN
+[2020-03-04 17:25:22][start_upgrade_by_tgzs]sleep(30)
+[2020-03-04 17:25:52][start_upgrade_by_tgzs:79]NO.53--3.4-V-T21.base.HDXP2P.gen.zh.202003041.IPC.tgz
+[2020-03-04 17:25:52][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 17:25:52][upload_file][http://192.168.200.162/webs/updateCfg]Start Send Curl!
+[2020-03-04 17:26:00][upload_file][http://192.168.200.162/webs/updateCfg]Close Curl!
+[2020-03-04 17:26:00][get_update_progressbar] 13
+[2020-03-04 17:26:02][get_update_progressbar] 13
+[2020-03-04 17:26:04][get_update_progressbar] 15
+[2020-03-04 17:26:06][get_update_progressbar] 100
+[2020-03-04 17:26:06][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)
+[2020-03-04 17:27:27][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2020-03-04 17:27:27][start_upgrade_by_tgzs]The Version Is VA2.1.0929-20200304-HDXP2P-GEN
+[2020-03-04 17:27:27][start_upgrade_by_tgzs]sleep(30)
+[2020-03-04 17:27:57][start_upgrade_by_tgzs:79]NO.54--8.20-V-T21.base.HDXP2P.gen.zh.201908201.IPC.tgz
+[2020-03-04 17:27:57][upload_file][192.168.200.162]IS ON-LINE!
+[2020-03-04 17:27:57][upload_file][192.168.200.162]send file now
+[2020-03-04 17:27:57][upload_file][192.168.200.162]send file finished
+[2020-03-04 17:27:57][get_update_progressbar] 0
+[2020-03-04 17:27:59][get_update_progressbar] 0
+[2020-03-04 17:28:01][get_update_progressbar] 0
+[2020-03-04 17:28:03][get_update_progressbar] 3
+[2020-03-04 17:28:05][get_update_progressbar] 13
+[2020-03-04 17:28:07][get_update_progressbar] 13
+[2020-03-04 17:28:09][get_update_progressbar] 28
+[2020-03-04 17:28:11][get_update_progressbar] 100
+[2020-03-04 17:28:11][start_upgrade_by_tgzs]Upload Finshed,Sleep(80)

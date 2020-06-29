@@ -1,0 +1,8 @@
+[2019-08-26 16:50:52]|***********************START************************|
+[2019-08-26 16:50:52]SLEEPTIME IS 2000000
+[2019-08-26 16:50:52]SEND IP ADDRESS:192.168.233.116
+[2019-08-26 16:50:52]MODEL IS [w]
+[2019-08-26 16:50:52]|********************Testing Now!********************|
+[2019-08-26 16:50:52][send_curl]http://192.168.233.116/?jcpcmd=alarmtest%20-act%20set%20-alarmtype%203%20-filter%200
+[2019-08-26 16:50:54][send_curl]http://192.168.233.116/?jcpcmd=alarmtest%20-act%20set%20-alarmtype%203%20-filter%200
+[2019-08-26 16:50:56][send_curl]http://192.168.233.116/?jcpcmd=alarmtest%20-act%20set%20-alarmtype%203%20-filter%200

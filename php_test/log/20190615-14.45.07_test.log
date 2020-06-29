@@ -1,0 +1,12 @@
+[2019-06-15 14:45:07]|***********************START************************|
+[2019-06-15 14:45:07]SLEEPTIME IS 1000000
+[2019-06-15 14:45:07]SEND IP ADDRESS:192.168.120.185:554
+[2019-06-15 14:45:07]MODEL IS [p]
+[2019-06-15 14:45:07]|********************Testing Now!********************|
+[2019-06-15 14:45:10][send_curl]http://192.168.120.185:554/?jcpcmd=vicfg%20-act%20set%20-nightluma%2071%20-bright%2062%20-contrast%20107%20-saturation%20135%20-sharpness%2041%20-gain%2051%20-suppress%2068%20%20-lampfrequency%201%20-brightlevel%202
+[2019-06-15 14:45:11][send_curl]http://192.168.120.185:554/?jcpcmd=vicfg%20-act%20set%20-nightluma%2031%20-bright%20187%20-contrast%20189%20-saturation%2037%20-sharpness%20190%20-gain%20143%20-suppress%2095%20%20-lampfrequency%201%20-brightlevel%202
+[2019-06-15 14:45:12][send_curl]http://192.168.120.185:554/?jcpcmd=vicfg%20-act%20set%20-nightluma%2057%20-bright%20230%20-contrast%2037%20-saturation%2034%20-sharpness%2090%20-gain%20121%20-suppress%2068%20%20-lampfrequency%201%20-brightlevel%202
+[2019-06-15 14:45:13][send_curl]http://192.168.120.185:554/?jcpcmd=vicfg%20-act%20set%20-nightluma%2022%20-bright%20127%20-contrast%2099%20-saturation%2060%20-sharpness%20187%20-gain%20176%20-suppress%2062%20%20-lampfrequency%200%20-brightlevel%202
+[2019-06-15 14:45:14][send_curl]http://192.168.120.185:554/?jcpcmd=vicfg%20-act%20set%20-nightluma%202%20-bright%2070%20-contrast%2056%20-saturation%2053%20-sharpness%20163%20-gain%20246%20-suppress%2052%20%20-lampfrequency%200%20-brightlevel%202
+[2019-06-15 14:45:15][send_curl]http://192.168.120.185:554/?jcpcmd=vicfg%20-act%20set%20-nightluma%2071%20-bright%20250%20-contrast%2098%20-saturation%20202%20-sharpness%20209%20-gain%2011%20-suppress%2013%20%20-lampfrequency%201%20-brightlevel%202
+[2019-06-15 14:45:17][send_curl]http://192.168.120.185:554/?jcpcmd=vicfg%20-act%20set%20-nightluma%206%20-bright%2094%20-contrast%20162%20-saturation%20191%20-sharpness%205%20-gain%20172%20-suppress%2021%20%20-lampfrequency%201%20-brightlevel%202

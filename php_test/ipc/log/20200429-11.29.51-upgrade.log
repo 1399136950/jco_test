@@ -1,0 +1,29 @@
+[2020-04-29 11:29:51][get_upload_file]Upgrade Pack Is--4.16-VB-SSC335.starlight.HDXGPtP.gen.zh-cn.202004161.IPC2.H(F)39_H(F)29.tgz
+[2020-04-29 11:29:51][get_upload_file]Upgrade Pack Is--4.27-VB-SSC335.starlight.HDXGPtP.gen.zh-cn.202004271.IPC2.H(F)39_H(F)29.tgz
+[2020-04-29 11:29:51][before_execute_script]Execute Script After 10 seconds!
+[2020-04-29 11:29:51][before_execute_script]Sleep(10)
+[2020-04-29 11:30:01][before_execute_script]Start!
+[2020-04-29 11:30:01][start_upgrade_by_tgzs]Begin Collecting Test Data......
+[2020-04-29 11:30:01][new_before_upgrade_test]Upload File Now
+[2020-04-29 11:30:01][new_before_upgrade_test]NO.1,FILE IS 4.16-VB-SSC335.starlight.HDXGPtP.gen.zh-cn.202004161.IPC2.H(F)39_H(F)29.tgz
+[2020-04-29 11:30:01][upload_file][192.168.222.55]IS ON-LINE!
+[2020-04-29 11:30:01][upload_file][192.168.222.55]send file now
+[2020-04-29 11:30:01][upload_file][192.168.222.55]send file finished
+[2020-04-29 11:30:01][get_update_progressbar] 0
+[2020-04-29 11:30:03][get_update_progressbar] 0
+[2020-04-29 11:30:05][get_update_progressbar] 0
+[2020-04-29 11:30:07][get_update_progressbar] 3
+[2020-04-29 11:30:09][get_update_progressbar] 13
+[2020-04-29 11:30:11][get_update_progressbar] 13
+[2020-04-29 11:30:13][get_update_progressbar] 13
+[2020-04-29 11:30:15][get_update_progressbar] 28
+[2020-04-29 11:30:17][get_update_progressbar] 28
+[2020-04-29 11:30:19][get_update_progressbar] 28
+[2020-04-29 11:30:21][get_update_progressbar] 28
+[2020-04-29 11:30:23][get_update_progressbar] 28
+[2020-04-29 11:30:25][get_update_progressbar] 28
+[2020-04-29 11:30:27][get_update_progressbar] 28
+[2020-04-29 11:30:29][get_update_progressbar] 28
+[2020-04-29 11:30:31][get_update_progressbar] 28
+[2020-04-29 11:30:33][get_update_progressbar] 28
+[2020-04-29 11:30:35][get_update_progressbar] 28

@@ -1,0 +1,106 @@
+[2019-04-09 17:39:52][get_upload_file]Upgrade Pack Is--3.28-H36-SSC325.starlight.HDXGP2P.gen.zh.201903281.IPC2.H26_H28.tgz
+[2019-04-09 17:39:52][get_upload_file]Upgrade Pack Is--3.29-T-SSC325.starlight.HDXP2P.gen.zh.201903291.IPC2.H(F)36_H(F)38.tgz
+[2019-04-09 17:39:52][before_execute_script]Execute Script After 10 seconds!
+[2019-04-09 17:39:52][before_execute_script]Sleep(10)
+[2019-04-09 17:40:02][before_execute_script]Start!
+[2019-04-09 17:40:02][start_upgrade_by_tgzs]Begin Collecting Test Data......
+[2019-04-09 17:40:02][new_before_upgrade_test]Upload File Now
+[2019-04-09 17:40:02][new_before_upgrade_test]NO.1,FILE IS 3.28-H36-SSC325.starlight.HDXGP2P.gen.zh.201903281.IPC2.H26_H28.tgz
+[2019-04-09 17:40:02][upload_file][192.168.17.169]IS ON-LINE!
+[2019-04-09 17:40:02][upload_file][192.168.17.169]send file now
+[2019-04-09 17:40:02][upload_file][192.168.17.169]send file finished
+[2019-04-09 17:40:02][get_update_progressbar] 0
+[2019-04-09 17:40:04][get_update_progressbar] 3
+[2019-04-09 17:40:06][get_update_progressbar] 13
+[2019-04-09 17:40:08][get_update_progressbar] 28
+[2019-04-09 17:40:10][get_update_progressbar] 32
+[2019-04-09 17:40:12][get_update_progressbar] 100
+[2019-04-09 17:40:12][new_before_upgrade_test]Upload Finished,Sleep(80)
+[2019-04-09 17:41:34][new_before_upgrade_test]No Answer,Sleep(10)
+[2019-04-09 17:41:44][new_before_upgrade_test]Result Is TB1.20.1728-20190328-HDXGP2P-GEN
+[2019-04-09 17:41:44][new_before_upgrade_test]Get Test Data......It takes 102 secends
+[2019-04-09 17:41:44][new_before_upgrade_test]Sleep(30)
+[2019-04-09 17:42:14][new_before_upgrade_test]Upload File Now
+[2019-04-09 17:42:14][new_before_upgrade_test]NO.2,FILE IS 3.28-H36-SSC325.starlight.HDXGP2P.gen.zh.201903281.IPC2.H26_H28.tgz
+[2019-04-09 17:42:14][upload_file][192.168.17.169]IS ON-LINE!
+[2019-04-09 17:42:14][upload_file][192.168.17.169]send file now
+[2019-04-09 17:42:14][upload_file][192.168.17.169]send file finished
+[2019-04-09 17:42:14][get_update_progressbar] 0
+[2019-04-09 17:42:16][get_update_progressbar] 0
+[2019-04-09 17:42:18][get_update_progressbar] 0
+[2019-04-09 17:42:20][get_update_progressbar] 0
+[2019-04-09 17:42:22][get_update_progressbar] 0
+[2019-04-09 17:42:24][get_update_progressbar] 0
+[2019-04-09 17:42:26][get_update_progressbar] 0
+[2019-04-09 17:42:28][get_update_progressbar] 0
+[2019-04-09 17:42:30][get_update_progressbar] 0
+[2019-04-09 17:42:32][get_update_progressbar] 0
+[2019-04-09 17:42:34][get_update_progressbar] 0
+[2019-04-09 17:42:36][get_update_progressbar] 0
+[2019-04-09 17:42:38][get_update_progressbar] 0
+[2019-04-09 17:42:40][get_update_progressbar] 0
+[2019-04-09 17:42:42][get_update_progressbar] 0
+[2019-04-09 17:42:44][get_update_progressbar] 0
+[2019-04-09 17:42:46][get_update_progressbar] 0
+[2019-04-09 17:42:48][get_update_progressbar] 0
+[2019-04-09 17:42:50][get_update_progressbar] 0
+[2019-04-09 17:42:52][get_update_progressbar] 0
+[2019-04-09 17:42:54][get_update_progressbar] 0
+[2019-04-09 17:42:56][get_update_progressbar] 0
+[2019-04-09 17:42:58][get_update_progressbar] 0
+[2019-04-09 17:43:00][get_update_progressbar] 0
+[2019-04-09 17:43:02][get_update_progressbar] 0
+[2019-04-09 17:43:04][get_update_progressbar] 0
+[2019-04-09 17:43:06][get_update_progressbar] 0
+[2019-04-09 17:43:08][get_update_progressbar] 0
+[2019-04-09 17:43:10][get_update_progressbar] 0
+[2019-04-09 17:43:12][get_update_progressbar] 0
+[2019-04-09 17:43:14][get_update_progressbar] 0
+[2019-04-09 17:43:16][get_update_progressbar] 0
+[2019-04-09 17:43:18][get_update_progressbar] 0
+[2019-04-09 17:43:20][get_update_progressbar] 0
+[2019-04-09 17:43:22][get_update_progressbar] 0
+[2019-04-09 17:43:24][get_update_progressbar] 0
+[2019-04-09 17:43:26][get_update_progressbar] 0
+[2019-04-09 17:43:28][get_update_progressbar] 0
+[2019-04-09 17:43:30][get_update_progressbar] 0
+[2019-04-09 17:43:32][get_update_progressbar] 0
+[2019-04-09 17:43:34][get_update_progressbar] 0
+[2019-04-09 17:43:36][get_update_progressbar] 0
+[2019-04-09 17:43:38][get_update_progressbar] 0
+[2019-04-09 17:43:40][get_update_progressbar] 0
+[2019-04-09 17:43:42][get_update_progressbar] 0
+[2019-04-09 17:43:44][get_update_progressbar] 0
+[2019-04-09 17:43:46][get_update_progressbar] 0
+[2019-04-09 17:43:48][get_update_progressbar] 0
+[2019-04-09 17:43:50][get_update_progressbar] 0
+[2019-04-09 17:43:52][get_update_progressbar] 0
+[2019-04-09 17:43:54][get_update_progressbar] 0
+[2019-04-09 17:43:56][get_update_progressbar] 0
+[2019-04-09 17:43:58][get_update_progressbar] 0
+[2019-04-09 17:44:00][get_update_progressbar] 0
+[2019-04-09 17:44:02][get_update_progressbar] 0
+[2019-04-09 17:44:04][get_update_progressbar] 0
+[2019-04-09 17:44:06][get_update_progressbar] 0
+[2019-04-09 17:44:08][get_update_progressbar] 0
+[2019-04-09 17:44:10][get_update_progressbar] 0
+[2019-04-09 17:44:12][get_update_progressbar] 0
+[2019-04-09 17:44:14][get_update_progressbar] 0
+[2019-04-09 17:44:16][get_update_progressbar] 0
+[2019-04-09 17:44:18][get_update_progressbar] 0
+[2019-04-09 17:44:20][get_update_progressbar] 0
+[2019-04-09 17:44:22][get_update_progressbar] 0
+[2019-04-09 17:44:24][get_update_progressbar] 0
+[2019-04-09 17:44:26][get_update_progressbar] 0
+[2019-04-09 17:44:28][get_update_progressbar] 0
+[2019-04-09 17:44:30][get_update_progressbar] 0
+[2019-04-09 17:44:32][get_update_progressbar] 0
+[2019-04-09 17:44:34][get_update_progressbar] 0
+[2019-04-09 17:44:36][get_update_progressbar] 0
+[2019-04-09 17:44:38][get_update_progressbar] 0
+[2019-04-09 17:44:40][get_update_progressbar] 0
+[2019-04-09 17:44:42][get_update_progressbar] 0
+[2019-04-09 17:44:44][get_update_progressbar] 0
+[2019-04-09 17:44:46][get_update_progressbar] 0
+[2019-04-09 17:44:48][get_update_progressbar] 0
+[2019-04-09 17:44:56][new_before_upgrade_test]progressbar error

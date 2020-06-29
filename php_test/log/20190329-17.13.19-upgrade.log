@@ -1,0 +1,74 @@
+[2019-03-29 17:13:19][get_upload_file]Upgrade Pack Is--3.26-T-SSC325.starlight.HDXP2P.gen.zh.201903261.IPC2.H26_H28.tgz
+[2019-03-29 17:13:19][get_upload_file]Upgrade Pack Is--3.29-T-SSC325.starlight.HDXP2P.gen.zh.201903291.IPC2.H(F)36_H(F)38.tgz
+[2019-03-29 17:13:19][before_execute_script]Execute Script After 10 seconds!
+[2019-03-29 17:13:19][before_execute_script]Sleep(10)
+[2019-03-29 17:13:29][before_execute_script]Start!
+[2019-03-29 17:13:29][start_upgrade_by_tgzs]Begin Collecting Test Data......
+[2019-03-29 17:13:29][new_before_upgrade_test]Upload File Now
+[2019-03-29 17:13:29][new_before_upgrade_test]NO.1,FILE IS 3.26-T-SSC325.starlight.HDXP2P.gen.zh.201903261.IPC2.H26_H28.tgz
+[2019-03-29 17:13:29][upload_file][192.168.120.218]IS ON-LINE!
+[2019-03-29 17:13:29][upload_file][192.168.120.218]send file now
+[2019-03-29 17:13:29][upload_file][192.168.120.218]send file finished
+[2019-03-29 17:13:29][get_update_progressbar] 0
+[2019-03-29 17:13:31][get_update_progressbar] 3
+[2019-03-29 17:13:33][get_update_progressbar] 13
+[2019-03-29 17:13:35][get_update_progressbar] 13
+[2019-03-29 17:13:37][get_update_progressbar] 13
+[2019-03-29 17:13:39][get_update_progressbar] 13
+[2019-03-29 17:13:41][get_update_progressbar] 13
+[2019-03-29 17:13:43][get_update_progressbar] 13
+[2019-03-29 17:13:45][get_update_progressbar] 13
+[2019-03-29 17:13:47][get_update_progressbar] 13
+[2019-03-29 17:13:49][get_update_progressbar] 13
+[2019-03-29 17:13:51][get_update_progressbar] 13
+[2019-03-29 17:13:53][get_update_progressbar] 13
+[2019-03-29 17:13:55][get_update_progressbar] 13
+[2019-03-29 17:13:57][get_update_progressbar] 13
+[2019-03-29 17:13:59][get_update_progressbar] 13
+[2019-03-29 17:14:01][get_update_progressbar] 13
+[2019-03-29 17:14:03][get_update_progressbar] 13
+[2019-03-29 17:14:05][get_update_progressbar] 13
+[2019-03-29 17:14:07][get_update_progressbar] 13
+[2019-03-29 17:14:09][get_update_progressbar] 13
+[2019-03-29 17:14:11][get_update_progressbar] 13
+[2019-03-29 17:14:13][get_update_progressbar] 13
+[2019-03-29 17:14:15][get_update_progressbar] 13
+[2019-03-29 17:14:17][get_update_progressbar] 13
+[2019-03-29 17:14:19][get_update_progressbar] 13
+[2019-03-29 17:14:21][get_update_progressbar] 13
+[2019-03-29 17:14:23][get_update_progressbar] 13
+[2019-03-29 17:14:25][get_update_progressbar] 13
+[2019-03-29 17:14:27][get_update_progressbar] 13
+[2019-03-29 17:14:29][get_update_progressbar] 13
+[2019-03-29 17:14:31][get_update_progressbar] 13
+[2019-03-29 17:14:33][get_update_progressbar] 13
+[2019-03-29 17:14:35][get_update_progressbar] 13
+[2019-03-29 17:14:37][get_update_progressbar] 13
+[2019-03-29 17:14:39][get_update_progressbar] 13
+[2019-03-29 17:14:41][get_update_progressbar] 13
+[2019-03-29 17:14:44][get_update_progressbar] 13
+[2019-03-29 17:14:46][get_update_progressbar] 13
+[2019-03-29 17:14:48][get_update_progressbar] 13
+[2019-03-29 17:14:50][get_update_progressbar] 13
+[2019-03-29 17:14:52][get_update_progressbar] 13
+[2019-03-29 17:14:54][get_update_progressbar] 13
+[2019-03-29 17:14:56][get_update_progressbar] 13
+[2019-03-29 17:14:58][get_update_progressbar] 13
+[2019-03-29 17:15:00][get_update_progressbar] 13
+[2019-03-29 17:15:02][get_update_progressbar] 13
+[2019-03-29 17:15:04][get_update_progressbar] 13
+[2019-03-29 17:15:06][get_update_progressbar] 13
+[2019-03-29 17:15:08][get_update_progressbar] 13
+[2019-03-29 17:15:10][get_update_progressbar] 13
+[2019-03-29 17:15:12][get_update_progressbar] 13
+[2019-03-29 17:15:14][get_update_progressbar] 13
+[2019-03-29 17:15:16][get_update_progressbar] 13
+[2019-03-29 17:15:18][get_update_progressbar] 13
+[2019-03-29 17:15:20][get_update_progressbar] 13
+[2019-03-29 17:15:22][get_update_progressbar] 13
+[2019-03-29 17:15:24][get_update_progressbar] 13
+[2019-03-29 17:15:26][get_update_progressbar] 13
+[2019-03-29 17:15:28][get_update_progressbar] 13
+[2019-03-29 17:15:30][get_update_progressbar] 13
+[2019-03-29 17:15:32][get_update_progressbar] 13
+[2019-03-29 17:15:35][new_before_upgrade_test]progressbar error

@@ -1,0 +1,18 @@
+[2020-06-02 10:39:05]|***********************START************************|
+[2020-06-02 10:39:05]SLEEPTIME IS 500000
+[2020-06-02 10:39:05]SEND IP ADDRESS:192.168.150.249
+[2020-06-02 10:39:05]MODEL IS [ircut]
+[2020-06-02 10:39:05]|********************Testing Now!********************|
+[2020-06-02 10:39:05][send_curl]http://192.168.150.249/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2020-06-02 10:39:06][send_curl]http://192.168.150.249/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2020-06-02 10:39:06][send_curl]http://192.168.150.249/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2020-06-02 10:39:07][send_curl]http://192.168.150.249/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2020-06-02 10:39:07][send_curl]http://192.168.150.249/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2020-06-02 10:39:08][send_curl]http://192.168.150.249/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2020-06-02 10:39:08][send_curl]http://192.168.150.249/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2020-06-02 10:39:09][send_curl]http://192.168.150.249/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2020-06-02 10:39:09][send_curl]http://192.168.150.249/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2020-06-02 10:39:10][send_curl]http://192.168.150.249/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2020-06-02 10:39:11][send_curl]http://192.168.150.249/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201
+[2020-06-02 10:39:11][send_curl]http://192.168.150.249/?jcpcmd=ircfg%20-act%20set%20-ircutmode%200
+[2020-06-02 10:39:12][send_curl]http://192.168.150.249/?jcpcmd=ircfg%20-act%20set%20-ircutmode%201

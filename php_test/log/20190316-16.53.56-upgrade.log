@@ -1,0 +1,265 @@
+[2019-03-16 16:53:56][get_upload_file]Upgrade Pack Is--1.tgz
+[2019-03-16 16:53:56][get_upload_file]Upgrade Pack Is--3.12-VBA3-MSC313E.starlight.HDXGP2P.gen.zh.201903121.IPC2.tgz
+[2019-03-16 16:53:56][before_execute_script]Execute Script After 10 seconds!
+[2019-03-16 16:53:56][before_execute_script]Sleep(10)
+[2019-03-16 16:54:06][before_execute_script]Start!
+[2019-03-16 16:54:06][start_upgrade_by_tgzs]Begin Collecting Test Data......
+[2019-03-16 16:54:06][new_before_upgrade_test]Upload File Now
+[2019-03-16 16:54:06][new_before_upgrade_test]NO.1,FILE IS 1.tgz
+[2019-03-16 16:54:06][upload_file][192.168.120.134]IS ON-LINE!
+[2019-03-16 16:54:06][upload_file][192.168.120.134]send file now
+[2019-03-16 16:54:06][upload_file][192.168.120.134]send file finished
+[2019-03-16 16:54:06][get_update_progressbar] 0
+[2019-03-16 16:54:08][get_update_progressbar] 0
+[2019-03-16 16:54:10][get_update_progressbar] 3
+[2019-03-16 16:54:12][get_update_progressbar] 13
+[2019-03-16 16:54:14][get_update_progressbar] 13
+[2019-03-16 16:54:16][get_update_progressbar] 13
+[2019-03-16 16:54:18][get_update_progressbar] 28
+[2019-03-16 16:54:20][get_update_progressbar] 100
+[2019-03-16 16:54:20][new_before_upgrade_test]Upload Finished,Sleep(80)
+[2019-03-16 16:55:40][new_before_upgrade_test]Result Is VB3.26.2140-20190312-HDXGP2P-GEN
+[2019-03-16 16:55:40][new_before_upgrade_test]Get Test Data......It takes 95 secends
+[2019-03-16 16:55:40][new_before_upgrade_test]Sleep(30)
+[2019-03-16 16:56:10][new_before_upgrade_test]Upload File Now
+[2019-03-16 16:56:10][new_before_upgrade_test]NO.2,FILE IS 1.tgz
+[2019-03-16 16:56:10][upload_file][192.168.120.134]IS ON-LINE!
+[2019-03-16 16:56:10][upload_file][192.168.120.134]send file now
+[2019-03-16 16:56:10][upload_file][192.168.120.134]send file finished
+[2019-03-16 16:56:10][get_update_progressbar] 0
+[2019-03-16 16:56:12][get_update_progressbar] 0
+[2019-03-16 16:56:14][get_update_progressbar] 3
+[2019-03-16 16:56:16][get_update_progressbar] 13
+[2019-03-16 16:56:21][get_update_progressbar] 32
+[2019-03-16 16:56:23][get_update_progressbar] 100
+[2019-03-16 16:56:23][new_before_upgrade_test]Upload Finished,Sleep(80)
+[2019-03-16 16:57:43][new_before_upgrade_test]Result Is VB3.26.2140-20190312-HDXGP2P-GEN
+[2019-03-16 16:57:43][new_before_upgrade_test]Get Test Data......It takes 94 secends
+[2019-03-16 16:57:43][new_before_upgrade_test]Sleep(30)
+[2019-03-16 16:58:13][new_before_upgrade_test]Upload File Now
+[2019-03-16 16:58:13][new_before_upgrade_test]NO.1,FILE IS 3.12-VBA3-MSC313E.starlight.HDXGP2P.gen.zh.201903121.IPC2.tgz
+[2019-03-16 16:58:13][upload_file][192.168.120.134]IS ON-LINE!
+[2019-03-16 16:58:13][upload_file][192.168.120.134]send file now
+[2019-03-16 16:58:13][upload_file][192.168.120.134]send file finished
+[2019-03-16 16:58:13][get_update_progressbar] 0
+[2019-03-16 16:58:15][get_update_progressbar] 0
+[2019-03-16 16:58:17][get_update_progressbar] 3
+[2019-03-16 16:58:19][get_update_progressbar] 13
+[2019-03-16 16:58:21][get_update_progressbar] 13
+[2019-03-16 16:58:23][get_update_progressbar] 32
+[2019-03-16 16:58:25][get_update_progressbar] 100
+[2019-03-16 16:58:25][new_before_upgrade_test]Upload Finished,Sleep(80)
+[2019-03-16 16:59:45][new_before_upgrade_test]Result Is VB3.26.2140-20190312-HDXGP2P-GEN
+[2019-03-16 16:59:45][new_before_upgrade_test]Get Test Data......It takes 93 secends
+[2019-03-16 16:59:45][new_before_upgrade_test]Sleep(30)
+[2019-03-16 17:00:15][new_before_upgrade_test]Upload File Now
+[2019-03-16 17:00:15][new_before_upgrade_test]NO.2,FILE IS 3.12-VBA3-MSC313E.starlight.HDXGP2P.gen.zh.201903121.IPC2.tgz
+[2019-03-16 17:00:15][upload_file][192.168.120.134]IS ON-LINE!
+[2019-03-16 17:00:15][upload_file][192.168.120.134]send file now
+[2019-03-16 17:00:15][upload_file][192.168.120.134]send file finished
+[2019-03-16 17:00:15][get_update_progressbar] 0
+[2019-03-16 17:00:17][get_update_progressbar] 0
+[2019-03-16 17:00:19][get_update_progressbar] 3
+[2019-03-16 17:00:21][get_update_progressbar] 13
+[2019-03-16 17:00:23][get_update_progressbar] 13
+[2019-03-16 17:00:25][get_update_progressbar] 15
+[2019-03-16 17:00:27][get_update_progressbar] 100
+[2019-03-16 17:00:27][new_before_upgrade_test]Upload Finished,Sleep(80)
+[2019-03-16 17:01:47][new_before_upgrade_test]Result Is VB3.26.2140-20190312-HDXGP2P-GEN
+[2019-03-16 17:01:47][new_before_upgrade_test]Get Test Data......It takes 93 secends
+[2019-03-16 17:01:47][new_before_upgrade_test]Sleep(30)
+[2019-03-16 17:02:17][new_before_upgrade_test]Corresponding Software Version Is:
+[2019-03-16 17:02:17][new_before_upgrade_test]1.tgz--VB3.26.2140-20190312-HDXGP2P-GEN
+[2019-03-16 17:02:17][new_before_upgrade_test]3.12-VBA3-MSC313E.starlight.HDXGP2P.gen.zh.201903121.IPC2.tgz--VB3.26.2140-20190312-HDXGP2P-GEN
+[2019-03-16 17:02:17][start_upgrade_by_tgzs]Data Collection Complete!Start Upgrading Now!
+[2019-03-16 17:02:17][start_upgrade_by_tgzs:79]NO.1--1.tgz
+[2019-03-16 17:02:17][upload_file][192.168.120.134]IS ON-LINE!
+[2019-03-16 17:02:17][upload_file][192.168.120.134]send file now
+[2019-03-16 17:02:17][upload_file][192.168.120.134]send file finished
+[2019-03-16 17:02:17][start_upgrade_by_tgzs:81]Upload Finshed,Sleep(80)
+[2019-03-16 17:02:17][get_update_progressbar] 0
+[2019-03-16 17:02:19][get_update_progressbar] 0
+[2019-03-16 17:02:21][get_update_progressbar] 3
+[2019-03-16 17:02:23][get_update_progressbar] 13
+[2019-03-16 17:02:25][get_update_progressbar] 28
+[2019-03-16 17:02:27][get_update_progressbar] 32
+[2019-03-16 17:02:29][get_update_progressbar] 100
+[2019-03-16 17:03:49][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2019-03-16 17:03:49][start_upgrade_by_tgzs]The Version Is VB3.26.2140-20190312-HDXGP2P-GEN
+[2019-03-16 17:03:49][start_upgrade_by_tgzs]sleep(30)
+[2019-03-16 17:04:19][start_upgrade_by_tgzs:79]NO.2--3.12-VBA3-MSC313E.starlight.HDXGP2P.gen.zh.201903121.IPC2.tgz
+[2019-03-16 17:04:19][upload_file][192.168.120.134]IS ON-LINE!
+[2019-03-16 17:04:19][upload_file][192.168.120.134]send file now
+[2019-03-16 17:04:19][upload_file][192.168.120.134]send file finished
+[2019-03-16 17:04:19][start_upgrade_by_tgzs:81]Upload Finshed,Sleep(80)
+[2019-03-16 17:04:19][get_update_progressbar] 0
+[2019-03-16 17:04:21][get_update_progressbar] 0
+[2019-03-16 17:04:23][get_update_progressbar] 13
+[2019-03-16 17:04:25][get_update_progressbar] 13
+[2019-03-16 17:04:27][get_update_progressbar] 15
+[2019-03-16 17:04:29][get_update_progressbar] 100
+[2019-03-16 17:05:49][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2019-03-16 17:05:49][start_upgrade_by_tgzs]The Version Is VB3.26.2140-20190312-HDXGP2P-GEN
+[2019-03-16 17:05:49][start_upgrade_by_tgzs]sleep(30)
+[2019-03-16 17:06:19][start_upgrade_by_tgzs:79]NO.3--1.tgz
+[2019-03-16 17:06:19][upload_file][192.168.120.134]IS ON-LINE!
+[2019-03-16 17:06:19][upload_file][192.168.120.134]send file now
+[2019-03-16 17:06:19][upload_file][192.168.120.134]send file finished
+[2019-03-16 17:06:19][start_upgrade_by_tgzs:81]Upload Finshed,Sleep(80)
+[2019-03-16 17:06:19][get_update_progressbar] 0
+[2019-03-16 17:06:22][get_update_progressbar] 0
+[2019-03-16 17:06:24][get_update_progressbar] 3
+[2019-03-16 17:06:26][get_update_progressbar] 13
+[2019-03-16 17:06:28][get_update_progressbar] 13
+[2019-03-16 17:06:30][get_update_progressbar] 32
+[2019-03-16 17:06:32][get_update_progressbar] 100
+[2019-03-16 17:07:52][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2019-03-16 17:07:52][start_upgrade_by_tgzs]The Version Is VB3.26.2140-20190312-HDXGP2P-GEN
+[2019-03-16 17:07:52][start_upgrade_by_tgzs]sleep(30)
+[2019-03-16 17:08:22][start_upgrade_by_tgzs:79]NO.4--3.12-VBA3-MSC313E.starlight.HDXGP2P.gen.zh.201903121.IPC2.tgz
+[2019-03-16 17:08:22][upload_file][192.168.120.134]IS ON-LINE!
+[2019-03-16 17:08:22][upload_file][192.168.120.134]send file now
+[2019-03-16 17:08:22][upload_file][192.168.120.134]send file finished
+[2019-03-16 17:08:22][start_upgrade_by_tgzs:81]Upload Finshed,Sleep(80)
+[2019-03-16 17:08:22][get_update_progressbar] 0
+[2019-03-16 17:08:24][get_update_progressbar] 0
+[2019-03-16 17:08:26][get_update_progressbar] 3
+[2019-03-16 17:08:28][get_update_progressbar] 13
+[2019-03-16 17:08:30][get_update_progressbar] 13
+[2019-03-16 17:08:32][get_update_progressbar] 32
+[2019-03-16 17:08:34][get_update_progressbar] 100
+[2019-03-16 17:09:54][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2019-03-16 17:09:54][start_upgrade_by_tgzs]The Version Is VB3.26.2140-20190312-HDXGP2P-GEN
+[2019-03-16 17:09:54][start_upgrade_by_tgzs]sleep(30)
+[2019-03-16 17:10:24][start_upgrade_by_tgzs:79]NO.5--1.tgz
+[2019-03-16 17:10:24][upload_file][192.168.120.134]IS ON-LINE!
+[2019-03-16 17:10:24][upload_file][192.168.120.134]send file now
+[2019-03-16 17:10:24][upload_file][192.168.120.134]send file finished
+[2019-03-16 17:10:24][start_upgrade_by_tgzs:81]Upload Finshed,Sleep(80)
+[2019-03-16 17:10:24][get_update_progressbar] 0
+[2019-03-16 17:10:26][get_update_progressbar] 0
+[2019-03-16 17:10:28][get_update_progressbar] 3
+[2019-03-16 17:10:30][get_update_progressbar] 13
+[2019-03-16 17:10:32][get_update_progressbar] 13
+[2019-03-16 17:10:34][get_update_progressbar] 15
+[2019-03-16 17:10:36][get_update_progressbar] 100
+[2019-03-16 17:11:56][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2019-03-16 17:11:56][start_upgrade_by_tgzs]The Version Is VB3.26.2140-20190312-HDXGP2P-GEN
+[2019-03-16 17:11:56][start_upgrade_by_tgzs]sleep(30)
+[2019-03-16 17:12:26][start_upgrade_by_tgzs:79]NO.6--3.12-VBA3-MSC313E.starlight.HDXGP2P.gen.zh.201903121.IPC2.tgz
+[2019-03-16 17:12:26][upload_file][192.168.120.134]IS ON-LINE!
+[2019-03-16 17:12:26][upload_file][192.168.120.134]send file now
+[2019-03-16 17:12:26][upload_file][192.168.120.134]send file finished
+[2019-03-16 17:12:26][start_upgrade_by_tgzs:81]Upload Finshed,Sleep(80)
+[2019-03-16 17:12:26][get_update_progressbar] 0
+[2019-03-16 17:12:28][get_update_progressbar] 0
+[2019-03-16 17:12:30][get_update_progressbar] 3
+[2019-03-16 17:12:32][get_update_progressbar] 13
+[2019-03-16 17:12:34][get_update_progressbar] 13
+[2019-03-16 17:12:36][get_update_progressbar] 32
+[2019-03-16 17:12:38][get_update_progressbar] 100
+[2019-03-16 17:13:58][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2019-03-16 17:13:58][start_upgrade_by_tgzs]The Version Is VB3.26.2140-20190312-HDXGP2P-GEN
+[2019-03-16 17:13:58][start_upgrade_by_tgzs]sleep(30)
+[2019-03-16 17:14:28][start_upgrade_by_tgzs:79]NO.7--1.tgz
+[2019-03-16 17:14:28][upload_file][192.168.120.134]IS ON-LINE!
+[2019-03-16 17:14:28][upload_file][192.168.120.134]send file now
+[2019-03-16 17:14:28][upload_file][192.168.120.134]send file finished
+[2019-03-16 17:14:28][start_upgrade_by_tgzs:81]Upload Finshed,Sleep(80)
+[2019-03-16 17:14:28][get_update_progressbar] 0
+[2019-03-16 17:14:30][get_update_progressbar] 0
+[2019-03-16 17:14:32][get_update_progressbar] 3
+[2019-03-16 17:14:34][get_update_progressbar] 13
+[2019-03-16 17:14:36][get_update_progressbar] 13
+[2019-03-16 17:14:38][get_update_progressbar] 15
+[2019-03-16 17:14:40][get_update_progressbar] 28
+[2019-03-16 17:14:42][get_update_progressbar] 100
+[2019-03-16 17:16:02][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2019-03-16 17:16:02][start_upgrade_by_tgzs]The Version Is VB3.26.2140-20190312-HDXGP2P-GEN
+[2019-03-16 17:16:02][start_upgrade_by_tgzs]sleep(30)
+[2019-03-16 17:16:32][start_upgrade_by_tgzs:79]NO.8--3.12-VBA3-MSC313E.starlight.HDXGP2P.gen.zh.201903121.IPC2.tgz
+[2019-03-16 17:16:32][upload_file][192.168.120.134]IS ON-LINE!
+[2019-03-16 17:16:32][upload_file][192.168.120.134]send file now
+[2019-03-16 17:16:32][upload_file][192.168.120.134]send file finished
+[2019-03-16 17:16:32][start_upgrade_by_tgzs:81]Upload Finshed,Sleep(80)
+[2019-03-16 17:16:32][get_update_progressbar] 0
+[2019-03-16 17:16:34][get_update_progressbar] 0
+[2019-03-16 17:16:36][get_update_progressbar] 3
+[2019-03-16 17:16:38][get_update_progressbar] 13
+[2019-03-16 17:16:40][get_update_progressbar] 13
+[2019-03-16 17:16:42][get_update_progressbar] 28
+[2019-03-16 17:16:44][get_update_progressbar] 100
+[2019-03-16 17:18:04][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2019-03-16 17:18:04][start_upgrade_by_tgzs]The Version Is VB3.26.2140-20190312-HDXGP2P-GEN
+[2019-03-16 17:18:04][start_upgrade_by_tgzs]sleep(30)
+[2019-03-16 17:18:34][start_upgrade_by_tgzs:79]NO.9--1.tgz
+[2019-03-16 17:18:34][upload_file][192.168.120.134]IS ON-LINE!
+[2019-03-16 17:18:34][upload_file][192.168.120.134]send file now
+[2019-03-16 17:18:34][upload_file][192.168.120.134]send file finished
+[2019-03-16 17:18:34][start_upgrade_by_tgzs:81]Upload Finshed,Sleep(80)
+[2019-03-16 17:18:34][get_update_progressbar] 0
+[2019-03-16 17:18:36][get_update_progressbar] 0
+[2019-03-16 17:18:38][get_update_progressbar] 3
+[2019-03-16 17:18:40][get_update_progressbar] 13
+[2019-03-16 17:18:42][get_update_progressbar] 15
+[2019-03-16 17:18:44][get_update_progressbar] 100
+[2019-03-16 17:20:04][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2019-03-16 17:20:04][start_upgrade_by_tgzs]The Version Is VB3.26.2140-20190312-HDXGP2P-GEN
+[2019-03-16 17:20:04][start_upgrade_by_tgzs]sleep(30)
+[2019-03-16 17:20:34][start_upgrade_by_tgzs:79]NO.10--3.12-VBA3-MSC313E.starlight.HDXGP2P.gen.zh.201903121.IPC2.tgz
+[2019-03-16 17:20:34][upload_file][192.168.120.134]IS ON-LINE!
+[2019-03-16 17:20:34][upload_file][192.168.120.134]send file now
+[2019-03-16 17:20:34][upload_file][192.168.120.134]send file finished
+[2019-03-16 17:20:34][start_upgrade_by_tgzs:81]Upload Finshed,Sleep(80)
+[2019-03-16 17:20:34][get_update_progressbar] 0
+[2019-03-16 17:20:36][get_update_progressbar] 0
+[2019-03-16 17:20:38][get_update_progressbar] 3
+[2019-03-16 17:20:40][get_update_progressbar] 13
+[2019-03-16 17:20:42][get_update_progressbar] 13
+[2019-03-16 17:20:44][get_update_progressbar] 15
+[2019-03-16 17:20:46][get_update_progressbar] 100
+[2019-03-16 17:22:06][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2019-03-16 17:22:06][start_upgrade_by_tgzs]The Version Is VB3.26.2140-20190312-HDXGP2P-GEN
+[2019-03-16 17:22:06][start_upgrade_by_tgzs]sleep(30)
+[2019-03-16 17:22:36][start_upgrade_by_tgzs:79]NO.11--1.tgz
+[2019-03-16 17:22:36][upload_file][192.168.120.134]IS ON-LINE!
+[2019-03-16 17:22:36][upload_file][192.168.120.134]send file now
+[2019-03-16 17:22:36][upload_file][192.168.120.134]send file finished
+[2019-03-16 17:22:36][start_upgrade_by_tgzs:81]Upload Finshed,Sleep(80)
+[2019-03-16 17:22:36][get_update_progressbar] 0
+[2019-03-16 17:22:38][get_update_progressbar] 0
+[2019-03-16 17:22:40][get_update_progressbar] 3
+[2019-03-16 17:22:42][get_update_progressbar] 13
+[2019-03-16 17:22:44][get_update_progressbar] 13
+[2019-03-16 17:22:46][get_update_progressbar] 32
+[2019-03-16 17:22:48][get_update_progressbar] 100
+[2019-03-16 17:24:08][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2019-03-16 17:24:08][start_upgrade_by_tgzs]The Version Is VB3.26.2140-20190312-HDXGP2P-GEN
+[2019-03-16 17:24:08][start_upgrade_by_tgzs]sleep(30)
+[2019-03-16 17:24:38][start_upgrade_by_tgzs:79]NO.12--3.12-VBA3-MSC313E.starlight.HDXGP2P.gen.zh.201903121.IPC2.tgz
+[2019-03-16 17:24:38][upload_file][192.168.120.134]IS ON-LINE!
+[2019-03-16 17:24:38][upload_file][192.168.120.134]send file now
+[2019-03-16 17:24:38][upload_file][192.168.120.134]send file finished
+[2019-03-16 17:24:38][start_upgrade_by_tgzs:81]Upload Finshed,Sleep(80)
+[2019-03-16 17:24:38][get_update_progressbar] 0
+[2019-03-16 17:24:40][get_update_progressbar] 0
+[2019-03-16 17:24:42][get_update_progressbar] 3
+[2019-03-16 17:24:44][get_update_progressbar] 13
+[2019-03-16 17:24:46][get_update_progressbar] 13
+[2019-03-16 17:24:48][get_update_progressbar] 15
+[2019-03-16 17:24:50][get_update_progressbar] 100
+[2019-03-16 17:26:10][start_upgrade_by_tgzs]Upgrade Success!It Takes 80 Seconds!
+[2019-03-16 17:26:10][start_upgrade_by_tgzs]The Version Is VB3.26.2140-20190312-HDXGP2P-GEN
+[2019-03-16 17:26:10][start_upgrade_by_tgzs]sleep(30)
+[2019-03-16 17:26:40][start_upgrade_by_tgzs:79]NO.13--1.tgz
+[2019-03-16 17:26:40][upload_file][192.168.120.134]IS ON-LINE!
+[2019-03-16 17:26:40][upload_file][192.168.120.134]send file now
+[2019-03-16 17:26:41][upload_file][192.168.120.134]send file finished
+[2019-03-16 17:26:41][start_upgrade_by_tgzs:81]Upload Finshed,Sleep(80)
+[2019-03-16 17:26:41][get_update_progressbar] 0
+[2019-03-16 17:26:43][get_update_progressbar] 0
+[2019-03-16 17:26:45][get_update_progressbar] 3
+[2019-03-16 17:26:47][get_update_progressbar] 13
+[2019-03-16 17:26:49][get_update_progressbar] 13
+[2019-03-16 17:26:51][get_update_progressbar] 15
+[2019-03-16 17:26:53][get_update_progressbar] 100
