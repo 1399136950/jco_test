@@ -4,8 +4,8 @@ BLUE = '94m'
 GREEN = '92m'
 
 
-def color_print(msg, color=RED,**kw):
-    print('\033[0{}{}\033[0m'.format(color, msg),**kw)
+def color_print(msg, color=RED, **kw):
+    print('\033[0{}{}\033[0m'.format(color, msg), **kw)
 
 if __name__ == '__main__':
     color_print('hello world red', color=RED)
