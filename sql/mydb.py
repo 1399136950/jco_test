@@ -1,6 +1,11 @@
 import mysql.connector
 
 
+"""
+需要 pip install mysql-connector
+"""
+
+
 class MyDb():
 
     VERSION = '2019-10-31 14:44:03@xj'
