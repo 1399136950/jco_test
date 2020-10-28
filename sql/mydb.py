@@ -1,21 +1,16 @@
 import mysql.connector
 
 
-"""
-需要 pip install mysql-connector
-"""
-
-
 class MyDb():
 
-    VERSION = '2019-10-31 14:44:03@xj'
+    VERSION = '2020-10-28 10:31:03@xj'
 
-    def __init__(self, table_name):
-        if table_name == '':
+    def __init__(self, table, **kw):
+        if table == '':
             raise ValueError('table name is must')
         else:
-            self.conn     = mysql.connector.connect(host='192.168.0.178', user='root', password='root', database='test');
-            self.table    = table_name
+            self.conn     = mysql.connector.connect(**kw)
+            self.table    = table
             self.cursor   = self.conn.cursor()
             self.init_key()
             self.columns  = self.get_columns()
@@ -33,8 +28,12 @@ class MyDb():
         self.columns = []
         for info in res:
             self.columns.append(info[0])
-        return self.columns
+        return tuple(self.columns)
     
+    def get_result(self):
+        res = self.cursor.fetchall()
+        return res
+
     def add(self, data, check_filed=''):
         filed = []
         res = []
@@ -52,20 +51,20 @@ class MyDb():
                 res_str = '{}{}{}{}{}'.format(res_str, '"', res[i], '"', ',')
         if check_filed == '':
             try:
-                self.exec_sql( "INSERT INTO {} ({}) values ({})".format( self.table, filed_str, res_str ), True )
-            except:
-                print('err')
+                self.exec_sql( "INSERT INTO {} ({}) values ({})".format(self.table, filed_str, res_str), True)
+            except Exception as e:
+                print('err: ', e)
             else:
-                print("insert into {} ({}) values ({})".format(self.table,filed_str,res_str))
+                print("insert into {} ({}) values ({})".format(self.table, filed_str, res_str))
                 # self.conn.commit()
         else:   # 需要检查字段是否唯一
             filter = {}
             filter[check_filed] = data[check_filed]
             if not self.where(filter).select():
                 try:
-                    self.exec_sql("INSERT INTO {} ({}) values ({})".format(self.table,filed_str,res_str),True)
-                except:
-                    print('add err')
+                    self.exec_sql("INSERT INTO {} ({}) values ({})".format(self.table, filed_str, res_str), True)
+                except Exception as e:
+                    print('add err: ', e)
                 else:
                     print("insert success")
                     # self.conn.commit()
@@ -75,8 +74,8 @@ class MyDb():
     def exec_sql(self, sql, commit=False):
         try:
             self.cursor.execute(sql)
-        except:
-            return False
+        except Exception as e:
+            return e
         else:
             if commit:
                 self.conn.commit()
@@ -92,7 +91,7 @@ class MyDb():
                     columns = columns + ','
         else:
             raise Exception('key word is empty!')
-        sql = "SELECT {} FROM {}".format( columns, self.table ) + self.analyzeKeyWord()
+        sql = "SELECT {} FROM {}".format(columns, self.table) + self.analyzeKeyWord()
         if self.orderSql != '':
             sql = sql + self.orderSql
         if self.limitSql != '':
@@ -101,8 +100,18 @@ class MyDb():
         self.cursor.execute(sql)
         self.init_key()
         res = self.cursor.fetchall()
+        _columns = self.cursor.column_names
+        res_dict = []
+        for _tuple in res:
+            _info = {}
+            _index = 0
+            for _column in _columns:
+                _info[_column] = _tuple[_index]	
+                _index += 1
+            res_dict.append(_info)
         if len(res) > 0:
-            return res
+            # return res
+            return res_dict
         else:
             return False
 
@@ -172,26 +181,5 @@ class MyDb():
         return self
 
 
-class Image(MyDb):
-    def __init__(self):
-        super().__init__('think_image')
-
-
-class Title(MyDb):
-    def __init__(self):
-        super().__init__('think_title')
-
-
-class Work(MyDb):
-    def __init__(self):
-        super().__init__('think_work')
-
-
-class User(MyDb):
-    def __init__(self):
-        super().__init__('think_user')
-
-
-class Content(MyDb):
-    def __init__(self):
-        super().__init__('think_content')
+if __name__ == "__main__":
+	a = MyDb('think_title', host='192.168.4.119', user='root', password='', database='test')
